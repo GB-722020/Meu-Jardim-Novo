@@ -7,6 +7,6 @@
 # Teste Final
 DS739636
 
-[[nota\|teste]]
+[[teste\|teste]]
 
 u
