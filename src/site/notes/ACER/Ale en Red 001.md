@@ -1,11 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-001/","created":"2026-01-19T15:42:01.524-03:00","updated":"2026-01-19T15:43:19.526-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-001/","created":"2026-01-19T15:42:01.524-03:00","updated":"2026-01-19T15:48:15.675-03:00"}
 ---
 
  
-# ALEJANDRA EN RED - 30 de Mayo – ALEJANDRA CASADO Y LETICIA CANDELARIA
+# ALEJANDRA EN RED - 30 de Mayo de 2020 – ALEJANDRA CASADO Y LETICIA CANDELARIA
 
 https://www.youtube.com/watch?v=MIuVnesUkIQ
+
+Transcripción [[COLABORADORES/@AdrianaMdelVmercado\|@AdrianaMdelVmercado]] 
+
+
 
 Bienvenidos a la emisión número 2, de **ALEJANDRA CASADO EN RED**. Esto más que una entrevista, es  
 una charla o un diálogo, es un foro para que Alejandra pueda expresar, pueda comunicar a la humani-  
