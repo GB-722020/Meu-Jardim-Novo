@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/eje-ye/","created":"2026-01-20T11:35:47.803-03:00","updated":"2026-01-20T13:35:57.155-03:00"}
+{"dg-publish":true,"permalink":"/temas/eje-ye/","created":"2026-01-20T11:35:47.803-03:00","updated":"2026-01-20T18:47:05.419-03:00"}
 ---
 
 
@@ -12,3 +12,5 @@
 4. relación del eje Ye con el [[TEMAS/evento 60 tal que 1\|evento 60 tal que 1]]
 
 5. _Eje Ye_ es el que controla el [[TEMAS/tiempo real\|tiempo real]]  [[ACER/Ale en Red 123#^zw8wsk\|Ale en Red 123#^zw8wsk]]
+
+6. de [[creadores de contenido\|creadores de contenido]] a creadores de sentido, i griega a Ye [[ACER/Ale en Red 123#^q8xnl8\|Ale en Red 123#^q8xnl8]]

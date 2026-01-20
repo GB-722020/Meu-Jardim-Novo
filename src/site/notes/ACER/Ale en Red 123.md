@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-123/","created":"2026-01-20T11:20:42.935-03:00","updated":"2026-01-20T17:05:14.655-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-123/","created":"2026-01-20T11:20:42.935-03:00","updated":"2026-01-20T19:23:47.331-03:00"}
 ---
 
 ALEJANDRA CASADO EN RED 123- 16 DE OUTUBRO DE 2024 Vuelta 19 DIA 2-2024
@@ -320,7 +320,7 @@ Un CREADOR DE SENTIDO hace **lo inverso**.
 Al llegar, ocurre que S E es completamente caótico y desastroso y no puede apoyarse  
 allí, solamente le puede impregnar un sentido que trae de otra dimensión; y si no lo trae  
 de otra dimensión no tiene de donde traerlo, porque acá los que suenan, son estereoti-  
-pos. Entonces, las conciencias que han mantenido este [[contenedor\|contenedor]], cargan al contene-  
+pos. Entonces, las conciencias que han mantenido este [[TEMAS/contenedor\|contenedor]], cargan al contene-  
 dor... y después es el eco que éste produce en nosotros y empezamos a crear rutas que  
 son “rutas de relleno” para que exista una comunidad que va más o menos pareja.  
 Pero esto es creado artificialmente -no por nuestras propias construcciones inter dimensionales- sino por heredar ruteos que están grabados en Matrix, y nosotros pegamos  onda, como diciendo _“¡Ah, mira! ¡mi sentido interno coincide – con lo que me han dado  
@@ -457,67 +457,33 @@ Ahora, pasar de experimento a apropiarse de la experiencia, es la oportunidad qu
 
 - 138 es el código complementario de 972 y estamos poniendo una actualización 9  
     x 4  
-    Entonces ¿qué está sucediendo ahí? es super claro, pero bueno, esto lo puedo leer así,  
-    con estos niveles de precisión ¿cuántos años arriba del 2015?
+    Entonces ¿qué está sucediendo ahí? es super claro, pero bueno, esto lo puedo leer así, con estos niveles de precisión ¿cuántos años arriba del 2015?
 - Del 2015 al 2024, son 9 años de diferencia. 9 años me tardo para poder leer eso  
     que ya hice, porque en ese momento no sabía leer con todo este nivel de precisión
 - pero sí la ejecución era precisa-.  
-    Esto es lo que quiero decir cuando digo **interdimensional** , que no importa en cualquier  
-    momento el tiempo que se vea, va a seguir siendo hiperconvergente. Porque está com-  
-    prometida la conciencia de escala subatómica y como la conciencia escala subatómica  
-    no es una conciencia que tenga que ver con la experiencia, sino con los entornos, que  
-    permiten experimentar una experiencia. De ahí viene la neutralidad.  
-    Entonces, si alguien no puede adentro de su red neurológica poder tener un tramo re-  
-    servado para la vía neutra, no va a poder tomar las riendas para impactar al código solar;  
-    y si no impactamos al código solar, el que va a sufrir las consecuencias es todo nuestro  
-    código social, porque va a ir por rutas ¡nada que ver con lo elegante! sino que va a tener  
-    que ver con unas cadenas de reactivos.  
-    Entonces, en el momento en el cual nosotros empezamos a crear sentido, se abre la  
-    línea de crédito; porque siempre que se abre un sentido nuevo, todavía no existe el có-  
-    digo para implementarlo; entonces ahí se abre una apertura del crédito para crear el  
-    código para implementar ese nuevo sentido.  
-    Por eso ¡mucho cuidado! Que, desde una conciencia que está atada a la experiencia  
-    como en la del solariano - el **solariano** tiene una fecha nativa-, el **solar** no tiene una fecha  
-    nativa, entonces todas las cosas que son restricciones del Solariano, tenemos que em-  
-    pezar a poder soportar su lectura.  
-    ¡Soportar su lectura, pero no sus apetitos! porque tiene que ver con la experiencia, y  
-    _conciencia solar_ no tiene que ver con la experiencia en sí misma, sino con crear los  
-    entornos para las experiencias, porque su trabajo es atender a lo que se llama en noso-  
-    tros “el **procesador** ”.  
-    Ese **procesador de Señales** no es el que valoriza las experiencias -eso es otra escala-  
-    ¡por favor! No es que yo esté diciendo que esta escala no sirve y no es útil, y no es  
-    importante ¡Claro que es importante! El **contenido** es el bebé mimado del espacio  
-    tiempo, y claro que es importante, pero también tiene todas las licencias de ignorancia  
-    habidas y por haber  
+    Esto es lo que quiero decir cuando digo **interdimensional** , que no importa en cualquier momento el tiempo que se vea, va a seguir siendo hiperconvergente. Porque está comprometida la conciencia de escala subatómica y como la conciencia escala subatómica no es una conciencia que tenga que ver con la experiencia, sino con los entornos, que permiten experimentar una experiencia. De ahí viene la neutralidad.  
+    Entonces, si alguien no puede adentro de su red neurológica poder tener un tramo reservado para la vía neutra, no va a poder tomar las riendas para impactar al código solar; y si no impactamos al código solar, el que va a sufrir las consecuencias es todo nuestro [[TEMAS/código social\|código social]], porque va a ir por rutas ¡nada que ver con lo elegante! sino que va a tener que ver con unas cadenas de [[TEMAS/reactivos\|reactivos]].  
+    Entonces, en el momento en el cual nosotros empezamos a crear sentido, se abre la línea de crédito; porque siempre que se abre un sentido nuevo, todavía no existe el código para implementarlo; entonces ahí se abre una apertura del crédito para crear el código para implementar ese nuevo sentido.  
+    Por eso ¡mucho cuidado! Que, desde una conciencia que está atada a la experiencia como en la del [[TEMAS/solariano\|solariano]] - el **solariano** tiene una fecha nativa-, el **solar** no tiene una fecha nativa, entonces todas las cosas que son restricciones del Solariano, tenemos que empezar a poder soportar su lectura.  
+    ¡Soportar su lectura, pero no sus apetitos! porque tiene que ver con la experiencia, y _conciencia solar_ no tiene que ver con la experiencia en sí misma, sino con crear los entornos para las experiencias, porque su trabajo es atender a lo que se llama en nosotros “el **procesador** ”.  
+    Ese **procesador de Señales** no es el que valoriza las experiencias -eso es otra escala ¡por favor! No es que yo esté diciendo que esta escala no sirve y no es útil, y no es importante ¡Claro que es importante! El **[[TEMAS/contenido\|contenido]]** es el bebé mimado del espacio tiempo, y claro que es importante, pero también tiene todas las licencias de ignorancia habidas y por haber  
     **¿Por qué?** Porque la codificación para mantenerlo, tiene todo que ver con otras escalas.  
-    Entonces cuando vamos a tomar a todas las escalas juntas, porque se está transparen-  
-    tando la Matrix y porque los creadores de contenido están de salida, este ruteo interme-  
-    dio donde están de salida -y pueden estar de entrada también- porque podemos crear  
-    un nuevo sentido.  
-    Al crear un nuevo sentido a lo mismo que ya ocurrió, se abre la línea de crédito, pero  
-    tiene que pasar esto, porque va a venir la señal del reactivo si yo no tengo escalas que  
-    me tomen la señal antes de que mi reactivo la tome. Le estoy dando un tratamiento  
-    conjunto a Vueltas 19 , 20 , 21 y 22 -te habrás dado cuenta-
+    Entonces cuando vamos a tomar a todas las escalas juntas, porque se está transparentando la Matrix y porque los creadores de contenido están de salida, este ruteo intermedio donde están de salida -y pueden estar de entrada también- porque podemos crear un nuevo sentido.  
+    Al crear un nuevo sentido a lo mismo que ya ocurrió, se abre la línea de crédito, pero tiene que pasar esto, porque va a venir la señal del reactivo si yo no tengo escalas que me tomen la señal antes de que mi reactivo la tome. Le estoy dando un tratamiento conjunto a Vueltas 19 , 20 , 21 y 22 -te habrás dado cuenta-
+{ #xfewdl}
+
 
 **_LETICIA_** _: y 18_
 
-**ALEJANDRA** : Porque justamente  
-tiene mucho que ver, o sea, creo  
-que el 14/ 12 , es Vuelta 22 , día 13  
-en un año Bisiesto, y es justamente  
-la “Lógica” del “contexto” que per-  
-mite la ecualización  
-Y además, la **anulación anual** es  
-332 → [349-17= 332 ] ¿Qué dije  
-siempre de 332? **frecuencia de  
-obturación.** Bueno, ahora lo veo  
-en este contexto y lógicamente,  
-aprendo.  
-Y como si todo lo que dije fuera poco, Alejandra casado tiene **20097** días de vida.  
+**ALEJANDRA** : Porque justamente tiene mucho que ver, o sea, creo que el 14/ 12 , es Vuelta 22 , día 13  en un año Bisiesto, y es justamente la “Lógica” del “contexto” que permite la [[TEMAS/ecualización\|ecualización]]  
+Y además, la **anulación anual** es 332 → [349-17= 332 ] ¿Qué dije siempre de 332? **frecuencia de obturación.** Bueno, ahora lo veo en este contexto y lógicamente, aprendo.  
+Y como si todo lo que dije fuera poco, [[ANTENAS/Alejandra Casado\|Alejandra Casado]] tiene **20097** días de vida.  
 Están presentes el 9, el 7 y el 2, pero reorganizados en función de la actualización de lo  
 que hay a la interna de 27.  
 27 , sería el” circuito de valor”, y la actualización [9] viene por dentro del circuito de valor.  
 No sé cómo se recibe esto, del otro lado.
+{ #ls9nsn}
+
 
 **_LETICIA_** _: Bien... aclara todo_
 
@@ -527,45 +493,33 @@ estallar la cabeza.
 
 **_LETICIA_** _: Al que no le pica, ya apagó la emisión_
 
-**ALEJANDRA** : ¡Y está bien! La evolución, cuando es particular y está planteada fuera de  
-la Matrix, uno no se la puede cobrar al vecino; uno tiene que hacerse cargo de su evolu-  
-ción particular y ver cómo se explica las cosas a sí mismo y luego, cómo se las explica  
-a otro, según el alcance del otro, según el entorno del otro. Eso es “ecualizar” - cualidad  
-propia de la Vuelta 22 -.  
+**ALEJANDRA** : ¡Y está bien! La evolución, cuando es particular y está planteada fuera de  la Matrix, uno no se la puede cobrar al vecino; uno tiene que hacerse cargo de su [[TEMAS/evolución particular\|evolución particular]] y ver cómo se explica las cosas a sí mismo y luego, cómo se las explica a otro, según el alcance del otro, según el entorno del otro. Eso es “ecualizar” - cualidad propia de la Vuelta 22 -.  
 Nativos de Vuelta 22 , díganme si no ecualizan todo el día... Bueno, es la tarea. Pero,  
 como conciencia solar, todas las posiciones son la tarea.
+{ #dm8yvc}
+
 
 ¿Agrego un dato técnico más? Es un dato que convalida todo lo que dije antes, pero de  
 manera muy técnica ¡Encima no lo hice yo! Lo hizo una persona del 70/11 y cuando yo  
-lo leo entro en shock ¡me encanta que pase eso! porque claro yo estoy atendiendo otras  
-tareas que ya les voy a contar, pero me encanta que suceda eso porque lo que hicieron  
-fue ver la publicación de la RAE y vincularon dos puntos estratégicos, que es **15 de  
-octubre de 1582** y **15 de octubre del 2024**.  
+lo leo entro en shock ¡me encanta que pase eso! porque claro yo estoy atendiendo otras tareas que ya les voy a contar, pero me encanta que suceda eso porque lo que hicieron fue ver la publicación de la RAE y vincularon dos puntos estratégicos, que es **15 de  octubre de 1582** [[FECHA/1582-10-15\|1582-10-15]] y **15 de octubre del 2024**.  
 Y lo más interesante, es que desde el 15 / 10 /1582 al 15 / 10 / 20 24, es **1641382** ¡por favor!  
 Vean,
+{ #p70svl}
+
 
 - desde derecha **831** , que es la misma la frecuencia, pero invertida de **138.**
 - Y desde izquierda, 1641.
-- Y sigue, desde derecha, 1461. **1461** es el valor del Aparato, o sea se está conva-  
-    lidando el valor del Aparato.
+- Y sigue, desde derecha, 1461. **1461** es el valor del Aparato, o sea se está convalidando el valor del Aparato.
 
 (^2) El valor que yo saco es 16 **14** 38 - en lugar de 16 **41** 38 -
 
 Esto es lo que a mí me sorprende, que la RAE esté emitiendo algo en el mismo sentido  
-y dirección que lo está haciendo Ale con la LGC, porque es el mismo sentido de dirección  
-Ye - no i griega-; porque si no formamos al eje Ye, nos vamos por el caño de la i griega.
-
-La i griega estuvo muy bien en su oportunidad, porque obviamente los _creadores de  
-contenid_ o necesitan inspiración, entonces los dioses del Olimpo... ya está, hacen un  
-montón de cosas y te hacen de inspiración para el **contenedor.** Entonces, toda la docu-  
-mentación gravitatoria toma una base. Pero eso sirve para los _creadores de contenido_ ,  
-no para los _creadores de sentido_ ¡y mucho menos para hacer mejoras al código solar!  
+y dirección que lo está haciendo Ale con la LGC, porque es el mismo sentido de dirección Ye - no i griega-; porque si no formamos al eje Ye, nos vamos por el caño de la i griega. La i griega estuvo muy bien en su oportunidad, porque obviamente los _creadores de  contenido necesitan inspiración, entonces los dioses del Olimpo... ya está, hacen un  montón de cosas y te hacen de inspiración para el **[[TEMAS/contenedor\|contenedor]].** Entonces, toda la documentación gravitatoria toma una base. Pero eso sirve para los _creadores de contenido_ ,  no para los _creadores de sentido_ ¡y mucho menos para hacer mejoras al código solar!  
 En todo caso, eso atendió al pasado y nosotros vamos a estar limpitos, observando el  
-pasado atendido por aquello. Pero no nosotros ahora ruteando eso, porque la conforma-  
-ción de nuestro Eje Ye tiene que ser muy Clean, muy transparente.  
-Las horquillas que vamos a tener de un _Eje Ye_ invertido -en la escala **subatómica** - tienen  
-que estar muy claras, para que el _Eje Ye_ en la escala **anatómica** lo tome, y tome la señal  
-limpia ahí arriba.
+pasado atendido por aquello. Pero no nosotros ahora ruteando eso, porque la conformación de nuestro Eje Ye tiene que ser muy Clean, muy transparente.  
+Las horquillas que vamos a tener de un _Eje Ye_ invertido -en la escala **subatómica** - tienen que estar muy claras, para que el _Eje Ye_ en la escala **anatómica** lo tome, y tome la señal limpia ahí arriba.
+{ #q8xnl8}
+
 
 **_LETICIA_** _: Ahorita que mencionabas en esta lectura de la fecha, que veías el 831 461,  
 ese 138, no sé si te fijaste, está hoy en el día de la frecuencia del Aparato hoy: es_ **_1385 ,_**  
@@ -574,29 +528,18 @@ _O sea, la administración de ese 138._
 **ALEJANDRA** : Sí. bueno, ayer fue 1384 y los últimos 3 días 1 3 8.
 
 **LETICIA** : Bueno, las sincronías... lo veía porque en nuestros días de vida hoy, está el  
-138 también: Es 41381 -que ayer no estaban- Aunque si estaban en el Aparato, no esta-  
-ban en los días de vida.
+138 también: Es 41381 -que ayer no estaban- Aunque si estaban en el Aparato, no estaban en los días de vida.
 
 **ALEJANDRA** : Bueno, sí, “sincronías” para la gente que está mirando, solamente la sin-  
 cronía. “Codificación”, para aquel que jala el sentido del _código solar_. Coexiste, es una  
 cosa y es la otra también.
 
-Bueno, **con respecto al encuentro del año próximo** , me estoy tomando una tarea real-  
-mente súper importante, porque es tener toda la información de todos los eventos pre-  
-senciales para que cuando llegue una solicitud, poder verificar su participación. Enton-  
-ces, obviamente me estoy tardando mucho, pero lo estoy haciendo.  
-Va a haber una dosis de equilibrio entre personas que van al encuentro y también perte-  
-necen al 70/11 y personas que van al encuentro y no están en el 70 /11. Va a haber un  
-equilibrio porque justamente lo que quiero, es que se puedan encontrar y si llenamos esa  
-fecha, abrimos otra fecha.  
+Bueno, **con respecto al encuentro del año próximo** , me estoy tomando una tarea realmente súper importante, porque es tener toda la información de todos los eventos presenciales para que cuando llegue una solicitud, poder verificar su participación. Entonces, obviamente me estoy tardando mucho, pero lo estoy haciendo.  
+Va a haber una dosis de equilibrio entre personas que van al encuentro y también pertenecen al 70/11 y personas que van al encuentro y no están en el 70 /11. Va a haber un equilibrio porque justamente lo que quiero, es que se puedan encontrar y si llenamos esa fecha, abrimos otra fecha.  
 Yo estoy yendo por orden de las personas que me hicieron la solicitud, si no ¿qué otro  
-criterio voy a usar? O sea, el orden, después tiene que ver con que, si aplica o no aplica,  
-porque vamos a trabajar justamente en formar la conciencia del rol de haber participado  
-en aquel momento. Por eso no tiene caso, esto no es un evento para ir para adelante,  
-sino que es un encuentro para ir para atrás; para crear sentido a lo que ya hemos hecho.  
+criterio voy a usar? O sea, el orden, después tiene que ver con que, si aplica o no aplica, porque vamos a trabajar justamente en formar la conciencia del rol de haber participado en aquel momento. Por eso no tiene caso, esto no es un evento para ir para adelante, sino que es un encuentro para ir para atrás; para crear sentido a lo que ya hemos hecho.  
 Porque evidentemente que ir a contrapelo de toda una sociedad, para poder forjar algo  
-completamente loco -a la perspectiva social- eso tiene explicaciones interdimensionales,  
-y son las pertenencias de cada uno.
+completamente loco -a la perspectiva social- eso tiene explicaciones interdimensionales, y son las pertenencias de cada uno.
 
 Entonces, por esa razón es que va a ser otra Alejandra claramente, porque hay mucho  
 trabajo personal de mi parte con cada asistente, entonces, obviamente pido disculpas,  
@@ -610,22 +553,17 @@ pero de esto se trata esa tardanza. Sencillamente eso quería dejar expresado,
 cuentro-._
 
 **ALEJANDRA** : Exactamente, eso es un poco lo que lo que quería comunicar, que ya  
-tengo incluso toda la documentación. Entonces, ahora estoy creando los procedimientos  
-porque son complejos y después los voy a transferir a mis hijas, que me van a estar  
-ayudando; pero voy a transferir cuando ya lo tenga desglosado, cuando ya sepa exacta-  
-mente cómo darle tratamiento a cada cosa.
+tengo incluso toda la documentación. Entonces, ahora estoy creando los procedimientos porque son complejos y después los voy a transferir a mis hijas, que me van a estar ayudando; pero voy a transferir cuando ya lo tenga desglosado, cuando ya sepa exactamente cómo darle tratamiento a cada cosa.
 
 **_LETICIA_** _: Bueno, no sé si quieras mencionar algo, abrir un poquito -ya va implícito en  
-todo lo que nos has dicho hoy- pero tomando en cuenta que hoy estamos en el 2° día de  
-esa “Fila -1” -antimateria-.  
-En relación a la antimateria, ¿puedes decir un poquito en relación a eso? había algunas  
+todo lo que nos has dicho hoy- pero tomando en cuenta que hoy estamos en el 2° día de esa “Fila -1” -antimateria-.  
+En relación a la [[TEMAS/antimateria\|antimateria]], ¿puedes decir un poquito en relación a eso? había algunas  
 preguntas relacionadas a lo subatómico, por ejemplo  
-¿Cómo sería nuestro observador definido a escala subatómica -fuera de la caja-?  
+¿Cómo sería nuestro observador definido a [[TEMAS/escala subatómica\|escala subatómica]] -fuera de la caja-?  
 ¿Cómo nos hacemos cargo de la escala subatómica?  
 ¿Qué sería “otras conciencias de escala subatómica”?  
 ¿Qué es la escala subatómica?  
-Entonces, yo me imagino que estas preguntas estarán relacionadas por lo de las colum-  
-nas antimateria -o capaz que no-_
+Entonces, yo me imagino que estas preguntas estarán relacionadas por lo de las columnas antimateria -o capaz que no-_
 
 **ALEJANDRA** : Claramente, esto ya está en ejecución porque todo el universo material  
 depende de lo inmaterial -y esto no es misticismo- esto es ciencia interdimensional.  
@@ -637,49 +575,44 @@ esto mejor?
 Se crean dimensiones, y cuando se habitan esas nuevas dimensiones, todo se reinicia  
 como **entendimiento** , porque esa nueva dimensión va a tener un rol diferente de las  
 anteriores, pero para que pueda realmente hacer esa tarea, tiene que estar completa-  
-mente desconectado, porque tiene que aprender todo, explicar todo y razonar todo desde  
-esa nueva escala. A esto, yo le llamo **CRÉDITO en el RO**. Ahora, el crédito en el RO no  
-está más.  
-Ahora es **CRÉDITO en el RI,** que es volver a darnos cuenta de lo que ya hicimos, porque  
-si no nos damos cuenta de lo que ya hicimos, es un contrasentido, porque empieza a  
+mente desconectado, porque tiene que aprender todo, explicar todo y razonar todo desde esa nueva escala. A esto, yo le llamo **CRÉDITO en el RO**. Ahora, el crédito en el RO no está más.  
+Ahora es **CRÉDITO en el RI,** que es volver a darnos cuenta de lo que ya hicimos, porque si no nos damos cuenta de lo que ya hicimos, es un contrasentido, porque empieza a  
 girar en falso y evidentemente eso es destrucción.  
 Ahora, respecto de la _identidad atómica,_ es una destrucción, pero en realidad, es un  
 retorno a aquel nivel que tiene auténticamente la conciencia del Punto de partida.
+{ #whu3zl}
+
 
 Lo que pasa, es que hay muchas dimensiones intermedias entre la escala subatómica y  
 esta escala anatómica ¡Hay muchísimas cosas! por eso la única herramienta es el **razo-  
-namiento** ¡No hay otra herramienta! El razonamiento es la única que hay.
+namiento** ¡No hay otra herramienta! El [[TEMAS/razonamiento\|razonamiento]] es la única que hay.
 
 - El **RAZONAMIENTO** va producir el concepto;
+{ #11vau7}
+
 - el concepto va a empezar a jalar la señal
 - y la señal jala entendimiento
 - y el entendimiento trae una experiencia que se puede **comprender**. Ahí estamos  
     en nivel más bajo - **comprensión** -.
+{ #wzee1e}
 
-Pero si la comprensión no tiene la antesala que yo vengo nombrando, está cargado todo  
-en el estereotipo y te da la percepción de una comprensión, pero no es de escala parti-  
-cular, sino que es de escala personal, y tiene que ver con la experiencia.  
+
+Pero si la comprensión no tiene la antesala que yo vengo nombrando, está cargado todo en el estereotipo y te da la percepción de una comprensión, pero no es de escala particular, sino que es de escala personal, y tiene que ver con la experiencia.  
 Habría otras escalas que no necesariamente aplican a la experiencia, sino que aplican a  
-los entornos que se utilizan para crear experiencia, y después para habitarlas, y después  
-para leer las comunidades de memorias.  
+los entornos que se utilizan para crear experiencia, y después para habitarlas, y después para leer las comunidades de memorias.  
 Entonces, en principio, si me están escuchando y no me mandaron “allá”... de una pa-  
 tada... ¡significa que está muy activa la escala subatómica!  
 Pero lógicamente, hay una brecha enorme entre la subatómica y la anatómica, y eso es  
-lo que le vamos dando cobertura. Pero, ojo ¡yo también! A mí, cuando ayer me vino este  
-este impacto fue fuerte ¡muy fuerte! Porque yo sé el significado desde el 15/ 10 / 1582 ,
-
-Porque **1582** es un bloque de código que tiene el parámetro 58 adentro de la Base 12 y
-
-Entonces, yo estoy ejecutando esa función, estoy andando la base 1 2 y 21 para que la  
+lo que le vamos dando cobertura. Pero, ojo ¡yo también! A mí, cuando ayer me vino este  este impacto fue fuerte ¡muy fuerte! Porque yo sé el significado desde el 15/ 10 / 1582 ,
+Porque **1582** es un bloque de código que tiene el parámetro 58 adentro de la Base 12 y entonces, yo estoy ejecutando esa función, estoy andando la base 1 2 y 21 para que la  
 mente tenga actualizaciones. La mente luego se traduce a materia y entonces como  
 materia, acá empiezo a tener el impacto que provoca el sabor de la experiencia.  
 Entonces ¿qué pasa? que cuando me vienen estas cuestiones, es una catarata y esa  
-catarata me convulsiona todo el eje. Y hasta que no se ecualiza en las distintas escalas,  
-no estoy biodisponible claro. Pero no se debe a ninguna enfermedad, ni a ninguna nada.  
+catarata me convulsiona todo el eje. Y hasta que no se ecualiza en las distintas escalas, no estoy biodisponible claro. Pero no se debe a ninguna enfermedad, ni a ninguna nada.  
 Son impactos, de cosas que de pronto tramitaba desde afuera de este entorno y ahora  
-las tramito desde adentro de este entorno, entonces aparece repentinamente una lucidez  
-que siempre estuvo ahí, solamente que estaba activa en otra dimensión y ahora está  
-activa también en este plano.
+las tramito desde adentro de este entorno, entonces aparece repentinamente una lucidez que siempre estuvo ahí, solamente que estaba activa en otra dimensión y ahora está  activa también en este plano.
+{ #wm44pg}
+
 
 - Cada vez que la membrana se cruza, el objeto biológico va a tener un Impacto
 - y ese impacto va a terminar brindándole un nuevo alcance,
@@ -689,13 +622,12 @@ activa también en este plano.
     como “la ruta analógica”- es exactamente lo que no existe; es producto de una  
     codificación. Por eso, es que puede ser alterada.
 - Si nosotros estamos habitando la escala de la experiencia y todo lo otro está  
-    ciego, o puede ser que mi propio Eje RI lo controle así, o que pueda ser que esté  
+    ciego, o puede ser que mi propio [[TEMAS/eje RI\|eje RI]] lo controle así, o que pueda ser que esté  
     controlado por otras variables -que no es mi propio Eje RI-, sino que provocan un  
     desequilibrio continuo a mi Eje RI. Porque si las cosas están llevadas por el propio
 
 ```
-Eje RI, el crecimiento siempre es escalar, siempre es escalar, siempre es esca-
-lar...
+Eje RI, el crecimiento siempre es escalar, siempre es escalar, siempre es escalar...
 ```
 
 - Me van a ver este año... ¡y el año que viene, y hay un crecimiento exponencial!  
@@ -705,9 +637,10 @@ lar...
     que yo valgo, o que yo soy, o que yo hago, o que yo no sé qué... o que yo, no sé  
     cuánto. Esto, va a favorecer esa creación en RO, pero va a desfavorecer el creci-  
     miento escalar en RI.
+{ #br22o2}
+
 - Pero si mi valor está en ser importante para el otro ¡listo! yo estaqueo mi RI, para  
-    poder ser importante para el otro. La escala que recibe la instrucción de “bloquear”  
-    interpreta que eso que estás haciendo en RO, tiene valor para ti ¡No es que está  
+    poder ser importante para el otro. La escala que recibe la instrucción de “bloquear”  interpreta que eso que estás haciendo en RO, tiene valor para ti ¡No es que está  
     mal! ¡no es que está bien! si tiene valor para ti, te hace sentido.
 - Una vez que no te hace sentido, entras en depresión, porque es un espacio vacío  
     para crear sentido. Pero como nadie te educa al respecto de esto, sino que te  
@@ -716,57 +649,46 @@ lar...
     atender la señal afuera del cuerpo, antes que le impacte, pero por el momento las  
     cosas están como están y tengo que registrarlas para tomar conciencia de cómo  
     están.
+{ #egod9g}
+
 - Cuando tomo conciencia de cómo están, **en la noche** se hace todo lo demás. No  
     se puede hacer transgresión de escalas.
 
 **_LETICIA_** _: Bien, creo que de alguna manera has hecho un repaso de varios puntos en  
 esta emisión, que obviamente ayudan a que se vaya comprendiendo mejor, y bueno,  
-esto de lo de antimateria que te preguntaba, creo que lo dejamos así, porque en la ante-  
-rior, cuando nos presentaste la Tabla y todo, lo explicaste bastante bien. Así que quizá  
-en un futuro vamos abriendo un poquito más eso. Por lo pronto, creo que hayas respon-  
-dido estas preguntas en este último bloque, nos aclara varios puntos. así que me parece  
-buenísimo dejarlo aquí.  
+esto de lo de antimateria que te preguntaba, creo que lo dejamos así, porque en la anterior, cuando nos presentaste la Tabla y todo, lo explicaste bastante bien. Así que quizá en un futuro vamos abriendo un poquito más eso. Por lo pronto, creo que hayas respondido estas preguntas en este último bloque, nos aclara varios puntos. así que me parece buenísimo dejarlo aquí.  
 Y bueno, no sé si quieras algo más para terminar esta emisión 123._
 
-**ALEJANDRA** : Que entendamos que **el respeto entre nosotros no va a ser el producto  
-de un comportamiento, sino el producto de una comprensión mayor** , porque cuando  
-nos educaron nos dijeron cómo nos teníamos que comportar; entonces, “La Rebeldía  
+**ALEJANDRA** : Que entendamos que **el [[TEMAS/respeto\|respeto]] entre nosotros no va a ser el producto de un comportamiento, sino el producto de una comprensión mayor** , porque cuando nos educaron nos dijeron cómo nos teníamos que comportar; entonces, “La Rebeldía  
 interna” aflora, pero ahora, la maravilla es que, vamos a crear las relaciones nuestras  
-con nosotros mismos y también vamos a crear relaciones con nuestro entorno; y que van  
-a provenir a partir de la conciencia de los registros de lo ya ocurrido, a la luz de este  
-_Código Solar Nativo,_ que es exactamente lo que pretende.  
+con nosotros mismos y también vamos a crear relaciones con nuestro entorno; y que van a provenir a partir de la conciencia de los registros de lo ya ocurrido, a la luz de este _Código Solar Nativo,_ que es exactamente lo que pretende.  
 En la medida de que estos ruteos satisfagan a muchas dimensiones, vamos a obtener  
 mayores créditos, que van a volver más elegantes este proceso.  
-La auditoría está, estuvo y estará, pero esa **auditoría:**
+La [[auditoría\|auditoría]] está, estuvo y estará, pero esa **auditoría:**
+{ #ju2lam}
+
 
 - que empieza con **AU** 1 22
 - y después sigue con el punto de encaje **DI** [49]
 - y después coloco una base 21 [ **T** ]
 - que lógicamente es necesaria para todo consumo del RO → **OR**
 - pero que proviene del RI, **I**
-
 - y atañe al receptor **A** [1].
 
-Rutee “auditoría”, pero con LGC, porque cuando ustedes toman la auditoría de su propio  
-proceso, ¡ya está! Pero en escala subatómica.  
+Rutee “auditoría”, pero con LGC, porque cuando ustedes toman la auditoría de su propio proceso, ¡ya está! Pero en escala subatómica.  
 Entonces, hay que crear todos los sentidos en cada una de esas escalas.
 
 O sea, **LA TRANSPARENCIA ES LA LEY**.
 
 Entonces ¿qué va a pasar? Se va a distinguir muy claramente cuál es la ruta de la reali-  
-dad más rica para poder conducirla, porque obviamente estas instituciones o identidades  
-colectivas se disuelven, pero al tiempo que se disuelven, se renueva, se revivifica y se  
-resignifica por la creación de sentido.
+dad más rica para poder conducirla, porque obviamente estas instituciones o identidades colectivas se disuelven, pero al tiempo que se disuelven, se renueva, se revivifica y se resignifica por la creación de sentido.
 
 Si tenemos resonancia con LGC trabajamos en esta dialéctica; pero si no hay resonan-  
 cia, se trabaja en este mismo tema, en estos mismos tópicos, pero con otras dialécticas.  
-Lo impresionante es cómo se sincronizan, y en ese punto tenemos más ventaja para ver  
-cómo se sincronizan.  
+Lo impresionante es cómo se sincronizan, y en ese punto tenemos más ventaja para ver cómo se sincronizan.  
 El ámbito social también está haciendo este trabajo. Ayer me desayuno con que se ha  
 generado la capacidad de auditar a las universidades -porque claro obviamente acá en  
-la Argentina, hay todo una revolución-. O sea, no es que _“Bueno, si tenés ganas sé trans-  
-parente” ... ¡N_ o, _no!_ directamente ¡pum! En fin, y lo que me asombra de esto, es que es  
-justamente, el primer día la Vuelta 19.  
+la Argentina, hay todo una revolución-. O sea, no es que _“Bueno, si tenés ganas sé transparente” ... ¡N_ o, _no!_ directamente ¡pum! Enfin, y lo que me asombra de esto, es que es justamente, el primer día la Vuelta 19.  
 Bueno, hasta acá.
 
 **_LETICIA_** _: Buenísimo. Gracias. Creación de sentido en las diferentes escalas y la “audi-  
@@ -774,12 +696,9 @@ toría” ¡Muy bueno está eso! Sí, porque es a nivel particular, pero es pers
 que no es que el otro nos audite, ni hacer este proceso para otro, claro._
 
 **ALEJANDRA** : Yo estoy haciendo una propia auditoría de todo lo cursado y lo hecho, y  
-todo eso. Y está cada uno en su historial, con su rol, con su alcance y con el sentido que  
-tenga vigente haciendo lo mismo.  
+todo eso. Y está cada uno en su historial, con su rol, con su alcance y con el sentido que tenga vigente haciendo lo mismo.  
 Somos menos molestos para los demás y vamos a la relación con el otro, para agregar  
-valor o para crear una relación, porque tenemos un plus de valor para agregar. Disminuye  
-la percepción de arrastres. Así que bueno, nos estaremos encontrando en inicio de  
-Vuelta 20 inicio.
+valor o para crear una relación, porque tenemos un plus de valor para agregar. Disminuye la percepción de arrastres. Así que bueno, nos estaremos encontrando en inicio de  Vuelta 20 inicio.
 
 **_LETICIA_** _: Inicio de Vuelta 20 , jueves 31 de octubre._
 
