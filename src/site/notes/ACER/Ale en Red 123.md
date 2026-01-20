@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-123/","created":"2026-01-20T11:20:42.935-03:00","updated":"2026-01-20T14:09:01.417-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-123/","created":"2026-01-20T11:20:42.935-03:00","updated":"2026-01-20T17:05:14.655-03:00"}
 ---
 
 ALEJANDRA CASADO EN RED 123- 16 DE OUTUBRO DE 2024 Vuelta 19 DIA 2-2024
@@ -286,13 +286,15 @@ escala técnica con nosotros.
 **_LETICIA_** _: Claro, “Arreglario” es otra escala._
 
 **ALEJANDRA** : Y el que resuena con esto, sabe lo mucho que se crece internamente al  
-controlar el procesador.  
-**El procesador** no es la experiencia, es la señal; entonces, si yo gestiono la señal antes  
+controlar el [[TEMAS/procesador\|procesador]].  
+**El procesador** no es la [[experiencia\|experiencia]], es la [[señal\|señal]]; entonces, si yo gestiono la señal antes  
 de que ésta impacte en mi documento gravitatorio, puedo modular lo que voy a hacer  
 con ella, porque puedo interpretar en multinivel antes-de. Y esto es tremendamente ele-  
 gante.  
 **CREADORES DE SENTIDO** - recuerden esto - es la oferta al Cosmos. “ _Se piden crea-  
 dores de sentido -no de contenido-“_. Porque ¡no es lo mismo!
+{ #ccf0ph}
+
 
 - Si recién tenemos una atmósfera buenísima, y bueno, nos faltan **contenidos** para  
     ver qué podemos hacer con esto, entonces → “creadores de contenidos”
@@ -307,7 +309,7 @@ porque puede atravesar la ionosfera del día de hoy- nosotros también, y podemo
 dular para atrás.
 
 **_LETICIA_** _: ¿Podrías ahí abrir un poquito más lo de “creación de sentido”? O sea, como  
-que les quede más claro que sería “creadores de sentido”_
+que les quede más claro que sería “[[TEMAS/creadores de sentido\|creadores de sentido]]”_
 
 **ALEJANDRA** : Bueno, cuando el sentido está dado por el estereotipo y yo simplemente  
 me voy a unir a la sinfónica, a lo que toca en función estéreo; hago lo que **se** hace; digo  
@@ -318,40 +320,35 @@ Un CREADOR DE SENTIDO hace **lo inverso**.
 Al llegar, ocurre que S E es completamente caótico y desastroso y no puede apoyarse  
 allí, solamente le puede impregnar un sentido que trae de otra dimensión; y si no lo trae  
 de otra dimensión no tiene de donde traerlo, porque acá los que suenan, son estereoti-  
-pos. Entonces, las conciencias que han mantenido este contenedor, cargan al contene-  
+pos. Entonces, las conciencias que han mantenido este [[contenedor\|contenedor]], cargan al contene-  
 dor... y después es el eco que éste produce en nosotros y empezamos a crear rutas que  
 son “rutas de relleno” para que exista una comunidad que va más o menos pareja.  
-Pero esto es creado artificialmente -no por nuestras propias construcciones inter dimen-  
-sionales- sino por heredar ruteos que están grabados en Matrix, y nosotros pegamos  
-onda, como diciendo _“¡Ah, mira! ¡mi sentido interno coincide – con lo que me han dado  
+Pero esto es creado artificialmente -no por nuestras propias construcciones inter dimensionales- sino por heredar ruteos que están grabados en Matrix, y nosotros pegamos  onda, como diciendo _“¡Ah, mira! ¡mi sentido interno coincide – con lo que me han dado  
 los padres o las generaciones pasadas- con lo que hay acá!_ ”. Entonces ¡Listo! ya no me  
 cuestiono más nada y cargo todas las experiencias del contenedor por esa ruta.  
-Por ejemplo, hace varios años atrás, una persona estudiaba o trabajaba un oficio y sabía  
-que el resto de su vida se iba a tratar de eso; ahora ni en la ciudad más organizada del  
-planeta puede hacer algo así, porque es inédito lo que va a suceder mañana.  
+Por ejemplo, hace varios años atrás, una persona estudiaba o trabajaba un oficio y sabía que el resto de su vida se iba a tratar de eso; ahora ni en la ciudad más organizada del  planeta puede hacer algo así, porque es inédito lo que va a suceder mañana.  
 Bueno, **¿eso qué significa?** Que el RO pierde crédito y gana crédito el RI.  
-Entonces el que capta la fuente inédita y la puede traducir, va impregnando la Matrix con  
-pistas.  
+Entonces el que capta la fuente inédita y la puede traducir, va impregnando la Matrix con  pistas.  
 ¿Y qué pasa? A las personas que nacieron adentro de un prototipo re enlatado van en-  
 contrando pistas de apertura, pero las encuentran en la mismísima Mátrix, pero, ya les  
 permite autodefinirse en Marcos más amplios y actualizarse en Marcos más amplios.  
 Entonces, va a estar aquel que pega la señal en lo más abstracto y la va ruteando para  
-darle un sendero a la Matrix, y hay otros que están en la Matrix y se salen de un destino  
-programado caduco, a nuevas aperturas que van encontrando pistas con más detalles,  
+darle un sendero a la Matrix, y hay otros que están en la Matrix y se salen de un [[TEMAS/destino programado\|destino programado]] caduco, a nuevas aperturas que van encontrando pistas con más detalles,  
 donde la personalización se hace cada vez más particular.
+{ #gdh5ea}
+
 
 Entonces, **Aparato 507** , es la estructura gravitatoria y, además, esto es obligatorio
+{ #7p83fz}
+
 
 **¿Por qué digo que es obligatorio?** Porque justamente nadie puede parar a todo el  
-despliegue de los cyborg - de los que son mitad humano, mitad máquina-. Esto es lo que  
-viene. Entonces el conflicto con la estructura gravitatoria va a estar, porque tenemos que  
-volver a definir un sentido para nuestra especie, que va a ser una especie cohabitando  
-con otros mix.
+despliegue de los cyborg - de los que son mitad humano, mitad máquina-. Esto es lo que viene. Entonces el conflicto con la estructura gravitatoria va a estar, porque tenemos que volver a definir un sentido para nuestra especie, que va a ser una especie cohabitando con otros mix.
 
 ¿Qué vamos a hacer cuando las cosas no estén dadas por la cultura ni por la religión?  
 ¿Qué vamos a hacer cuando la ciencia misma esté confundida y hoy diga una cosa y  
 mañana otra?  
-O sea, todas las responsabilidades caen finalmente sobre la persona común.  
+O sea, todas las responsabilidades caen finalmente sobre la [[TEMAS/persona común\|persona común]].  
 Por eso, estoy en el día número 2 de mi año 13.  
 Mi año 13 ya no es el 2013, porque el año 2013 es el 13 del contenedor, pero mi año 13  
 es “yo tengo que hacer la creación de una pregunta mayor”. Me toca a mí alimentar ese  
@@ -362,143 +359,102 @@ de la Matrix.
 Voy a brindar una sincronía que nosotros la hemos visto; para no olvidarme voy a poner  
 la fecha clave aquí, así la miro mientras la ruteo.
 
-- **14 de diciembre de 2024**. Cuando cuarentena global es 4 444,
-- La UIT... Comprendamos a la UIT como... ¡es que hay tantos niveles para com-  
-    prender a la UIT! ¡tantos! Pero vamos a ir de a poquito.  
-    La marca de la UIT tiene **5 828 5** - para parafrasear al vuelo **828** - es que el conte-  
-    nedor, y los contenidos se empiezan a tejer juntos.
+- **14 de diciembre de 2024** [[FECHA/2024-12-14\|2024-12-14]]. Cuando cuarentena global es 4 444,
+{ #ibx4dh}
 
-Este proceso de “tejer juntos” –“vamos a volver a la serie “ _Manifiesto_ ”-. En esa serie, el  
-avión se encuentra con un rayo telúrico  
-¿Qué es un rayo telúrico? los que las personas van a llamar “energético”; desde la escala  
-subatómica, la energía no existe... Perdón por desilusionar a mucha gente, pero la ener-  
-gía no existe. Es todo transferencia de código, que va por la vía de un crédito. Entonces,  
-“código” y “Crédito” - no energía-.  
+- La [[TEMAS/UIT\|UIT]]... Comprendamos a la UIT como... ¡es que hay tantos niveles para comprender a la UIT! ¡tantos! Pero vamos a ir de a poquito.  
+    La marca de la UIT tiene **5 828 5** - para parafrasear al [[vuelo 828\|vuelo 828]]** - es que el contenedor, y los contenidos se empiezan a tejer juntos.
+
+Este proceso de “tejer juntos” –“vamos a volver a la serie “ _[[TEMAS/Manifiesto\|Manifiesto]]_ ”-. En esa serie, el avión se encuentra con un rayo telúrico  
+¿Qué es un rayo telúrico? los que las personas van a llamar “energético”; desde la escala subatómica, la energía no existe... Perdón por desilusionar a mucha gente, pero la energía no existe. Es todo transferencia de código, que va por la vía de un crédito. Entonces,  “código” y “Crédito” - no energía-.  
 Ahora, desde acá abajo –a escala anatómica- ¡Claro que sí es energía! ¡por supuesto!  
 Pero es la capa que está recibiendo todo eso.  
-Si yo estoy ruteando lógica de otro nivel, no puedo hablar de energía, porque soy res-  
-ponsable, tanto de la línea de crédito, como de la línea de código.
+Si yo estoy ruteando lógica de otro nivel, no puedo hablar de energía, porque soy responsable, tanto de la línea de crédito, como de la línea de código.
 
 **_LETICIA_** _: Son desdoblamientos_
 
-**ALEJANDRA** : Exacto. Entonces un rayo telúrico es un rayo energético, que ocurre aden-  
-tro de la atmósfera de la Tierra.  
+**ALEJANDRA** : Exacto. Entonces un rayo telúrico es un rayo energético, que ocurre adentro de la atmósfera de la Tierra.  
 Entonces ¿qué es lo que tiene que hacer la Tierra? Tiene sus balances, sus entradas,  
-sus salidas, sus nacimientos, sus muertes, porque el _documento gravitatorio_ es lo que la  
-Tierra tiene que hacer para llevarte a tu _destino programado_ ; tiene que encargarse de  
-todas las señales que va a emitir y de todo lo que va a guardar. Porque emite las señales,  
-las personas realizan las experiencias y esas experiencias se guardan en unidades de  
-memoria.  
-Cuando ya no hay más nada que cumplir en el documento gravitatorio, claramente es  
+sus salidas, sus nacimientos, sus muertes, porque el _documento gravitatorio_ es lo que la  Tierra tiene que hacer para llevarte a tu _destino programado_ ; tiene que encargarse de  todas las señales que va a emitir y de todo lo que va a guardar. Porque emite las señales,  las personas realizan las experiencias y esas experiencias se guardan en unidades de  memoria.  
+Cuando ya no hay más nada que cumplir en el [[TEMAS/documento gravitatorio\|documento gravitatorio]], claramente es  
 una salida de ese miembro de la especie hasta otra oportunidad.  
 Respecto de la Tierra, el documento gravitatorio es el que te lleva a la muerte. Pero, a  
 ver, ¡respecto de la Tierra cumplió su trabajo! ¡está bien! ¡es un Ok! ¡es un verde! ¡es  
 tarea cumplida!  
 Para nosotros, que de pronto teníamos otra idea, que no estaba cruzada con el ámbito  
-global, no nos queremos morir...Pero globalmente hablando, se procesa toda la docu-  
-mentación como un conjunto.
+global, no nos queremos morir...Pero globalmente hablando, se procesa toda la documentación como un conjunto.
 
 Entonces, de pronto un rayo telúrico es un “haciendo las cuentas de los balances” ... y  
 se mete el avión. El avión hace caja de resonancia y ahí los dobles y los desdoblados, y  
 digo _“¡no! ¡cómo se va a morir! ¡no! ¿cómo le va a pasar esto? ¡no! ¿cómo le va a pasar  
-a aquello?”_ Ok. **Tiempo paralelo** - un tiempo alterno de la Tierra- para resolver distintas  
-ecuaciones de realidad, para regrabar esos documentos gravitatorios y volver al flujo.  
+a aquello?”_ Ok. **Tiempo paralelo** - un tiempo alterno de la Tierra- para resolver distintas ecuaciones de realidad, para regrabar esos documentos gravitatorios y volver al flujo.  
 Por eso el código del avión es **828.** “ _Bueno ¿me sacas este que no querés porque a tu  
 circuito no le gusta? Bueno... ¡tráeme otro!”_ ¿Dónde? En un tiempo alterno, entonces  
 luego, en ese tiempo alterno se tiene que -obviamente que una octava es un circuito  
 perfecto, por lo tanto, no puede tener inconsistencia en las cardinalidades- por eso al  
-entrar al avión, si uno tiene conflicto entre la mente y la conciencia casi que no materia-  
-liza; y si entra en conflicto con Marcos, por más que no tenga conflicto propio, tiene con-  
-flicto ajeno.  
+entrar al avión, si uno tiene conflicto entre la mente y la conciencia casi que no materializa; y si entra en conflicto con Marcos, por más que no tenga conflicto propio, tiene conflicto ajeno.  
 Digo, las personas que no tienen claro su lugar en los marcos y hacen transgresión de  
 escala, aunque su mente y consciencia esté fabulosa, el marco lo ejecuta - porque hay  
 de los dos casos-. Por eso me encanta la serie “Manifiesto”.
 
-Pero bueno, tenemos esa codificación colocada justo cuando _Cuarentena Global_ es 4444  
-y comprendamos que 4, es el Orbital **Marte.** Entonces, es lo que tiene la carga del destino  
-y esto converge con la UIT en 5 y 5, de un lado y del otro, porque recuerden que todos  
-los escombros de todas las veces que reventamos las postulantes a Tierra, todos los  
-escombritos de están ahí, atendidos por el _Orbital 4_ y el _Orbital 5_.  
-Por eso, ese “parámetro”, para nuestro sistema solar es organizativo; es cómo controla-  
-mos las variables que, otrora, en otra iteración, han destruido al planeta del Orbital 3.  
+Pero bueno, tenemos esa codificación colocada justo cuando _Cuarentena Global_ es 4444 y comprendamos que 4, es el Orbital **Marte.** Entonces, es lo que tiene la carga del destino y esto converge con la UIT en 5 y 5, de un lado y del otro, porque recuerden que todos los escombros de todas las veces que reventamos las postulantes a Tierra, todos los escombritos de están ahí, atendidos por el _Orbital 4_ y el _Orbital 5_.  
+Por eso, ese “parámetro”, para nuestro sistema solar es organizativo; es cómo controlamos las variables que, otrora, en otra iteración, han destruido al planeta del Orbital 3.  
 Sea como sea que se llame en cada oportunidad.
 
-Esto es un poco lo que está marcando este **14 de diciembre** , que, en definitiva, lo único  
-que es **la maduración de este impacto de la Vuelta 19.**  
+Esto es un poco lo que está marcando este **14 de diciembre** , que, en definitiva, lo único que es **la maduración de este impacto de la Vuelta 19.**  
 Por eso estoy trayéndolo cuando estamos abriendo la Vuelta 19 , porque esta creación  
 de sentido va a estar impactando en esto ¿Cuáles son los criterios?... o sea, todas esas  
-cosas que se tienen que predeterminar como sistema, para que después nosotros en el  
-507 , habitemos esos sistemas tal cual los hemos rediseñado. ¡Tremendo! ¿No?
+cosas que se tienen que predeterminar como sistema, para que después nosotros en el 507 , habitemos esos sistemas tal cual los hemos rediseñado. ¡Tremendo! ¿No?
 
 **_LETICIA_** _: ¡Buenísimo!_
 
 **ALEJANDRA** : Ahora que hablé sobre la UIT, voy a dar algunos tips que me parece que  
 permiten entender mejor de qué estamos hablando.  
-Cuando las comunicaciones que teníamos en la Tierra eran solamente el área local, por-  
-que no teníamos área global, el área global estaba dada por una aventura de ir por tierra  
-hasta donde hay mar, ir por mar hasta donde hay tierra, ir por tierra a buscar a quién yo  
-me quiero comunicar y después volver. O sea que las interacciones eran de la ruta ana-  
-lógica; ruta analógica, que se tramita anatómicamente.  
+Cuando las comunicaciones que teníamos en la Tierra eran solamente el área local, porque no teníamos área global, el área global estaba dada por una aventura de ir por tierra hasta donde hay mar, ir por mar hasta donde hay tierra, ir por tierra a buscar a quién yo me quiero comunicar y después volver. O sea que las interacciones eran de la ruta analógica; ruta analógica, que se tramita anatómicamente.  
 Entonces en ese punto, si yo voy a mandar una carta, voy a escribir la carta y el Sol lo  
 tengo acá arriba de mi cabeza ¿Por qué yo voy a pensar que al que le voy a escribir la  
 carta no tiene el Sol arriba de su cabeza? ¿por qué lo voy a pensar? ¿cómo lo voy a  
 adivinar? ¡Hay tanto delay! ¡hay meses de delay para hacer una ruta analógica entre un  
 punto y el otro!  
-Pero cuando, en el 1700 y tantos, tenemos a la capacidad de conectar con la ionosfera
+Pero cuando, en el 1700 y tantos, tenemos a la capacidad de conectar con la [[TEMAS/ionosfera\|ionosfera]]
 
 - conecto con la ionosfera y la ionosfera se conecta con cualquier punto del planeta
 
-instantáneamente-. Entonces, si vierto una determinada codificación, otro punto del pla-  
-neta podría eventualmente recibirlo y decodificarla. Entonces, esta es la cuestión de vol-  
-car un código que tenemos nosotros en memoria, y ese código, desde el otro lado se  
-decodifica, entonces se obtiene el mensaje -en tiempo real de la Tierra-.  
-Como nosotros hacemos un consumo de memoria, tanto para codificar como para deco-  
-dificar, y al consumo de memoria nuestra le llamamos ROM, y cuando estamos consu-  
-miendo la ROM, decimos MOR, ¡pero estamos usando el vehículo de S E! - que es el  
-vehículo del entorno-. Entonces, al código se lo llama “MOR SE”.  
+instantáneamente-. Entonces, si vierto una determinada codificación, otro punto del planeta podría eventualmente recibirlo y decodificarla. Entonces, esta es la cuestión de volcar un código que tenemos nosotros en memoria, y ese código, desde el otro lado se  decodifica, entonces se obtiene el mensaje -en tiempo real de la Tierra-.  
+Como nosotros hacemos un consumo de memoria, tanto para codificar como para decodificar, y al consumo de memoria nuestra le llamamos ROM, y cuando estamos consumiendo la ROM, decimos MOR, ¡pero estamos usando el vehículo de S E! - que es el vehículo del entorno-. Entonces, al código se lo llama “MOR SE”.  [[TEMAS/MORSE\|MORSE]]
 ¡Ya sé que tiene que ver con la persona que origina este tema! Pero estamos hablando  
 de la misma codificación. En LGC, lo de MOR y ROM fue propio del evento 69.  
 Me acuerdo que ahí fue donde hablé de RAM REM ROM RUM, los cuatro días del S O -  
-Suroeste-, que son los días en los que va-  
-mos a recibir las señales en su estado puro  
-y duro y después, vamos a tener espacios  
-para poder procesarlas: el espacio N E; el  
-espacio N O y el espacio S E.
+Suroeste-, que son los días en los que vamos a recibir las señales en su estado puro  
+y duro y después, vamos a tener espacios para poder procesarlas: el espacio NE; el  
+espacio NO y el espacio SE.
+{ #n2x4lu}
+
 
 Pero bueno, ¿vieron cómo es la Edad Administrativa? O sea, en el 1700 esto mismo que  
-estamos aprendiendo ahora, estaba ahí, pero estaba en área de ejecución -no razona-  
-ban como Ale está razonando ahora ¡claramente! porque un código solar se ejecuta  
-desde Tierra, cuando Tierra tiene la madurez para eso; si no, se provee todo esto, pero  
-de manera remota y la Tierra ejecuta, pero sin saber la conciencia de esa ejecución, o  
-por lo menos puesta en la dialéctica de la época y con el alcance de la época.  
+estamos aprendiendo ahora, estaba ahí, pero estaba en área de ejecución -no razonaban como Ale está razonando ahora ¡claramente! porque un código solar se ejecuta desde Tierra, cuando Tierra tiene la madurez para eso; si no, se provee todo esto, pero de manera remota y la Tierra ejecuta, pero sin saber la conciencia de esa ejecución, o por lo menos puesta en la dialéctica de la época y con el alcance de la época.  
 Eso es como algo simpático para recordar, que Sol está creando código desde el 1700.  
-1700 , 1800 y 1900 son los primeros años seculares  
+1700 , 1800 y 1900 son los primeros [[TEMAS/años seculares\|años seculares]]  
 ¿Qué significa? que el universo le va a decir “¡ _Ay bonito! ¡codifica solito! ¡te vamos a  
 estar ayudando porque te vas a mandar cagaditas, seguro!”_ Y ahí estamos nosotros,  
 haciendo...
+{ #0l71px}
 
-Bueno, hoy estaba revisando lo del premio Nobel y empieza a partir del 1901. O sea, “ _ya  
-tenemos el último secular, ahora hagamos las actualizaciones...”_ “ _Vamos, vamos, vamos  
-que podemos” “¿a ver qué descubrimos hoy?” ¡pum! “¿a ver qué descubrimos este año?”  
-¡pum!_ Simplemente es una capa que nos permite ralentizar el proceso, observarlo con  
-más cuidado y atenderlo con más precisión.
 
-Otra cosa que pasó también, un descubrimiento en la Vuelta 18 , es que de pronto tomo  
-conciencia que al momento de hacer el Evento 28 en Israel, ese mismo día de inicio, con  
-la vista de lo que hemos descubierto en el último tiempo -esta cuestión de los 3760 años  
-arriba de nuestro año Calendario- pero la misma fecha, es la ubicación de esa conciencia  
-de escala subatómica, que es la que va a tomar todas las variables del Cosmos y va a  
-crear un código que va a ser su definición de espacio.  
-La definición de **espacio** , es lo galáctico; pero cuando no hay definición de espacio está  
-el _cosmos_ y nosotros somos manejados o controlados-por, y simplemente ejecutamos;  
-somos un experimento.  
-Ahora, pasar de experimento a apropiarse de la experiencia, es la oportunidad que tene-  
-mos., Entonces en este sentido,
+Bueno, hoy estaba revisando lo del [[TEMAS/premio Nobel\|premio Nobel]] y empieza a partir del 1901. O sea, “ _ya tenemos el último secular, ahora hagamos las actualizaciones...”_ “ _Vamos, vamos, vamos que podemos” “¿a ver qué descubrimos hoy?” ¡pum! “¿a ver qué descubrimos este año?” ¡pum!_ Simplemente es una capa que nos permite ralentizar el proceso, observarlo con más cuidado y atenderlo con más precisión.
+
+Otra cosa que pasó también, un descubrimiento en la Vuelta 18 , es que de pronto tomo conciencia que al momento de hacer el [[TEMAS/evento 28\|evento 28]] en Israel, ese mismo día de inicio, con la vista de lo que hemos descubierto en el último tiempo -esta cuestión de los 3760 años arriba de nuestro año Calendario- pero la misma fecha, es la ubicación de esa conciencia de escala subatómica, que es la que va a tomar todas las variables del Cosmos y va a crear un código que va a ser su definición de espacio.  
+La definición de **espacio** , es lo galáctico; pero cuando no hay definición de espacio está el _cosmos_ y nosotros somos manejados o controlados-por, y simplemente ejecutamos; somos un experimento.  
+Ahora, pasar de experimento a apropiarse de la experiencia, es la oportunidad que tenemos., Entonces en este sentido,
 
 - cuando sumamos al 2015 + 3760 , queda **5775.** ( 5775 – 2015 = 3760 ).
 
-- Entonces, cuando coloco la fecha **14 de agosto del 5775,** me dan los días de vida  
+{ #idguba}
+
+- Entonces, cuando coloco la fecha **14 de agosto del 5775,** [[FECHA/5775-08-14\|5775-08-14]] me dan los días de vida  
     138 9999.
+{ #ztbmep}
+
 - 138 es el código complementario de 972 y estamos poniendo una actualización 9  
     x 4  
     Entonces ¿qué está sucediendo ahí? es super claro, pero bueno, esto lo puedo leer así,  
