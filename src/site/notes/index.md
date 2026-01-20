@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-01-19T13:37:59.150-03:00"}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-01-20T11:49:22.901-03:00"}
 ---
 
 # Bienvenidos al Jardín Digital LGC
@@ -14,3 +14,8 @@ Este espacio está dedicado a la **documentación y exploración sistémica** de
 - **Visualización de datos:** En muchas de las notas encontrarás **gráficos dinámicos**. Estos gráficos representan las métricas y las interconexiones de los temas. Puedes interactuar con ellos para ver los detalles de cada punto de torsión o frecuencia.
     
 - **Interconexión:** Presta atención a los enlaces internos y a los _backlinks_ al final de cada página; la Lógica es una red, y este sitio funciona de la misma manera
+
+
+
+outras instruções:
+devido às limitações de diagramação...
