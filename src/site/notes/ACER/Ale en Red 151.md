@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-151/","created":"2026-01-19T15:35:32.171-03:00","updated":"2026-01-19T15:50:20.675-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-151/","created":"2026-01-19T15:35:32.171-03:00","updated":"2026-01-20T10:21:08.927-03:00"}
 ---
 
 
 **Alejandra Casado EN RED 1 51 – 1 de enero 2026 – Vuelta 1 - 2026**  
 _Link_ **_:_** _https://www.youtube.com/watch?v=jtZicaGAlAw_
 
-Transcripción y edición [[COLABORADORES/@AdrianaMdelVmercado\|@AdrianaMdelVMercado]] -6/1/2026 *TELEGRAM: #TRANSCRIPCIONESPARADESPERTAR 
+[[COLABORADORES/Leticia Candelaria\|Leticia Candelaria]] [@leticiacandelariasaucedo8808](https://youtube.com/@leticiacandelariasaucedo8808?si=h_Z63_Gaz4sEkkUQ)
+
+Transcripción y edición [[COLABORADORES/@AdrianaMdelVmercado\|@AdrianaMdelVMercado]] -6/1/2026 *TELEGRAM: #TRANSCRIPCIONESPARADESPERTAR (https://t.me/TRANSCRIPCIONESPARADESPERTAR)
 
 
 

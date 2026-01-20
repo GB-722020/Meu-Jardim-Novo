@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-002/","created":"2026-01-19T15:42:01.524-03:00","updated":"2026-01-19T17:49:53.473-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-002/","created":"2026-01-19T15:42:01.524-03:00","updated":"2026-01-20T10:22:29.664-03:00"}
 ---
 
  
 # ALEJANDRA EN RED - 30 de Mayo de 2020 – ALEJANDRA CASADO Y LETICIA CANDELARIA
 
 https://www.youtube.com/watch?v=MIuVnesUkIQ
+
+[[COLABORADORES/Leticia Candelaria\|Leticia Candelaria]] [@leticiacandelariasaucedo8808](https://youtube.com/@leticiacandelariasaucedo8808?si=h_Z63_Gaz4sEkkUQ)
 
 Transcripción [[COLABORADORES/@AdrianaMdelVmercado\|@AdrianaMdelVmercado]] 
 
