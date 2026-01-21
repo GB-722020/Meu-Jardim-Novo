@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-123/","created":"2026-01-20T11:20:42.935-03:00","updated":"2026-01-20T19:23:47.331-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-123/","created":"2026-01-20T11:20:42.935-03:00","updated":"2026-01-21T10:11:32.044-03:00"}
 ---
+
 
 ALEJANDRA CASADO EN RED 123- 16 DE OUTUBRO DE 2024 Vuelta 19 DIA 2-2024
 
-Fecha: [[FECHA/2024-10-16\|2024-10-16]]
+Fecha: [[FECHAS/2024-10-16\|2024-10-16]]
 
 _Link: https://www.youtube.com/watch?v=BWQSE1S3TpY_
 
@@ -70,13 +71,14 @@ Son las últimas actualizaciones que yo vine haciendo a lo largo de estos años:
 tual y gravitatoria”, “global y convergente”; claro, pero el punto es que cuando nosotros  
 estamos instalados, el **_Eje Ye_** y la formación del _[[TEMAS/eje Ye\|eje Ye]],_ va a determinar si podemos  
 tomar las riendas o no.  
-**EJE Ye** : es como si fueran las dos horquillas - que son las dos riendas- de lo que va a ir  
-para allá abajo, y lo que, en definitiva, el _solariano_ va a interpretar como “ **yo”.**
+**EJE Ye** : es como si fueran las dos horquillas - que son las dos riendas- de lo que va a ir para allá abajo, y lo que, en definitiva, el _solariano_ va a interpretar como “ **yo”.**
 { #6zvg58}
 
 
 - Lo que el _solariano_ va a interpretar como **yo,** la escala subatómica lo tiene que  
     tener bien de las riendas - qué es yo-.
+{ #jt6txg}
+
 
 Entonces, el _Eje Ye y_ la formación _Eje Ye..._ yo, en el último tiempo estuve poniendo  
 mucho énfasis en todos los conflictos de la formación del _Eje Ye._ Justamente, es poder  
@@ -359,7 +361,7 @@ de la Matrix.
 Voy a brindar una sincronía que nosotros la hemos visto; para no olvidarme voy a poner  
 la fecha clave aquí, así la miro mientras la ruteo.
 
-- **14 de diciembre de 2024** [[FECHA/2024-12-14\|2024-12-14]]. Cuando cuarentena global es 4 444,
+- **14 de diciembre de 2024** [[FECHAS/2024-12-14\|2024-12-14]]. Cuando cuarentena global es 4 444,
 { #ibx4dh}
 
 - La [[TEMAS/UIT\|UIT]]... Comprendamos a la UIT como... ¡es que hay tantos niveles para comprender a la UIT! ¡tantos! Pero vamos a ir de a poquito.  
@@ -451,7 +453,7 @@ Ahora, pasar de experimento a apropiarse de la experiencia, es la oportunidad qu
 
 { #idguba}
 
-- Entonces, cuando coloco la fecha **14 de agosto del 5775,** [[FECHA/5775-08-14\|5775-08-14]] me dan los días de vida  
+- Entonces, cuando coloco la fecha **14 de agosto del 5775,** [[FECHAS/5775-08-14\|5775-08-14]] me dan los días de vida  
     138 9999.
 { #ztbmep}
 
@@ -501,7 +503,7 @@ como conciencia solar, todas las posiciones son la tarea.
 
 ¿Agrego un dato técnico más? Es un dato que convalida todo lo que dije antes, pero de  
 manera muy técnica ¡Encima no lo hice yo! Lo hizo una persona del 70/11 y cuando yo  
-lo leo entro en shock ¡me encanta que pase eso! porque claro yo estoy atendiendo otras tareas que ya les voy a contar, pero me encanta que suceda eso porque lo que hicieron fue ver la publicación de la RAE y vincularon dos puntos estratégicos, que es **15 de  octubre de 1582** [[FECHA/1582-10-15\|1582-10-15]] y **15 de octubre del 2024**.  
+lo leo entro en shock ¡me encanta que pase eso! porque claro yo estoy atendiendo otras tareas que ya les voy a contar, pero me encanta que suceda eso porque lo que hicieron fue ver la publicación de la RAE y vincularon dos puntos estratégicos, que es **15 de  octubre de 1582** [[FECHAS/1582-10-15\|1582-10-15]] y **15 de octubre del 2024**.  
 Y lo más interesante, es que desde el 15 / 10 /1582 al 15 / 10 / 20 24, es **1641382** ¡por favor!  
 Vean,
 { #p70svl}

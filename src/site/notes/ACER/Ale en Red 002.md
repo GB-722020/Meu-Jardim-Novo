@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-002/","created":"2026-01-19T15:42:01.524-03:00","updated":"2026-01-20T11:26:39.880-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-002/","created":"2026-01-19T15:42:01.524-03:00","updated":"2026-01-21T10:17:56.879-03:00"}
 ---
 
  
 # ALEJANDRA EN RED - 30 de Mayo de 2020 – ALEJANDRA CASADO Y LETICIA CANDELARIA
 
 
-Fecha: [[FECHA/2020-05-30\|2020-05-30]]
+Fecha: [[FECHAS/2020-05-30\|2020-05-30]]
 
 https://www.youtube.com/watch?v=MIuVnesUkIQ
 

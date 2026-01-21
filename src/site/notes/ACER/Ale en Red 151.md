@@ -6,7 +6,7 @@
 **Alejandra Casado EN RED 1 51 – 1 de enero 2026 – Vuelta 1 - 2026**  
 
 
-Fecha: [[FECHA/2026-01-01\|2026-01-01]]
+Fecha: [[FECHAS/2026-01-01\|2026-01-01]]
 
 _Link_ **_:_** _https://www.youtube.com/watch?v=jtZicaGAlAw_
 
