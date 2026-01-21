@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-151/","created":"2026-01-19T15:35:32.171-03:00","updated":"2026-01-20T11:28:03.749-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-151/","created":"2026-01-19T15:35:32.171-03:00","updated":"2026-01-21T10:29:41.782-03:00"}
 ---
 
 

@@ -36,7 +36,7 @@ ríe)
 
 Lo mismo que decía que tenía que ocurrir, “el que sabe que hable” y ahora no me queda otra que **ha-  
 blar**. ¿Cómo podría comenzar?  
-Esta situación de ¿cómo empezó este mes? Empezó con el [[EVENTOS/evento 69 tal que 10\|evento 69 tal que 10]] -al día 1° de mayo de  
+Esta situación de ¿cómo empezó este mes? Empezó con el [[TEMAS/evento 69 tal que 10\|evento 69 tal que 10]] -al día 1° de mayo de  
 2020 -. 
 Este evento, “evento **paradoja** ” porque está pasando exactamente lo mismo ¿no? todas las es-  
 cupidas vuelven, todas las escupidas vuelven, eso es una paradoja. Cuando la escupida te cae en la  

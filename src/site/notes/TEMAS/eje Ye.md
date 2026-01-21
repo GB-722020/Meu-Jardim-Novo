@@ -1,9 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/temas/eje-ye/","created":"2026-01-20T11:35:47.803-03:00","updated":"2026-01-20T18:47:05.419-03:00"}
+{"dg-publish":true,"permalink":"/temas/eje-ye/","created":"2026-01-20T11:35:47.803-03:00","updated":"2026-01-21T17:34:57.577-03:00"}
 ---
 
 
-1. denominación de [[TEMAS/RAE\|RAE]] de la letra Ye [[ACER/Ale en Red 123#^dvldw8\|Ale en Red 123#^dvldw8]]
+
+**Ale en Red 119**
+
+[[TEMAS/entorno\|entorno]], [[TEMAS/antena\|antena]] y [[TEMAS/ancla\|ancla]] ; [[TEMAS/eje X\|eje X]], [[TEMAS/eje Ye\|eje Ye]] y [[TEMAS/eje Z\|eje Z]] [[ACER/Ale en Red 119#^je59ud\|Ale en Red 119#^je59ud]]
+
+
+
+
+**Ale en Red 123**
+
+1. cambio de [[TEMAS/RAE\|RAE]] de la letra i griega a Ye [[ACER/Ale en Red 123#^dvldw8\|Ale en Red 123#^dvldw8]]
 
 2. formación del eje Ye [[ACER/Ale en Red 123#^6zvg58\|Ale en Red 123#^6zvg58]]
 

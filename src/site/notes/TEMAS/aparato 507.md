@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/aparato-507/","created":"2026-01-20T14:05:53.851-03:00","updated":"2026-01-20T14:19:58.073-03:00"}
+{"dg-publish":true,"permalink":"/temas/aparato-507/","created":"2026-01-20T14:05:53.851-03:00","updated":"2026-01-21T10:40:37.089-03:00"}
 ---
 
 

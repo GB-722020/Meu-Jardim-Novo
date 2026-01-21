@@ -1,6 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/temas/eje-x/","created":"2026-01-20T12:05:21.615-03:00","updated":"2026-01-20T12:07:26.552-03:00"}
+{"dg-publish":true,"permalink":"/temas/eje-x/","created":"2026-01-20T12:05:21.615-03:00","updated":"2026-01-21T17:35:47.914-03:00"}
 ---
 
+
+
+**Ale en Red 119**
+
+[[TEMAS/entorno\|entorno]], [[TEMAS/antena\|antena]] y [[TEMAS/ancla\|ancla]] ; [[TEMAS/eje X\|eje X]], [[TEMAS/eje Ye\|eje Ye]] y [[TEMAS/eje Z\|eje Z]] [[ACER/Ale en Red 119#^je59ud\|Ale en Red 119#^je59ud]]
+
+
+**Ale en Red 123**
 
 **la influencia del** **_Eje X_**  **sobre Ye** [[ACER/Ale en Red 123#^1u1whb\|Ale en Red 123#^1u1whb]]

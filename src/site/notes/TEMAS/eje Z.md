@@ -1,6 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/temas/eje-z/","created":"2026-01-20T11:58:32.854-03:00","updated":"2026-01-20T12:00:49.170-03:00"}
+{"dg-publish":true,"permalink":"/temas/eje-z/","created":"2026-01-20T11:58:32.854-03:00","updated":"2026-01-21T17:36:06.044-03:00"}
 ---
 
+
+
+**Ale en Red 119**
+
+[[TEMAS/entorno\|entorno]], [[TEMAS/antena\|antena]] y [[TEMAS/ancla\|ancla]] ; [[TEMAS/eje X\|eje X]], [[TEMAS/eje Ye\|eje Ye]] y [[TEMAS/eje Z\|eje Z]] [[ACER/Ale en Red 119#^je59ud\|Ale en Red 119#^je59ud]]
+
+
+**Ale en Red 123**
 
 la influencia del eje Z en la formación del eje Ye [[ACER/Ale en Red 123#^1u1whb\|Ale en Red 123#^1u1whb]]

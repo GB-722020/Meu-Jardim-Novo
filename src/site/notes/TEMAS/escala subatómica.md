@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/escala-subatomica/","created":"2026-01-20T18:53:57.420-03:00","updated":"2026-01-20T19:08:19.139-03:00"}
+{"dg-publish":true,"permalink":"/temas/escala-subatomica/","created":"2026-01-20T18:53:57.420-03:00","updated":"2026-01-21T10:42:08.877-03:00"}
 ---
 
 

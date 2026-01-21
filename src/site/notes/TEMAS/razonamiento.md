@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/razonamiento/","created":"2026-01-20T18:56:30.655-03:00","updated":"2026-01-20T19:10:12.054-03:00"}
+{"dg-publish":true,"permalink":"/temas/razonamiento/","created":"2026-01-20T18:56:30.655-03:00","updated":"2026-01-21T10:44:11.258-03:00"}
 ---
 
 
