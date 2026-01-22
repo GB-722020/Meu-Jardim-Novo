@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-119/","created":"2026-01-21T14:33:55.599-03:00","updated":"2026-01-21T19:07:11.308-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-119/","created":"2026-01-21T14:33:55.599-03:00","updated":"2026-01-22T10:48:58.147-03:00"}
 ---
 
 
@@ -34,7 +34,7 @@ sión._
 **_LETICIA_** : _Yo no me acuerdo, pero lo anoté: a 2 6 9 días de ese 18 de noviembre de 2023 [[FECHAS/2023-11-18\|2023-11-18]], cuando hiciste la invitación a SoroS._ 
 
 
-**ALEJANDRA** : Bueno, acá estamos en plenos festejos de este cumpleaños y procurando dar el aporte de LGC a lo que es la vieja construcción de la [[TEMAS/Matrix\|Matrix]], para aportarle transparencia y otra escala más de definición. Este es un hecho -que yo entiendo que no se en- tienda- pero que por lo menos, educativamente, va aportando poquito a poquito, a ir creando los **conceptos** que tienen que ver con brindar las oportunidades; y si la captación está, a esta escala, o no está a esta escala, ahora lo podemos documentar. Voy a estar mostrando una serie de relaciones que obviamente son estructurales y que van acreditando las cosas que voy sintonizando, y que con posterioridad encontramos las [[huellas\|huellas]] dentro de la estructura.
+**ALEJANDRA** : Bueno, acá estamos en plenos festejos de este cumpleaños y procurando dar el aporte de LGC a lo que es la vieja construcción de la [[TEMAS/Matrix\|Matrix]], para aportarle transparencia y otra escala más de definición. Este es un hecho -que yo entiendo que no se en- tienda- pero que por lo menos, educativamente, va aportando poquito a poquito, a ir creando los **conceptos** que tienen que ver con brindar las oportunidades; y si la captación está, a esta escala, o no está a esta escala, ahora lo podemos documentar. Voy a estar mostrando una serie de relaciones que obviamente son estructurales y que van acreditando las cosas que voy sintonizando, y que con posterioridad encontramos las [[TEMAS/huella\|huella]]s dentro de la estructura.
 
 **_LETICIA_** : _Quizá en retro vamos a entender esto que está sucediendo ahora._
 
@@ -53,13 +53,7 @@ Bueno, acá lo que tenemos es la _Tabla_ que está desplegada en esas 32 columna
 - Primero, los 30 espacios entre el Helio y el Hidrógeno que corresponden a la codificación del _3° Orbital_ respecto de _Sol_ [3-0], y a gestionar evidentemente los recursos fuente. Esto es la escala subatómica de la cual estoy hablando.
 - Obviamente que luego de marcar el día 118, empezamos a marcar el día 119, entregándole la tarea N°1 y es justamente “dar cobertura a la octava del contexto” que eso es lo que significa 118 - con lectura LGC-.
 - Entonces, 119, 120... y así sucesivamente hasta llegar al 148.
-- Y, luego fuimos llenando los espacios que estoy marcándolo acá con el cursor color
-
-
-```
-azul -intentado que se note más el cursor para que se pueda apreciar mejor cuando
-señalo algo-.
-```
+- Y, luego fuimos llenando los espacios que estoy marcándolo acá con el cursor color azul -intentado que se note más el cursor para que se pueda apreciar mejor cuando señalo algo-.
 - Hasta que llegamos a este este punto. Acá hay una división ¿verdad? Vamos a ver
     que esta es la división que configura la mitad. De aquí para la izquierda, tenemos 16
     posiciones y de aquí para la derecha tenemos 16 posiciones.
@@ -102,24 +96,20 @@ Primera cosa que voy a decir, quiero poder hacer la alusión al **N** orte, al *
 { #mmhfql}
 
 
-
 ¿Cómo ejecuta la documentación? Por las señales que van llegando y que son equivalentes a lo que estaba previamente configurado en cardinalidad Norte, Este y Oeste. Ahora, ese modelo va a ser “el [[TEMAS/modelo binario\|modelo binario]]” que acá está representado por el elemento NE de [[TEMAS/neón\|neón]].
 { #n36oin}
 
-```
-```
-Este personaje, en Matrix, hacía la tarea de programador y el “Día del Programador” es el día 256 del año; hete aquí, que, al usar la frecuencia positiva del año, no está considerando la actualización del 29 de febrero -que es el día 60- cada 4 años en el bisiesto. En este caso, en su lugar, el día que responde al bibliotecario es el 13 de septiembre , porque está relacionado a la fecha -pero no a la frecuencia positiva del año-.
+
+Este personaje, en Matrix, hacía la tarea de programador y el “Día del Programador” es el día 256 del año; hete aquí, que, al usar la frecuencia positiva del año, no está considerando la actualización del [[TEMAS/29 de febrero\|29 de febrero]] -que es el día 60- cada 4 años en el bisiesto. En este caso, en su lugar, el día que responde al bibliotecario es el 13 de septiembre , porque está relacionado a la fecha -pero no a la frecuencia positiva del año-.
 { #zvvw6j}
 
-```
-```
+
 Yo sé que es medio pesado y que la gente se aburre con estas explicaciones ¡Pero son muy importantes! porque si no, después no entendemos nada...
-```
-```
-Entonces, el programador se ocupa de la tarea de ese N orte, de ese E ste, y de ese O este, porque es el sistema de orientación en el [[flujo de señales]] que va a tener que cursar el Bibliotecario cuando le lleguen nuevas cosas que no están adentro de lo conocido.
+
+Entonces, el programador se ocupa de la tarea de ese N orte, de ese E ste, y de ese O este, porque es el sistema de orientación en el [[TEMAS/flujo de señales\|flujo de señales]] que va a tener que cursar el Bibliotecario cuando le lleguen nuevas cosas que no están adentro de lo conocido.
 
 (^1) En un año común -no bisiesto- estas dos celebraciones coinciden
-(^2) **Thomas A. Anderson** más conocido como **Neo** es un personaje ficticio de la saga de películas de ciencia ficción Matrix. Thomas A. Anderson es un **programador** de la prestigiosa firma de software Metacortex. Sus padres son John Anderson y Michelle McGahey. Nació el **13 de septiembre de 1971** [[1971-09-13]] en Lower Downtown, Capital City. Estudió en Central West Junior High y posteriormente en Owen Paterson High. A los ojos de todos es un habitante más de los tantos que existen en el mundo, pero lo que pocos saben es que él posee una doble vida y un destino específico; es _el Elegido_. En la red se lo conoce como "Neo", un _hacker_ que, según dicen, ha cometido todos los crímenes informáticos que existen. En su mente hay una extraña sensación de que nada es lo que parece ser. Hasta que un día recibe un mensaje en su computadora: "Matrix has you" ("Matrix te posee"), "Follow the white rabbit" ("sigue al conejo blanco"). No sabe de dónde proviene ese mensaje, ni siquiera sabe si en verdad lo recibió o fue solo un sueño, pero decide confiar y seguir la pista de "el conejo blanco", la cual lo llevará a Trinity (una _hacker_ que ganó fama al infiltrarse en la base de datos de Hacienda) y a Morfeo (denominado por algunos como "el hombre más peligroso que existe").
+(^2) **Thomas A. Anderson** más conocido como **Neo** es un personaje ficticio de la saga de películas de ciencia ficción Matrix. Thomas A. Anderson es un **programador** de la prestigiosa firma de software Metacortex. Sus padres son John Anderson y Michelle McGahey. Nació el **13 de septiembre de 1971** [[FECHAS/1971-09-13\|1971-09-13]] en Lower Downtown, Capital City. Estudió en Central West Junior High y posteriormente en Owen Paterson High. A los ojos de todos es un habitante más de los tantos que existen en el mundo, pero lo que pocos saben es que él posee una doble vida y un destino específico; es _el Elegido_. En la red se lo conoce como "Neo", un _hacker_ que, según dicen, ha cometido todos los crímenes informáticos que existen. En su mente hay una extraña sensación de que nada es lo que parece ser. Hasta que un día recibe un mensaje en su computadora: "Matrix has you" ("Matrix te posee"), "Follow the white rabbit" ("sigue al conejo blanco"). No sabe de dónde proviene ese mensaje, ni siquiera sabe si en verdad lo recibió o fue solo un sueño, pero decide confiar y seguir la pista de "el conejo blanco", la cual lo llevará a Trinity (una _hacker_ que ganó fama al infiltrarse en la base de datos de Hacienda) y a Morfeo (denominado por algunos como "el hombre más peligroso que existe").
 { #nn09pk}
 
 
@@ -128,22 +118,21 @@ Entonces, en esta fracción, en esto que ha corrido estas semanas por las redes,
 
 Otra cosa es que el año [de nacimiento] es **1971**.
 
-1971 tiene que ver con el [[oro]] y el [[berkelio]] en el contexto. O sea, realmente puede utilizar La parabólica para “ver qué lío” hay en el contexto y poder anticiparse para generar la transparentación de la Matrix, porque finalmente cuando Smith toca a las personas, las clona.
+1971 tiene que ver con el [[TEMAS/oro\|oro]] y el [[TEMAS/berkelio\|berkelio]] en el contexto. O sea, realmente puede utilizar La parabólica para “ver qué lío” hay en el contexto y poder anticiparse para generar la transparentación de la Matrix, porque finalmente cuando Smith toca a las personas, las clona.
 
 ¿Qué significa que las clona? Que contamina a todas las partículas con su propia información particular y cuando Neo logra, lo que logra, consigue progresar la escala, y cada persona se vuelve particularmente una conexión de frecuencia específica, que va a darle unicidad y distinción a cada persona; por lo tanto, las personas son particularmente constituidas. 
 
-¡Obviamente que esta interpretación no va a estar en las redes! Solamente va a estar acá en LGC. Digo, porque este 256 “Día del programador” lo tenemos justamente atendiendo a la posición de [[oganesón]] -habiendo cumplido la tarea a través de la [[vuelta 15]] - que es la que tiene que recibir al modelo “del otro que no soy yo”. Y justamente, poder andamiar una anticipación o escribir un código online para hacer progresar nuestras octavas sociales o interactivas. En definitiva, contribuyendo a un sistema del cual participamos, uno que soy yo, y otro que no es Yo.
+¡Obviamente que esta interpretación no va a estar en las redes! Solamente va a estar acá en LGC. Digo, porque este 256 “Día del programador” lo tenemos justamente atendiendo a la posición de [[TEMAS/oganesón\|oganesón]] -habiendo cumplido la tarea a través de la [[TEMAS/vuelta 15\|vuelta 15]] - que es la que tiene que recibir al modelo “del otro que no soy yo”. Y justamente, poder andamiar una anticipación o escribir un código online para hacer progresar nuestras octavas sociales o interactivas. En definitiva, contribuyendo a un sistema del cual participamos, uno que soy yo, y otro que no es Yo.
 
 Eso hace al Progreso del flujo de Señales, a la sincronización de los **destinos** previamente programados por nosotros mismos en otra dimensión.
 
-- Bueno, entonces acá lo que voy a hacer es recordar determinadas cositas que ya las vimos antes, que es la conexión entre este 118, este 119 y el día de ayer 11/8, que lo que hace es coronar a [[LA]]
-
+- Bueno, entonces acá lo que voy a hacer es recordar determinadas cositas que ya las vimos antes, que es la conexión entre este 118, este 119 y el día de ayer 11/8, que lo que hace es coronar a [[TEMAS/LA\|LA]]
 
 ¿Qué es LA? Es justamente el intérprete de las señales. Entonces, ahí le llega para interpretar a toda la _Tabla,_ y por lo tanto, _El Flujo De Señales_ sea limpio y transparente, cada capa diferenciada de cada capa.
 { #08y17u}
 
 
-- Acá vemos los datos que tienen que ver con el señor [[Yuri Oganesian]], que es el que nos acerca el conocimiento del _Elemento 118_ , y acá vemos su día nativo [[1933-04-14]].
+- Acá vemos los datos que tienen que ver con el señor [[ANTENAS/Yuri Oganesian\|Yuri Oganesian]], que es el que nos acerca el conocimiento del _Elemento 118_ , y acá vemos su día nativo [[FECHAS/1933-04-14\|1933-04-14]].
 { #2izaxl}
 
 - Ahora vamos a ver Yuri Oganesian al 12 de agosto, que en este
@@ -153,7 +142,7 @@ Eso hace al Progreso del flujo de Señales, a la sincronización de los **destin
 ¿Qué es lo que vamos a poder ver acá?
 ```
 Nosotros, a escala global, estamos calibrando una nueva frecuencia
-para el [[código 58\|código 58]] a escala global ¿sí o no? - pregunto-
+para el [[TEMAS/código 58\|código 58]] a escala global ¿sí o no? - pregunto-
 
 **_LETICIA_** : _Sí_
 
@@ -162,9 +151,9 @@ para el [[código 58\|código 58]] a escala global ¿sí o no? - pregunto-
 - Si en el campo solo existen conciencias **contenido** solamente _reactivas,_ claramente la nota que tendríamos al día de hoy sería, ¡completamente insuficiente!
 - Este **333 ,** nos está tomando el termómetro **58** - Cómo podemos nosotros, o no, administrar la ocurrencia-
 
-¿Por qué digo [[TEMAS/ocurrencia\|ocurrencia]] y no digo [[octava\|octava]]?
+¿Por qué digo [[TEMAS/ocurrencia\|ocurrencia]] y no digo [[TEMAS/octava\|octava]]?
 
-Porque cuando la ocurrencia está en escala subatómica, tiene un índice muy alto de volatilidad y que esto es muy propenso a nuestra identidad más precaria, que es la **identidad imaginaria.** Entonces, si esta identidad imaginaria es demasiado volátil, evidentemente no estamos en la madurez para hacernos cargo de procesos que nos traigan residuos, documentos que luego nos sirven de referencia de mejora para progresar la ocurrencia a una nueva escala.
+Porque cuando la ocurrencia está en escala subatómica, tiene un índice muy alto de volatilidad y que esto es muy propenso a nuestra identidad más precaria, que es la **[[TEMAS/identidad imaginaria\|identidad imaginaria]].** Entonces, si esta identidad imaginaria es demasiado volátil, evidentemente no estamos en la madurez para hacernos cargo de procesos que nos traigan residuos, documentos que luego nos sirven de referencia de mejora para progresar la ocurrencia a una nueva escala.
 { #c88ff1}
 
 
@@ -292,13 +281,15 @@ Y ahora vamos a poner otra **edad nueva** que le vamos a dar inicio al día de h
 
 
 
-**ALEJANDRA** : porque es una edad administrativa de la _Edad Contemporánea._ ... Es una **Edad Administrativa** de la _Edad Moderna_ , es una **Edad administrativa** de la _Edad Media,_ porque, de hecho, nos tenemos que hacer cargo del rol de nuestros **apellidos** concebidos en Edad Media ¡qué maravilla!
+**ALEJANDRA** : porque es una edad administrativa de la _Edad Contemporánea._ ... Es una **Edad Administrativa** de la _Edad Moderna_ , es una **Edad administrativa** de la _Edad Media,_ porque, de hecho, nos tenemos que hacer cargo del rol de nuestros **[[TEMAS/apellidos\|apellidos]]** concebidos en Edad Media ¡qué maravilla!
+{ #meo0a9}
 
-**_LETICIA_** : _¡Me encanta! Porque es 5, y además lleva esa responsabilidad de la Administra- ción._
+
+**_LETICIA_** : _¡Me encanta! Porque es 5, y además lleva esa responsabilidad de la Administración._
 
 **ALEJANDRA** : Entonces, ahí viene a recodificar CASADO - estado civil- es como la “CASA de los DOcumentos”; acá estábamos cumpliendo el rol.
 
-Volviendo a reinterpretar todo ese aluvión, que obviamente, en el pasado se hizo lo que se pudo y se llegó hasta donde se llegó. En este momento cambia el crédito que estaba depositado en el _[[TEMAS/Eje RO\|Eje RO]],_ y pasa a estar depositado en el _[[TEMAS/eje RI\|eje RI]]_ , por lo cual se verticaliza.
+Volviendo a reinterpretar todo ese aluvión, que obviamente, en el pasado se hizo lo que se pudo y se llegó hasta donde se llegó. En este momento cambia el crédito que estaba depositado en el _[[TEMAS/eje RO\|eje RO]],_ y pasa a estar depositado en el _[[TEMAS/eje RI\|eje RI]]_ , por lo cual se verticaliza.
 
 Yo preparé una animación para mostrarlo. Vamos a ver cómo sale la animación.
 
@@ -338,7 +329,7 @@ Entonces, colocar a la _Edad Moderna_ como piñón fijo y permitir que posicione
 respondo a mi alcance, y vuelvo”. Y tiene que ser _temporal_ , porque cuando deja de ser
 temporal y se vuelve _permanente,_ se pierde el registro de ese renglón.
 
-Entonces, nuestro aspecto digital **55** - que es nuestro reloj atómico- nuestro reloj de SESIO, necesita administrar nuestra **sesión** , necesita reevaluar qué es lo que me pidió el contexto, cuáles fueron mis fallas, cuáles fueron mis faltas para crear una variable de entorno, y que por las noches trabajen todas esas dimensiones, y en la mañana ¡Ah! ¡está actualizado! y tengo un nuevo alcance. Así trabaja **55** y **86** - o así debiera trabajar- en un código solar normal no interferido.
+Entonces, nuestro aspecto digital **55** - que es nuestro reloj atómico- nuestro reloj de SESIO [[TEMAS/cesio\|cesio]], necesita administrar nuestra **sesión** , necesita reevaluar qué es lo que me pidió el contexto, cuáles fueron mis fallas, cuáles fueron mis faltas para crear una variable de entorno, y que por las noches trabajen todas esas dimensiones, y en la mañana ¡Ah! ¡está actualizado! y tengo un nuevo alcance. Así trabaja **55** y **86** - o así debiera trabajar- en un código solar normal no interferido.
 { #esb76a}
 
 
@@ -404,11 +395,11 @@ esa nutrición la va a poner en acto en su vida de manera natural y ese desarrol
 impactar en el otro. Punto. En el punto exacto de conexión entre el alcance del otro y el
 alcance de la persona que se nutre de otra manera.
 
-Pero si vamos a verlo en la sociedad, está ocurriendo ¡y está ocurriendo todo el rato! Los niños que nacen ahora van a incrementar el conocimiento por sí mismos -no porque van a ser educados- ¡Eso ya pasó! ahora es el _[[TEMAS/código solar\|código solar]]_ el que va a brindar educación -por capas-, porque si no se hace por capas, esto es estruendoso, y crece más el riesgo que la oportunidad. En cambio, así natural, natural, natural, de hecho, está pasando natural e imperceptible. Lo que pasa es que las personas no lo razonan por este ángulo, pero sí está pasando todo el rato.
+Pero si vamos a verlo en la sociedad, está ocurriendo ¡y está ocurriendo todo el rato! Los niños que nacen ahora van a incrementar el conocimiento por sí mismos -no porque van a ser educados- ¡Eso ya pasó! ahora es el _[[TEMAS/código solar nativo\|código solar nativo]]_ el que va a brindar educación -por capas-, porque si no se hace por capas, esto es estruendoso, y crece más el riesgo que la oportunidad. En cambio, así natural, natural, natural, de hecho, está pasando natural e imperceptible. Lo que pasa es que las personas no lo razonan por este ángulo, pero sí está pasando todo el rato.
 
-Cada vez más usamos más la RAM que la ROM, cada vez más trabajamos más sobre la autopercepción, por ejemplo. Pero esto no está relacionado con la carga en la ionosfera, ... ¡pero yo digo que sí lo está! O sea, interpretan las cosas como “fenómenos culturales” y **son fenómenos solares que nos afectan culturalmente** ¡no tiene nada que ver!
+Cada vez más usamos más la [[TEMAS/RAM\|RAM]] que la [[TEMAS/ROM\|ROM]], cada vez más trabajamos más sobre la autopercepción, por ejemplo. Pero esto no está relacionado con la carga en la ionosfera, ... ¡pero yo digo que sí lo está! O sea, interpretan las cosas como “fenómenos culturales” y **son fenómenos solares que nos afectan culturalmente** ¡no tiene nada que ver!
 
-Entonces eso... el “fácil- fácil” es: La LGC es algo que pica. _“¿Dónde pica?”... E_ ntonces... no es nada
+Entonces eso... el “fácil- fácil” es: La LGC es algo que pica. _“¿Dónde pica?”... Entonces... no es nada
 
 **_LETICIA_** _: Y a quien le pique, que se rasque_ (risas)
 
@@ -445,7 +436,6 @@ O decir que “el [[TEMAS/dinero\|dinero]] tiene valor”. El dinero **no** tien
 
 **El dinero no tiene valor** , porque cuanto más valor le damos al dinero lo restamos del foco de la mejora del proceso y de la lectura de la huella. [Si ponés] El foco en la lectura de la [[TEMAS/huella\|huella]] y en la calidad del proceso ¡ni te das cuenta! ¡y el dinero nunca es un problema para ti! en lo que sea que hagas - no importa-.
 { #9uf16n}
-
 
 
 Entonces, cuando nos ponemos a mirar la economía -que es el flujo de las interacciones por excelencia- el flujo entre todos los créditos y todos los códigos, vemos adónde hay las demandas, las necesidades y las vamos atendiendo. O sea, ¡crecimiento! Gente.

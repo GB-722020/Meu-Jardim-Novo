@@ -3,4 +3,4 @@
 ---
 
 
-¿Por qué digo [[TEMAS/ocurrencia\|ocurrencia]] y no digo [[octava\|octava]]? [[ACER/Ale en Red 119#^c88ff1\|Ale en Red 119#^c88ff1]]
+¿Por qué digo [[TEMAS/ocurrencia\|ocurrencia]] y no digo [[TEMAS/octava\|octava]]? [[ACER/Ale en Red 119#^c88ff1\|Ale en Red 119#^c88ff1]]

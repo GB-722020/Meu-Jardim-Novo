@@ -3,4 +3,4 @@
 ---
 
 
-la capacidad de conectar con la ionosfera, [[RAM\|RAM]] [[REM\|REM]] [[ROM\|ROM]] [[RUM\|RUM]], [[TEMAS/MORSE\|MORSE]] [[ACER/Ale en Red 123#^n2x4lu\|Ale en Red 123#^n2x4lu]]
+la capacidad de conectar con la ionosfera, [[TEMAS/RAM\|RAM]] [[REM\|REM]] [[TEMAS/ROM\|ROM]] [[RUM\|RUM]], [[TEMAS/MORSE\|MORSE]] [[ACER/Ale en Red 123#^n2x4lu\|Ale en Red 123#^n2x4lu]]
