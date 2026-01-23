@@ -140,7 +140,7 @@ Por eso es la conclusión, el 15 / 10 / 2015 : “Hice una bisagra lógica en la
 { #zsw1iz}
 
 
-Tengo que agradecer la próxima imagen a Carolina, que es la que me ha facilitado este gráfico, que es un recorte de la Tabla y que toma a la Vuelta 12 , 13 y 14, porque como _[[Calendaria\|Calendaria]]_ tiene 4 espacios por cardinalidad, es como que lo podemos leer directamente por esas partes.
+Tengo que agradecer la próxima imagen a Carolina, que es la que me ha facilitado este gráfico, que es un recorte de la Tabla y que toma a la Vuelta 12 , 13 y 14, porque como _[[TEMAS/Calendaria\|Calendaria]]_ tiene 4 espacios por cardinalidad, es como que lo podemos leer directamente por esas partes.
 
 
 - Hoy es el día 177 y vamos a terminar con contexto/contexto- Vuelta 14 que es “la captación del otro, impactándome” -en la antena- porque se trata de que, si Sol está creando una realidad local, va a procurar que esa realidad local sea de la mejor calidad. O sea ¡que tenga la mayor sincronicidad! que los documentos sean sincro- nizados y legibles para el habitante; que todos nosotros podamos ser conscientes de todas las escalas que producen esa documentación, para que se ejecute adentro de este ámbito. Eso ya le daría a Sol la calificación donde empezaría a pertenecer más a _[[TEMAS/Andrómeda\|Andrómeda]]_ que a la _Vía Láctea_. Como que pasaría su etapa de formación inicial y ya entraría en “las Grandes Ligas”; entraría a publicar su constructo en el Universo y eso se llama **la [[TEMAS/era galáctica\|era galáctica]].**
@@ -343,7 +343,7 @@ que voy a mostrar a continuación:
 - Acá, lo mismo. 7 1971 **2** y **2/7/1971**  O sea, el 2 , que hace punta acá, está acá; pero todos los dígitos de **la fecha** se reflejan en el **Día Solar.**
 - Acá, lo mismo con el 3 de Julio. 71971 **3** - **3** /7/1971... Dicho sea de paso, el día nativo de Assange^3 , este muchacho que devela cosas. Bueno, entiendan que él tiene el nativo el día 3 de julio de 1971, por lo tanto, ocurre esta **combinatoria entre día** **solar y fecha,** entonces _la percepción de escala subatómica está exageradamente_ _acentuada en estos receptores._
 - Ahora, lo mismo pasa con el día 4, con el día 5, con el día6, con el día 7, con el día
-    8 y con el día 9. [[TEMAS/1971-07-06\|1971-07-06]]
+    8 y con el día 9. [[FECHAS/1971-07-06\|1971-07-06]]
 - Una vez que vemos esta recodificación ¿Qué es lo que encontramos adentro de esta fecha que es 10 de julio de 1971? Encontramos al 1972 , y al 1972 -pero como codificación del **espacio** -.
     - 71 , es espacio y 1972 está por dentro. esto es “código solar nativo, interpretando el 1972”. Esto es algo que funcional- mente estaríamos acoplando y haciendo realidad esa sincronización.
     - 1972 tiene un 2 a la derecha, por lo tanto, va a ser funcional.
@@ -364,7 +364,7 @@ Bien ahora lo que voy a mostrar, es lo que sería el **26 / 6 ,** pero en esta o
 - A ver, 73 / 37 ¿reconoces a la palabra 73 como “libertad”? Bien, la libertad te la dan los **Marcos** y Rubidio tiene que ver con los Marcos, porque es lo que _mi observador_ me permitió determi- nar; es un _Marco,_ porque quedó determinado.
 - Lo determina el observador - 7 3 - pero, después, si yo lo veo como “material”, porque determinó el observador, 3 7 me va a dar la lec- tura -del marco del alcance de mi observador-, porque capaz que mi observador llega hasta dónde llega, y hasta donde no llega, no llegó.
 - Por lo tanto, **el marco va a depender del alcance del observador**. Digo, para que se pueda interpretar qué significa la determinación del _alcance admi-_ _nistrativo del receptor_ - 5 a la izquierda, 1 a la derecha-.
-- Entonces, estoy calibrando este código [1/7/5731] con respecto a este código [1/7/1971] y el día solar que corresponde aquí es **2093023**. [[TEMAS/5731-07-01\|5731-07-01]]
+- Entonces, estoy calibrando este código [1/7/5731] con respecto a este código [1/7/1971] y el día solar que corresponde aquí es **2093023**. [[FECHAS/5731-07-01\|5731-07-01]]
 - Entonces, yo digo, si esto cursara sin la interferencia de nada de lo que sucedería, ¡entraríamos en una conectividad realmente espectacular! ¿Ves **para que nuestra** **antena se pueda actualizar continuamente**? y **nosotros, estando aquí anatómicamente configurados, pero particularmente sintonizados.** O sea, porque el día solar y la fecha convergen. Esto sería, estar funcionalmente, completamente **integrado.**
 
 Para poder evitar toda esta sincronización, en el 1972 -como año- ... y acá viene la otra parte que preparé. Tengo al año DECIDE 1972 , para que puedan observar ¡Qué impactante es la coordinación!
@@ -372,7 +372,7 @@ Para poder evitar toda esta sincronización, en el 1972 -como año- ... y acá v
 
 - Fíjense esto: **el día 9 de la Vuelta 12** , [en el día solar **720079** ] tenemos a 9 sosteniendo la conciencia [77] de la conexión 200. “La conexión exitosa en la conciencia” y además actualizada [9].
     O sea ¡todo lo que el código solar nativo tenía previsto para que nosotros usásemos en toda la era que fue tremendamente nefasta! porque todo lo que fue Latinoamérica, que tiene los códigos 5, han sufrido una violencia desmesurada. O sea, lo que menos había era sincronización entre las antenas.
-- Yo estoy hablando de justamente al **día 30 de junio** , para poder evitar esto que estoy mostrando acá -con la lógica que vengo describiendo- al **30 de junio de 1972** [[TEMAS/1972-06-30\|1972-06-30]] , donde hay que aplicar el oro y al berkelio a la Base 12 y 21.
+- Yo estoy hablando de justamente al **día 30 de junio** , para poder evitar esto que estoy mostrando acá -con la lógica que vengo describiendo- al **30 de junio de 1972** [[FECHAS/1972-06-30\|1972-06-30]] , donde hay que aplicar el oro y al berkelio a la Base 12 y 21.
     - Entendamos que 1971 es **ancla** de 1972, entonces, antes de que empiece a leer al 1 de julio del año anterior... ¡Zácate^4! llega el **segundo intercalar**.
     - ¡El segundo intercalar era la única ventana que podía evitar que nuestro código
        solar nativo entrara en una sincro super espectacular!

@@ -5,4 +5,4 @@
 
 El **RAZONAMIENTO** va producir el concepto [[ACER/Ale en Red 123#^11vau7\|Ale en Red 123#^11vau7]]
 
-razonamiento, [[entendimiento\|entendimiento]] y [[comprensión\|comprensión]] [[ACER/Ale en Red 123#^wzee1e\|Ale en Red 123#^wzee1e]]
+razonamiento, [[entendimiento\|entendimiento]] y [[TEMAS/comprensión\|comprensión]] [[ACER/Ale en Red 123#^wzee1e\|Ale en Red 123#^wzee1e]]
