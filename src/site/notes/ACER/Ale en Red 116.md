@@ -249,7 +249,7 @@ Ahora vamos a la siguiente placa:
 - Esto tiene que ver con Vuelta 12 - que es donde ahora nosotros estamos parados- y vamos a ver aquí:
 
 - El 25/ 6 / 5784 , es el día 211 2 **376**.
-- Volvemos con lo que empezamos **¿Qué es la [[vuelta 12\|vuelta 12]]? es “recibir al otro, afectándome a mi percepción** ”.
+- Volvemos con lo que empezamos **¿Qué es la [[TEMAS/vuelta 12\|vuelta 12]]? es “recibir al otro, afectándome a mi percepción** ”.
 - Vuelta 12 refiere a _Fuente Externa._ Entonces tenemos como _Fuente_ _Externa_ a ese **376** , calibrándolo solarmente. ¡Esto es impresionante!
 - Aparte, si nosotros vamos a la codificación implícita...Bueno, ya lo voy a mostrar, porque tengo otra placa para hablar de ese tema.
 
