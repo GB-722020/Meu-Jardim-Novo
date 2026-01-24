@@ -147,7 +147,7 @@ Esta construcción de sentido [[vuelta 18\|vuelta 18]]:
 
 
 - Impacta en Vuelta 19 ,
-- Madura en [[vuelta 20\|vuelta 20]],
+- Madura en [[TEMAS/vuelta 20\|vuelta 20]],
 - Afecta a [[vuelta 21\|vuelta 21]]
 - Y ecualiza a [[TEMAS/vuelta 22\|vuelta 22]].  
     “Ecualiza” es el mejor de Los destinos posibles, porque son los destinos superpuestos. **Vuelta 22** → 11 - 11 , son los destinos superpuestos y cuando los destinos están superpuestos, si el trabajo tiene mucho que ver con _el Paradigma del [[TEMAS/código solar nativo\|código solar nativo]],_ entonces es una sincronización que reporta una mejora enorme. Ahora, si estamos hablando de que la antenita no viene del _Código Solar Nativo,_ sino del [[TEMAS/cosmos\|cosmos]], son episodios de destrucción masiva -o intentos de crear destrucción masiva- porque son luchas por el espacio; por un espacio que no es propio, entonces no importa nada si rompe, total... “es un juego”.
