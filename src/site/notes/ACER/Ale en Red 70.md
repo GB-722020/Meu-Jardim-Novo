@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-70/","created":"2026-01-24T10:32:17.724-03:00","updated":"2026-01-25T14:42:42.615-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-70/","created":"2026-01-24T10:32:17.724-03:00","updated":"2026-01-25T16:25:03.867-03:00"}
 ---
 
 
@@ -74,28 +74,38 @@ Autor del código de mi prototipo, sí, ok, yo, yo igual a yo, igual a perfecto,
 
 “La caja” me da los documentos que yo preciso para hacer mejor mi código.
 
-Así que, bueno, ahí funcionalizando según la anatomía del año, el recur- so, siendo el día 177 y faltando 188 días para que termine el año, pode- mos ver muy claramente que 77-88 es toda la Conciencia que podamos portar más todas las octavas que se van a cruzar, porque ahí entramos en el punto de cruzamiento de las octavas y entramos a sacar fricción.
+Así que, bueno, ahí funcionalizando según la anatomía del año, el recurso, siendo el día 177 y faltando 188 días para que termine el año, podemos ver muy claramente que 77-88 es toda la Conciencia que podamos portar más todas las octavas que se van a cruzar, porque ahí entramos en el punto de cruzamiento de las octavas y entramos a sacar fricción.
 
-Entonces, coordinar con “la caja” al ámbito donde yo voy a entrar, es de- cir: ok, ahora no manda mi lógica, manda tu lógica. Si manda tu lógica, mi prototipo tiene que tener un sistema de alerta para que en tiempo real pueda elaborar una respuesta para una mente distinta de la propia.
+Entonces, coordinar con “[[TEMAS/la caja\|la caja]]” al ámbito donde yo voy a entrar, es decir: ok, ahora no manda mi lógica, manda tu lógica. Si manda tu lógica, mi prototipo tiene que tener un sistema de alerta para que en [[TEMAS/tiempo real\|tiempo real]] pueda elaborar una respuesta para una mente distinta de la propia.
+{ #dywpoy}
 
-Porque sino, lo que ocurre es que la mente del otro me golpea en el cuer- po; es cuando decimos, el otro me da carga. Significa que hay un vínculo que todavía no chequeaste entre la mente del otro y tu cuerpo. Significa que tienes una lista de tareas en la Conciencia para codificar y mapear al ámbito, al miembro, y poder escribir tu código para que tu estructura psicológica pueda recibir la señal.
+
+Porque sino, lo que ocurre es que la [[TEMAS/mente\|mente]] del otro me golpea en el [[TEMAS/cuerpo\|cuerpo]]; es cuando decimos, el otro me da [[TEMAS/carga\|carga]]. Significa que hay un vínculo que todavía no chequeaste entre la mente del otro y tu cuerpo. Significa que tienes una lista de tareas en la Conciencia para codificar y mapear al ámbito, al miembro, y poder escribir tu código para que tu estructura psicológica pueda recibir la señal.
+{ #90t8aq}
+
 
 Si te da carga es porque ya la recibió el cuerpo.
 
 Quiero decir, hay una bacante en tu estructura psicológica que todavía tiene una tarea pendiente. 
 
-Comprendamos el “me da carga” de una manera distinta, donde...
+Comprendamos el “me da [[TEMAS/carga\|carga]]” de una manera distinta, donde...
 ¿La carga, a quién le da?
 A mí
 ¡Ah, bueno!
 ¿Quién tiene que trabajar?
-¡Yo!
+¡Yo! 
+{ #tc23uq}
 
-Este es el punto, porque en definitiva la carga es un recurso que ya tie- nes... es como si fuera el auto que ya tiene el combustible pero todavía no tiene hoja de ruta.
+
+Este es el punto, porque en definitiva la [[TEMAS/carga\|carga]] es un [[recurso\|recurso]] que ya tienes... es como si fuera el auto que ya tiene el combustible pero todavía no tiene hoja de ruta.
+{ #lxje3p}
+
 
 Y dices: me da carga. Sí, claro, me da carga pero no me da ruta...
 
-Porque si te da carga y ruta, la carga está llegando y se está yendo en el mismo instante porque hay ruta. Pero si llega la carga y no hay ruta, el prototipo dice: tengo carga ¿dónde vamos?
+Porque si te da carga y ruta, la carga está llegando y se está yendo en el mismo instante porque hay ruta. Pero si llega la carga y no hay [[TEMAS/ruta\|ruta]], el prototipo dice: tengo carga ¿dónde vamos?
+{ #qe4pm0}
+
 
 Y como yo soy igual a yo, igual a perfecto allá arriba, el que tendría que cambiar es el otro...
 

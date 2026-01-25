@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/mente/","created":"2026-01-19T17:16:56.359-03:00","updated":"2026-01-25T10:25:44.515-03:00"}
+{"dg-publish":true,"permalink":"/temas/mente/","created":"2026-01-19T17:16:56.359-03:00","updated":"2026-01-25T15:57:27.481-03:00"}
 ---
 
 
@@ -16,6 +16,9 @@ aspecto nuclear [[TEMAS/mente\|mente]], aspecto atômico [[TEMAS/mentalidad\|men
 **[[TEMAS/mentalidad\|mentalidad]] social** está clavada al pasado, por lo tanto, la **[[TEMAS/mente\|mente]]** está en estado inactivo [[ACER/Ale en Red 002#^9e3or9\|Ale en Red 002#^9e3or9]]
 
 
+**Ale en Red 70**
+
+la [[TEMAS/mente\|mente]] del otro me golpea en el [[TEMAS/cuerpo\|cuerpo]]; es cuando decimos, el otro me da [[TEMAS/carga\|carga]] [[ACER/Ale en Red 70#^90t8aq\|Ale en Red 70#^90t8aq]]
 
 
 **Ale en Red 123**
