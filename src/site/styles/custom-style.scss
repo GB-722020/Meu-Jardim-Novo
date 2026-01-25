@@ -11,3 +11,20 @@ body {
     //   color: black;
     //  }
 }
+/* Destaca o container do gráfico no site */
+.graph-view-container {
+    height: 500px !important; /* Deixa o gráfico mais alto */
+    background: var(--background-secondary); /* Dá um fundo diferente do resto da nota */
+    border: 2px solid var(--interactive-accent); /* Adiciona uma borda com a cor do seu tema */
+    border-radius: 12px;
+    margin: 40px 0; /* Dá espaço entre o texto e o gráfico */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1); /* Adiciona uma sombra para flutuar */
+}
+
+/* Deixa o título do gráfico maior */
+.graph-view-title {
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--interactive-accent);
+}
