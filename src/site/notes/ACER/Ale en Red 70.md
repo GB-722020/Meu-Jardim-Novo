@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-70/","created":"2026-01-24T10:32:17.724-03:00","updated":"2026-01-25T10:24:31.602-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-70/","created":"2026-01-24T10:32:17.724-03:00","updated":"2026-01-25T14:42:42.615-03:00"}
 ---
 
 
@@ -70,7 +70,7 @@ Entonces, mis recursos como codificador, no van a ser suficientes, porque en el 
 { #0dvdmq}
 
 
-Autor del código de mi prototipo, sí, ok, yo, yo igual a yo, igual a perfecto, pero resulta que acá hay muchos “yoes” anatómicos juntos, y que cada uno vendrá con su esquema de 12-21, y yo para poder interactuar con ellos, preciso “la caja”, no guiarme por mi propia codificación original, sino por lo que me va a pegar.
+Autor del código de mi prototipo, sí, ok, yo, yo igual a yo, igual a perfecto, pero resulta que acá hay muchos “yoes” anatómicos juntos, y que cada uno vendrá con su esquema de 12-21, y yo para poder interactuar con ellos, preciso “[[TEMAS/la caja\|la caja]]”, no guiarme por mi propia codificación original, sino por lo que me va a pegar.
 
 “La caja” me da los documentos que yo preciso para hacer mejor mi código.
 

@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-01-25T10:52:24.781-03:00"}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-01-25T15:28:50.379-03:00"}
 ---
+
+
+
 
 
 # Bienvenidos al Jardín Digital LGC
