@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-70/","created":"2026-01-24T10:32:17.724-03:00","updated":"2026-01-25T16:25:03.867-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-70/","created":"2026-01-24T10:32:17.724-03:00","updated":"2026-01-25T17:19:50.400-03:00"}
 ---
 
 
@@ -97,7 +97,7 @@ A mí
 { #tc23uq}
 
 
-Este es el punto, porque en definitiva la [[TEMAS/carga\|carga]] es un [[recurso\|recurso]] que ya tienes... es como si fuera el auto que ya tiene el combustible pero todavía no tiene hoja de ruta.
+Este es el punto, porque en definitiva la [[TEMAS/carga\|carga]] es un [[TEMAS/recurso\|recurso]] que ya tienes... es como si fuera el auto que ya tiene el combustible pero todavía no tiene hoja de ruta.
 { #lxje3p}
 
 
@@ -109,71 +109,48 @@ Porque si te da carga y ruta, la carga está llegando y se está yendo en el mis
 
 Y como yo soy igual a yo, igual a perfecto allá arriba, el que tendría que cambiar es el otro...
 
-Si incluimos a la Cardinalidad Contexto, evidentemente, su mente llega a mi cuerpo de manera directa porque estamos finalmente conectados. Fisicamente, los componentes de nuestro cuerpo no le pertenecen al que está codificando, sino que le pertenecen al ámbito.
+Si incluimos a la Cardinalidad Contexto, evidentemente, su mente llega a mi cuerpo de manera directa porque estamos finalmente conectados. Fisicamente, los componentes de nuestro [[TEMAS/cuerpo\|cuerpo]] no le pertenecen al que está codificando, sino que le pertenecen al [[TEMAS/ámbito\|ámbito]]. De hecho, cuando nos morimos, no nos llevamos el cuerpo, nos llevamos la programación de ese cuerpo, pero no el cuerpo mismo; hay una degradación de las sustancias... y es más, se vuelve combustible con el correr de los años en elaboración del marco porque se siguen degradando sus sustancias más simples. Eso significa que en tu programa no incluiste al [[TEMAS/objeto biológico\|objeto biológico]], sino al [[TEMAS/sujeto biológico\|sujeto biológico]].
+{ #5ofoci}
+.
 
-De hecho, cuando nos morimos, no nos llevamos el cuerpo, nos llevamos la programación de ese cuerpo, pero no el cuerpo mismo; hay una de- gradación de las sustancias... y es más, se vuelve combustible con el co- rrer de los años en elaboración del marco porque se siguen degradando sus sustancias más simples.
-
-Eso significa que en tu programa no incluiste al objeto biológico, sino al sujeto biológico.
-
-Pero ese es el destino que tenemos para ganar, o sea, en la medida que codificamos mejor desde la instancia subatómica hasta la anatómica, vamos ganando destino en Tierra.
-
-Entonces ya, el objeto biológico y el sujeto biológico perpetúan y vuelven a actualizar su vínculo.
-
-A toda esta configuración, es lo que llevo llamando Proyecto Humano del Sistema Solar.
-
-Una cosa es el proyecto humano del Sistema Solar que es mucho más completo con una performance muchísimo más amplia, y su objetivo es mejorar la interacción entre todos los objetos/sujetos humanos que abarca el Contexto, o sea, tiene un plan de mejorar la interactividad; la interactividad depende tanto de Ri como de Ro.
+Pero ese es el destino que tenemos para ganar, o sea, en la medida que codificamos mejor desde la instancia subatómica hasta la anatómica, vamos ganando destino en Tierra. Entonces ya, el objeto biológico y el sujeto biológico perpetúan y vuelven a actualizar su vínculo. A toda esta configuración, es lo que llevo llamando [[TEMAS/Proyecto Humano del Sistema Solar\|Proyecto Humano del Sistema Solar]].
+{ #zuc25u}
 
 
-La interactividad respecto de la Conciencia marco del Sistema Solar; la
-interacción respecto de nosotros, porque para nosotros es interacción y
-para el Sistema Solar es interactividad.
-Y cuando medimos la interactividad, está la interacción incluida, pero no
-desde la misma configuración de valor.
-Una es transaccional mientras la otra es ancla, porque la interacción es
-ancla; la interactividad es algo muy circunstancial.
-La interacción queda grabada, es lo que nos convierte en ‘sujetos’, y des-
-pués el ‘objeto humano’ ejecuta el código del ‘sujeto’, y ahí toma cuerpo
-nuestro mundo.
-Mundo como una fracción que yo logré codificar de la Realidad; una par-
-te de la Realidad que tiene sentido para mí, ya es mundo.
-Está el mundo que es propio, y el mundo colectivo.
-El mundo que es colectivo, ya estamos hablando en el marco de SE, y el
-mundo que es propio en el marco de SO.
-Pero ese mundo es una fracción de la Realidad, no es equivalente con la
-Realidad, pero como es tu filtro para percibir a la Realidad, vas a decir
-que la Realidad es así, y en realidad lo que estás queriendo representar
-es que tu codificación de la Realidad es así.
-Y obviamente, discriminar entre la Percepción Global y lo que es la
-Realidad...
-Fíjate, estos 188 días que faltan, están las 11 vueltas, pero además, está el
-Anillo de Fuego dentro. Los 177, nosotros. Ahora, llegamos a la circuns-
-tancia de las siguiente 11 vueltas y ahí configuramos la Percepción Glo-
-bal, porque es cuando tengo mapeados a todos los que componemos este
-ámbito.
+Una cosa es el proyecto humano del Sistema Solar que es mucho más completo con una performance muchísimo más amplia, y su objetivo es mejorar la interacción entre todos los objetos/sujetos humanos que abarca el Contexto, o sea, tiene un plan de mejorar la interactividad; la interactividad depende tanto de Ri como de Ro. La interactividad respecto de la Conciencia marco del Sistema Solar; la interacción respecto de nosotros, porque para nosotros es [[TEMAS/interacción\|interacción]] y para el [[TEMAS/sistema solar\|sistema solar]] es [[TEMAS/interactividad\|interactividad]].
+{ #k853rz}
+
+
+Y cuando medimos la interactividad, está la interacción incluida, pero no desde la misma configuración de valor.
+
+Una es transaccional mientras la otra es ancla, porque la interacción es ancla; la interactividad es algo muy circunstancial.
+
+La [[TEMAS/interacción\|interacción]] queda grabada, es lo que nos convierte en ‘[[TEMAS/sujeto\|sujeto]]s’, y después el ‘[[TEMAS/objeto\|objeto]] humano’ ejecuta el código del ‘sujeto’, y ahí toma cuerpo nuestro mundo.
+{ #r1vnlq}
+
+
+Mundo como una fracción que yo logré codificar de la [[TEMAS/realidad\|realidad]]; una parte de la Realidad que tiene sentido para mí, ya es [[TEMAS/mundo\|mundo]]. Está el mundo que es propio, y el mundo colectivo. El mundo que es colectivo, ya estamos hablando en el marco de SE, y el mundo que es propio en el marco de SO. Pero ese mundo es una fracción de la Realidad, no es equivalente con la Realidad, pero como es tu filtro para percibir a la Realidad, vas a decir que la Realidad es así, y en realidad lo que estás queriendo representar es que tu codificación de la Realidad es así. Y obviamente, discriminar entre la Percepción Global y lo que es la Realidad...
+{ #83osb2}
+
+
+Fíjate, estos 188 días que faltan, están las 11 vueltas, pero además, está el Anillo de Fuego dentro. Los 177, nosotros. Ahora, llegamos a la circunstancia de las siguiente 11 vueltas y ahí configuramos la Percepción Global, porque es cuando tengo mapeados a todos los que componemos este ámbito.
 
 **_Serían 176 días las primeras 11_**
 
-Sí, perdón, tienes razón, 176 las primeras 11, y a partir de hoy las si-
-guientes, serían 189. Ahí ya estoy hablando de que está incluyendo la ac-
-tualización del receptor.
-189, es la actualización del receptor, la actualización de la octava del re-
-ceptor, que se ve incrementada por el desarrollo de estas 11 vueltas más
-el Anillo de Fuego.
-De hecho, Anillo de Fuego para que podamos separar que nuestro mun-
-do terminó en las 22 vueltas, resto, Realidad.
-Porque pasa a ser una fuente externa para todo nuestro mundo, “nuestro
-mundo”, no “mi mundo”; comprender las escalas y tratar de desmenu-
-zarlas cada vez mejor es parte de nuestra responsabilidad.
-Responsabilidad porque somos portadores de una configuración muy
-compleja que es la Especie Humana.
+Sí, perdón, tienes razón, 176 las primeras 11, y a partir de hoy las siguientes, serían 189. Ahí ya estoy hablando de que está incluyendo la actualización del receptor.
+
+189, es la actualización del receptor, la actualización de la octava del receptor, que se ve incrementada por el desarrollo de estas 11 vueltas más el Anillo de Fuego.
+
+De hecho, [[TEMAS/Anillo de Fuego\|Anillo de Fuego]] para que podamos separar que nuestro mundo terminó en las 22 vueltas, resto, realidad. Porque pasa a ser una fuente externa para todo nuestro mundo, “nuestro mundo”, no “mi mundo”; comprender las escalas y tratar de desmenuzarlas cada vez mejor es parte de nuestra responsabilidad.
+{ #vw8ys2}
 
 
-Y como es una configuración muy compleja, tiene requerimientos de alta
-complejidad.
-Una Conciencia que pretende seguir teniendo destino, necesita chequear
-muchísimas cosas en el sonar, porque sino la vulnerabilidad es inmensa,
-porque vengo con mi plan y yo quiero ejecutar mi plan, pero todos vie-
-nen con su plan y quieren ejecutarlo.
+[[TEMAS/responsabilidad\|responsabilidad]] porque somos portadores de una configuración muy compleja que es la [[TEMAS/especie humana\|especie humana]].
+
+Y como es una configuración muy compleja, tiene requerimientos de alta complejidad.
+
+Una Conciencia que pretende seguir teniendo [[TEMAS/destino\|destino]], necesita chequear muchísimas cosas en el sonar, porque sino la vulnerabilidad es inmensa, porque vengo con mi plan y yo quiero ejecutar mi plan, pero todos vienen con su plan y quieren ejecutarlo.
+
 Entonces, tienes el tuyo pero no tienes el de los demás y te ayuda con eso
 la “caja de resonancia”.
 

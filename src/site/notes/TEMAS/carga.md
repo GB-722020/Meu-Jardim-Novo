@@ -9,7 +9,7 @@ la [[TEMAS/mente\|mente]] del otro me golpea en el [[TEMAS/cuerpo\|cuerpo]]; es 
 
 Comprendamos el “me da [[TEMAS/carga\|carga]]” de una manera distinta [[ACER/Ale en Red 70#^tc23uq\|Ale en Red 70#^tc23uq]]
 
-la [[TEMAS/carga\|carga]] es un [[recurso\|recurso]] que ya tienes [[ACER/Ale en Red 70#^lxje3p\|Ale en Red 70#^lxje3p]]
+la [[TEMAS/carga\|carga]] es un [[TEMAS/recurso\|recurso]] que ya tienes [[ACER/Ale en Red 70#^lxje3p\|Ale en Red 70#^lxje3p]]
 
 Pero si llega la carga y no hay [[TEMAS/ruta\|ruta]] [[ACER/Ale en Red 70#^qe4pm0\|Ale en Red 70#^qe4pm0]]
 
