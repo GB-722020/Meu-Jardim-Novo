@@ -11,11 +11,25 @@ body {
     //   color: black;
     //  }
 }
-/* --- DESTAQUE TOTAL --- */
-canvas, .graph-view-container, .backlinks-graph-container, #dg-graph-container {
-    height: 600px !important;
-    min-height: 600px !important;
-    width: 100% !important;
-    border: 5px solid #7d4dff !important; 
-    display: block !important;
+/* Ajuste Fino do Gráfico */
+.graph-view-container {
+    height: 500px !important; /* Altura ideal: nem pequena, nem gigante */
+    background-color: var(--background-primary) !important;
+    border: 1px solid var(--hr-color) !important; /* Borda fina e discreta */
+    border-radius: 12px;
+    margin: 40px 0 !important;
+    overflow: hidden; /* Evita que o gráfico "escape" da caixa */
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05); /* Sombra suave para dar profundidade */
+}
+
+/* Melhora a interação com o mouse */
+canvas {
+    cursor: grab;
+}
+
+/* Ajuste do título para combinar com o layout */
+.graph-view-title {
+    font-size: 0.9em !important;
+    color: var(--text-muted) !important;
+    margin-bottom: 10px;
 }
