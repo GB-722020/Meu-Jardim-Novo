@@ -11,18 +11,3 @@ body {
     //   color: black;
     //  }
 }
-/* Força o container externo */
-.backlinks-graph-container {
-    height: 600px !important;
-    max-height: 600px !important;
-    display: block !important;
-}
-
-/* Força o container interno e o desenho */
-#dg-graph-container, .graph-view-container, canvas {
-    height: 600px !important;
-    min-height: 600px !important;
-    width: 100% !important;
-    border: 2px solid var(--interactive-accent) !important;
-    border-radius: 15px !important;
-}
