@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-01-21T10:45:10.409-03:00"}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-01-25T10:47:40.399-03:00"}
 ---
 
 
@@ -20,3 +20,9 @@ Este espacio está dedicado a la **documentación y exploración sistémica** de
 
 outras instruções:
 devido às limitações de diagramação...
+
+> [!abstract] ### 📌 Conexões Importantes
+> Estas notas explicam melhor o que vimos aqui:
+> - [[Nota Relacionada 1\|Nota Relacionada 1]]
+> - [[Nota Relacionada 2\|Nota Relacionada 2]]
+

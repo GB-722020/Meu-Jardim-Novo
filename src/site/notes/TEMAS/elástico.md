@@ -1,4 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/temas/elastico/","created":"2026-01-21T18:37:15.363-03:00","updated":"2026-01-21T18:37:21.150-03:00"}
+{"dg-publish":true,"permalink":"/temas/elastico/","created":"2026-01-21T18:37:15.363-03:00","updated":"2026-01-25T10:25:44.495-03:00"}
 ---
 
+
+
+---
+*volver al [[index\|index]]*

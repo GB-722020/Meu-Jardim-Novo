@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-55/","created":"2026-01-23T15:59:16.728-03:00","updated":"2026-01-24T10:25:36.977-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-55/","created":"2026-01-23T15:59:16.728-03:00","updated":"2026-01-25T10:24:31.597-03:00"}
 ---
 
 
@@ -67,7 +67,7 @@ Entonces, la [[TEMAS/paz\|paz]] NO ES ALGO A CONSUMIR, ES ALGO A CONSTRUIR porqu
 
 **_Buenísimo para ese 55 Realidad y lo que estamos viviendo_**
 
-Entonces, ¿cuál es la importancia de ese 31 de diciembre del Aparato 505? [[TEMAS/2020-12-31\|2020-12-31]]
+Entonces, ¿cuál es la importancia de ese 31 de diciembre del Aparato 505? [[FECHAS/2020-12-31\|2020-12-31]]
 
 **_El de el 2.020, claro!_**
 
@@ -126,7 +126,7 @@ Entonces ahora estamos en ese mapeo de la octava del otro para no hacer esa mezc
 
 Ahora, aprendo tanto de donde he mejorado como también de ver que otro entró en una aberración, y para mí, leer la aberración del otro es una premisa, porque es mi responsabilidad fichar a dónde está y después mantener...
 
-O sea, la octava mía, la octava tuya y construir la octava nuestra. Nosotros tenemos una fecha próxima que está dentro de esta vuelta 19, que es el 29 de octubre [[TEMAS/2021-10-29\|2021-10-29]], que es donde tenemos a la [[TEMAS/5ª etapa\|5ª etapa]] 1.888. Esas tres octavas que aparecen en la cardinalidad SE, tiene que ver con mi octava, la tuya y la nuestra. En la nuestra, tienen que estar contempladas esas dos. Ahora, qué pasa con aquél que toma a la otra como propia? Entonces, aquella persona que no tiene límites personales, tendrá que recibir límites de parte del Contexto.
+O sea, la octava mía, la octava tuya y construir la octava nuestra. Nosotros tenemos una fecha próxima que está dentro de esta vuelta 19, que es el 29 de octubre [[FECHAS/2021-10-29\|2021-10-29]], que es donde tenemos a la [[TEMAS/5ª etapa\|5ª etapa]] 1.888. Esas tres octavas que aparecen en la cardinalidad SE, tiene que ver con mi octava, la tuya y la nuestra. En la nuestra, tienen que estar contempladas esas dos. Ahora, qué pasa con aquél que toma a la otra como propia? Entonces, aquella persona que no tiene límites personales, tendrá que recibir límites de parte del Contexto.
 
 LO ÚNICO QUE TIENE QUE DOMINAR UNA PERSONA ES LA OCTAVA PROPIA, no la del otro. Esto es muy importante, tengo que tener en la mía cómo leer la del otro, para ayudar a construir la nuestra, por eso tenemos 22 vueltas y no 11.
 
@@ -209,7 +209,7 @@ Está reflejando nuestro [[TEMAS/defecto\|defecto]] en el nivel estructural: nue
 
 Entonces, hay que rescatar el “valor del aprendizaje”, ese nivel de madurez, también se lo debo a ella, porque la madurez se construye a la par de que se produce el desequilibrio; digamos, somos todos socios, quien lo hace consciente, quien lo hace inconsciente, de la mejora de nuestra especie, eso por un lado.
 
-Ahora, vamos a volver al 29 del 10. [[TEMAS/2021-10-29\|2021-10-29]]
+Ahora, vamos a volver al 29 del 10. [[FECHAS/2021-10-29\|2021-10-29]]
 
 29 es un puente y 10 es creación binaria, entonces, es un puente para una nueva creación binaria porque después viene el 30 del 10. Entonces, una nueva base 30, es 3 y 0, es 3 que es el orbital Tierra y cero que es Sol, es nuestra relación de punto cero planetario.
 
@@ -365,3 +365,7 @@ Gracias, Leti
 vemos muy pronto._**
 
 
+
+
+---
+*volver al [[index\|index]]*

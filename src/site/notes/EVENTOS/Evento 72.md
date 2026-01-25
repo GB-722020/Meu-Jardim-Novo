@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eventos/evento-72/","created":"2026-01-21T10:54:41.283-03:00","updated":"2026-01-21T11:05:22.814-03:00"}
+{"dg-publish":true,"permalink":"/eventos/evento-72/","created":"2026-01-21T10:54:41.283-03:00","updated":"2026-01-25T10:25:12.497-03:00"}
 ---
 
 # EVENTO 7 2 - Los Cocos-Córdoba-Argentina
@@ -947,3 +947,7 @@ Ahí está.
 _- 9425 palabras-_
 
 
+
+
+---
+*volver al [[index\|index]]*

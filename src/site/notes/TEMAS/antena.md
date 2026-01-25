@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/antena/","created":"2026-01-21T17:32:24.055-03:00","updated":"2026-01-23T15:49:05.608-03:00"}
+{"dg-publish":true,"permalink":"/temas/antena/","created":"2026-01-21T17:32:24.055-03:00","updated":"2026-01-25T10:25:44.446-03:00"}
 ---
 
 
@@ -17,3 +17,6 @@ duplicación de [[TEMAS/fila 7\|fila 7]] [[ACER/Ale en Red 116#^msou0h\|Ale en R
 Ale en Red 119
 
 [[TEMAS/entorno\|entorno]], [[TEMAS/antena\|antena]] y [[TEMAS/ancla\|ancla]] ; [[TEMAS/eje X\|eje X]], [[TEMAS/eje Ye\|eje Ye]] y [[TEMAS/eje Z\|eje Z]] [[ACER/Ale en Red 119#^je59ud\|Ale en Red 119#^je59ud]]
+
+---
+*volver al [[index\|index]]*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-119/","created":"2026-01-21T14:33:55.599-03:00","updated":"2026-01-22T10:48:58.147-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-119/","created":"2026-01-21T14:33:55.599-03:00","updated":"2026-01-25T10:24:31.593-03:00"}
 ---
 
 
@@ -453,3 +453,7 @@ Entonces, cuando nos ponemos a mirar la economía -que es el flujo de las intera
 **ALEJANDRA:** Muchas gracias a todos.
 
 **_LETICIA_** _:_ Gracias a ustedes. Nos vemos muy pronto, 28 / 8 - espero-.
+
+
+---
+*volver al [[index\|index]]*

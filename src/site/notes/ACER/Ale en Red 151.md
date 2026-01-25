@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-151/","created":"2026-01-19T15:35:32.171-03:00","updated":"2026-01-21T10:29:41.782-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-151/","created":"2026-01-19T15:35:32.171-03:00","updated":"2026-01-25T10:24:31.596-03:00"}
 ---
 
 
@@ -791,3 +791,7 @@ pues a seguir disponibles para todo esto que viene. Muchas gracias._
 
 _- 7029 palabras-_
 
+
+
+---
+*volver al [[index\|index]]*

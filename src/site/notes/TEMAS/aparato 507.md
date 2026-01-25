@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/aparato-507/","created":"2026-01-20T14:05:53.851-03:00","updated":"2026-01-21T10:40:37.089-03:00"}
+{"dg-publish":true,"permalink":"/temas/aparato-507/","created":"2026-01-20T14:05:53.851-03:00","updated":"2026-01-25T10:25:44.448-03:00"}
 ---
 
 
@@ -9,3 +9,6 @@
 “La [[TEMAS/LGC\|LGC]] no es para mejorar la experiencia"? [[ACER/Ale en Red 123#^slr1kj\|Ale en Red 123#^slr1kj]]
 
 estructura gravitatoria [[ACER/Ale en Red 123#^7p83fz\|Ale en Red 123#^7p83fz]]
+
+---
+*volver al [[index\|index]]*

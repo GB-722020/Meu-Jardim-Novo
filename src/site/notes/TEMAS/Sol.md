@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/sol/","created":"2026-01-21T14:44:04.227-03:00","updated":"2026-01-23T17:03:31.060-03:00"}
+{"dg-publish":true,"permalink":"/temas/sol/","created":"2026-01-21T14:44:04.227-03:00","updated":"2026-01-25T10:25:44.438-03:00"}
 ---
 
 
@@ -26,3 +26,6 @@ El [[TEMAS/ámbito\|ámbito]] es [[TEMAS/Sol\|Sol]] [[ACER/Ale en Red 116#^6m173
 **Ale en Red 119**
 
 calificación de Sol [[ACER/Ale en Red 119#^onmfwa\|Ale en Red 119#^onmfwa]]
+
+---
+*volver al [[index\|index]]*

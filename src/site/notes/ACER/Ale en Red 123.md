@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-123/","created":"2026-01-20T11:20:42.935-03:00","updated":"2026-01-22T10:49:23.638-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-123/","created":"2026-01-20T11:20:42.935-03:00","updated":"2026-01-25T10:24:31.595-03:00"}
 ---
 
 
@@ -525,3 +525,7 @@ favor! no se les vaya a terminar la paciencia justo ahora!
 quiera terminó de ver esta emisión. Así que gracias Ale, gracias a ustedes también. Nos  
 vemos muy pronto._
 
+
+
+---
+*volver al [[index\|index]]*

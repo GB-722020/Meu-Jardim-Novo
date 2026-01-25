@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/tabla-de-elementos/","created":"2026-01-21T14:50:53.743-03:00","updated":"2026-01-22T12:16:39.861-03:00"}
+{"dg-publish":true,"permalink":"/temas/tabla-de-elementos/","created":"2026-01-21T14:50:53.743-03:00","updated":"2026-01-25T10:25:44.532-03:00"}
 ---
 
 
@@ -21,3 +21,6 @@ relación entre [[elemento 87\|elemento 87]] [[TEMAS/francio\|francio]] y [[elem
 función del [[TEMAS/elástico\|elástico]] [[ACER/Ale en Red 119#^esb76a\|Ale en Red 119#^esb76a]]
 
 [[FECHAS/2024-08-12\|2024-08-12]] día 225 espacio de recepción de código de la [[TEMAS/antimateria\|antimateria]] [[ACER/Ale en Red 119#^bi72re\|Ale en Red 119#^bi72re]]
+
+---
+*volver al [[index\|index]]*

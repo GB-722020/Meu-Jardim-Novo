@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/tierra/","created":"2026-01-23T10:34:55.626-03:00","updated":"2026-01-23T15:20:21.886-03:00"}
+{"dg-publish":true,"permalink":"/temas/tierra/","created":"2026-01-23T10:34:55.626-03:00","updated":"2026-01-25T10:25:44.440-03:00"}
 ---
 
 
@@ -22,3 +22,7 @@ LA TIERRA NO TIENE PLANES. LA TIERRA ES EL [[plan\|plan]] [[ACER/Ale en Red 002#
 
 
 
+
+
+---
+*volver al [[index\|index]]*

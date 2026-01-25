@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-70/","created":"2026-01-24T10:32:17.724-03:00","updated":"2026-01-24T16:08:09.277-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-70/","created":"2026-01-24T10:32:17.724-03:00","updated":"2026-01-25T10:24:31.602-03:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 # (26 de Junio de 2.022)
 
-Fecha: [[TEMAS/2022-06-26\|2022-06-26]]
+Fecha: [[FECHAS/2022-06-26\|2022-06-26]]
 
 Link: https://youtu.be/H-4XtkrOzxM**
 
@@ -639,3 +639,7 @@ y faltas para tener ese recuento al final de Vuelta 22.
 Gracias, que estén muy bien. Nos vemos a la siguiente vuelta._**
 
 
+
+
+---
+*volver al [[index\|index]]*

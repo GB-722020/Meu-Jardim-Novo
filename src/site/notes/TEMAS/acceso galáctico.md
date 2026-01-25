@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/acceso-galactico/","created":"2026-01-22T09:43:56.683-03:00","updated":"2026-01-22T10:45:02.879-03:00"}
+{"dg-publish":true,"permalink":"/temas/acceso-galactico/","created":"2026-01-22T09:43:56.683-03:00","updated":"2026-01-25T10:25:44.443-03:00"}
 ---
 
 
@@ -8,3 +8,6 @@
 Un **[[TEMAS/acceso galáctico\|acceso galáctico]]** no es igual que un acceso cósmico [[ACER/Ale en Red 116#^9hu2ek\|Ale en Red 116#^9hu2ek]]
 
 [[TEMAS/acceso galáctico\|acceso galáctico]] en código [[ACER/Ale en Red 116#^s3ic9h\|Ale en Red 116#^s3ic9h]]
+
+---
+*volver al [[index\|index]]*

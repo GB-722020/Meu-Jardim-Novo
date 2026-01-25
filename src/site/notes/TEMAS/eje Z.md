@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/eje-z/","created":"2026-01-20T11:58:32.854-03:00","updated":"2026-01-23T12:27:50.113-03:00"}
+{"dg-publish":true,"permalink":"/temas/eje-z/","created":"2026-01-20T11:58:32.854-03:00","updated":"2026-01-25T10:25:44.494-03:00"}
 ---
 
 
@@ -18,3 +18,7 @@ es nuestro aspecto de [[adulto mayor del espacio-tiempo\|adulto mayor del espaci
 **Ale en Red 123**
 
 la influencia del eje Z en la formación del eje Ye [[ACER/Ale en Red 123#^1u1whb\|Ale en Red 123#^1u1whb]]
+
+
+---
+*volver al [[index\|index]]*

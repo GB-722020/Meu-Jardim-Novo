@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/mente/","created":"2026-01-19T17:16:56.359-03:00","updated":"2026-01-23T11:06:23.017-03:00"}
+{"dg-publish":true,"permalink":"/temas/mente/","created":"2026-01-19T17:16:56.359-03:00","updated":"2026-01-25T10:25:44.515-03:00"}
 ---
 
 
@@ -23,3 +23,7 @@ aspecto nuclear [[TEMAS/mente\|mente]], aspecto atômico [[TEMAS/mentalidad\|men
 mente y [[TEMAS/mentalidad\|mentalidad]] [[ACER/Ale en Red 123#^vvu7oe\|Ale en Red 123#^vvu7oe]]
 
 
+
+
+---
+*volver al [[index\|index]]*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-002/","created":"2026-01-19T15:42:01.524-03:00","updated":"2026-01-23T15:48:53.376-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-002/","created":"2026-01-19T15:42:01.524-03:00","updated":"2026-01-25T10:24:31.590-03:00"}
 ---
 
  
@@ -473,3 +473,7 @@ Excelentemente! Ale muchísimas gracias en verdad. Buenísimo todo lo que nos ha
 
 Muchas gracias Leti, muchas gracias
 
+
+
+---
+*volver al [[index\|index]]*
