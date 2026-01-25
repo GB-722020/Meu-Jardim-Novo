@@ -11,20 +11,18 @@ body {
     //   color: black;
     //  }
 }
-/* AJUSTE DEFINITIVO DE DESTAQUE */
-.graph-view-container, #dg-graph-container {
-    height: 550px !important; 
-    min-height: 550px !important;
-    border: 1.5px solid var(--interactive-accent) !important; /* Borda fina na cor do seu tema */
-    border-radius: 12px !important;
-    margin: 40px 0 !important;
-    background-color: var(--background-secondary) !important;
+/* Força o container externo */
+.backlinks-graph-container {
+    height: 600px !important;
+    max-height: 600px !important;
     display: block !important;
 }
 
-/* Força o desenho das bolinhas a ocupar o espaço novo */
-.graph-view-container canvas {
-    height: 550px !important;
+/* Força o container interno e o desenho */
+#dg-graph-container, .graph-view-container, canvas {
+    height: 600px !important;
+    min-height: 600px !important;
     width: 100% !important;
-    max-height: 550px !important;
+    border: 2px solid var(--interactive-accent) !important;
+    border-radius: 15px !important;
 }
