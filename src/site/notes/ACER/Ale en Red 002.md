@@ -57,7 +57,7 @@ No hacemos nada más, que cumplir órdenes. Si nosotros cumplimos órdenes, ento
 ¿Qué pasa? que esto es en [[TEMAS/tiempo real\|tiempo real]]. Entonces, en tiempo real, sucedería esto. Si nosotros recuperamos el acceso a la **mente** , vamos a empezar a tener una **mentalidad social** que vaya reinventándose ¿Que significa reinventándose? Es donde captás una perspectiva de futuro de la TIERRA y la traes y recodificas el [[TEMAS/pasado\|pasado]], porque descubres que en el pasado hubo potenciales que no fueron aprovechados.
 
 ¿Esto que haría? que estuviéramos todo el tiempo, todo el tiempo recodificado el pasado.  
-Ahora, ¿en base a qué lo recodificaríamos? Ahí viene la parte de “antena”. Vamos a ver ¿quién es el dueño de la mente? en primer lugar. El dueño de la mente, es la CONCIEN- CIA. La [[TEMAS/conciencia\|conciencia]] es el dueño legítimo de la mente. La mente es una **[[TEMAS/interfase\|interfase]]** para que una persona biológica, pueda administrar una **mentalidad**. La mente charla con todo el [[espacio-tiempo\|espacio-tiempo]] y el cosmos, y le va mandando las señales a la mentalidad. La mentalidad, va a tener los recursos necesarios para darle respuesta a los episodios en tiempo real. ¿Por qué? porque ya fueron anticipados - por la mente-, entonces, la mente empieza a hacer lo que tiene que hacer -armar estructuras nuevas-. Pero, mientras está armando estructuras nuevas, están usando estructuras viejas.
+Ahora, ¿en base a qué lo recodificaríamos? Ahí viene la parte de “antena”. Vamos a ver ¿quién es el dueño de la mente? en primer lugar. El dueño de la mente, es la CONCIEN- CIA. La [[TEMAS/conciencia\|conciencia]] es el dueño legítimo de la mente. La mente es una **[[TEMAS/interfase\|interfase]]** para que una persona biológica, pueda administrar una **mentalidad**. La mente charla con todo el [[TEMAS/espacio-tiempo\|espacio-tiempo]] y el cosmos, y le va mandando las señales a la mentalidad. La mentalidad, va a tener los recursos necesarios para darle respuesta a los episodios en tiempo real. ¿Por qué? porque ya fueron anticipados - por la mente-, entonces, la mente empieza a hacer lo que tiene que hacer -armar estructuras nuevas-. Pero, mientras está armando estructuras nuevas, están usando estructuras viejas.
 { #cck9wx}
 
 
@@ -262,7 +262,7 @@ La capacidad de tomar a... o sea, vos necesitás dos cosas: una capacidad de [[T
 
 **_Actualización_**
 
-Si vos desbalanceas el ancla o desbalancear la [[actualización\|actualización]], no funciona.
+Si vos desbalanceas el ancla o desbalancear la [[TEMAS/actualización\|actualización]], no funciona.
 
 Comprendamos que el **inconsciente biológico es un esquema, que no tiene [[TEMAS/margen de error\|margen de error]]**. Vos lo tenés que hacer trabajar sobre una octava precisa ¡no importa que esa octava trabaje sobre defecto, o que esa octava trabaje sobre la virtud! lo importante, es que no puede dejar de estar en una octava, y con respecto a estar con octava, hace las cosas “bien”. Quiero decir, cada vez que nosotros nos equivocamos, estamos haciendo las cosas BIEN -en determinada [[TEMAS/octava\|octava]]-. Lo que ocurre, es que estamos **creyendo** que estamos en otra, entonces cuando nosotros nos despabilamos y entendemos **qué la equivocación nunca fue una equivocación-** fue un error ANALÓGICO, y nosotros estábamos teniendo una vista DIGITAL -y no están a la par-. No tienes analógico – analógico, entonces todo va perfecto, si está todo verde, el circuito no se detiene en ningún momento.
 { #sqn6u8}

@@ -1,11 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/temas/calendaria/","created":"2026-01-23T15:18:38.303-03:00","updated":"2026-01-25T10:25:44.423-03:00"}
+{"dg-publish":true,"permalink":"/temas/calendaria/","created":"2026-01-23T15:18:38.303-03:00","updated":"2026-01-26T11:36:36.874-03:00"}
 ---
 
 
 **Ale en Red 2**
 
 [[TEMAS/Calendaria\|Calendaria]], es la construcción de una octava [[ACER/Ale en Red 002#^hurvu8\|Ale en Red 002#^hurvu8]]
+
+
+
+**Ale en Red 70**
+
+[[TEMAS/Calendaria\|Calendaria]] procura brindar estabilidad al [[TEMAS/espacio-tiempo\|espacio-tiempo]] [[ACER/Ale en Red 70#^9sfg30\|Ale en Red 70#^9sfg30]]
+
+
+
 
 ---
 *volver al [[index\|index]]*

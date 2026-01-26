@@ -173,7 +173,7 @@ el Aparato 507.
 
 **ALEJANDRA** : Y el que resuena con esto, sabe lo mucho que se crece internamente al  
 controlar el [[TEMAS/procesador\|procesador]].  
-**El procesador** no es la [[experiencia\|experiencia]], es la [[señal\|señal]]; entonces, si yo gestiono la señal antes de que ésta impacte en mi documento gravitatorio, puedo modular lo que voy a hacer con ella, porque puedo interpretar en multinivel antes-de. Y esto es tremendamente elegante. 
+**El procesador** no es la [[experiencia\|experiencia]], es la [[TEMAS/señal\|señal]]; entonces, si yo gestiono la señal antes de que ésta impacte en mi documento gravitatorio, puedo modular lo que voy a hacer con ella, porque puedo interpretar en multinivel antes-de. Y esto es tremendamente elegante. 
 **CREADORES DE SENTIDO** - recuerden esto - es la oferta al Cosmos. “ _Se piden crea-  
 dores de sentido -no de contenido-“_. Porque ¡no es lo mismo!
 { #ccf0ph}

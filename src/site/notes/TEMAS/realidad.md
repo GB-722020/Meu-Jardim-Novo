@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/realidad/","created":"2026-01-25T17:07:22.416-03:00","updated":"2026-01-25T17:15:50.207-03:00"}
+{"dg-publish":true,"permalink":"/temas/realidad/","created":"2026-01-25T17:07:22.416-03:00","updated":"2026-01-26T11:18:59.622-03:00"}
 ---
 
 
@@ -8,6 +8,14 @@
 Distinción entre [[TEMAS/mundo\|mundo]] y [[TEMAS/realidad\|realidad]] [[ACER/Ale en Red 70#^83osb2\|Ale en Red 70#^83osb2]]
 
 [[TEMAS/Anillo de Fuego\|Anillo de Fuego]] para que podamos separar que nuestro [[TEMAS/mundo\|mundo]] terminó en las 22 vueltas, resto, realidad [[ACER/Ale en Red 70#^vw8ys2\|Ale en Red 70#^vw8ys2]]
+
+[[TEMAS/codificación\|codificación]] de la [[TEMAS/realidad\|realidad]]  [[ACER/Ale en Red 70#^wqo509\|Ale en Red 70#^wqo509]]
+
+las fricciones llegan porque son componentes de la [[TEMAS/realidad\|realidad]] que aún no son codificados por nosotros [[ACER/Ale en Red 70#^m9nh2w\|Ale en Red 70#^m9nh2w]]
+
+la Realidad no tiene [[TEMAS/límite\|límite]]s, tiene [[TEMAS/alcance\|alcance]]s [[ACER/Ale en Red 70#^9voeml\|Ale en Red 70#^9voeml]]
+
+
 
 ---
 *volver al [[index\|index]]*

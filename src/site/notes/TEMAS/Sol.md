@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/sol/","created":"2026-01-21T14:44:04.227-03:00","updated":"2026-01-25T10:25:44.438-03:00"}
+{"dg-publish":true,"permalink":"/temas/sol/","created":"2026-01-21T14:44:04.227-03:00","updated":"2026-01-26T12:40:29.369-03:00"}
 ---
 
 
@@ -14,6 +14,13 @@ un [[TEMAS/Sol\|Sol]] siempre viaja a su [[TEMAS/pasado\|pasado]] [[ACER/Ale en 
 [[TEMAS/Sol\|Sol]] no está en el mismo lugar y las consecuencias que voy a tener para los mismos [[TEMAS/error\|error]]es, son otras [[ACER/Ale en Red 55#^7l3a2q\|Ale en Red 55#^7l3a2q]]
 
 actualización del [[TEMAS/Sol\|Sol]] como [[TEMAS/mente\|mente]] de la estrella [[ACER/Ale en Red 55#^j92q2h\|Ale en Red 55#^j92q2h]]
+
+
+
+**Ale en Red 70**
+
+[[TEMAS/Sol\|Sol]] proyecta en su [[TEMAS/mente\|mente]], su [[TEMAS/pasado\|pasado]] y nosotros debemos hacer eso (...) escanea su propio pasado [[ACER/Ale en Red 70#^gjuuw3\|Ale en Red 70#^gjuuw3]]
+
 
 
 

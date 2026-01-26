@@ -189,7 +189,7 @@ Entonces, entramos en vuelta 20, a gestionar incrementos. Incrementos: negativo 
 **_Buenísimo, buenísimo! Para quienes estamos haciendo este mapeo del otro y vamos a tener esa oportunidad de procesar- lo así.
 Quienes no lo están realizando, van a esa complicación..._**
 
-Comprendamos que lo primero que nos pasa, es el registro de juicio que lo hago desde mí, ahí me va a caer afuera en el [[límite\|límite]], muchísimas cosas de los demás, por límites míos, del otro, fallos en la comunicación, acumulación de cosas reprimidas en el pasado... cantidad de variantes, por las cuales no estaré en condiciones de que todo esto pase suave.
+Comprendamos que lo primero que nos pasa, es el registro de juicio que lo hago desde mí, ahí me va a caer afuera en el [[TEMAS/límite\|límite]], muchísimas cosas de los demás, por límites míos, del otro, fallos en la comunicación, acumulación de cosas reprimidas en el pasado... cantidad de variantes, por las cuales no estaré en condiciones de que todo esto pase suave.
 
 **_Por eso es importante haciendo el paso a paso, esa Conciencia y el seguimiento de la Calendaria para ir procesando esos vínculos o esos mapeos para ir sumando recursos, como dijiste, en negativo, para cuando se presentan en el contexto._**
 

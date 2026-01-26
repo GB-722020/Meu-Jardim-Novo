@@ -5,7 +5,7 @@
 
 **Ale en Red 119**
 
-el dinero no tiene [[valor\|valor]] [[ACER/Ale en Red 119#^9uf16n\|Ale en Red 119#^9uf16n]]
+el dinero no tiene [[TEMAS/valor\|valor]] [[ACER/Ale en Red 119#^9uf16n\|Ale en Red 119#^9uf16n]]
 
 ---
 *volver al [[index\|index]]*

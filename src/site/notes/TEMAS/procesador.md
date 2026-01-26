@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/procesador/","created":"2026-01-20T14:13:08.109-03:00","updated":"2026-01-25T10:25:44.525-03:00"}
+{"dg-publish":true,"permalink":"/temas/procesador/","created":"2026-01-20T14:13:08.109-03:00","updated":"2026-01-26T09:50:55.984-03:00"}
 ---
 
 
@@ -17,11 +17,13 @@ yo preciso que “peor”, funcione a nivel del [[TEMAS/ancla\|ancla]], no a niv
 
 [[TEMAS/procesador\|procesador]] calificando entre [[TEMAS/origen\|origen]] y [[TEMAS/destino\|destino]] [[ACER/Ale en Red 70#^0t6bxh\|Ale en Red 70#^0t6bxh]]
 
+Lo que el [[TEMAS/procesador\|procesador]] hace es dirigir la señal para el aspecto subatómico o para el anatómico en el horario nocturno [[ACER/Ale en Red 70#^g052fi\|Ale en Red 70#^g052fi]]
+
 
 
 **Ale en Red 123**
 
-El [[TEMAS/procesador\|procesador]] no es la [[experiencia\|experiencia]], es la [[señal\|señal]] [[ACER/Ale en Red 123#^ccf0ph\|Ale en Red 123#^ccf0ph]]
+El [[TEMAS/procesador\|procesador]] no es la [[experiencia\|experiencia]], es la [[TEMAS/señal\|señal]] [[ACER/Ale en Red 123#^ccf0ph\|Ale en Red 123#^ccf0ph]]
 
 ---
 *volver al [[index\|index]]*
