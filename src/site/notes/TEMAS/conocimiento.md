@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/conocimiento/","created":"2026-01-22T11:12:29.801-03:00","updated":"2026-01-26T12:53:16.653-03:00"}
+{"dg-publish":true,"permalink":"/temas/conocimiento/","created":"2026-01-22T11:12:29.801-03:00","updated":"2026-01-26T16:18:23.945-03:00"}
 ---
 
 
@@ -12,6 +12,17 @@ no todos pudimos hacer el mismo CIMIENTO de ese CONO [[ACER/Ale en Red 70#^1fa54
 el CONO está funcionando en muchas [[TEMAS/dimensión\|dimensión]]es, y acá el CIMIENTO, en muchos [[TEMAS/plano\|plano]]s. [[ACER/Ale en Red 70#^r9yq4n\|Ale en Red 70#^r9yq4n]]
 
 resolver las [[TEMAS/identidad\|identidad]]es con el CIMIENTO para si le van a dar oportunidad al CONO [[ACER/Ale en Red 70#^kocvmf\|Ale en Red 70#^kocvmf]]
+
+
+
+**Ale en Red 87**
+
+Si nuestro cono ([[TEMAS/antena\|antena]]) se sintoniza, producimos nuevo CIMIENTO (...) culturalmente, nosotros tenemos la idea de que el conocimiento es algo que ocurrió en el [[TEMAS/pasado\|pasado]] [[ACER/Ale en Red 87#^x2f8f7\|Ale en Red 87#^x2f8f7]]
+
+Necesitamos progresar esto a una situación donde parte de nuestra [[TEMAS/anatomía\|anatomía]] es nuestra [[TEMAS/estructura psíquica\|estructura psíquica]] que abarca desde el orden subatómico hasta la última instancia dura del [[TEMAS/entorno\|entorno]] [[ACER/Ale en Red 87#^pj7w1t\|Ale en Red 87#^pj7w1t]]
+
+
+
 
 
 ---

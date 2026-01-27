@@ -1,6 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/temas/especie-humana/","created":"2026-01-25T17:09:10.343-03:00","updated":"2026-01-25T17:09:13.904-03:00"}
+{"dg-publish":true,"permalink":"/temas/especie-humana/","created":"2026-01-25T17:09:10.343-03:00","updated":"2026-01-27T12:29:17.194-03:00"}
 ---
+
+
+**Ale en Red 87**
+
+la [[TEMAS/especie humana\|especie humana]] no es nativa de este [[TEMAS/sistema solar\|Sistema Solar]], [[ACER/Ale en Red 87#^v5w35d\|Ale en Red 87#^v5w35d]]
+
+(la [[TEMAS/especie humana\|especie humana]] tiene) [[TEMAS/origen\|origen]] estelar, pero en [[TEMAS/destino\|destino]], hay un proyecto para poder llevar adelante “el tejido estelar”. [[ACER/Ale en Red 87#^xnjxho\|Ale en Red 87#^xnjxho]]
+
 
 
 
