@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/temas/proyecto-humano-del-sistema-solar/","created":"2026-01-25T16:57:26.112-03:00","updated":"2026-01-26T12:19:51.002-03:00"}
+{"dg-publish":true,"permalink":"/temas/proyecto-humano-del-sistema-solar/","created":"2026-01-25T16:57:26.112-03:00","updated":"2026-01-30T16:53:10.653-03:00"}
 ---
 
 
 **Ale en Red 70**
 
-A toda esta configuración, es lo que llevo llamando [[TEMAS/Proyecto Humano del Sistema Solar\|Proyecto Humano del Sistema Solar]] [[ACER/Ale en Red 70#^zuc25u\|Ale en Red 70#^zuc25u]]
+A toda esta configuración, es lo que llevo llamando [[TEMAS/Proyecto Humano del Sistema Solar\|Proyecto Humano del Sistema Solar]] [[ACER/Ale en Red 070#^zuc25u\|Ale en Red 070#^zuc25u]]
 
-esta configuración de humano como Sistema Solar le interesa ser un mejor nexo entre los distintos tiempos del mismo [[TEMAS/espacio\|espacio]] [[ACER/Ale en Red 70#^mtsj1o\|Ale en Red 70#^mtsj1o]]
+esta configuración de humano como Sistema Solar le interesa ser un mejor nexo entre los distintos tiempos del mismo [[TEMAS/espacio\|espacio]] [[ACER/Ale en Red 070#^mtsj1o\|Ale en Red 070#^mtsj1o]]
 
 
 ---

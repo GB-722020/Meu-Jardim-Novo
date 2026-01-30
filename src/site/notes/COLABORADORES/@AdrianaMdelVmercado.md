@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/colaboradores/adriana-mdel-vmercado/","created":"2026-01-19T15:48:17.754-03:00","updated":"2026-01-25T10:23:46.973-03:00"}
+{"dg-publish":true,"permalink":"/colaboradores/adriana-mdel-vmercado/","created":"2026-01-19T15:48:17.754-03:00","updated":"2026-01-27T16:48:45.755-03:00"}
 ---
 
 
-*TELEGRAM: (https://t.me/TRANSCRIPCIONESPARADESPERTAR)
-
-[@TranscripcionesLGC](https://t.me/TranscripcionesLGC)
+*TELEGRAM: [@TranscripcionesLGC](https://t.me/TranscripcionesLGC)
 
 
 --- 

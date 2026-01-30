@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-123/","created":"2026-01-20T11:20:42.935-03:00","updated":"2026-01-25T10:24:31.595-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-123/","created":"2026-01-20T11:20:42.935-03:00","updated":"2026-01-27T17:05:19.326-03:00"}
 ---
 
 
@@ -155,7 +155,7 @@ Esta construcción de sentido [[vuelta 18\|vuelta 18]]:
 
 
 Si acá a los contenidos, sus señales le llegan del [[TEMAS/cosmos\|cosmos]] y no pasan por Sol, entonces el objetivo es completamente divergente, porque el objetivo tiende a ganar yo y que pierda el otro. En cambio, cuando la lógica es solar, lo que generamos es entendimiento, tanto propio como ajeno. ¿Aumenta el entendimiento? Estamos hablando de que el _Código Solar Nativo_ está muy fortalecido, y si todo lo que es divergente aumenta hacia fin de año, estamos hablando que las influencias cósmicas otra vez le están pegando una paliza al _Código Solar_. ¡Todo puede suceder! Puede suceder que tengamos una maravillosa situación en el en- torno de diciembre, bueno, para LGC va a ser una prueba de fuego porque, el 14 de diciembre tenemos CUARENTENA GLOBAL en **4444**. 
-O sea, ese diseño de _Fuente Externa_ empieza a ser respetado en la _Fuente Interna_ , entonces se sincroniza y todo toma un rumbo bastante ameno... o la _escala cósmica_ barre con el _Código Solar_ otra vez y acá estamos desconociéndonos a nosotros mismos y al resto -todo puede suceder-. Lo importante es que sepamos que nosotros estamos impactando la antimateria y somos los que nos vamos a definir como **Arreglarios** en el [[TEMAS/aparato 507\|aparato 507]] , porque si no nos definimos como “arreglarios” en el 507, directamente es porque ya estamos autodestruidos.
+O sea, ese diseño de _Fuente Externa_ empieza a ser respetado en la _Fuente Interna_ , entonces se sincroniza y todo toma un rumbo bastante ameno... o la _escala cósmica_ barre con el _Código Solar_ otra vez y acá estamos desconociéndonos a nosotros mismos y al resto -todo puede suceder-. Lo importante es que sepamos que nosotros estamos impactando la antimateria y somos los que nos vamos a definir como **Arreglarios** en el [[TEMAS/Aparato 507\|Aparato 507]] , porque si no nos definimos como “arreglarios” en el 507, directamente es porque ya estamos autodestruidos.
 { #ux1qgc}
 
 
@@ -173,7 +173,7 @@ el Aparato 507.
 
 **ALEJANDRA** : Y el que resuena con esto, sabe lo mucho que se crece internamente al  
 controlar el [[TEMAS/procesador\|procesador]].  
-**El procesador** no es la [[experiencia\|experiencia]], es la [[TEMAS/señal\|señal]]; entonces, si yo gestiono la señal antes de que ésta impacte en mi documento gravitatorio, puedo modular lo que voy a hacer con ella, porque puedo interpretar en multinivel antes-de. Y esto es tremendamente elegante. 
+**El procesador** no es la [[TEMAS/experiencia\|experiencia]], es la [[TEMAS/señal\|señal]]; entonces, si yo gestiono la señal antes de que ésta impacte en mi documento gravitatorio, puedo modular lo que voy a hacer con ella, porque puedo interpretar en multinivel antes-de. Y esto es tremendamente elegante. 
 **CREADORES DE SENTIDO** - recuerden esto - es la oferta al Cosmos. “ _Se piden crea-  
 dores de sentido -no de contenido-“_. Porque ¡no es lo mismo!
 { #ccf0ph}

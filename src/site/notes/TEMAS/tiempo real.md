@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/tiempo-real/","created":"2026-01-20T12:21:24.522-03:00","updated":"2026-01-26T10:00:07.574-03:00"}
+{"dg-publish":true,"permalink":"/temas/tiempo-real/","created":"2026-01-20T12:21:24.522-03:00","updated":"2026-01-30T16:53:10.636-03:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 **Ale en Red 70**
 
-coordinar con [[TEMAS/caja de resonancia\|caja de resonancia]] ... en [[TEMAS/tiempo real\|tiempo real]] [[ACER/Ale en Red 70#^dywpoy\|Ale en Red 70#^dywpoy]]
+coordinar con [[TEMAS/caja de resonancia\|caja de resonancia]] ... en [[TEMAS/tiempo real\|tiempo real]] [[ACER/Ale en Red 070#^dywpoy\|Ale en Red 070#^dywpoy]]
 
 
 

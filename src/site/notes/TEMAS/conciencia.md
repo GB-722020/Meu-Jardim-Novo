@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/conciencia/","created":"2026-01-23T10:38:44.210-03:00","updated":"2026-01-27T12:15:20.409-03:00"}
+{"dg-publish":true,"permalink":"/temas/conciencia/","created":"2026-01-23T10:38:44.210-03:00","updated":"2026-01-30T16:53:20.798-03:00"}
 ---
 
 
@@ -11,14 +11,14 @@ La [[TEMAS/conciencia\|conciencia]] es el dueño legítimo de la mente [[ACER/Al
 
 **Ale en Red 55**
 
-como la [[TEMAS/conciencia\|conciencia]] incrementa la [[TEMAS/octava\|octava]] [[ACER/Ale en Red 55#^2t84qn\|Ale en Red 55#^2t84qn]]
+como la [[TEMAS/conciencia\|conciencia]] incrementa la [[TEMAS/octava\|octava]] [[ACER/Ale en Red 055#^2t84qn\|Ale en Red 055#^2t84qn]]
 
-la [[TEMAS/conciencia\|conciencia]] tiene acceso al [[TEMAS/psiquismo\|psiquismo]], en tanto que la [[TEMAS/mente\|mente]], a la [[TEMAS/psicología\|psicología]] [[ACER/Ale en Red 55#^zpdffb\|Ale en Red 55#^zpdffb]]
+la [[TEMAS/conciencia\|conciencia]] tiene acceso al [[TEMAS/psiquismo\|psiquismo]], en tanto que la [[TEMAS/mente\|mente]], a la [[TEMAS/psicología\|psicología]] [[ACER/Ale en Red 055#^zpdffb\|Ale en Red 055#^zpdffb]]
 
 
 **Ale en Red 87**
 
-Las conciencias subjetivas son [[TEMAS/inmaterial\|inmaterial]]es, las objetivas son [[TEMAS/material\|material]]es. [[ACER/Ale en Red 87#^xyg1pj\|Ale en Red 87#^xyg1pj]]
+Las conciencias subjetivas son [[TEMAS/inmaterial\|inmaterial]]es, las objetivas son [[TEMAS/material\|material]]es. [[ACER/Ale en Red 087#^xyg1pj\|Ale en Red 087#^xyg1pj]]
 
 
 

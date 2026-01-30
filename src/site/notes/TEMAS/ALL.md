@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/temas/all/","created":"2026-01-22T12:27:11.645-03:00","updated":"2026-01-25T10:25:44.417-03:00"}
+{"dg-publish":true,"permalink":"/temas/all/","created":"2026-01-22T12:27:11.645-03:00","updated":"2026-01-27T17:14:51.081-03:00"}
 ---
+
+
+**Ale en Red 131**
+
+la [[TEMAS/totalidad\|totalidad]] en cuanto a [[TEMAS/ALL\|ALL]], es “una totalidad” ¡que no es una totalidad! [[ACER/Ale en Red 131#^mzgnly\|Ale en Red 131#^mzgnly]]
 
 
 

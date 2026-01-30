@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/mente/","created":"2026-01-19T17:16:56.359-03:00","updated":"2026-01-25T15:57:27.481-03:00"}
+{"dg-publish":true,"permalink":"/temas/mente/","created":"2026-01-19T17:16:56.359-03:00","updated":"2026-01-30T16:53:10.631-03:00"}
 ---
 
 
@@ -18,12 +18,18 @@ aspecto nuclear [[TEMAS/mente\|mente]], aspecto atômico [[TEMAS/mentalidad\|men
 
 **Ale en Red 70**
 
-la [[TEMAS/mente\|mente]] del otro me golpea en el [[TEMAS/cuerpo\|cuerpo]]; es cuando decimos, el otro me da [[TEMAS/carga\|carga]] [[ACER/Ale en Red 70#^90t8aq\|Ale en Red 70#^90t8aq]]
+la [[TEMAS/mente\|mente]] del otro me golpea en el [[TEMAS/cuerpo\|cuerpo]]; es cuando decimos, el otro me da [[TEMAS/carga\|carga]] [[ACER/Ale en Red 070#^90t8aq\|Ale en Red 070#^90t8aq]]
 
 
 **Ale en Red 123**
 
 mente y [[TEMAS/mentalidad\|mentalidad]] [[ACER/Ale en Red 123#^vvu7oe\|Ale en Red 123#^vvu7oe]]
+
+
+**Ale en Red 131**
+
+nuestra **[[TEMAS/mente\|mente]]** [señala cuadrante NE] tiende al infinito, porque se apoya en NADA [NO] y TODO [LLA], y no tiene [[TEMAS/marcos\|Marcos]]; no hay [[TEMAS/requisito evolutivo\|requisito evolutivo]] ninguno. [[ACER/Ale en Red 131#^4zbdqu\|Ale en Red 131#^4zbdqu]]
+
 
 
 

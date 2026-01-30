@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/eje-ye/","created":"2026-01-20T11:35:47.803-03:00","updated":"2026-01-25T10:25:44.494-03:00"}
+{"dg-publish":true,"permalink":"/temas/eje-ye/","created":"2026-01-20T11:35:47.803-03:00","updated":"2026-01-30T14:29:39.774-03:00"}
 ---
 
 
@@ -24,6 +24,15 @@
 5. _Eje Ye_ es el que controla el [[TEMAS/tiempo real\|tiempo real]]  [[ACER/Ale en Red 123#^zw8wsk\|Ale en Red 123#^zw8wsk]]
 
 6. de [[creadores de contenido\|creadores de contenido]] a creadores de sentido, i griega a Ye [[ACER/Ale en Red 123#^q8xnl8\|Ale en Red 123#^q8xnl8]]
+
+
+
+**Ale en Red 131**
+
+Es el [[TEMAS/ON\|ON]] que permite que el [[TEMAS/eje Ye\|Eje Ye]] se haga cargo de todo el pasado, de todos mis ancestros, [[ACER/Ale en Red 131#^5888yj\|Ale en Red 131#^5888yj]]
+
+
+
 
 ---
 *volver al [[index\|index]]*

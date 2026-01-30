@@ -1,6 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/temas/actualizacion/","created":"2026-01-26T12:47:33.951-03:00","updated":"2026-01-26T12:47:37.235-03:00"}
+{"dg-publish":true,"permalink":"/temas/actualizacion/","created":"2026-01-26T12:47:33.951-03:00","updated":"2026-01-30T17:07:41.496-03:00"}
 ---
+
+
+**Ale en Red 131**
+
+1. si actualiza [[TEMAS/ON\|ON]], la [[TEMAS/actualización\|actualización]] es por ciclo de vida: te tenés que morir y volver a nacer. [[ACER/Ale en Red 131#^a8s8l0\|Ale en Red 131#^a8s8l0]]
+
+2. cosas que tienen que ver con la [[TEMAS/clave de Sol\|clave de Sol]]; entonces claro, capto la [[TEMAS/señal\|señal]] antes de ejecutar la [[TEMAS/experiencia\|experiencia]], entonces la experiencia es mejorada porque no la estoy sacando de una [[TEMAS/memoria\|memoria]], la estoy sacando de una [[TEMAS/actualización\|actualización]]. [[ACER/Ale en Red 131#^a8s8l0\|Ale en Red 131#^a8s8l0]]
+
 
 
 

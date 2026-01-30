@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/temas/cardinalidad-no/","created":"2026-01-27T17:26:54.114-03:00","updated":"2026-01-27T17:27:40.721-03:00"}
+---
+
+
+**Ale en Red 131**
+
+Recordemos que esta [[TEMAS/cardinalidad NO\|cardinalidad NO]] es la que gestiona el [[TEMAS/desdoblamiento primario\|desdoblamiento primario]], [[ACER/Ale en Red 131#^lrgn2d\|Ale en Red 131#^lrgn2d]]
+
+
+---
+*volver al [[index\|index]]*

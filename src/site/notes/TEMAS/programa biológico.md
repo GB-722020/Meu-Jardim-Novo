@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/temas/programa-biologico/","created":"2026-01-28T16:33:59.412-03:00","updated":"2026-01-28T16:44:21.687-03:00"}
+---
+
+
+
+
+**Ale en Red 131**
+
+es un [[TEMAS/programa biológico\|programa biológico]]”, es la lectura de la escala anatómica... en la escala subatómica, es una **octava**. [[ACER/Ale en Red 131#^5gpyfy\|Ale en Red 131#^5gpyfy]] 
+
+
+
+---
+*volver al [[index\|index]]*

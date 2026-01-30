@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/antena/","created":"2026-01-21T17:32:24.055-03:00","updated":"2026-01-26T09:39:42.711-03:00"}
+{"dg-publish":true,"permalink":"/temas/antena/","created":"2026-01-21T17:32:24.055-03:00","updated":"2026-01-30T16:53:10.614-03:00"}
 ---
 
 
@@ -11,7 +11,7 @@ Somos una [[TEMAS/antena\|antena]]. LA [[TEMAS/mente\|mente]] NO ESTÁ ESCRITA [
 
 **Ale en Red 70**
 
-El [[TEMAS/sonar\|sonar]] es el efecto de la [[TEMAS/antena\|antena]] en su [[TEMAS/interactividad\|interactividad]] [[ACER/Ale en Red 70#^pgjml6\|Ale en Red 70#^pgjml6]]
+El [[TEMAS/sonar\|sonar]] es el efecto de la [[TEMAS/antena\|antena]] en su [[TEMAS/interactividad\|interactividad]] [[ACER/Ale en Red 070#^pgjml6\|Ale en Red 070#^pgjml6]]
 
 
 

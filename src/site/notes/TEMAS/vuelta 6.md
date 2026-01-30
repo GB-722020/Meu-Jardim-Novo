@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/temas/vuelta-6/","created":"2026-01-26T15:59:17.280-03:00","updated":"2026-01-26T15:59:49.279-03:00"}
+{"dg-publish":true,"permalink":"/temas/vuelta-6/","created":"2026-01-26T15:59:17.280-03:00","updated":"2026-01-30T16:53:20.901-03:00"}
 ---
 
 
 **Ale en Red 87**
 
-[[TEMAS/vuelta 6\|vuelta 6]], es relativa al [[TEMAS/sistema\|sistema]] [[ACER/Ale en Red 87#^q9zzbf\|Ale en Red 87#^q9zzbf]]
+[[TEMAS/vuelta 6\|vuelta 6]], es relativa al [[TEMAS/sistema\|sistema]] [[ACER/Ale en Red 087#^q9zzbf\|Ale en Red 087#^q9zzbf]]
 
 
 

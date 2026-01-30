@@ -7,7 +7,7 @@
 
 descubrimiento de la [[TEMAS/matriz psíquica\|matriz psíquica]] [[ACER/Ale en Red 002#^e5pg2s\|Ale en Red 002#^e5pg2s]]
 
-cada [[persona\|persona]] tiene acceso a una matriz que lo conecta con la mente digital de la [[TEMAS/Tierra\|Tierra]] [[ACER/Ale en Red 002#^o1xnyj\|Ale en Red 002#^o1xnyj]]
+cada [[TEMAS/persona\|persona]] tiene acceso a una matriz que lo conecta con la mente digital de la [[TEMAS/Tierra\|Tierra]] [[ACER/Ale en Red 002#^o1xnyj\|Ale en Red 002#^o1xnyj]]
 
 La MATRIZ ANALÓGICA, se basa en el pasado. La MATRIZ DIGITAL se basa en el futuro [[ACER/Ale en Red 002#^dkorex\|Ale en Red 002#^dkorex]]
 
