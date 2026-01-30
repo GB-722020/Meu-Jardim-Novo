@@ -444,7 +444,7 @@ Entonces, obviamente para el cuerpo es todo nutrición. De hecho, la enorme cant
 { #82unt1}
 
 
-Su fecha nativa, es 31 de agosto de 1977 [[TEMAS/1977-08-31\|1977-08-31]]. Cierto, porque era “la conciencia”.
+Su fecha nativa, es 31 de agosto de 1977 [[FECHAS/1977-08-31\|1977-08-31]]. Cierto, porque era “la conciencia”.
 
 Era la conciencia del _Código Solar_ - del 1 al 9, la conciencia-. Entonces, 31 /8, la lectura de la octava es plena, pero lo ejecuta, lo documenta, al 31 de agosto de 1977 de una forma ejemplar. Por eso, quien quiera aprender LGC muy rápidamente, vea ese documental, porque va a mirar la fecha y va a ver el documental, y va a empezar a hacer así la convergencia, y va a interpretar lo que estoy hablando y explicando de 51.
 
