@@ -156,7 +156,7 @@ la “caja de resonancia”.
 
 **_Dijiste en el “sonar”, ¿qué quiere decir eso?_**
 
-El [[TEMAS/sonar\|sonar]] es el efecto de la [[TEMAS/antena\|antena]] en su [[TEMAS/interactividad\|interactividad]]. Emitimos y recibimos ondas que procesamos particularmente, y esas ondas nos traen un montón de información contradictoria respecto de nuestro código nativo, y eso es lo que tenemos que procesar porque no encajan, porque en este ámbito hay muchas [[partícula\|partícula]]s procesando [[TEMAS/onda\|onda]]s, no somos nosotros solamente ni tampoco lo hacemos de la misma manera...
+El [[TEMAS/sonar\|sonar]] es el efecto de la [[TEMAS/antena\|antena]] en su [[TEMAS/interactividad\|interactividad]]. Emitimos y recibimos ondas que procesamos particularmente, y esas ondas nos traen un montón de información contradictoria respecto de nuestro código nativo, y eso es lo que tenemos que procesar porque no encajan, porque en este ámbito hay muchas [[TEMAS/partícula\|partícula]]s procesando [[TEMAS/onda\|onda]]s, no somos nosotros solamente ni tampoco lo hacemos de la misma manera...
 { #pgjml6}
 
 

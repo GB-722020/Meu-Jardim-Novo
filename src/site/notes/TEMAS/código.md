@@ -1,6 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/temas/codigo/","created":"2026-01-30T11:33:53.595-03:00","updated":"2026-01-30T11:33:56.596-03:00"}
+{"dg-publish":true,"permalink":"/temas/codigo/","created":"2026-01-30T11:33:53.595-03:00","updated":"2026-01-30T17:59:20.481-03:00"}
 ---
+
+
+**Ale en Red 151**
+
+**La lectura del [[TEMAS/código\|código]]** nos posibilita usar los RECURSOS del CONTENEDOR y estar a la expectativa de los retos del [[TEMAS/contenedor\|contenedor]]. [[ACER/Ale en Red 151#^mrip41\|Ale en Red 151#^mrip41]]
+
 
 
 

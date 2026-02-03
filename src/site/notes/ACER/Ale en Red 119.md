@@ -171,7 +171,7 @@ Bueno, todo esto es un diagnóstico para saber cómo medimos en nuestro 58 globa
 - y las influencias de **ancla** del eje Z.
 - Si exageramos con el Z, nos quedamos **anclados**
 - Si exageramos con el X nos quedamos **arrasados,**
-- por lo tanto, fortalecer al _Eje Ye_ es donde la antena logra o no logra, dar una formación independiente a su propio **[[yo\|yo]].**
+- por lo tanto, fortalecer al _Eje Ye_ es donde la antena logra o no logra, dar una formación independiente a su propio **[[TEMAS/yo\|yo]].**
 - Entonces, tenemos la letra Ye que es a letra N° **26** y la letra O que es la N° **16.**
 
 

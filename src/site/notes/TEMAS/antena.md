@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/antena/","created":"2026-01-21T17:32:24.055-03:00","updated":"2026-01-30T16:53:10.614-03:00"}
+{"dg-publish":true,"permalink":"/temas/antena/","created":"2026-01-21T17:32:24.055-03:00","updated":"2026-02-03T11:20:17.086-03:00"}
 ---
 
 
@@ -24,6 +24,18 @@ duplicación de [[TEMAS/fila 7\|fila 7]] [[ACER/Ale en Red 116#^msou0h\|Ale en R
 **Ale en Red 119**
 
 [[TEMAS/entorno\|entorno]], [[TEMAS/antena\|antena]] y [[TEMAS/ancla\|ancla]] ; [[TEMAS/eje X\|eje X]], [[TEMAS/eje Ye\|eje Ye]] y [[TEMAS/eje Z\|eje Z]] [[ACER/Ale en Red 119#^je59ud\|Ale en Red 119#^je59ud]]
+
+
+
+**Ale en Red 151**
+
+**Y** a no nos estamos guiando por la [[TEMAS/memoria\|memoria]] de lo OCURRIDO, - sino por la [[TEMAS/antena\|antena]] de LO QUE OCURRIRÁ. [[ACER/Ale en Red 151#^mrip41\|Ale en Red 151#^mrip41]]
+
+Pero este es funcionamiento de [[TEMAS/antena\|antena]], o sea, usa la [[TEMAS/memoria\|memoria]] para hacer registros, pero son registros actualizados. Escala diaria. [[ACER/Ale en Red 151#^qckk4h\|Ale en Red 151#^qckk4h]]
+
+
+
+
 
 ---
 *volver al [[index\|index]]*

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-01-30T09:26:50.449-03:00"}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-02-02T14:00:53.421-03:00"}
 ---
 
 
 
 
 
-# Bienvenidos al Jardín Digital LGC
+# Bienvenidos a la Biblioteca Interconectada LGC
 
 Este espacio está dedicado a la **documentación y exploración sistémica** de los temas desarrollados en LGC. El objetivo es mapear la interacción constante entre los temas, las fechas y las métricas que surgen de los desarrollos emitidos en _Alejandra Casado en Red_.
 
@@ -26,4 +26,4 @@ devido às limitações de diagramação...
 
 
 ---
-**Online desde 19.1.2026 - Día Solar 739637**
+**Online desde 19.1.2026 [[FECHAS/2026-01-19\|2026-01-19]] - Día Solar 739637**

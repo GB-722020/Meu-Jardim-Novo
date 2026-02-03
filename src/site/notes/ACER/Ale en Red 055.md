@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-055/","created":"2026-01-23T15:59:16.728-03:00","updated":"2026-01-25T10:24:31.597-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-055/","created":"2026-01-23T15:59:16.728-03:00","updated":"2026-01-31T08:38:10.767-03:00"}
 ---
 
 
@@ -118,7 +118,9 @@ Porque el riesgo es la vida! Y es la vida en todas sus formas. Cuando el Sistema
 { #qcjw0u}
 
 
-Entonces, regular los niveles de DAÑO, es lo que cada AÑO tenemos que hacer, para que un año no sea un año más, sino otro año. Un año más es un año que está en el pasado y que se reiteran iguales todas mis plantillas, pero el año es otro año, no es un año más; si lo tomo como un año más, ese es mi problema, no es un año más.
+Entonces, regular los niveles de [[TEMAS/daño\|DAÑO]], es lo que cada [[TEMAS/año\|AÑO]] tenemos que hacer, para que un año no sea un año más, sino otro año. Un año más es un año que está en el pasado y que se reiteran iguales todas mis plantillas, pero el año es otro año, no es un año más; si lo tomo como un año más, ese es mi problema, no es un año más.
+{ #574fw9}
+
 
 **_Claro, además cada año nos abre nuevas oportunidades y trae nuevas posiciones en el Espaciotiempo con un sentido y un propósito claro, entonces, se sigue incrementando uno a uno.
 

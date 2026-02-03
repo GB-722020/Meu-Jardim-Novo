@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/temas/flujo-de-senales/","created":"2026-01-22T08:57:53.184-03:00","updated":"2026-01-25T10:25:44.501-03:00"}
+{"dg-publish":true,"permalink":"/temas/flujo-de-senales/","created":"2026-01-22T08:57:53.184-03:00","updated":"2026-01-30T18:09:07.192-03:00"}
 ---
 
+
+
+**Ale en Red 151**
+
+Cuando rechazo a otro, es la exteriorización del [[TEMAS/auto rechazo\|auto rechazo]] de haber fallado en el [[TEMAS/flujo de señales\|Flujo De Señales]], [[ACER/Ale en Red 151#^cjgx4m\|Ale en Red 151#^cjgx4m]]
 
 
 

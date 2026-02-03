@@ -3,7 +3,7 @@
 ---
 
 
-[[TEMAS/eje Ye\|eje Ye]] el solariano interpreta com [[yo\|yo]] [[ACER/Ale en Red 123#^jt6txg\|Ale en Red 123#^jt6txg]]
+[[TEMAS/eje Ye\|eje Ye]] el solariano interpreta com [[TEMAS/yo\|yo]] [[ACER/Ale en Red 123#^jt6txg\|Ale en Red 123#^jt6txg]]
 
 ---
 *volver al [[index\|index]]*
