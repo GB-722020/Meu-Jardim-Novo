@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-087/","created":"2026-01-26T15:37:15.859-03:00","updated":"2026-01-27T17:06:23.693-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-087/","created":"2026-01-26T15:37:15.859-03:00","updated":"2026-02-04T14:58:59.667-03:00"}
 ---
 
 Fecha: [[FECHAS/2023-03-22\|2023-03-22]]
 
-https://www.youtube.com/watch?v=vUDi8XdGquA&t=1045s
+Link: https://www.youtube.com/watch?v=vUDi8XdGquA&t=1045s
 
 [[COLABORADORES/Leticia Candelaria\|Leticia Candelaria]] [@leticiacandelariasaucedo8808](https://youtube.com/@leticiacandelariasaucedo8808?si=h_Z63_Gaz4sEkkUQ)
 
@@ -420,7 +420,7 @@ Alejandra: Claramente es la política del pasado, la que usa tus vulnerabilidade
 
 Leticia: Sí, manipulación, claro. Otra pregunta dice: _“Mencionaste que cuando captamos algo nuevo se cambia el comportamiento, ¿de dónde llega esa _“_ señal _”_?
 
-Alejandra: Nosotros no sabemos de dónde llega la señal, pero tiene acceso a nosotros. O sea, en el principio sí hubo un ruteo de la señal, porque [[TEMAS/Andrómeda\|Andrómeda]] 2511 fue como un prólogo, y después la catarata educativa, entonces, de alguna manera sí tendría una Fuente, pero estamos hablando de un caso extremadamente particular, que sucede 4096 días antes del [[TEMAS/Horizonte De Suceso\|Horizonte De Suceso]] - matemática pura-.
+Alejandra: Nosotros no sabemos de dónde llega la señal, pero tiene acceso a nosotros. O sea, en el principio sí hubo un ruteo de la señal, porque [[TEMAS/Andrómeda\|Andrómeda]] 2511 fue como un prólogo, y después la catarata educativa, entonces, de alguna manera sí tendría una Fuente, pero estamos hablando de un caso extremadamente particular, que sucede 4096 días antes del [[TEMAS/Horizonte De Sucesos\|Horizonte De Sucesos]] - matemática pura-.
 
 Leticia: y contigo. Específico,
 

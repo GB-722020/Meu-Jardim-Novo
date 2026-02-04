@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/temas/especie-humana/","created":"2026-01-25T17:09:10.343-03:00","updated":"2026-01-30T16:53:20.894-03:00"}
+{"dg-publish":true,"permalink":"/temas/especie-humana/","created":"2026-01-25T17:09:10.343-03:00","updated":"2026-02-03T15:45:42.906-03:00"}
 ---
+
+
+**ver también**: [[TEMAS/especie\|especie]]
 
 
 **Ale en Red 87**

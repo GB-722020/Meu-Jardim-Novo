@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-131/","created":"2026-01-27T16:49:06.788-03:00","updated":"2026-01-30T17:16:16.145-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-131/","created":"2026-01-27T16:49:06.788-03:00","updated":"2026-02-04T09:42:39.448-03:00"}
 ---
 
 # Alejandra Casado EN RED 1 31 – 20 de febrero – Vuelta 4 - 2025
@@ -374,7 +374,7 @@ Cuando a mí me escuchen hablar de “ _Credenciales Lla”,_ estoy hablando de 
 
 ## ALEJANDRA : Porque son desafíos de la cualidad espacial -no de la cualidad temporal-.
 
-¿Qué es el [[TEMAS/tiempo\|tiempo]] para un [[TEMAS/espacio\|espacio]]? Es una cualidad, es una pista, y bajo esa pista va a haber un [[TEMAS/flujo de señales\|flujo de Señales]], y bajo ese flujo de Señales, determinadas entidades crean [[TEMAS/experiencias\|experiencias]] que se almacenan en este [[TEMAS/contenedor\|contenedor]] ¡y solamente van a tener [[TEMAS/sentido\|sentido]] en ese contenedor! Esas mismas experiencias o esos mismos aprendizajes ¡en otro contenedor no tendría ningún sentido! Bueno, ya está Leti. Me parece que hoy es larguísimo-.
+¿Qué es el [[TEMAS/tiempo\|tiempo]] para un [[TEMAS/espacio\|espacio]]? Es una cualidad, es una pista, y bajo esa pista va a haber un [[TEMAS/flujo de señales\|flujo de Señales]], y bajo ese flujo de Señales, determinadas entidades crean [[TEMAS/experiencia\|experiencia]]s que se almacenan en este [[TEMAS/contenedor\|contenedor]] ¡y solamente van a tener [[TEMAS/sentido\|sentido]] en ese contenedor! Esas mismas experiencias o esos mismos aprendizajes ¡en otro contenedor no tendría ningún sentido! Bueno, ya está Leti. Me parece que hoy es larguísimo-.
 { #cfvet4}
 
 

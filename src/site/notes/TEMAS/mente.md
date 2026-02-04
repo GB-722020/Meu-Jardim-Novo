@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/mente/","created":"2026-01-19T17:16:56.359-03:00","updated":"2026-01-30T16:53:10.631-03:00"}
+{"dg-publish":true,"permalink":"/temas/mente/","created":"2026-01-19T17:16:56.359-03:00","updated":"2026-02-04T10:37:06.099-03:00"}
 ---
 
 
@@ -19,6 +19,13 @@ aspecto nuclear [[TEMAS/mente\|mente]], aspecto atômico [[TEMAS/mentalidad\|men
 **Ale en Red 70**
 
 la [[TEMAS/mente\|mente]] del otro me golpea en el [[TEMAS/cuerpo\|cuerpo]]; es cuando decimos, el otro me da [[TEMAS/carga\|carga]] [[ACER/Ale en Red 070#^90t8aq\|Ale en Red 070#^90t8aq]]
+
+
+
+**Ale en Red 90**
+
+¿Qué es la [[TEMAS/mente\|mente]]? La mente, es [[TEMAS/conciencia\|conciencia]] codificada. [[ACER/Ale en Red 090#^a7qh89\|Ale en Red 090#^a7qh89]]
+
 
 
 **Ale en Red 123**

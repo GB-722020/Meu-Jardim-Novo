@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/temas/especie/","created":"2026-01-29T11:16:44.671-03:00","updated":"2026-01-29T11:26:21.891-03:00"}
+{"dg-publish":true,"permalink":"/temas/especie/","created":"2026-01-29T11:16:44.671-03:00","updated":"2026-02-03T15:46:04.591-03:00"}
 ---
+
+
+**ver también**: [[TEMAS/especie humana\|especie humana]]
 
 
 **Ale en Red 131**

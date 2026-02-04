@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-123/","created":"2026-01-20T11:20:42.935-03:00","updated":"2026-01-27T17:05:19.326-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-123/","created":"2026-01-20T11:20:42.935-03:00","updated":"2026-02-04T09:40:43.258-03:00"}
 ---
 
 
@@ -267,7 +267,7 @@ Pero cuando, en el 1700 y tantos, tenemos a la capacidad de conectar con la [[TE
 instantáneamente-. Entonces, si vierto una determinada codificación, otro punto del planeta podría eventualmente recibirlo y decodificarla. Entonces, esta es la cuestión de volcar un código que tenemos nosotros en memoria, y ese código, desde el otro lado se decodifica, entonces se obtiene el mensaje -en tiempo real de la Tierra-. Como nosotros hacemos un consumo de memoria, tanto para codificar como para decodificar, y al consumo de memoria nuestra le llamamos ROM, y cuando estamos consumiendo la ROM, decimos MOR, ¡pero estamos usando el vehículo de S E! - que es el vehículo del entorno-. Entonces, al código se lo llama “MOR SE”. [[TEMAS/MORSE\|MORSE]]
 ¡Ya sé que tiene que ver con la persona que origina este tema! Pero estamos hablando  
 de la misma codificación. En LGC, lo de MOR y ROM fue propio del evento 69.  
-Me acuerdo que ahí fue donde hablé de RAM REM ROM RUM, los cuatro días del S O -  
+Me acuerdo que ahí fue donde hablé de RAM REM ROM RUM, los cuatro días del SO -  
 Suroeste-, que son los días en los que vamos a recibir las señales en su estado puro  
 y duro y después, vamos a tener espacios para poder procesarlas: el espacio NE; el  
 espacio NO y el espacio SE.
@@ -281,8 +281,10 @@ Eso es como algo simpático para recordar, que Sol está creando código desde e
 
 Bueno, hoy estaba revisando lo del [[TEMAS/premio Nobel\|premio Nobel]] y empieza a partir del 1901. O sea, “ _ya tenemos el último secular, ahora hagamos las actualizaciones...”_ “ _Vamos, vamos, vamos que podemos” “¿a ver qué descubrimos hoy?” ¡pum! “¿a ver qué descubrimos este año?” ¡pum!_ Simplemente es una capa que nos permite ralentizar el proceso, observarlo con más cuidado y atenderlo con más precisión.
 
-Otra cosa que pasó también, un descubrimiento en la Vuelta 18 , es que de pronto tomo conciencia que al momento de hacer el [[TEMAS/evento 28\|evento 28]] en Israel, ese mismo día de inicio, con la vista de lo que hemos descubierto en el último tiempo -esta cuestión de los 3760 años arriba de nuestro año Calendario- pero la misma fecha, es la ubicación de esa conciencia de escala subatómica, que es la que va a tomar todas las variables del Cosmos y va a crear un código que va a ser su definición de espacio. La definición de **espacio** , es lo galáctico; pero cuando no hay definición de espacio está el _cosmos_ y nosotros somos manejados o controlados-por, y simplemente ejecutamos; somos un experimento. 
+Otra cosa que pasó también, un descubrimiento en la Vuelta 18 , es que de pronto tomo conciencia que al momento de hacer el [[TEMAS/evento 28\|evento 28]] en Israel, ese mismo día de inicio, con la vista de lo que hemos descubierto en el último tiempo -esta cuestión de los 3760 años arriba de nuestro año Calendario- pero la misma fecha, es la ubicación de esa conciencia de escala subatómica, que es la que va a tomar todas las variables del Cosmos y va a crear un código que va a ser su definición de espacio. La definición de **[[TEMAS/espacio\|espacio]]** , es lo galáctico; pero cuando no hay definición de espacio está el _[[TEMAS/cosmos\|cosmos]]_ y nosotros somos manejados o controlados-por, y simplemente ejecutamos; somos un experimento. 
 Ahora, pasar de experimento a apropiarse de la experiencia, es la oportunidad que tenemos., Entonces en este sentido,
+{ #j81ara}
+
 
 - cuando sumamos al 2015 + 3760 , queda **5775.** ( 5775 – 2015 = 3760 ).
 
@@ -298,12 +300,13 @@ Ahora, pasar de experimento a apropiarse de la experiencia, es la oportunidad qu
 - Del 2015 al 2024, son 9 años de diferencia. 9 años me tardo para poder leer eso  
     que ya hice, porque en ese momento no sabía leer con todo este nivel de precisión
 - pero sí la ejecución era precisa-.  
-    Esto es lo que quiero decir cuando digo **interdimensional** , que no importa en cualquier momento el tiempo que se vea, va a seguir siendo hiperconvergente. Porque está comprometida la conciencia de escala subatómica y como la conciencia escala subatómica no es una conciencia que tenga que ver con la experiencia, sino con los entornos, que permiten experimentar una experiencia. De ahí viene la neutralidad.  
+    Esto es lo que quiero decir cuando digo **[[TEMAS/interdimensional\|interdimensional]]** , que no importa en cualquier momento el [[TEMAS/tiempo\|tiempo]] que se vea, va a seguir siendo hiperconvergente. Porque está comprometida la conciencia de escala subatómica y como la conciencia [[TEMAS/escala subatómica\|escala subatómica]] no es una conciencia que tenga que ver con la [[TEMAS/experiencia\|experiencia]], sino con los [[TEMAS/entorno\|entorno]]s, que permiten experimentar una experiencia. De ahí viene la neutralidad.  
     Entonces, si alguien no puede adentro de su red neurológica poder tener un tramo reservado para la vía neutra, no va a poder tomar las riendas para impactar al código solar; y si no impactamos al código solar, el que va a sufrir las consecuencias es todo nuestro [[TEMAS/código social\|código social]], porque va a ir por rutas ¡nada que ver con lo elegante! sino que va a tener que ver con unas cadenas de [[TEMAS/reactivos\|reactivos]].  
-    Entonces, en el momento en el cual nosotros empezamos a crear sentido, se abre la línea de crédito; porque siempre que se abre un sentido nuevo, todavía no existe el código para implementarlo; entonces ahí se abre una apertura del crédito para crear el código para implementar ese nuevo sentido.  
+    Entonces, en el momento en el cual nosotros empezamos a crear [[TEMAS/sentido\|sentido]], se abre la línea de [[TEMAS/crédito\|crédito]]; porque siempre que se abre un sentido nuevo, todavía no existe el [[TEMAS/código\|código]] para implementarlo; entonces ahí se abre una apertura del crédito para crear el código para implementar ese nuevo sentido.  
     Por eso ¡mucho cuidado! Que, desde una conciencia que está atada a la experiencia como en la del [[TEMAS/solariano\|solariano]] - el **solariano** tiene una fecha nativa-, el **solar** no tiene una fecha nativa, entonces todas las cosas que son restricciones del Solariano, tenemos que empezar a poder soportar su lectura.  
     ¡Soportar su lectura, pero no sus apetitos! porque tiene que ver con la experiencia, y _conciencia solar_ no tiene que ver con la experiencia en sí misma, sino con crear los entornos para las experiencias, porque su trabajo es atender a lo que se llama en nosotros “el **procesador** ”.  
-    Ese **procesador de Señales** no es el que valoriza las experiencias -eso es otra escala ¡por favor! No es que yo esté diciendo que esta escala no sirve y no es útil, y no es importante ¡Claro que es importante! El **[[TEMAS/contenido\|contenido]]** es el bebé mimado del espacio tiempo, y claro que es importante, pero también tiene todas las licencias de ignorancia habidas y por haber **¿Por qué?** Porque la codificación para mantenerlo, tiene todo que ver con otras escalas. 
+    
+    Ese **[[TEMAS/procesador\|procesador]] de Señales** no es el que valoriza las [[TEMAS/experiencia\|experiencia]]s -eso es otra escala ¡por favor! No es que yo esté diciendo que esta escala no sirve y no es útil, y no es importante ¡Claro que es importante! El **[[TEMAS/contenido\|contenido]]** es el bebé mimado del espacio tiempo, y claro que es importante, pero también tiene todas las licencias de ignorancia habidas y por haber **¿Por qué?** Porque la codificación para mantenerlo, tiene todo que ver con otras escalas. 
     Entonces cuando vamos a tomar a todas las escalas juntas, porque se está transparentando la Matrix y porque los creadores de contenido están de salida, este ruteo intermedio donde están de salida -y pueden estar de entrada también- porque podemos crear un nuevo sentido.  
     Al crear un nuevo sentido a lo mismo que ya ocurrió, se abre la línea de crédito, pero tiene que pasar esto, porque va a venir la señal del reactivo si yo no tengo escalas que me tomen la señal antes de que mi reactivo la tome. Le estoy dando un tratamiento conjunto a Vueltas 19 , 20 , 21 y 22 -te habrás dado cuenta-
 { #xfewdl}

@@ -1,6 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/temas/defecto/","created":"2026-01-23T11:57:07.021-03:00","updated":"2026-01-30T18:19:53.706-03:00"}
+{"dg-publish":true,"permalink":"/temas/defecto/","created":"2026-01-23T11:57:07.021-03:00","updated":"2026-02-04T11:03:01.365-03:00"}
 ---
+
+
+
+**Ale en Red 90**
+
+Que una virtud, es la configuración de un defecto. [[ACER/Ale en Red 090#^focjpz\|Ale en Red 090#^focjpz]]
+
 
 
 **Ale en Red 151**
