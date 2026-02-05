@@ -12,38 +12,38 @@ body {
     //  }
 }
 @media screen and (min-width: 1200px) {
-    /* 1. O container principal agora permite que o conteúdo estique */
-    .dg-main-content, .content, #stack-container {
-        display: flex !important;
-        flex-direction: row !important;
-        justify-content: flex-start !important; /* Alinha tudo à esquerda */
-        max-width: 100% !important;
-        margin: 0 5% !important; /* Pequena margem nas bordas da tela */
+    /* 1. Garante que a nota possa ser larga, mas quebre as linhas normalmente */
+    main, .markdown-rendered, .content {
+        max-width: 75% !important; /* A nota ocupa 75% da largura da tela */
+        margin-left: 5% !important; /* Margem pequena na esquerda */
+        margin-right: auto !important;
+        display: block !important; /* Garante que o texto flua para baixo */
+        float: left !important; /* Encosta a nota na esquerda */
     }
 
-    /* 2. A NOTA: Aqui é onde resolvemos o seu problema */
-    main, .markdown-rendered, #main-content {
-        flex: 1 1 auto !important; /* "1" diz: cresça o máximo que puder */
-        max-width: calc(100% - 320px) !important; /* Ocupa tudo menos o espaço do backlink */
-        margin-right: 40px !important; /* Espaço de respiro entre nota e backlink */
-        margin-left: 0 !important;
-    }
-
-    /* 3. OS BACKLINKS: Fixos na direita, mas sem espremer */
+    /* 2. Posiciona os backlinks no espaço que sobrou (os outros 25%) */
     .backlinks-container, .backlinks {
-        flex: 0 0 280px !important; /* Largura fixa para os backlinks */
-        position: sticky !important;
-        top: 80px !important;
-        height: fit-content !important;
+        position: fixed !important;
+        right: 2% !important;
+        top: 100px !important;
+        width: 20% !important; /* Ocupa o restante da tela */
+        z-index: 999 !important;
         
         border: none !important;
         border-left: 1px solid var(--background-modifier-border, #ddd) !important;
-        padding-left: 20px !important;
+        padding-left: 1.5rem !important;
         background: transparent !important;
     }
 
-    /* Esconde a versão do rodapé para não duplicar */
-    footer .backlinks-container, .backlinks-footer {
+    /* 3. Evita que o rodapé original apareça */
+    footer .backlinks-container {
         display: none !important;
     }
+}
+
+/* Limpa o "float" para o rodapé não subir */
+body::after {
+    content: "";
+    clear: both;
+    display: table;
 }
