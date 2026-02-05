@@ -11,31 +11,42 @@ body {
     //   color: black;
     //  }
 }
-@media screen and (min-width: 1200px) {
-    /* 1. NÃO mexe na nota (para parar de cortar a esquerda) */
-    
-    /* 2. Posiciona os backlinks RELATIVO ao centro da tela */
-    .backlinks-container, .backlinks {
-        position: fixed !important;
-        /* O segredo: 50% da tela + metade da largura da sua nota */
-        /* Se sua nota tem uns 800px de largura, 400px + um respiro */
-        left: calc(50% + 420px) !important; 
-        top: 150px !important;
-        width: 250px !important;
-        z-index: 9999 !important;
+@media screen and (min-width: 1100px) {
+    /* 1. Prepara o terreno sem empurrar a nota para fora */
+    #stack-container, .dg-main-content, .content {
+        display: grid !important;
+        grid-template-columns: minmax(0, 1fr) 300px !important; /* Nota à esquerda, 300px para backlinks */
+        column-gap: 30px !important;
+        max-width: 95% !important;
+        margin: 0 auto !important;
+        justify-items: stretch !important;
+    }
 
+    /* 2. Garante que a nota ocupe o espaço dela sem ser cortada */
+    main, .markdown-rendered {
+        grid-column: 1 !important;
+        width: 100% !important;
+        max-width: 900px !important; /* Limite para o texto não ficar gigante */
+        justify-self: end !important; /* Cola a nota no centro, perto dos backlinks */
+    }
+
+    /* 3. Coloca os backlinks no lugar deles */
+    .backlinks-container, .backlinks {
+        grid-column: 2 !important;
+        grid-row: 1 !important;
+        position: sticky !important;
+        top: 100px !important;
+        display: block !important;
+        
         border: none !important;
         border-left: 1px solid var(--background-modifier-border, #ddd) !important;
         padding-left: 20px !important;
-        background: transparent !important;
-        display: block !important;
+        margin-top: 50px !important;
+        height: fit-content !important;
     }
 
-    /* 3. Se a tela for pequena demais para o cálculo acima, ele some para não cobrir o texto */
-}
-
-@media screen and (max-width: 1350px) {
-    .backlinks-container, .backlinks {
-        display: none !important; /* Evita que ele atropele a nota em telas médias */
+    /* 4. Esconde o do rodapé */
+    footer .backlinks-container, .backlinks-footer {
+        display: none !important;
     }
 }
