@@ -31,18 +31,23 @@ body {
         overflow-y: auto !important;
     }
 
-    /* TRADUÇÃO (Sem mexer em tamanhos) */
-    .backlinks-container h3, .backlinks h3 {
+    /* Troca o texto do título */
+    .backlinks-container [class*="title"], 
+    .backlinks [class*="title"],
+    .backlinks-container h2,
+    .backlinks-container h3 {
         font-size: 0 !important;
     }
-    .backlinks-container h3::before, .backlinks h3::before {
+
+    .backlinks-container [class*="title"]::before, 
+    .backlinks [class*="title"]::before,
+    .backlinks-container h2::before,
+    .backlinks-container h3::before {
         content: "Notas que mencionan esta nota" !important;
         font-size: 1.1rem !important;
+        color: var(--text-normal) !important;
         visibility: visible !important;
         display: block !important;
+        font-weight: bold !important;
+        line-height: 1.2 !important;
     }
-}
-/* Teste para forçar a mudança de cor e ver se o CSS "enxerga" o título */
-.backlinks-container *, .backlinks * {
-    color: red !important;
-}
