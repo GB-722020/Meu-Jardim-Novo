@@ -11,48 +11,26 @@ body {
     //   color: black;
     //  }
 }
-@media screen and (min-width: 1200px) {
-    /* 1. Não tocamos na nota. Se ela estava boa antes, vai continuar boa. */
-
-    /* 2. Tiramos os backlinks do fluxo e colocamos na direita absoluta */
-    .backlinks-container, .backlinks {
-        position: fixed !important;
-        top: 100px !important;
-        right: 20px !important; /* Cola na borda direita da tela */
-        width: 250px !important;
-        z-index: 1000 !important;
-        
-        /* Estilo sutil para não parecer um erro */
-        background: var(--background-primary) !important;
-        border-left: 1px solid var(--background-modifier-border, #ddd) !important;
-        padding: 15px !important;
-        font-size: 0.8em !important;
-        max-height: 80vh !important;
-        overflow-y: auto !important;
-    }
-
-    /* 3. O SEGREDO: Criamos um espaço vazio na direita da página toda */
-    /* Isso garante que a nota nunca chegue perto dos backlinks */
-    #stack-container, .dg-main-content, .content {
-        padding-right: 280px !important; 
-        box-sizing: border-box !important;
-    }
-}
-/* Troca o texto do título dos backlinks */
-.backlinks-title, 
+/* Versão Reforçada para mudar o título */
+.backlinks-container h2, 
 .backlinks-container h3, 
+.backlinks-container .backlinks-title,
 .backlinks h3 {
-    font-size: 0 !important; /* Esconde o texto original */
+    color: transparent !important;
+    font-size: 0 !important;
+    line-height: 0 !important;
 }
 
-.backlinks-title::before, 
+.backlinks-container h2::before, 
 .backlinks-container h3::before, 
+.backlinks-container .backlinks-title::before,
 .backlinks h3::before {
-    content: "Notas que mencionan esta nota"; /* Seu novo título */
-    font-size: 1.1rem !important; /* Tamanho da fonte */
-    display: block;
-    visibility: visible;
-    font-weight: bold;
-    margin-bottom: 10px;
-    color: var(--text-normal); /* Usa a cor padrão do seu tema */
+    content: "Notas que mencionan esta nota" !important;
+    color: var(--text-normal) !important;
+    font-size: 1.1rem !important;
+    line-height: 1.2 !important;
+    display: block !important;
+    visibility: visible !important;
+    font-weight: bold !important;
+    margin-bottom: 15px !important;
 }
