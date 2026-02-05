@@ -11,24 +11,3 @@ body {
     //   color: black;
     //  }
 }
-/* Forçar Backlinks para a Lateral em Desktops */
-@media screen and (min-width: 1024px) {
-    .content {
-        display: grid;
-        grid-template-columns: 1fr 280px; /* Nota na esquerda, Backlinks na direita */
-        gap: 3rem;
-        align-items: start;
-    }
-
-    .backlinks-container {
-        grid-column: 2;
-        grid-row: 1;
-        position: sticky;
-        top: 2rem;
-        border-top: none !important;
-        padding-top: 0 !important;
-        margin-top: 0 !important;
-        border-left: 1px solid var(--background-modifier-border, #e0e0e0);
-        padding-left: 1.5rem;
-    }
-}
