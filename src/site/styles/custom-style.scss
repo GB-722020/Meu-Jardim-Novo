@@ -31,30 +31,27 @@ body {
         overflow-y: auto !important;
     }
 
-   /* 2. TROCA O TEXTO DO TÍTULO (Versão Ultra) */
-    .backlinks-container > h2, 
-    .backlinks-container > h3, 
-    .backlinks-title,
-    .backlinks h3,
-    .backlinks-header {
-        color: transparent !important;
-        font-size: 0 !important;
-        position: relative !important;
+  /* 2. TROCA O TEXTO DO TÍTULO (Versão Final) */
+    .backlinks-container, .backlinks {
+        padding-top: 50px !important; /* Abre espaço no topo */
+        position: fixed !important; 
     }
 
-    .backlinks-container > h2::before, 
-    .backlinks-container > h3::before, 
-    .backlinks-title::before,
-    .backlinks h3::before,
-    .backlinks-header::before {
+    /* Esconde TUDO o que for título original */
+    .backlinks-container h2, .backlinks-container h3, 
+    .backlinks-header, .backlinks-title {
+        display: none !important;
+    }
+
+    /* Cria o título novo do zero, ancorado na caixa */
+    .backlinks-container::before, .backlinks::before {
         content: "Notas que mencionan esta nota" !important;
-        color: var(--text-normal) !important;
-        font-size: 1.1rem !important;
-        visibility: visible !important;
-        display: block !important;
-        font-weight: bold !important;
         position: absolute !important;
-        top: 0;
-        left: 0;
-        width: 100%;
+        top: 15px !important;
+        left: 15px !important;
+        font-size: 1.1rem !important;
+        font-weight: bold !important;
+        color: var(--text-normal) !important;
+        visibility: visible !important;
+        z-index: 1001 !important;
     }
