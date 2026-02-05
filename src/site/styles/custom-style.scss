@@ -12,7 +12,7 @@ body {
     //  }
 }
 @media screen and (min-width: 1200px) {
-    /* VOLTANDO A DIAGRAMAÇÃO QUE FUNCIONOU */
+    /* 1. MANTÉM A DIAGRAMAÇÃO */
     #stack-container, .dg-main-content, .content {
         padding-right: 280px !important; 
         box-sizing: border-box !important;
@@ -31,18 +31,19 @@ body {
         overflow-y: auto !important;
     }
 
-    /* Troca o texto do título */
+    /* 2. TROCA O TEXTO DO TÍTULO */
+    .backlinks-container h2, 
+    .backlinks-container h3, 
     .backlinks-container [class*="title"], 
-    .backlinks [class*="title"],
-    .backlinks-container h2,
-    .backlinks-container h3 {
+    .backlinks h3 {
         font-size: 0 !important;
+        color: transparent !important;
     }
 
+    .backlinks-container h2::before, 
+    .backlinks-container h3::before, 
     .backlinks-container [class*="title"]::before, 
-    .backlinks [class*="title"]::before,
-    .backlinks-container h2::before,
-    .backlinks-container h3::before {
+    .backlinks h3::before {
         content: "Notas que mencionan esta nota" !important;
         font-size: 1.1rem !important;
         color: var(--text-normal) !important;
@@ -51,3 +52,4 @@ body {
         font-weight: bold !important;
         line-height: 1.2 !important;
     }
+} /* <--- ESSA CHAVE AQUI É O QUE ESTAVA FALTANDO! */
