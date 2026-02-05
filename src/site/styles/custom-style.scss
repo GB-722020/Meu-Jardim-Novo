@@ -12,25 +12,38 @@ body {
     //  }
 }
 @media screen and (min-width: 1200px) {
-    /* 1. Garante que o corpo do site não deixe nada sobrepor a direita */
-    #stack-container, .content, body {
-        padding-right: 320px !important;
-        display: block !important;
+    /* 1. O container principal agora permite que o conteúdo estique */
+    .dg-main-content, .content, #stack-container {
+        display: flex !important;
+        flex-direction: row !important;
+        justify-content: flex-start !important; /* Alinha tudo à esquerda */
+        max-width: 100% !important;
+        margin: 0 5% !important; /* Pequena margem nas bordas da tela */
     }
 
-    /* 2. Força os backlinks para a frente e para a lateral */
+    /* 2. A NOTA: Aqui é onde resolvemos o seu problema */
+    main, .markdown-rendered, #main-content {
+        flex: 1 1 auto !important; /* "1" diz: cresça o máximo que puder */
+        max-width: calc(100% - 320px) !important; /* Ocupa tudo menos o espaço do backlink */
+        margin-right: 40px !important; /* Espaço de respiro entre nota e backlink */
+        margin-left: 0 !important;
+    }
+
+    /* 3. OS BACKLINKS: Fixos na direita, mas sem espremer */
     .backlinks-container, .backlinks {
-        position: fixed !important;
-        right: 30px !important;
-        top: 120px !important;
-        width: 280px !important;
-        z-index: 9999 !important; /* Joga para a camada da frente de tudo */
+        flex: 0 0 280px !important; /* Largura fixa para os backlinks */
+        position: sticky !important;
+        top: 80px !important;
+        height: fit-content !important;
         
-        background-color: var(--background-primary, white) !important;
         border: none !important;
         border-left: 1px solid var(--background-modifier-border, #ddd) !important;
         padding-left: 20px !important;
-        
-        display: block !important; /* Garante que não suma */
+        background: transparent !important;
+    }
+
+    /* Esconde a versão do rodapé para não duplicar */
+    footer .backlinks-container, .backlinks-footer {
+        display: none !important;
     }
 }
