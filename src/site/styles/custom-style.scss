@@ -31,35 +31,31 @@ body {
         overflow-y: auto !important;
     }
 
-  /* 2. TROCA O TEXTO DO TÍTULO (Ataque Total) */
+  /* 2. ESTRATÉGIA DE LIMPEZA TOTAL */
     
-    /* Esconde o topo da caixa onde fica o título original */
-    .backlinks-container, .backlinks {
-        padding-top: 45px !important;
-        position: fixed !important;
-    }
-
-    /* Tenta apagar qualquer texto que apareça antes da lista de notas */
-    .backlinks-container > *:first-child, 
-    .backlinks-header, 
-    .backlinks-title {
-        color: transparent !important;
+    /* 1. Zera todo o texto da caixa de backlinks */
+    .backlinks-container, .backlinks, .backlinks-header, .backlinks-title {
         font-size: 0 !important;
-        height: 0 !important;
-        margin: 0 !important;
-        visibility: hidden !important;
+        color: transparent !important;
     }
 
-    /* Escreve a frase nova "flutuando" no topo da caixa */
-    .backlinks-container::after, .backlinks::after {
+    /* 2. Cria a frase nova no topo */
+    .backlinks-container::before, .backlinks::before {
         content: "Notas que mencionan esta nota" !important;
-        position: absolute !important;
-        top: 15px !important;
-        left: 15px !important;
-        font-size: 1rem !important;
-        font-weight: bold !important;
-        color: var(--text-normal) !important;
-        visibility: visible !important;
         display: block !important;
-        z-index: 9999 !important;
+        font-size: 1.1rem !important;
+        color: var(--text-normal) !important;
+        font-weight: bold !important;
+        visibility: visible !important;
+        margin-bottom: 15px !important;
+    }
+
+    /* 3. Traz de volta o texto das notas (links) que sumiram no passo 1 */
+    .backlinks-container a, 
+    .backlinks a, 
+    .backlinks-container .search-result-file-title,
+    .backlinks-container .backlink-link {
+        font-size: 0.9rem !important;
+        color: var(--link-color, #2d73d2) !important;
+        visibility: visible !important;
     }
