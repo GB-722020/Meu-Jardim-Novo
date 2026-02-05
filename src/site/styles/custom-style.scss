@@ -31,27 +31,35 @@ body {
         overflow-y: auto !important;
     }
 
-  /* 2. TROCA O TEXTO DO TÍTULO (Versão Final) */
+  /* 2. TROCA O TEXTO DO TÍTULO (Ataque Total) */
+    
+    /* Esconde o topo da caixa onde fica o título original */
     .backlinks-container, .backlinks {
-        padding-top: 50px !important; /* Abre espaço no topo */
-        position: fixed !important; 
+        padding-top: 45px !important;
+        position: fixed !important;
     }
 
-    /* Esconde TUDO o que for título original */
-    .backlinks-container h2, .backlinks-container h3, 
-    .backlinks-header, .backlinks-title {
-        display: none !important;
+    /* Tenta apagar qualquer texto que apareça antes da lista de notas */
+    .backlinks-container > *:first-child, 
+    .backlinks-header, 
+    .backlinks-title {
+        color: transparent !important;
+        font-size: 0 !important;
+        height: 0 !important;
+        margin: 0 !important;
+        visibility: hidden !important;
     }
 
-    /* Cria o título novo do zero, ancorado na caixa */
-    .backlinks-container::before, .backlinks::before {
+    /* Escreve a frase nova "flutuando" no topo da caixa */
+    .backlinks-container::after, .backlinks::after {
         content: "Notas que mencionan esta nota" !important;
         position: absolute !important;
         top: 15px !important;
         left: 15px !important;
-        font-size: 1.1rem !important;
+        font-size: 1rem !important;
         font-weight: bold !important;
         color: var(--text-normal) !important;
         visibility: visible !important;
-        z-index: 1001 !important;
+        display: block !important;
+        z-index: 9999 !important;
     }
