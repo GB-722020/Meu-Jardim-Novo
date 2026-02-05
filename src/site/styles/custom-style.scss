@@ -12,20 +12,25 @@ body {
     //  }
 }
 @media screen and (min-width: 1200px) {
-    /* Identifica o container dos backlinks */
+    /* Ajusta o corpo da página para dar espaço na direita */
+    body {
+        padding-right: 300px; /* Cria uma "avenida" na direita para os backlinks */
+    }
+
+    /* Posiciona os backlinks nessa avenida criada */
     .backlinks-container, .backlinks {
         position: fixed;
         right: 20px;
         top: 100px;
-        width: 250px;
+        width: 260px;
         max-height: 80vh;
         overflow-y: auto;
-        border: 1px solid #eee;
-        padding: 15px;
-        border-radius: 8px;
-        background-color: var(--background-primary);
-        box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        
+        /* Estilização para parecer um menu lateral */
+        border: none;
+        border-left: 1px solid var(--background-modifier-border, #eee);
+        padding-left: 20px;
+        background-color: transparent; 
         font-size: 0.85em;
-        z-index: 100;
     }
 }
