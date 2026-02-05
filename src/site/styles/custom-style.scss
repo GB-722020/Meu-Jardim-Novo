@@ -38,3 +38,21 @@ body {
         box-sizing: border-box !important;
     }
 }
+/* Troca o texto do título dos backlinks */
+.backlinks-title, 
+.backlinks-container h3, 
+.backlinks h3 {
+    font-size: 0 !important; /* Esconde o texto original */
+}
+
+.backlinks-title::before, 
+.backlinks-container h3::before, 
+.backlinks h3::before {
+    content: "Notas que mencionan esta nota"; /* Seu novo título */
+    font-size: 1.1rem !important; /* Tamanho da fonte */
+    display: block;
+    visibility: visible;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: var(--text-normal); /* Usa a cor padrão do seu tema */
+}
