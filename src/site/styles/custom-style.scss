@@ -11,26 +11,34 @@ body {
     //   color: black;
     //  }
 }
-/* Versão Reforçada para mudar o título */
-.backlinks-container h2, 
-.backlinks-container h3, 
-.backlinks-container .backlinks-title,
-.backlinks h3 {
-    color: transparent !important;
-    font-size: 0 !important;
-    line-height: 0 !important;
-}
+@media screen and (min-width: 1200px) {
+    /* VOLTANDO A DIAGRAMAÇÃO QUE FUNCIONOU */
+    #stack-container, .dg-main-content, .content {
+        padding-right: 280px !important; 
+        box-sizing: border-box !important;
+    }
 
-.backlinks-container h2::before, 
-.backlinks-container h3::before, 
-.backlinks-container .backlinks-title::before,
-.backlinks h3::before {
-    content: "Notas que mencionan esta nota" !important;
-    color: var(--text-normal) !important;
-    font-size: 1.1rem !important;
-    line-height: 1.2 !important;
-    display: block !important;
-    visibility: visible !important;
-    font-weight: bold !important;
-    margin-bottom: 15px !important;
+    .backlinks-container, .backlinks {
+        position: fixed !important;
+        top: 100px !important;
+        right: 20px !important;
+        width: 250px !important;
+        z-index: 1000 !important;
+        background: var(--background-primary) !important;
+        border-left: 1px solid var(--background-modifier-border, #ddd) !important;
+        padding: 15px !important;
+        max-height: 80vh !important;
+        overflow-y: auto !important;
+    }
+
+    /* TRADUÇÃO (Sem mexer em tamanhos) */
+    .backlinks-container h3, .backlinks h3 {
+        font-size: 0 !important;
+    }
+    .backlinks-container h3::before, .backlinks h3::before {
+        content: "Notas que mencionan esta nota" !important;
+        font-size: 1.1rem !important;
+        visibility: visible !important;
+        display: block !important;
+    }
 }
