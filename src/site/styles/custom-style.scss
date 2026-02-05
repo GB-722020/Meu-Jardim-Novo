@@ -12,25 +12,25 @@ body {
     //  }
 }
 @media screen and (min-width: 1200px) {
-    /* Ajusta o corpo da página para dar espaço na direita */
-    body {
-        padding-right: 300px; /* Cria uma "avenida" na direita para os backlinks */
+    /* 1. Garante que o corpo do site não deixe nada sobrepor a direita */
+    #stack-container, .content, body {
+        padding-right: 320px !important;
+        display: block !important;
     }
 
-    /* Posiciona os backlinks nessa avenida criada */
+    /* 2. Força os backlinks para a frente e para a lateral */
     .backlinks-container, .backlinks {
-        position: fixed;
-        right: 20px;
-        top: 100px;
-        width: 260px;
-        max-height: 80vh;
-        overflow-y: auto;
+        position: fixed !important;
+        right: 30px !important;
+        top: 120px !important;
+        width: 280px !important;
+        z-index: 9999 !important; /* Joga para a camada da frente de tudo */
         
-        /* Estilização para parecer um menu lateral */
-        border: none;
-        border-left: 1px solid var(--background-modifier-border, #eee);
-        padding-left: 20px;
-        background-color: transparent; 
-        font-size: 0.85em;
+        background-color: var(--background-primary, white) !important;
+        border: none !important;
+        border-left: 1px solid var(--background-modifier-border, #ddd) !important;
+        padding-left: 20px !important;
+        
+        display: block !important; /* Garante que não suma */
     }
 }
