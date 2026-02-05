@@ -11,3 +11,21 @@ body {
     //   color: black;
     //  }
 }
+@media screen and (min-width: 1200px) {
+    /* Identifica o container dos backlinks */
+    .backlinks-container, .backlinks {
+        position: fixed;
+        right: 20px;
+        top: 100px;
+        width: 250px;
+        max-height: 80vh;
+        overflow-y: auto;
+        border: 1px solid #eee;
+        padding: 15px;
+        border-radius: 8px;
+        background-color: var(--background-primary);
+        box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        font-size: 0.85em;
+        z-index: 100;
+    }
+}
