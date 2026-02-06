@@ -34,23 +34,22 @@ body {
         z-index: 100 !important;
         
         /* Organização Interna */
-       overflow-y: auto !important;
+      overflow-y: auto !important;
         display: block !important;
     }
 
-    /* TROCA DO TÍTULO */
-    .backlinks-container h2, 
-    .backlinks-container h3, 
-    .backlinks-title,
-    .backlink-pane .embedded-backlinks-header {
+    /* TENTATIVA CORINGA PARA O TÍTULO */
+    /* Alvo: O primeiro elemento de texto dentro da caixa de backlinks */
+    .backlinks-container > :first-child, 
+    .backlinks-container .backlinks-title,
+    .backlink-pane-header {
         font-size: 0 !important;
         color: transparent !important;
     }
 
-    .backlinks-container h2::before, 
-    .backlinks-container h3::before,
-    .backlinks-title::before,
-    .backlink-pane .embedded-backlinks-header::before {
+    .backlinks-container > :first-child::before,
+    .backlinks-container .backlinks-title::before,
+    .backlink-pane-header::before {
         content: "Notas que mencionan esta nota" !important;
         font-size: 0.9rem !important;
         color: var(--text-muted) !important;
