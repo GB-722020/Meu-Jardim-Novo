@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/el-otro/","created":"2026-01-26T17:59:30.063-03:00","updated":"2026-01-30T16:53:20.908-03:00"}
+{"dg-publish":true,"permalink":"/temas/el-otro/","created":"2026-01-26T17:59:30.063-03:00","updated":"2026-02-06T11:48:43.633-03:00"}
 ---
 
 
@@ -15,4 +15,4 @@ hasta que nosotros no nos demos cuenta de (que el otro no es “otro yo”) , la
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

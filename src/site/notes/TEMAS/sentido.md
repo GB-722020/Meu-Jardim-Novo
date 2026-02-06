@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/sentido/","created":"2026-01-27T12:44:58.432-03:00","updated":"2026-01-30T16:53:20.925-03:00"}
+{"dg-publish":true,"permalink":"/temas/sentido/","created":"2026-01-27T12:44:58.432-03:00","updated":"2026-02-06T11:48:43.710-03:00"}
 ---
 
 
@@ -17,4 +17,4 @@ Porque ¿qué es lo que le falta al [[TEMAS/depresivo\|depresivo]]? [[TEMAS/sent
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/simbolico/","created":"2026-01-26T16:24:20.689-03:00","updated":"2026-01-30T16:53:20.903-03:00"}
+{"dg-publish":true,"permalink":"/temas/simbolico/","created":"2026-01-26T16:24:20.689-03:00","updated":"2026-02-06T11:48:43.614-03:00"}
 ---
 
 
@@ -15,4 +15,4 @@ el mundo [[TEMAS/simbólico\|simbólico]] llena todo y explica todo de una maner
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/interdimensional/","created":"2026-02-04T09:32:59.091-03:00","updated":"2026-02-04T09:33:40.923-03:00"}
+{"dg-publish":true,"permalink":"/temas/interdimensional/","created":"2026-02-04T09:32:59.091-03:00","updated":"2026-02-06T11:48:44.401-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ Esto es lo que quiero decir cuando digo **[[TEMAS/interdimensional\|interdimens
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

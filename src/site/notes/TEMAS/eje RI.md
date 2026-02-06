@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/eje-ri/","created":"2026-01-20T19:06:28.384-03:00","updated":"2026-01-30T09:53:41.987-03:00"}
+{"dg-publish":true,"permalink":"/temas/eje-ri/","created":"2026-01-20T19:06:28.384-03:00","updated":"2026-02-06T11:48:43.227-03:00"}
 ---
 
 
@@ -29,4 +29,4 @@ Ahora, **¿qué es lo que se va a sumar a las dos puntas del [[TEMAS/eje RI\|eje
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

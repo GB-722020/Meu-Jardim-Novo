@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/dolor/","created":"2026-02-03T11:34:06.728-03:00","updated":"2026-02-03T11:45:01.610-03:00"}
+{"dg-publish":true,"permalink":"/temas/dolor/","created":"2026-02-03T11:34:06.728-03:00","updated":"2026-02-06T11:48:44.280-03:00"}
 ---
 
 
@@ -14,4 +14,4 @@ El [[TEMAS/dolor\|dolor]] es un rol. Dolor, es un [[TEMAS/rol\|rol]]. Es un nuev
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

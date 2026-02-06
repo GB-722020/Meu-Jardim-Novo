@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/antenas/alejandra-casado/","created":"2026-01-20T17:21:13.577-03:00","updated":"2026-01-30T17:14:58.528-03:00"}
+{"dg-publish":true,"permalink":"/antenas/alejandra-casado/","created":"2026-01-20T17:21:13.577-03:00","updated":"2026-02-06T11:48:42.704-03:00"}
 ---
 
 
@@ -28,4 +28,4 @@ Yo me ocupo más de los límites que de los alcances [[ACER/Ale en Red 070#^xnsj
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

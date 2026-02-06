@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-087/","created":"2026-01-26T15:37:15.859-03:00","updated":"2026-02-04T14:58:59.667-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-087/","created":"2026-01-26T15:37:15.859-03:00","updated":"2026-02-06T11:48:44.054-03:00"}
 ---
 
 Fecha: [[FECHAS/2023-03-22\|2023-03-22]]
@@ -485,4 +485,4 @@ Alejandra: Muchas gracias
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

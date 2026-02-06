@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/interprete/","created":"2026-01-21T11:59:23.541-03:00","updated":"2026-02-03T11:23:37.936-03:00"}
+{"dg-publish":true,"permalink":"/temas/interprete/","created":"2026-01-21T11:59:23.541-03:00","updated":"2026-02-06T11:48:43.266-03:00"}
 ---
 
 
@@ -14,4 +14,4 @@ quien alimenta al [[TEMAS/intérprete\|INTÉRPRETE]] alimenta el RADAR. - Quien 
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

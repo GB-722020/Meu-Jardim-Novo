@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/proyecto-humano-del-sistema-solar/","created":"2026-01-25T16:57:26.112-03:00","updated":"2026-01-30T16:53:10.653-03:00"}
+{"dg-publish":true,"permalink":"/temas/proyecto-humano-del-sistema-solar/","created":"2026-01-25T16:57:26.112-03:00","updated":"2026-02-06T11:48:43.488-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ esta configuración de humano como Sistema Solar le interesa ser un mejor nexo e
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

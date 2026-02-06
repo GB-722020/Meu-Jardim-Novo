@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/error/","created":"2026-01-23T12:41:34.124-03:00","updated":"2026-02-04T15:08:51.586-03:00"}
+{"dg-publish":true,"permalink":"/temas/error/","created":"2026-01-23T12:41:34.124-03:00","updated":"2026-02-06T11:48:43.242-03:00"}
 ---
 
 
@@ -23,4 +23,4 @@ Entonces, explorar el [[TEMAS/error\|error]], trabajar con él, es una estructur
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

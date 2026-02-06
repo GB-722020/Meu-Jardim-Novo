@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/marco/","created":"2026-02-03T17:05:18.864-03:00","updated":"2026-02-03T17:05:48.020-03:00"}
+{"dg-publish":true,"permalink":"/temas/marco/","created":"2026-02-03T17:05:18.864-03:00","updated":"2026-02-06T11:48:44.377-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

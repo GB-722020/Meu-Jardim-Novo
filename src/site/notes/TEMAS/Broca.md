@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/broca/","created":"2026-01-26T17:48:25.213-03:00","updated":"2026-02-04T10:56:24.197-03:00"}
+{"dg-publish":true,"permalink":"/temas/broca/","created":"2026-01-26T17:48:25.213-03:00","updated":"2026-02-06T11:48:43.618-03:00"}
 ---
 
 
@@ -15,4 +15,4 @@
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

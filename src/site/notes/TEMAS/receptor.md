@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/receptor/","created":"2026-01-26T10:18:35.799-03:00","updated":"2026-01-29T11:27:56.644-03:00"}
+{"dg-publish":true,"permalink":"/temas/receptor/","created":"2026-01-26T10:18:35.799-03:00","updated":"2026-02-06T11:48:43.534-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ Estar adentro de la caja se lee como receptor y receptor en la [[TEMAS/especie\|
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

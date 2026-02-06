@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/toganeson/","created":"2026-01-21T14:47:27.711-03:00","updated":"2026-02-03T10:14:16.810-03:00"}
+{"dg-publish":true,"permalink":"/temas/toganeson/","created":"2026-01-21T14:47:27.711-03:00","updated":"2026-02-06T11:48:43.417-03:00"}
 ---
 
 
@@ -16,4 +16,4 @@ O sea, quiero dar la manera como más amena de integrar a [[TEMAS/Andrómeda\|An
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

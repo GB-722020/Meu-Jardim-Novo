@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/tiempo/","created":"2026-01-23T12:48:04.197-03:00","updated":"2026-02-04T09:43:31.537-03:00"}
+{"dg-publish":true,"permalink":"/temas/tiempo/","created":"2026-01-23T12:48:04.197-03:00","updated":"2026-02-06T11:48:43.416-03:00"}
 ---
 
 
@@ -16,4 +16,4 @@ El tiempo, respecto del espacio, es una nueva cualidad(...)el [[TEMAS/tiempo\|ti
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

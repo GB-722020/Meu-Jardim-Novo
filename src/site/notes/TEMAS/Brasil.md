@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/brasil/","created":"2026-01-30T11:18:26.064-03:00","updated":"2026-01-30T11:20:25.710-03:00"}
+{"dg-publish":true,"permalink":"/temas/brasil/","created":"2026-01-30T11:18:26.064-03:00","updated":"2026-02-06T11:48:43.963-03:00"}
 ---
 
 
@@ -13,4 +13,4 @@
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

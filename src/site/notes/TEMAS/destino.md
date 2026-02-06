@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/destino/","created":"2026-01-24T10:38:17.274-03:00","updated":"2026-02-04T10:48:30.492-03:00"}
+{"dg-publish":true,"permalink":"/temas/destino/","created":"2026-01-24T10:38:17.274-03:00","updated":"2026-02-06T11:48:43.213-03:00"}
 ---
 
 
@@ -14,4 +14,4 @@ de nosotros, administrando el [[TEMAS/pasado\|pasado]] - y de nosotros, administ
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

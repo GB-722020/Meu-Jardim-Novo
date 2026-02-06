@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/vuelta-6/","created":"2026-01-26T15:59:17.280-03:00","updated":"2026-01-30T16:53:20.901-03:00"}
+{"dg-publish":true,"permalink":"/temas/vuelta-6/","created":"2026-01-26T15:59:17.280-03:00","updated":"2026-02-06T11:48:43.600-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/neptuno/","created":"2026-02-04T14:57:24.693-03:00","updated":"2026-02-04T15:11:11.081-03:00"}
+{"dg-publish":true,"permalink":"/temas/neptuno/","created":"2026-02-04T14:57:24.693-03:00","updated":"2026-02-06T11:48:44.630-03:00"}
 ---
 
 
@@ -10,4 +10,4 @@ No, [[TEMAS/Neptuno\|Neptuno]] no permite eso. Porque con esa calidad de [[TEMAS
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

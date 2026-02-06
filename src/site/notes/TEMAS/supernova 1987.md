@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/temas/supernova-1987/","created":"2026-01-22T09:53:33.515-03:00","updated":"2026-01-25T10:25:44.532-03:00"}
+{"dg-publish":true,"permalink":"/temas/supernova-1987/","created":"2026-01-22T09:53:33.515-03:00","updated":"2026-02-06T11:48:43.410-03:00"}
 ---
 
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

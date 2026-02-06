@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/alcance/","created":"2026-01-26T11:19:13.767-03:00","updated":"2026-02-03T10:54:06.740-03:00"}
+{"dg-publish":true,"permalink":"/temas/alcance/","created":"2026-01-26T11:19:13.767-03:00","updated":"2026-02-06T11:48:43.537-03:00"}
 ---
 
 
@@ -10,4 +10,4 @@ Cada quien con su [[TEMAS/alcance\|alcance]]. Lo importante no es alcanzar más,
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

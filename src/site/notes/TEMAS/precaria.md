@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/precaria/","created":"2026-02-04T14:45:20.670-03:00","updated":"2026-02-04T14:45:43.795-03:00"}
+{"dg-publish":true,"permalink":"/temas/precaria/","created":"2026-02-04T14:45:20.670-03:00","updated":"2026-02-06T11:48:44.610-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ La [[TEMAS/realidad\|Realidad]] demanda determinados archivos y cuando no podemo
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

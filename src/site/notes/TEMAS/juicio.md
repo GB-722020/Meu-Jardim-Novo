@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/juicio/","created":"2026-01-23T17:35:00.871-03:00","updated":"2026-01-30T16:52:59.285-03:00"}
+{"dg-publish":true,"permalink":"/temas/juicio/","created":"2026-01-23T17:35:00.871-03:00","updated":"2026-02-06T11:48:43.300-03:00"}
 ---
 
 
@@ -10,4 +10,4 @@ separar [[TEMAS/juicio\|juicio]] de [[TEMAS/juzgamiento\|juzgamiento]] [[ACER/Al
 [[TEMAS/juicio\|juicio]] tiene que ver con el equilibrio mental [[ACER/Ale en Red 055#^lu6h52\|Ale en Red 055#^lu6h52]]
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

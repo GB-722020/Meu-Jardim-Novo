@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/venus/","created":"2026-02-02T14:31:23.168-03:00","updated":"2026-02-03T09:11:57.532-03:00"}
+{"dg-publish":true,"permalink":"/temas/venus/","created":"2026-02-02T14:31:23.168-03:00","updated":"2026-02-06T11:48:44.159-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ voy a hacer una interpretación del **[[TEMAS/29 de febrero\|29 de febrero]]**�
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/escala-personal/","created":"2026-01-31T16:08:10.724-03:00","updated":"2026-01-31T17:36:33.322-03:00"}
+{"dg-publish":true,"permalink":"/temas/escala-personal/","created":"2026-01-31T16:08:10.724-03:00","updated":"2026-02-06T11:48:44.138-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ la escala PERSONAL es [[TEMAS/colectiva\|COLECTIVA]]. [[ACER/Ale en Red 151#^h6k
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

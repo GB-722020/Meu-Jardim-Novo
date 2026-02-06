@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/antena/","created":"2026-01-21T17:32:24.055-03:00","updated":"2026-02-03T11:20:17.086-03:00"}
+{"dg-publish":true,"permalink":"/temas/antena/","created":"2026-01-21T17:32:24.055-03:00","updated":"2026-02-06T11:48:43.112-03:00"}
 ---
 
 
@@ -38,4 +38,4 @@ Pero este es funcionamiento de [[TEMAS/antena\|antena]], o sea, usa la [[TEMAS/m
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

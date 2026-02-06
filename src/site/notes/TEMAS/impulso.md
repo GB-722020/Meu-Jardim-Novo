@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/impulso/","created":"2026-02-04T14:19:53.593-03:00","updated":"2026-02-04T14:20:24.269-03:00"}
+{"dg-publish":true,"permalink":"/temas/impulso/","created":"2026-02-04T14:19:53.593-03:00","updated":"2026-02-06T11:48:44.588-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ Necesitamos darle un [[TEMAS/espacio\|espacio]] a la lectura de los [[TEMAS/impu
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/particular/","created":"2026-01-23T13:06:02.766-03:00","updated":"2026-01-29T11:50:41.792-03:00"}
+{"dg-publish":true,"permalink":"/temas/particular/","created":"2026-01-23T13:06:02.766-03:00","updated":"2026-02-06T11:48:43.352-03:00"}
 ---
 
 
@@ -16,4 +16,4 @@ Cuando logramos sintonizar en frecuencia [[TEMAS/particular\|particular]] nos vo
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

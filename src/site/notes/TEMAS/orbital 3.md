@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/orbital-3/","created":"2026-01-23T11:50:30.690-03:00","updated":"2026-02-03T09:21:49.653-03:00"}
+{"dg-publish":true,"permalink":"/temas/orbital-3/","created":"2026-01-23T11:50:30.690-03:00","updated":"2026-02-06T11:48:43.347-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ El orbital es 3 y el [[TEMAS/estrés\|estrés]] no implica la aceleración del a
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

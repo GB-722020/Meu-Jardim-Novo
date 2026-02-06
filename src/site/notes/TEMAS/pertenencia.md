@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/pertenencia/","created":"2026-01-27T10:45:07.451-03:00","updated":"2026-01-30T16:53:20.917-03:00"}
+{"dg-publish":true,"permalink":"/temas/pertenencia/","created":"2026-01-27T10:45:07.451-03:00","updated":"2026-02-06T11:48:43.674-03:00"}
 ---
 
 
@@ -12,4 +12,4 @@ deberíamos forjar una [[TEMAS/pertenencia\|pertenencia]] a este sistema -perten
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

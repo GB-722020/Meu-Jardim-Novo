@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/codigo-598/","created":"2026-01-29T11:08:53.502-03:00","updated":"2026-01-29T11:09:18.517-03:00"}
+{"dg-publish":true,"permalink":"/temas/codigo-598/","created":"2026-01-29T11:08:53.502-03:00","updated":"2026-02-06T11:48:43.853-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ Porque [[TEMAS/código 598\|código 598]] 598 es una frecuencia de actualizació
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/alcides-carrion/","created":"2026-01-27T17:28:43.042-03:00","updated":"2026-01-27T17:36:59.377-03:00"}
+{"dg-publish":true,"permalink":"/temas/alcides-carrion/","created":"2026-01-27T17:28:43.042-03:00","updated":"2026-02-06T11:48:43.755-03:00"}
 ---
 
 
@@ -10,4 +10,4 @@ O sea **¿qué es lo que le falló?** El [[TEMAS/parámetro 39\|parámetro 39]].
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

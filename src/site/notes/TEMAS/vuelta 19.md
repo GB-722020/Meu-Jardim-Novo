@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/vuelta-19/","created":"2026-01-20T11:32:48.119-03:00","updated":"2026-01-30T16:52:59.368-03:00"}
+{"dg-publish":true,"permalink":"/temas/vuelta-19/","created":"2026-01-20T11:32:48.119-03:00","updated":"2026-02-06T11:48:43.459-03:00"}
 ---
 
 
@@ -9,4 +9,4 @@ mapeo de la octava del otro, [[TEMAS/clonación\|clonación]] [[ACER/Ale en Red 
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

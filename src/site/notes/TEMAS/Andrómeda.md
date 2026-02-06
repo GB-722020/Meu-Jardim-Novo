@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/andromeda/","created":"2026-01-22T10:42:28.171-03:00","updated":"2026-02-03T09:33:41.477-03:00"}
+{"dg-publish":true,"permalink":"/temas/andromeda/","created":"2026-01-22T10:42:28.171-03:00","updated":"2026-02-06T11:48:43.016-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ fíjate que cuando se menciona la Galaxia [[TEMAS/Andrómeda\|Andrómeda]] se le
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

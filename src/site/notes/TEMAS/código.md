@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/codigo/","created":"2026-01-30T11:33:53.595-03:00","updated":"2026-01-30T17:59:20.481-03:00"}
+{"dg-publish":true,"permalink":"/temas/codigo/","created":"2026-01-30T11:33:53.595-03:00","updated":"2026-02-06T11:48:43.994-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

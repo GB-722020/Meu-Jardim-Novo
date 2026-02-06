@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/marcos/","created":"2026-01-22T09:51:17.016-03:00","updated":"2026-01-25T10:25:44.512-03:00"}
+{"dg-publish":true,"permalink":"/temas/marcos/","created":"2026-01-22T09:51:17.016-03:00","updated":"2026-02-06T11:48:43.311-03:00"}
 ---
 
 
@@ -10,4 +10,4 @@ formular lenguaje de [[TEMAS/marcos\|marcos]] [[ACER/Ale en Red 116#^pabp7f\|Ale
 eso es todo lenguaje de marcos, eso es todo flujo de señales [[ACER/Ale en Red 116#^6k18ak\|Ale en Red 116#^6k18ak]]
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

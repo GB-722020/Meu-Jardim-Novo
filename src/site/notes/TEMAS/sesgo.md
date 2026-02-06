@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/sesgo/","created":"2026-02-02T14:40:58.863-03:00","updated":"2026-02-02T14:41:17.947-03:00"}
+{"dg-publish":true,"permalink":"/temas/sesgo/","created":"2026-02-02T14:40:58.863-03:00","updated":"2026-02-06T11:48:44.164-03:00"}
 ---
 
 
@@ -12,4 +12,4 @@ porque las OCURRENCIAS PROPIAS me van a colocar adentro del **[[TEMAS/sesgo\|se
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

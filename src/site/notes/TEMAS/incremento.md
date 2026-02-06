@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/incremento/","created":"2026-02-03T15:18:06.881-03:00","updated":"2026-02-03T15:42:16.110-03:00"}
+{"dg-publish":true,"permalink":"/temas/incremento/","created":"2026-02-03T15:18:06.881-03:00","updated":"2026-02-06T11:48:44.346-03:00"}
 ---
 
 
@@ -9,4 +9,4 @@ Entonces, el [[TEMAS/incremento\|incremento]] va a ser EL INCREMENTO DE LA [[TEM
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

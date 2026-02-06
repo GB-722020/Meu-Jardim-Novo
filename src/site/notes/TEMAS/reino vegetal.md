@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/reino-vegetal/","created":"2026-02-03T15:55:04.430-03:00","updated":"2026-02-03T15:55:26.188-03:00"}
+{"dg-publish":true,"permalink":"/temas/reino-vegetal/","created":"2026-02-03T15:55:04.430-03:00","updated":"2026-02-06T11:48:44.369-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ yo no escucho a ningún [[TEMAS/sabio\|sabio]] decir que nuestra [[respiración\
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

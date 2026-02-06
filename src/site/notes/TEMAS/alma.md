@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/alma/","created":"2026-01-27T11:07:09.317-03:00","updated":"2026-01-30T16:53:20.918-03:00"}
+{"dg-publish":true,"permalink":"/temas/alma/","created":"2026-01-27T11:07:09.317-03:00","updated":"2026-02-06T11:48:43.684-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ cuando nosotros morimos es cuando nuestra alma [[TEMAS/personal\|personal]] encu
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

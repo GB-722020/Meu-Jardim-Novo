@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/reino-mineral/","created":"2026-02-03T15:53:11.164-03:00","updated":"2026-02-03T17:07:10.670-03:00"}
+{"dg-publish":true,"permalink":"/temas/reino-mineral/","created":"2026-02-03T15:53:11.164-03:00","updated":"2026-02-06T11:48:44.365-03:00"}
 ---
 
 
@@ -13,4 +13,4 @@ los impulsadores de la [[TEMAS/inteligencia artificial\|inteligencia artificial]
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

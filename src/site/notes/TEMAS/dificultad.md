@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/dificultad/","created":"2026-01-26T12:27:53.234-03:00","updated":"2026-01-30T16:53:10.669-03:00"}
+{"dg-publish":true,"permalink":"/temas/dificultad/","created":"2026-01-26T12:27:53.234-03:00","updated":"2026-02-06T11:48:43.562-03:00"}
 ---
 
 
@@ -10,4 +10,4 @@
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

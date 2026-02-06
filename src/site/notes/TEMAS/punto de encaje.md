@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/punto-de-encaje/","created":"2026-01-29T11:16:26.055-03:00","updated":"2026-01-29T11:17:23.410-03:00"}
+{"dg-publish":true,"permalink":"/temas/punto-de-encaje/","created":"2026-01-29T11:16:26.055-03:00","updated":"2026-02-06T11:48:43.868-03:00"}
 ---
 
 
@@ -12,4 +12,4 @@ el [[TEMAS/punto de encaje\|punto de encaje]] de la [[TEMAS/especie\|especie]] c
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

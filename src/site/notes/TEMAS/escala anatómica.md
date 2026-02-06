@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/escala-anatomica/","created":"2026-01-26T11:20:56.286-03:00","updated":"2026-01-30T11:44:31.071-03:00"}
+{"dg-publish":true,"permalink":"/temas/escala-anatomica/","created":"2026-01-26T11:20:56.286-03:00","updated":"2026-02-06T11:48:43.538-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ Desde la [[TEMAS/escala anatómica\|escala anatómica]] - como nuestra escala es
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

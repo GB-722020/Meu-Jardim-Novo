@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/5-etapa/","created":"2026-01-23T11:55:14.303-03:00","updated":"2026-01-25T10:25:44.415-03:00"}
+{"dg-publish":true,"permalink":"/temas/5-etapa/","created":"2026-01-23T11:55:14.303-03:00","updated":"2026-02-06T11:48:42.990-03:00"}
 ---
 
 
@@ -8,4 +8,4 @@
 [[FECHAS/2020-05-28\|2020-05-28]],  [[TEMAS/5ª etapa\|5ª etapa]] está en **1369 - 1 369 [[ACER/Ale en Red 002#^xfhmp4\|Ale en Red 002#^xfhmp4]]
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

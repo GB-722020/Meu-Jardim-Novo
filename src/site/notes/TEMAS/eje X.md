@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/eje-x/","created":"2026-01-20T12:05:21.615-03:00","updated":"2026-01-25T10:25:44.493-03:00"}
+{"dg-publish":true,"permalink":"/temas/eje-x/","created":"2026-01-20T12:05:21.615-03:00","updated":"2026-02-06T11:48:43.229-03:00"}
 ---
 
 
@@ -14,4 +14,4 @@
 **la influencia del** **_Eje X_**  **sobre Ye** [[ACER/Ale en Red 123#^1u1whb\|Ale en Red 123#^1u1whb]]
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

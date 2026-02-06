@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/evolucion-particular/","created":"2026-01-20T17:27:08.498-03:00","updated":"2026-01-31T17:31:26.851-03:00"}
+{"dg-publish":true,"permalink":"/temas/evolucion-particular/","created":"2026-01-20T17:27:08.498-03:00","updated":"2026-02-06T11:48:43.253-03:00"}
 ---
 
 
@@ -16,4 +16,4 @@ No, porque recuerden que la [[TEMAS/evolución particular\|EVOLUCIÓN PARTICULAR
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

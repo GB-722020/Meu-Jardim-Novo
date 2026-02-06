@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/all/","created":"2026-01-22T12:27:11.645-03:00","updated":"2026-01-27T17:14:51.081-03:00"}
+{"dg-publish":true,"permalink":"/temas/all/","created":"2026-01-22T12:27:11.645-03:00","updated":"2026-02-06T11:48:43.012-03:00"}
 ---
 
 
@@ -10,4 +10,4 @@ la [[TEMAS/totalidad\|totalidad]] en cuanto a [[TEMAS/ALL\|ALL]], es “una tota
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/junio/","created":"2026-01-23T12:01:43.485-03:00","updated":"2026-01-25T10:25:44.510-03:00"}
+{"dg-publish":true,"permalink":"/temas/junio/","created":"2026-01-23T12:01:43.485-03:00","updated":"2026-02-06T11:48:43.302-03:00"}
 ---
 
 
@@ -8,4 +8,4 @@
 Junio es lo que haría el humano, junto con [[TEMAS/Tierra\|Tierra]] [[ACER/Ale en Red 002#^vtyvs1\|Ale en Red 002#^vtyvs1]]
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

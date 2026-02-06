@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/libertad/","created":"2026-01-31T17:33:24.700-03:00","updated":"2026-01-31T17:34:25.298-03:00"}
+{"dg-publish":true,"permalink":"/temas/libertad/","created":"2026-01-31T17:33:24.700-03:00","updated":"2026-02-06T11:48:44.148-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ Y como todos están muy acostumbrados al SISTEMA DE COMPENSACIÓN, interpretan q
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

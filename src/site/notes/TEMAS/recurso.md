@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/recurso/","created":"2026-01-25T16:42:28.391-03:00","updated":"2026-02-03T10:36:47.873-03:00"}
+{"dg-publish":true,"permalink":"/temas/recurso/","created":"2026-01-25T16:42:28.391-03:00","updated":"2026-02-06T11:48:43.484-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ Por eso digo, los [[TEMAS/recurso\|RECURSO]]S provienen de la [[TEMAS/antena\|AN
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

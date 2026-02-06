@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/fila-7/","created":"2026-01-22T09:33:51.476-03:00","updated":"2026-01-25T10:25:44.501-03:00"}
+{"dg-publish":true,"permalink":"/temas/fila-7/","created":"2026-01-22T09:33:51.476-03:00","updated":"2026-02-06T11:48:43.253-03:00"}
 ---
 
 
@@ -8,4 +8,4 @@
 duplicación de [[TEMAS/fila 7\|fila 7]] [[ACER/Ale en Red 116#^msou0h\|Ale en Red 116#^msou0h]] leer a la [[TEMAS/octava gravitatoria\|octava gravitatoria]]
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

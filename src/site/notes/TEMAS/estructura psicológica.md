@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/estructura-psicologica/","created":"2026-01-23T16:57:22.157-03:00","updated":"2026-01-30T16:53:20.845-03:00"}
+{"dg-publish":true,"permalink":"/temas/estructura-psicologica/","created":"2026-01-23T16:57:22.157-03:00","updated":"2026-02-06T11:48:43.245-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ cuando yo hablo de aquello que me ocurrió estoy creando documentos de la estruc
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

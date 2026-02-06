@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/virtud/","created":"2026-01-23T11:57:13.834-03:00","updated":"2026-02-04T11:02:46.237-03:00"}
+{"dg-publish":true,"permalink":"/temas/virtud/","created":"2026-01-23T11:57:13.834-03:00","updated":"2026-02-06T11:48:43.437-03:00"}
 ---
 
 
@@ -10,4 +10,4 @@ Que una [[TEMAS/virtud\|virtud]], es la configuración de un [[TEMAS/defecto\|de
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

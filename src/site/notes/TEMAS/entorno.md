@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/entorno/","created":"2026-01-21T17:30:11.512-03:00","updated":"2026-01-30T16:53:20.815-03:00"}
+{"dg-publish":true,"permalink":"/temas/entorno/","created":"2026-01-21T17:30:11.512-03:00","updated":"2026-02-06T11:48:43.239-03:00"}
 ---
 
 
@@ -20,4 +20,4 @@ como [[TEMAS/sujeto\|sujeto]]s, como máximo, somos “los dueños del código�
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-055/","created":"2026-01-23T15:59:16.728-03:00","updated":"2026-01-31T08:38:10.767-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-055/","created":"2026-01-23T15:59:16.728-03:00","updated":"2026-02-06T11:48:44.047-03:00"}
 ---
 
 
@@ -370,4 +370,4 @@ vemos muy pronto._**
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

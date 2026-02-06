@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/octava/","created":"2026-01-22T08:59:47.668-03:00","updated":"2026-02-03T10:47:38.793-03:00"}
+{"dg-publish":true,"permalink":"/temas/octava/","created":"2026-01-22T08:59:47.668-03:00","updated":"2026-02-06T11:48:43.343-03:00"}
 ---
 
 
@@ -32,4 +32,4 @@ acuérdense que la [[TEMAS/octava\|OCTAVA]] tiene el lugar del [[TEMAS/observado
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*

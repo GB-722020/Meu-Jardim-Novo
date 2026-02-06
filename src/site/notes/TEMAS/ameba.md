@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/ameba/","created":"2026-02-04T10:51:27.449-03:00","updated":"2026-02-04T10:53:39.767-03:00"}
+{"dg-publish":true,"permalink":"/temas/ameba/","created":"2026-02-04T10:51:27.449-03:00","updated":"2026-02-06T11:48:44.428-03:00"}
 ---
 
 
@@ -13,4 +13,4 @@ El [[TEMAS/sabio\|Sabio]] tiene que apropiarse de todos y cada uno de los reinos
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[índice\|índice]]*
