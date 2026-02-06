@@ -31,31 +31,38 @@ body {
         overflow-y: auto !important;
     }
 
-  /* 2. ESTRATÉGIA DE LIMPEZA TOTAL */
-    
-    /* 1. Zera todo o texto da caixa de backlinks */
-    .backlinks-container, .backlinks, .backlinks-header, .backlinks-title {
+ .backlinks-container, .backlinks {
+        position: fixed !important;
+        top: 100px !important;
+        right: 20px !important;
+        width: 250px !important;
+        z-index: 1000 !important;
+        background: var(--background-primary) !important;
+        border-left: 1px solid var(--background-modifier-border, #ddd) !important;
+        padding: 15px !important;
+        max-height: 80vh !important;
+        overflow-y: auto !important;
+    }
+
+    /* --- COLE A PARTIR DAQUI --- */
+    .backlinks-container .backlinks-header, 
+    .backlinks-header-title,
+    .backlinks-title {
         font-size: 0 !important;
         color: transparent !important;
     }
 
-    /* 2. Cria a frase nova no topo */
-    .backlinks-container::before, .backlinks::before {
+    .backlinks-container .backlinks-header::before,
+    .backlinks-header-title::before {
         content: "Notas que mencionan esta nota" !important;
-        display: block !important;
         font-size: 1.1rem !important;
         color: var(--text-normal) !important;
-        font-weight: bold !important;
         visibility: visible !important;
-        margin-bottom: 15px !important;
+        font-weight: bold !important;
+        display: block !important;
     }
 
-    /* 3. Traz de volta o texto das notas (links) que sumiram no passo 1 */
-    .backlinks-container a, 
-    .backlinks a, 
-    .backlinks-container .search-result-file-title,
-    .backlinks-container .backlink-link {
-        font-size: 0.9rem !important;
-        color: var(--link-color, #2d73d2) !important;
-        visibility: visible !important;
+    .backlinks-header-icon {
+        display: none !important;
     }
+} /* <--- ESTA CHAVE FECHA TUDO */
