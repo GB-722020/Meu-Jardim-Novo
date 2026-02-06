@@ -38,25 +38,25 @@ body {
         display: block !important;
     }
 
-    /* O QUE FUNCIONOU ANTES, MAS TRAVADO NA CAIXA LATERAL */
-    .backlinks-container [class*="title"], 
-    .backlinks-container [class*="header"],
+    /* 3. TROCA DO TÍTULO - VERSÃO FINAL DE PRECISÃO */
+    
+    /* Esconde o primeiro elemento de texto da caixa, seja ele qual for */
+    .backlinks-container > :first-child,
     .backlinks-container h2,
-    .backlinks-container h3 {
+    .backlinks-container h3,
+    .backlinks-title-container {
         font-size: 0 !important;
         color: transparent !important;
     }
 
-    .backlinks-container [class*="title"]::before, 
-    .backlinks-container [class*="header"]::before,
-    .backlinks-container h2::before,
-    .backlinks-container h3::before {
+    /* Insere a frase nova no topo da caixa */
+    .backlinks-container::before {
         content: "Notas que mencionan esta nota" !important;
         font-size: 1.1rem !important;
         color: var(--text-normal) !important;
         visibility: visible !important;
         display: block !important;
         font-weight: bold !important;
+        margin-bottom: 15px !important;
         line-height: 1.2 !important;
     }
-}
