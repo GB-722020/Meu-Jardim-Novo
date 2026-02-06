@@ -12,46 +12,36 @@ body {
     //  }
 }
 @media screen and (min-width: 1200px) {
-    /* 1. MANTÉM A SUA DIAGRAMAÇÃO */
-    #stack-container, .dg-main-content, .content {
-        padding-right: 280px !important; 
-        box-sizing: border-box !important;
-    }
-
-    .backlinks-container, .backlinks {
+    /* Mantém sua posição na direita */
+    .backlinks-container, .backlinks, [class*="backlink"] {
         position: fixed !important;
         top: 100px !important;
         right: 20px !important;
         width: 250px !important;
-        z-index: 1000 !important;
-        background: var(--background-primary) !important;
-        border-left: 1px solid var(--divider-color, #ddd) !important;
         padding: 15px !important;
-        max-height: 80vh !important;
-        overflow-y: auto !important;
     }
 
-    /* 2. TRUQUE PARA O TEMA MINIMAL */
-    /* Esconde o título original (Backlinks) */
+    /* ESCONDE O TEXTO ORIGINAL */
     .backlinks-container h2, 
-    .backlinks-container h3,
-    .backlink-pane .embedded-backlinks-header {
+    .backlinks-container h3, 
+    .backlinks h2, 
+    .backlinks h3,
+    [class*="title"], [class*="header"] {
         font-size: 0 !important;
         color: transparent !important;
     }
 
-    /* Insere a frase nova */
+    /* FORÇA A FRASE NOVA */
     .backlinks-container h2::before, 
     .backlinks-container h3::before,
-    .backlink-pane .embedded-backlinks-header::before {
+    .backlinks h2::before,
+    .backlinks h3::before,
+    [class*="title"]::before, [class*="header"]::before {
         content: "Notas que mencionan esta nota" !important;
-        font-size: 0.85rem !important; /* Minimal usa fontes menores e elegantes */
-        text-transform: uppercase !important;
-        letter-spacing: 0.05em !important;
-        color: var(--text-muted) !important;
+        font-size: 1.1rem !important;
+        color: var(--text-normal) !important;
         visibility: visible !important;
         display: block !important;
-        font-weight: 600 !important;
-        margin-bottom: 10px !important;
+        font-weight: bold !important;
     }
 }
