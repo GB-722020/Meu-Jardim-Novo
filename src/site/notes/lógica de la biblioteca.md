@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/logica-de-la-biblioteca/","created":"2026-02-06T11:39:59.530-03:00","updated":"2026-02-06T11:51:26.396-03:00"}
+{"dg-publish":true,"permalink":"/logica-de-la-biblioteca/","created":"2026-02-06T11:39:59.530-03:00","updated":"2026-02-06T16:08:17.139-03:00"}
 ---
 
 
@@ -9,7 +9,7 @@ Basado en esta identificación, se genera una nota con ese tema (en la sección 
 
 En muchos casos, además de la mera vinculación, se crea una entrada en la nota que incluye un fragmento específico de la emisión, con el fin de ampliar y elucidar el concepto.
 
-Este fragmento remite a un párrafo de la emisión. De este modo, es posible ver ese párrafo dentro del contexto más amplio en el cual fue emitido.
+Este fragmento remite desde la nota a un párrafo de la emisión. De este modo, es posible ver ese párrafo dentro del contexto más amplio en el cual fue emitido.
 
 Además, esta entrada a menudo contiene un vínculo a otros temas que también se mencionan en ese mismo fragmento. De esta manera, dicha interconexión ofrece nuevos ángulos para captar los conceptos.
 

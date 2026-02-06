@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/indice/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-02-06T11:54:31.941-03:00"}
+{"dg-publish":true,"permalink":"/indice/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-02-06T16:09:03.372-03:00"}
 ---
 
 
@@ -17,7 +17,7 @@ La estructura de la biblioteca está diseñada para un uso intuitivo. Pero si qu
 
 - **Explora la estructura:** Utiliza la **barra lateral (File Tree)** a tu izquierda para navegar por las diferentes carpetas.
     
-- **Visualización de datos:** En muchas de las notas encontrarás **gráficos dinámicos**. Estos gráficos representan las métricas y las interconexiones de los temas. Puedes interactuar con ellos para ver los detalles de cada punto de torsión o frecuencia.
+- **Visualización de datos:** En las notas encontrarás **gráficos dinámicos**. Estos gráficos representan las métricas y las interconexiones de los temas. Puedes interactuar con ellos para ver los detalles de cada punto de torsión o frecuencia.
     
 - **Interconexión:** Presta atención a los enlaces internos y a los _backlinks_ al final de cada página; la Lógica es una red, y este sitio funciona de la misma manera
 
