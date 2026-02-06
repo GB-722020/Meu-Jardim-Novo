@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/creacion-binaria/","created":"2026-02-04T13:46:56.750-03:00","updated":"2026-02-06T11:48:44.578-03:00"}
+{"dg-publish":true,"permalink":"/temas/creacion-binaria/","created":"2026-02-04T13:46:56.750-03:00","updated":"2026-02-06T16:55:01.134-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ cuando digo “la [[TEMAS/creación binaria\|creación binaria]]”, estoy habla
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

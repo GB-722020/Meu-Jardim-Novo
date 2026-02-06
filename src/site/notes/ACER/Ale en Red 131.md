@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-131/","created":"2026-01-27T16:49:06.788-03:00","updated":"2026-02-06T11:48:43.712-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-131/","created":"2026-01-27T16:49:06.788-03:00","updated":"2026-02-06T16:55:00.298-03:00"}
 ---
 
 # Alejandra Casado EN RED 1 31 – 20 de febrero – Vuelta 4 - 2025
@@ -503,4 +503,4 @@ O sea, todo esto es volver a ¿Por qué tuve es para asistir en aquellas épocas
 
 
 --- 
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

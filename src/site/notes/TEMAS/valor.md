@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/valor/","created":"2026-01-26T10:17:47.162-03:00","updated":"2026-02-06T11:48:43.533-03:00"}
+{"dg-publish":true,"permalink":"/temas/valor/","created":"2026-01-26T10:17:47.162-03:00","updated":"2026-02-06T16:55:00.051-03:00"}
 ---
 
 
@@ -9,4 +9,4 @@
 registro de [[TEMAS/valor\|valor]]: es como el aspecto precario de [[TEMAS/sistema solar\|sistema solar]] (7), impacta sobre el [[TEMAS/receptor\|receptor]] (1) [[ACER/Ale en Red 070#^w6rpk1\|Ale en Red 070#^w6rpk1]]
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

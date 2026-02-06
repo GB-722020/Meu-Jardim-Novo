@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/licencia-de-ignorancia/","created":"2026-01-30T14:09:52.051-03:00","updated":"2026-02-06T11:48:44.003-03:00"}
+{"dg-publish":true,"permalink":"/temas/licencia-de-ignorancia/","created":"2026-01-30T14:09:52.051-03:00","updated":"2026-02-06T16:55:00.573-03:00"}
 ---
 
 
@@ -12,4 +12,4 @@ la [[TEMAS/licencia de ignorancia\|licencia de ignorancia]] te garantiza el [[TE
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

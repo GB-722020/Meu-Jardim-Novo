@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/caja-de-resonancia/","created":"2026-01-26T09:52:33.771-03:00","updated":"2026-02-06T11:48:43.524-03:00"}
+{"dg-publish":true,"permalink":"/temas/caja-de-resonancia/","created":"2026-01-26T09:52:33.771-03:00","updated":"2026-02-06T16:55:00.043-03:00"}
 ---
 
 
@@ -20,4 +20,4 @@ Entonces “la caja” lo va a empezar a enviar (...) tu [[TEMAS/origen\|origen]
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

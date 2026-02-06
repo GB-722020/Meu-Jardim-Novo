@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/la-caja/","created":"2026-01-30T09:34:00.885-03:00","updated":"2026-02-06T11:48:43.936-03:00"}
+{"dg-publish":true,"permalink":"/temas/la-caja/","created":"2026-01-30T09:34:00.885-03:00","updated":"2026-02-06T16:55:00.499-03:00"}
 ---
 
 
@@ -27,4 +27,4 @@ Entonces “la caja” lo va a empezar a enviar (...) tu [[TEMAS/origen\|origen]
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

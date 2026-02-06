@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/antenas/george-soros/","created":"2026-01-21T17:40:07.376-03:00","updated":"2026-02-06T11:48:42.745-03:00"}
+{"dg-publish":true,"permalink":"/antenas/george-soros/","created":"2026-01-21T17:40:07.376-03:00","updated":"2026-02-06T16:54:59.170-03:00"}
 ---
 
 
@@ -9,4 +9,4 @@
 sus datos nativos adentro de la _[[TEMAS/Matriz de Segundos Intercalares\|Matriz de Segundos Intercalares]]_ [[ACER/Ale en Red 119#^njx0js\|Ale en Red 119#^njx0js]]
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

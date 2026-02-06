@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/personal/","created":"2026-01-26T18:34:56.182-03:00","updated":"2026-02-06T11:48:43.641-03:00"}
+{"dg-publish":true,"permalink":"/temas/personal/","created":"2026-01-26T18:34:56.182-03:00","updated":"2026-02-06T16:55:00.182-03:00"}
 ---
 
 
@@ -10,4 +10,4 @@ caja [[TEMAS/personal\|personal]] tiene que poder estar funcionando entre cono y
 el Entorno no es [[TEMAS/simbólico\|simbólico]] [[ACER/Ale en Red 087#^d7ie6s\|Ale en Red 087#^d7ie6s]]
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

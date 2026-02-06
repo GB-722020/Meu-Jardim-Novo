@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/5-dimension/","created":"2026-01-25T09:28:58.759-03:00","updated":"2026-02-06T11:48:42.981-03:00"}
+{"dg-publish":true,"permalink":"/temas/5-dimension/","created":"2026-01-25T09:28:58.759-03:00","updated":"2026-02-06T16:54:59.341-03:00"}
 ---
 
 
@@ -12,4 +12,4 @@ Solamente la 5ª Dimensión puede hacer que el [[TEMAS/cero\|cero]] sea una comb
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

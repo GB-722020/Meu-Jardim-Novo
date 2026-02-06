@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/lla/","created":"2026-01-22T12:20:22.756-03:00","updated":"2026-02-06T11:48:43.051-03:00"}
+{"dg-publish":true,"permalink":"/temas/lla/","created":"2026-01-22T12:20:22.756-03:00","updated":"2026-02-06T16:54:59.403-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ Este [[TEMAS/LLA\|LLA]] no tiene [[TEMAS/marcos\|Marcos]], porque responde a la 
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/abuela-paterna/","created":"2026-02-03T10:49:54.588-03:00","updated":"2026-02-06T11:48:44.259-03:00"}
+{"dg-publish":true,"permalink":"/temas/abuela-paterna/","created":"2026-02-03T10:49:54.588-03:00","updated":"2026-02-06T16:55:00.847-03:00"}
 ---
 
 
@@ -10,4 +10,4 @@
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

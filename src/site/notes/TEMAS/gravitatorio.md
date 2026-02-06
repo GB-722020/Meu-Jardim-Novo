@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/gravitatorio/","created":"2026-02-03T17:14:51.360-03:00","updated":"2026-02-06T11:48:44.398-03:00"}
+{"dg-publish":true,"permalink":"/temas/gravitatorio/","created":"2026-02-03T17:14:51.360-03:00","updated":"2026-02-06T16:55:01.048-03:00"}
 ---
 
 
@@ -10,4 +10,4 @@ Y no es la “ascensión”, porque para nosotros, ganar peso [[TEMAS/gravitator
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

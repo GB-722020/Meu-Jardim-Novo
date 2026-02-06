@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/escala-subatomica/","created":"2026-01-20T18:53:57.420-03:00","updated":"2026-02-06T11:48:43.243-03:00"}
+{"dg-publish":true,"permalink":"/temas/escala-subatomica/","created":"2026-01-20T18:53:57.420-03:00","updated":"2026-02-06T16:54:59.741-03:00"}
 ---
 
 
@@ -24,4 +24,4 @@ La [[TEMAS/escala subatómica\|escala subatómica]] es la responsable de la [[TE
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

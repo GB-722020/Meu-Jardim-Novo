@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/aprendizaje/","created":"2026-01-27T09:20:45.212-03:00","updated":"2026-02-06T11:48:43.645-03:00"}
+{"dg-publish":true,"permalink":"/temas/aprendizaje/","created":"2026-01-27T09:20:45.212-03:00","updated":"2026-02-06T16:55:00.185-03:00"}
 ---
 
 
@@ -16,4 +16,4 @@ hay un [[TEMAS/conflicto\|conflicto]] en el [[TEMAS/orbital 2\|orbital 2]], ento
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

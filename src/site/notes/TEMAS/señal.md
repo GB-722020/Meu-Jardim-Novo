@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/senal/","created":"2026-01-26T10:07:39.755-03:00","updated":"2026-02-06T11:48:43.531-03:00"}
+{"dg-publish":true,"permalink":"/temas/senal/","created":"2026-01-26T10:07:39.755-03:00","updated":"2026-02-06T16:55:00.049-03:00"}
 ---
 
 
@@ -33,4 +33,4 @@ cosas que tienen que ver con la [[TEMAS/clave de Sol\|clave de Sol]]; entonces c
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

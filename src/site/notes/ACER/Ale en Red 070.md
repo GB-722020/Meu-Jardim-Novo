@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-070/","created":"2026-01-24T10:32:17.724-03:00","updated":"2026-02-06T11:48:44.049-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-070/","created":"2026-01-24T10:32:17.724-03:00","updated":"2026-02-06T16:55:00.624-03:00"}
 ---
 
 
@@ -402,4 +402,4 @@ Pero esto es la puesta en valor del recurso que hice, eso es. No todos tenemos l
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

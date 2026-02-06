@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/realidad/","created":"2026-01-25T17:07:22.416-03:00","updated":"2026-02-06T11:48:43.503-03:00"}
+{"dg-publish":true,"permalink":"/temas/realidad/","created":"2026-01-25T17:07:22.416-03:00","updated":"2026-02-06T16:55:00.017-03:00"}
 ---
 
 
@@ -18,4 +18,4 @@ la Realidad no tiene [[TEMAS/límite\|límite]]s, tiene [[TEMAS/alcance\|alcance
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

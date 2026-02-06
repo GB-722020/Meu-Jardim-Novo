@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/logica-de-la-biblioteca/","created":"2026-02-06T11:39:59.530-03:00","updated":"2026-02-06T16:08:17.139-03:00"}
+{"dg-publish":true,"permalink":"/logica-de-la-biblioteca/","created":"2026-02-06T11:39:59.530-03:00","updated":"2026-02-06T16:55:01.207-03:00"}
 ---
 
 
@@ -20,4 +20,4 @@ Por ejemplo, esta nota que estás leyendo está conectada al índice (ver gráfi
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

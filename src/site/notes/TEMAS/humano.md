@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/humano/","created":"2026-02-04T14:18:27.975-03:00","updated":"2026-02-06T11:48:44.582-03:00"}
+{"dg-publish":true,"permalink":"/temas/humano/","created":"2026-02-04T14:18:27.975-03:00","updated":"2026-02-06T16:55:01.137-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ cuando ya somos humanos- tenemos que hacer la deconstrucción de “cómo llegam
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/identidad/","created":"2026-01-26T12:53:17.348-03:00","updated":"2026-02-06T11:48:43.582-03:00"}
+{"dg-publish":true,"permalink":"/temas/identidad/","created":"2026-01-26T12:53:17.348-03:00","updated":"2026-02-06T16:55:00.124-03:00"}
 ---
 
 
@@ -12,4 +12,4 @@
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

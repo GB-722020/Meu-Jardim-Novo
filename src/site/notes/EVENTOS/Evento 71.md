@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eventos/evento-71/","created":"2026-01-20T10:26:48.480-03:00","updated":"2026-02-06T11:48:42.852-03:00"}
+{"dg-publish":true,"permalink":"/eventos/evento-71/","created":"2026-01-20T10:26:48.480-03:00","updated":"2026-02-06T16:54:59.329-03:00"}
 ---
 
 
@@ -5168,4 +5168,4 @@ https://www.youtube.com/watch?si=HA59mZG6jc-KC-qB&v=2yxrQBebjM8&feature=youtu.be
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/rae/","created":"2026-01-20T11:42:52.489-03:00","updated":"2026-02-06T11:48:43.066-03:00"}
+{"dg-publish":true,"permalink":"/temas/rae/","created":"2026-01-20T11:42:52.489-03:00","updated":"2026-02-06T16:54:59.432-03:00"}
 ---
 
 cambio de [[TEMAS/RAE\|RAE]] de la letra i griega a Ye [[ACER/Ale en Red 123#^dvldw8\|Ale en Red 123#^dvldw8]]
@@ -7,4 +7,4 @@ cambio de [[TEMAS/RAE\|RAE]] de la letra i griega a Ye [[ACER/Ale en Red 123#^dv
 cambio de i griega a Ye [[ACER/Ale en Red 123#^q8xnl8\|Ale en Red 123#^q8xnl8]]
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

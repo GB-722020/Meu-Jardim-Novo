@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-151/","created":"2026-01-19T15:35:32.171-03:00","updated":"2026-02-06T11:48:42.777-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-151/","created":"2026-01-19T15:35:32.171-03:00","updated":"2026-02-06T16:54:59.268-03:00"}
 ---
 
 
@@ -466,4 +466,4 @@ _- 7029 palabras-_
 
 
 --- 
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

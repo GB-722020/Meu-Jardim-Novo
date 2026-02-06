@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/rol/","created":"2026-01-30T17:12:58.613-03:00","updated":"2026-02-06T11:48:44.080-03:00"}
+{"dg-publish":true,"permalink":"/temas/rol/","created":"2026-01-30T17:12:58.613-03:00","updated":"2026-02-06T16:55:00.657-03:00"}
 ---
 
 
@@ -9,4 +9,4 @@ Claramente que como [[TEMAS/persona\|persona]] todos tenemos [[TEMAS/limitación
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

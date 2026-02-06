@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/tierra/","created":"2026-01-23T10:34:55.626-03:00","updated":"2026-02-06T11:48:43.095-03:00"}
+{"dg-publish":true,"permalink":"/temas/tierra/","created":"2026-01-23T10:34:55.626-03:00","updated":"2026-02-06T16:54:59.449-03:00"}
 ---
 
 
@@ -29,4 +29,4 @@
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

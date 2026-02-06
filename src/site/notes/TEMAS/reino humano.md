@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/reino-humano/","created":"2026-02-04T14:25:31.956-03:00","updated":"2026-02-06T11:48:44.595-03:00"}
+{"dg-publish":true,"permalink":"/temas/reino-humano/","created":"2026-02-04T14:25:31.956-03:00","updated":"2026-02-06T16:55:01.149-03:00"}
 ---
 
 
@@ -10,4 +10,4 @@ El [[TEMAS/reino humano\|reino humano]], establece relaciones parentales, tanto 
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/temas/respeto/","created":"2026-01-20T19:18:09.629-03:00","updated":"2026-02-06T11:48:43.395-03:00"}
+{"dg-publish":true,"permalink":"/temas/respeto/","created":"2026-01-20T19:18:09.629-03:00","updated":"2026-02-06T16:54:59.891-03:00"}
 ---
 
 
 **el respeto entre nosotros no va a ser el producto de un comportamiento, sino el producto de una comprensión mayor** [[ACER/Ale en Red 123#^ju2lam\|Ale en Red 123#^ju2lam]]
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/octava-gravitatoria/","created":"2026-01-22T09:34:47.822-03:00","updated":"2026-02-06T11:48:43.338-03:00"}
+{"dg-publish":true,"permalink":"/temas/octava-gravitatoria/","created":"2026-01-22T09:34:47.822-03:00","updated":"2026-02-06T16:54:59.837-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ el [[TEMAS/eje RI\|eje RI]] va al corazón del aspecto [[TEMAS/personal\|persona
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

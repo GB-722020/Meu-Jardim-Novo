@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/mente/","created":"2026-01-19T17:16:56.359-03:00","updated":"2026-02-06T11:48:43.318-03:00"}
+{"dg-publish":true,"permalink":"/temas/mente/","created":"2026-01-19T17:16:56.359-03:00","updated":"2026-02-06T16:54:59.831-03:00"}
 ---
 
 
@@ -42,4 +42,4 @@ nuestra **[[TEMAS/mente\|mente]]** [señala cuadrante NE] tiende al infinito, po
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/contenedor/","created":"2026-01-20T18:02:27.167-03:00","updated":"2026-02-06T11:48:43.153-03:00"}
+{"dg-publish":true,"permalink":"/temas/contenedor/","created":"2026-01-20T18:02:27.167-03:00","updated":"2026-02-06T16:54:59.510-03:00"}
 ---
 
 
@@ -19,4 +19,4 @@ determinadas entidades crean [[TEMAS/experiencia\|experiencia]]s que se almacena
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

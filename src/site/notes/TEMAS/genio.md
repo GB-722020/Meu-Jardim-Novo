@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/genio/","created":"2026-02-03T15:26:47.043-03:00","updated":"2026-02-06T11:48:44.362-03:00"}
+{"dg-publish":true,"permalink":"/temas/genio/","created":"2026-02-03T15:26:47.043-03:00","updated":"2026-02-06T16:55:01.004-03:00"}
 ---
 
 
@@ -17,4 +17,4 @@ El [[TEMAS/genio\|genio]] es el que es capaz de enfrentarse a lo desconocido. - 
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

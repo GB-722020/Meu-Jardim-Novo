@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/creadores-de-sentido/","created":"2026-01-20T14:14:44.968-03:00","updated":"2026-02-06T11:48:43.159-03:00"}
+{"dg-publish":true,"permalink":"/temas/creadores-de-sentido/","created":"2026-01-20T14:14:44.968-03:00","updated":"2026-02-06T16:54:59.528-03:00"}
 ---
 
 
@@ -12,4 +12,4 @@ de [[creadores de contenido\|creadores de contenido]] a creadores de sentido, ca
 espacio vacío  para crear sentido [[ACER/Ale en Red 123#^egod9g\|Ale en Red 123#^egod9g]]
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

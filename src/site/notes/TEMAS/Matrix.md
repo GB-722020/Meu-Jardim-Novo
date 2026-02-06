@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/matrix/","created":"2026-01-21T11:44:34.153-03:00","updated":"2026-02-06T11:48:43.060-03:00"}
+{"dg-publish":true,"permalink":"/temas/matrix/","created":"2026-01-21T11:44:34.153-03:00","updated":"2026-02-06T16:54:59.408-03:00"}
 ---
 
 
@@ -17,4 +17,4 @@ proceso de transparentación de la Matrix [[ACER/Ale en Red 119#^zirtdw\|Ale en 
 transparentación de la Matrix [[ACER/Ale en Red 123#^zsobvd\|Ale en Red 123#^zsobvd]]
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

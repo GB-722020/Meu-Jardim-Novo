@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/represion/","created":"2026-02-03T10:39:35.706-03:00","updated":"2026-02-06T11:48:44.243-03:00"}
+{"dg-publish":true,"permalink":"/temas/represion/","created":"2026-02-03T10:39:35.706-03:00","updated":"2026-02-06T16:55:00.803-03:00"}
 ---
 
 
@@ -8,4 +8,4 @@
 para callar sin reprimir... yo necesito la [[TEMAS/escala particular\|escala particular]] activa, [[ACER/Ale en Red 151#^673ie6\|Ale en Red 151#^673ie6]]
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

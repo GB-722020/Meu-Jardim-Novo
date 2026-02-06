@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/codigo-solar-nativo/","created":"2026-01-20T14:03:07.471-03:00","updated":"2026-02-06T11:48:43.208-03:00"}
+{"dg-publish":true,"permalink":"/temas/codigo-solar-nativo/","created":"2026-01-20T14:03:07.471-03:00","updated":"2026-02-06T16:54:59.538-03:00"}
 ---
 
 
@@ -21,4 +21,4 @@ código solar nativo vs. [[TEMAS/cosmos\|cosmos]] [[ACER/Ale en Red 123#^ewli1w\
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

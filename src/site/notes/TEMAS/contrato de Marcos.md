@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/contrato-de-marcos/","created":"2026-01-28T16:58:46.538-03:00","updated":"2026-02-06T11:48:43.804-03:00"}
+{"dg-publish":true,"permalink":"/temas/contrato-de-marcos/","created":"2026-01-28T16:58:46.538-03:00","updated":"2026-02-06T16:55:00.388-03:00"}
 ---
 
 
@@ -16,4 +16,4 @@
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

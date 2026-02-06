@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/sabio/","created":"2026-02-03T15:23:43.073-03:00","updated":"2026-02-06T11:48:44.354-03:00"}
+{"dg-publish":true,"permalink":"/temas/sabio/","created":"2026-02-03T15:23:43.073-03:00","updated":"2026-02-06T16:55:00.999-03:00"}
 ---
 
 
@@ -18,4 +18,4 @@ el sabio se para donde nosotros ya somos [[TEMAS/humano\|humano]]s- no se para e
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

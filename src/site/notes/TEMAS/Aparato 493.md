@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/aparato-493/","created":"2026-01-30T17:45:28.021-03:00","updated":"2026-02-06T11:48:44.102-03:00"}
+{"dg-publish":true,"permalink":"/temas/aparato-493/","created":"2026-01-30T17:45:28.021-03:00","updated":"2026-02-06T16:55:00.675-03:00"}
 ---
 
 
@@ -13,4 +13,4 @@ el 493 permite la [[TEMAS/paradoja\|paradoja]] y la paradoja es que entran en eq
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

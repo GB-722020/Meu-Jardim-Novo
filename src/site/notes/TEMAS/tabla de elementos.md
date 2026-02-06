@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/tabla-de-elementos/","created":"2026-01-21T14:50:53.743-03:00","updated":"2026-02-06T11:48:43.411-03:00"}
+{"dg-publish":true,"permalink":"/temas/tabla-de-elementos/","created":"2026-01-21T14:50:53.743-03:00","updated":"2026-02-06T16:54:59.924-03:00"}
 ---
 
 
@@ -23,4 +23,4 @@ función del [[TEMAS/elástico\|elástico]] [[ACER/Ale en Red 119#^esb76a\|Ale e
 [[FECHAS/2024-08-12\|2024-08-12]] día 225 espacio de recepción de código de la [[TEMAS/antimateria\|antimateria]] [[ACER/Ale en Red 119#^bi72re\|Ale en Red 119#^bi72re]]
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

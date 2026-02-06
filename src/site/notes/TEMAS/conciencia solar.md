@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/conciencia-solar/","created":"2026-01-20T13:46:13.238-03:00","updated":"2026-02-06T11:48:43.149-03:00"}
+{"dg-publish":true,"permalink":"/temas/conciencia-solar/","created":"2026-01-20T13:46:13.238-03:00","updated":"2026-02-06T16:54:59.507-03:00"}
 ---
 
 
@@ -10,4 +10,4 @@ atender al [[TEMAS/procesador\|procesador]] [[ACER/Ale en Red 123#^xfewdl\|Ale e
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

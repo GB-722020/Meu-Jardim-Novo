@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-090/","created":"2026-02-03T14:52:36.666-03:00","updated":"2026-02-06T11:48:44.313-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-090/","created":"2026-02-03T14:52:36.666-03:00","updated":"2026-02-06T16:55:00.946-03:00"}
 ---
 
 
@@ -254,4 +254,4 @@ Alejandra: Gracias Leti
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

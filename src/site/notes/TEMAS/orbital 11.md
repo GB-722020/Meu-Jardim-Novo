@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/orbital-11/","created":"2026-01-29T11:43:38.057-03:00","updated":"2026-02-06T11:48:43.916-03:00"}
+{"dg-publish":true,"permalink":"/temas/orbital-11/","created":"2026-01-29T11:43:38.057-03:00","updated":"2026-02-06T16:55:00.485-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ O sea, el [[TEMAS/orbital 11\|orbital 11]] del [[TEMAS/sistema solar\|sistema so
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

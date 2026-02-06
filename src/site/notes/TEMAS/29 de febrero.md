@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/29-de-febrero/","created":"2026-01-22T08:57:28.689-03:00","updated":"2026-02-06T11:48:42.978-03:00"}
+{"dg-publish":true,"permalink":"/temas/29-de-febrero/","created":"2026-01-22T08:57:28.689-03:00","updated":"2026-02-06T16:54:59.340-03:00"}
 ---
 
 
@@ -16,4 +16,4 @@
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

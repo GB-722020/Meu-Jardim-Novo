@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/espacio-tiempo/","created":"2026-01-26T11:36:36.854-03:00","updated":"2026-02-06T11:48:43.544-03:00"}
+{"dg-publish":true,"permalink":"/temas/espacio-tiempo/","created":"2026-01-26T11:36:36.854-03:00","updated":"2026-02-06T16:55:00.070-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ el [[TEMAS/espacio-tiempo\|espacio-tiempo]] [[lineal\|lineal]] se consume en for
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

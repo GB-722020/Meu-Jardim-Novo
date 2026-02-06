@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/funcion-per/","created":"2026-01-23T13:02:21.909-03:00","updated":"2026-02-06T11:48:43.258-03:00"}
+{"dg-publish":true,"permalink":"/temas/funcion-per/","created":"2026-01-23T13:02:21.909-03:00","updated":"2026-02-06T16:54:59.768-03:00"}
 ---
 
 
@@ -10,4 +10,4 @@ significa ese permiso, esa construcción que te permite operar con MENTE- MENTAL
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

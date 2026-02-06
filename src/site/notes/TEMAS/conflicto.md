@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/conflicto/","created":"2026-01-26T17:51:18.149-03:00","updated":"2026-02-06T11:48:43.627-03:00"}
+{"dg-publish":true,"permalink":"/temas/conflicto/","created":"2026-01-26T17:51:18.149-03:00","updated":"2026-02-06T16:55:00.153-03:00"}
 ---
 
 
@@ -27,4 +27,4 @@ Y todas las franjas que no tienen una [[TEMAS/estructura psicológica\|estructur
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

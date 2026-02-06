@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/codigo-404/","created":"2026-01-23T17:55:30.583-03:00","updated":"2026-02-06T11:48:43.165-03:00"}
+{"dg-publish":true,"permalink":"/temas/codigo-404/","created":"2026-01-23T17:55:30.583-03:00","updated":"2026-02-06T16:54:59.532-03:00"}
 ---
 
 
@@ -8,4 +8,4 @@
 el [[TEMAS/código 404\|código 404]] en el contexto de cuando los días de [[ANTENAS/Alejandra Casado\|Alejandra Casado]] y [[ANTENAS/Cristina Kirchner\|Cristina Kirchner]] suman 44044 [[ACER/Ale en Red 055#^9pdmsb\|Ale en Red 055#^9pdmsb]]
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

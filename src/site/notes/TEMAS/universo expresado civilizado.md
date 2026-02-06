@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/universo-expresado-civilizado/","created":"2026-01-22T17:13:58.970-03:00","updated":"2026-02-06T11:48:43.420-03:00"}
+{"dg-publish":true,"permalink":"/temas/universo-expresado-civilizado/","created":"2026-01-22T17:13:58.970-03:00","updated":"2026-02-06T16:54:59.936-03:00"}
 ---
 
 
@@ -16,4 +16,4 @@ nuestra tesis doctoral- para ingresar al [[TEMAS/universo expresado civilizado\|
 necesitamos que los [[TEMAS/contenedor\|contenedor]]es tengan estímulo para expandir [[TEMAS/universo expresado civilizado\|universo expresado civilizado]], [[ACER/Ale en Red 116#^xcdeea\|Ale en Red 116#^xcdeea]] 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

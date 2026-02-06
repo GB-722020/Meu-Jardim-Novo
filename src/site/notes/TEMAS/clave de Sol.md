@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/clave-de-sol/","created":"2026-01-27T17:16:52.256-03:00","updated":"2026-02-06T11:48:43.745-03:00"}
+{"dg-publish":true,"permalink":"/temas/clave-de-sol/","created":"2026-01-27T17:16:52.256-03:00","updated":"2026-02-06T16:55:00.334-03:00"}
 ---
 
 
@@ -13,4 +13,4 @@
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

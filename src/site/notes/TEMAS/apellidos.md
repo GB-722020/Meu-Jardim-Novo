@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/apellidos/","created":"2026-01-22T09:08:15.120-03:00","updated":"2026-02-06T11:48:43.115-03:00"}
+{"dg-publish":true,"permalink":"/temas/apellidos/","created":"2026-01-22T09:08:15.120-03:00","updated":"2026-02-06T16:54:59.479-03:00"}
 ---
 
 
@@ -8,4 +8,4 @@
 concebidos en [[TEMAS/Edad Media\|Edad Media]] [[ACER/Ale en Red 119#^meo0a9\|Ale en Red 119#^meo0a9]]
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

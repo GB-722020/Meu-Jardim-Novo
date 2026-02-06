@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/cardinalidad-so/","created":"2026-01-27T17:17:51.963-03:00","updated":"2026-02-06T11:48:43.746-03:00"}
+{"dg-publish":true,"permalink":"/temas/cardinalidad-so/","created":"2026-01-27T17:17:51.963-03:00","updated":"2026-02-06T16:55:00.336-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ la [[TEMAS/cardinalidad SO\|cardinalidad SO]] -que va a hacer que nosotros tenga
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

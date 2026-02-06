@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/cardinalidad-no/","created":"2026-01-27T17:26:54.114-03:00","updated":"2026-02-06T11:48:43.753-03:00"}
+{"dg-publish":true,"permalink":"/temas/cardinalidad-no/","created":"2026-01-27T17:26:54.114-03:00","updated":"2026-02-06T16:55:00.341-03:00"}
 ---
 
 
@@ -18,4 +18,4 @@ Recordemos que esta [[TEMAS/cardinalidad NO\|cardinalidad NO]] es la que gestion
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

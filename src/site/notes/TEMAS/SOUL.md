@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/soul/","created":"2026-01-22T12:26:50.062-03:00","updated":"2026-02-06T11:48:43.085-03:00"}
+{"dg-publish":true,"permalink":"/temas/soul/","created":"2026-01-22T12:26:50.062-03:00","updated":"2026-02-06T16:54:59.440-03:00"}
 ---
 
 
@@ -12,4 +12,4 @@ el guardado que se hace en la caja es el que va por [[TEMAS/clave de Sol\|clave 
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

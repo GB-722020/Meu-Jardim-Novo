@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/reporte-de-fallas-y-faltas/","created":"2026-01-26T12:32:53.460-03:00","updated":"2026-02-06T11:48:43.565-03:00"}
+{"dg-publish":true,"permalink":"/temas/reporte-de-fallas-y-faltas/","created":"2026-01-26T12:32:53.460-03:00","updated":"2026-02-06T16:55:00.102-03:00"}
 ---
 
 
@@ -14,4 +14,4 @@ documentarlas para que el tránsito del día 352 al día 353, podamos alimentar 
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

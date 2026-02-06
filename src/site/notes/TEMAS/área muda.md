@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/area-muda/","created":"2026-02-03T09:29:54.743-03:00","updated":"2026-02-06T11:48:44.202-03:00"}
+{"dg-publish":true,"permalink":"/temas/area-muda/","created":"2026-02-03T09:29:54.743-03:00","updated":"2026-02-06T16:55:00.774-03:00"}
 ---
 
 
@@ -14,4 +14,4 @@ Todas las actualizaciones llegan al [[TEMAS/área muda\|área muda]]. Ninguna ac
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*

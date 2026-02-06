@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-116/","created":"2026-01-22T09:19:42.390-03:00","updated":"2026-02-06T11:48:42.765-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-116/","created":"2026-01-22T09:19:42.390-03:00","updated":"2026-02-06T16:54:59.248-03:00"}
 ---
 
 
@@ -483,4 +483,4 @@ Gracias._
 
 
 ---
-*volver al [[índice\|índice]]*
+*volver al [[index\|index]]*
