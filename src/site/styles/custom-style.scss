@@ -12,36 +12,44 @@ body {
     //  }
 }
 @media screen and (min-width: 1200px) {
-    /* Mantém sua posição na direita */
-    .backlinks-container, .backlinks, [class*="backlink"] {
+    /* 1. Mantém a posição na direita */
+    .backlinks-container, .backlinks {
         position: fixed !important;
         top: 100px !important;
         right: 20px !important;
         width: 250px !important;
         padding: 15px !important;
+        z-index: 1000 !important;
     }
 
-    /* ESCONDE O TEXTO ORIGINAL */
+    /* 2. Alvo exclusivo: Título dentro da caixa de backlinks */
     .backlinks-container h2, 
     .backlinks-container h3, 
-    .backlinks h2, 
-    .backlinks h3,
-    [class*="title"], [class*="header"] {
+    .backlinks-container .backlinks-title {
         font-size: 0 !important;
         color: transparent !important;
+        margin-bottom: 10px !important;
     }
 
-    /* FORÇA A FRASE NOVA */
+    /* 3. Escreve a frase apenas na caixa lateral */
     .backlinks-container h2::before, 
     .backlinks-container h3::before,
-    .backlinks h2::before,
-    .backlinks h3::before,
-    [class*="title"]::before, [class*="header"]::before {
+    .backlinks-container .backlinks-title::before {
         content: "Notas que mencionan esta nota" !important;
-        font-size: 1.1rem !important;
+        font-size: 1rem !important;
         color: var(--text-normal) !important;
         visibility: visible !important;
         display: block !important;
         font-weight: bold !important;
+    }
+
+    /* 4. Traz os links de volta (Garante que a lista seja visível) */
+    .backlinks-container a, 
+    .backlinks-container .backlink-link,
+    .backlinks-container .search-result-file-title {
+        font-size: 0.9rem !important;
+        color: var(--link-color) !important;
+        visibility: visible !important;
+        display: inline-block !important; /* Garante que o link não suma */
     }
 }
