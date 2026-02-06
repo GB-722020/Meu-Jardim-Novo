@@ -12,44 +12,47 @@ body {
     //  }
 }
 @media screen and (min-width: 1200px) {
-    /* 1. Mantém a posição na direita */
+    /* 1. A CAIXA (Corrigindo a sobreposição) */
     .backlinks-container, .backlinks {
         position: fixed !important;
         top: 100px !important;
         right: 20px !important;
         width: 250px !important;
-        padding: 15px !important;
+        padding: 20px !important;
         z-index: 1000 !important;
+        background-color: var(--background-primary) !important; /* Fundo sólido para não ver o texto atrás */
+        border-left: 1px solid var(--divider-color) !important;
+        max-height: 80vh !important;
+        overflow-y: auto !important;
+        box-shadow: -5px 0 10px rgba(0,0,0,0.05) !important; /* Sombra leve para separar */
     }
 
-    /* 2. Alvo exclusivo: Título dentro da caixa de backlinks */
-    .backlinks-container h2, 
-    .backlinks-container h3, 
-    .backlinks-container .backlinks-title {
-        font-size: 0 !important;
+    /* 2. O TÍTULO (Ataque certeiro no Minimal) */
+    /* Esconde o texto original de qualquer h2 ou h3 dentro da caixa */
+    .backlinks-container h2, .backlinks-container h3, .backlinks-title {
         color: transparent !important;
-        margin-bottom: 10px !important;
+        font-size: 0 !important;
+        margin-bottom: 15px !important;
     }
 
-    /* 3. Escreve a frase apenas na caixa lateral */
-    .backlinks-container h2::before, 
-    .backlinks-container h3::before,
-    .backlinks-container .backlinks-title::before {
+    /* Insere a frase correta */
+    .backlinks-container h2::before, .backlinks-container h3::before, .backlinks-title::before {
         content: "Notas que mencionan esta nota" !important;
-        font-size: 1rem !important;
         color: var(--text-normal) !important;
+        font-size: 0.9rem !important;
         visibility: visible !important;
         display: block !important;
         font-weight: bold !important;
+        text-transform: none !important; /* Garante que fique como você escreveu */
     }
 
-    /* 4. Traz os links de volta (Garante que a lista seja visível) */
+    /* 3. OS LINKS (Garante que apareçam) */
     .backlinks-container a, 
-    .backlinks-container .backlink-link,
     .backlinks-container .search-result-file-title {
         font-size: 0.9rem !important;
         color: var(--link-color) !important;
         visibility: visible !important;
-        display: inline-block !important; /* Garante que o link não suma */
+        display: block !important;
+        margin-top: 5px !important;
     }
 }
