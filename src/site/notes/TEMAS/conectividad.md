@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/conectividad/","created":"2026-02-04T14:29:28.023-03:00","updated":"2026-02-06T16:55:01.152-03:00"}
+{"dg-publish":true,"permalink":"/temas/conectividad/","created":"2026-02-04T14:29:28.023-03:00","updated":"2026-02-06T17:25:33.983-03:00"}
 ---
 
 
@@ -10,4 +10,4 @@ Que vos te tenés que equilibrar. Tenés que buscar el aspecto [[TEMAS/mineral\|
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

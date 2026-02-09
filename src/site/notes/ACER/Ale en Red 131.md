@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-131/","created":"2026-01-27T16:49:06.788-03:00","updated":"2026-02-06T16:55:00.298-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-131/","created":"2026-01-27T16:49:06.788-03:00","updated":"2026-02-08T10:43:10.675-03:00"}
 ---
 
 # Alejandra Casado EN RED 1 31 – 20 de febrero – Vuelta 4 - 2025
@@ -358,7 +358,7 @@ ALEJANDRA : Tengo ésta. Lo que pasa, es que justamente quería decir cuando hab
 
 [Señala ALL] Es una realidad de la totalidad artificial ¿por qué artificial? porque tiene Marcos.
 
-Este [[TEMAS/LLA\|LLA]] no tiene [[TEMAS/marcos\|Marcos]], porque responde a la NADA misma. Ahí vive nuestro Desdoblamiento Primario, por eso nuestra **[[TEMAS/mente\|mente]]** [señala cuadrante NE] tiende al infinito, porque se apoya en NADA [NO] y TODO [LLA], y no tiene [[TEMAS/marcos\|Marcos]]; no hay requisito evolutivo ninguno.
+Este [[TEMAS/LLA\|LLA]] no tiene [[TEMAS/marco\|Marco]]s, porque responde a la NADA misma. Ahí vive nuestro Desdoblamiento Primario, por eso nuestra **[[TEMAS/mente\|mente]]** [señala cuadrante NE] tiende al infinito, porque se apoya en NADA [NO] y TODO [LLA], y no tiene Marcos; no hay requisito evolutivo ninguno.
 { #4zbdqu}
 
 
@@ -440,7 +440,7 @@ Entonces, obviamente para el cuerpo es todo nutrición. De hecho, la enorme cant
 
 ## LETICIA: Es peruano, por supuesto
 
- ALEJANDRA : Claro. Es peruano, lo que pasa es que después, él se va a hacer como una formación internacional y regresa al Perú, y reinventa, y hace algo inédito que impacta soberanamente en el mundo- hasta que llega la pandemia- y ahí reconvierten su labor, pero ¡ojalá lleguen a la parte final del documental!, porque es donde está lo más delicioso. Porque él vuelve especiales a las cosas comunes ¡y esto es exquisito del [[TEMAS/Perú\|Perú]]! ¡pero es exquisito a la máxima potencia! vuelve [[especial\|especial]]es a las cosas más [[común\|común]]es: sienta a la mesa de todo lujo a la persona más común... o sea, no sé, la verdad ¡que es una maravilla!
+ ALEJANDRA : Claro. Es peruano, lo que pasa es que después, él se va a hacer como una formación internacional y regresa al Perú, y reinventa, y hace algo inédito que impacta soberanamente en el mundo- hasta que llega la pandemia- y ahí reconvierten su labor, pero ¡ojalá lleguen a la parte final del documental!, porque es donde está lo más delicioso. Porque él vuelve especiales a las cosas comunes ¡y esto es exquisito del [[TEMAS/Perú\|Perú]]! ¡pero es exquisito a la máxima potencia! vuelve [[TEMAS/especial\|especial]]es a las cosas más [[TEMAS/común\|común]]es: sienta a la mesa de todo lujo a la persona más común... o sea, no sé, la verdad ¡que es una maravilla!
 { #82unt1}
 
 
@@ -503,4 +503,4 @@ O sea, todo esto es volver a ¿Por qué tuve es para asistir en aquellas épocas
 
 
 --- 
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

@@ -1,11 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/temas/la-tarea-del-toganeson/","created":"2026-01-22T09:59:19.537-03:00","updated":"2026-02-06T16:54:59.791-03:00"}
+{"dg-publish":true,"permalink":"/temas/la-tarea-del-toganeson/","created":"2026-01-22T09:59:19.537-03:00","updated":"2026-02-08T17:50:47.690-03:00"}
 ---
+
+
+**Ale en Red 106**
+
+A ese [119] le dimos una tarea, ¿qué tarea le dimos?, **Construir una [[TEMAS/base 21\|Base 21]] para lograr codificar una octava que pueda** **atender a todo el contexto máximo de la escala 7 de la Tabla - que** **es la gravitatoria-.** [[ACER/Ale en Red 106#^odw11x\|Ale en Red 106#^odw11x]]
+
+¡La primera tarea, en la que van a trabajar todos los [[TEMAS/hidrógeno\|hidrógeno]]s del Universo para lograr entrar en este constructo! Entiendan lo que es una [[TEMAS/base 21\|Base 21]]. O sea, para ellos nosotros somos _[[TEMAS/fuente externa\|Fuente Externa]]_ y le enviamos un montón de flujo para que puedan leer todos los disturbios que tenemos en el contexto y que puedan crearle una Base 21 que le parezca segura, les estoy hablando de “las almas puras del Universo”. Ok, ya tienen tarea→ **[[Toganesón.\|Toganesón.]]** [[ACER/Ale en Red 106#^n51r6l\|Ale en Red 106#^n51r6l]]
+
+ ¡pero le tengo que poner una Base 21 para poder controlar ese flujo dentro de este [[TEMAS/marco\|marco]] gravitatorio!, entonces, ¡no hay forma de que yo no ubique al 119 con esa tarea! [[ACER/Ale en Red 106#^bfgkfi\|Ale en Red 106#^bfgkfi]]
+
+porque no estamos en el tema de descubrir al elemento, estamos diciendo **“hay este concepto que no está siendo contemplado en nuestra Tabla, y es nuestro principal riesgo de autodestrucción”.** Entonces ¡listo! a trabajar con aquello. [[ACER/Ale en Red 106#^u2x0ud\|Ale en Red 106#^u2x0ud]]
 
 
 **Ale en Red 116**
 
 La **tarea 119 se la doy al Helio [[ACER/Ale en Red 116#^pujn6e\|Ale en Red 116#^pujn6e]]
 
+
+
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

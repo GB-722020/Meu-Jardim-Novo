@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/paradigma-de-premios-y-castigos/","created":"2026-01-27T12:37:11.139-03:00","updated":"2026-02-06T16:55:00.274-03:00"}
+{"dg-publish":true,"permalink":"/temas/paradigma-de-premios-y-castigos/","created":"2026-01-27T12:37:11.139-03:00","updated":"2026-02-06T17:25:33.330-03:00"}
 ---
 
 
@@ -10,4 +10,4 @@ Muy difícilmente el [[TEMAS/paradigma de premios y castigos\|paradigma de premi
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

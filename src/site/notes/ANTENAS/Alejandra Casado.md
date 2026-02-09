@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/antenas/alejandra-casado/","created":"2026-01-20T17:21:13.577-03:00","updated":"2026-02-06T16:54:59.107-03:00"}
+{"dg-publish":true,"permalink":"/antenas/alejandra-casado/","created":"2026-01-20T17:21:13.577-03:00","updated":"2026-02-09T11:49:40.677-03:00"}
 ---
 
 
@@ -7,6 +7,11 @@
 **Ale en Red 70**
 
 Yo me ocupo más de los límites que de los alcances [[ACER/Ale en Red 070#^xnsjiz\|Ale en Red 070#^xnsjiz]]
+
+
+**Ale en Red 106**
+
+Alejandra no pudo entrar a la universidad porque, evidentemente, le colapsaban cosas, certezas internas, y decía “¡no, jamás, jamás voy a hacer eso!” y tengo un semáforo azul, ¿viste que el hidrogenito está [[TEMAS/azul\|azul]]? Y es el semáforo azul que se me enciende en el [[TEMAS/francio\|Francio]] (se ríe) y me dice ¡noooo! Porque es como que voy en consonancia más bien con el perfil del _[[TEMAS/universo expresado civilizado\|Universo Expresado Civilizado]]_, [[ACER/Ale en Red 106#^yzk339\|Ale en Red 106#^yzk339]]
 
 
 
@@ -28,4 +33,4 @@ Yo me ocupo más de los límites que de los alcances [[ACER/Ale en Red 070#^xnsj
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

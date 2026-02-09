@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/temas/gravitatorio/","created":"2026-02-03T17:14:51.360-03:00","updated":"2026-02-06T16:55:01.048-03:00"}
+{"dg-publish":true,"permalink":"/temas/gravitatorio/","created":"2026-02-03T17:14:51.360-03:00","updated":"2026-02-08T10:14:55.602-03:00"}
 ---
+
+
+==ver también [[TEMAS/gravitatoria\|gravitatoria]]==
 
 
 **Ale en Red 90**
@@ -10,4 +13,4 @@ Y no es la “ascensión”, porque para nosotros, ganar peso [[TEMAS/gravitator
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

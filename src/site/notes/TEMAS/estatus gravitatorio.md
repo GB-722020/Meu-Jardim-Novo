@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/estatus-gravitatorio/","created":"2026-01-27T12:24:53.429-03:00","updated":"2026-02-06T16:55:00.269-03:00"}
+{"dg-publish":true,"permalink":"/temas/estatus-gravitatorio/","created":"2026-01-27T12:24:53.429-03:00","updated":"2026-02-07T15:50:53.223-03:00"}
 ---
 
 
@@ -8,7 +8,11 @@
 ¿A qué te refieres al decir _“_ [[TEMAS/estatus gravitatorio\|estatus gravitatorio]] _”?_ [[ACER/Ale en Red 087#^69yq7b\|Ale en Red 087#^69yq7b]]
 
 
+**Ale en Red 106**
+
+En la cuestión [[TEMAS/imaginaria\|imaginaria]] todos somos seres de luz, iluminados, tenemos bla, bla, ¡perfecto! porque es un espacio gratuito; **el punto es no confundir con el [[TEMAS/estatus gravitatorio\|estatus gravitatorio]]**, [[ACER/Ale en Red 106#^ucocjo\|Ale en Red 106#^ucocjo]]
+
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

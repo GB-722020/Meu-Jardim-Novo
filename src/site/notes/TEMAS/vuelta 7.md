@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/vuelta-7/","created":"2026-02-03T15:20:23.054-03:00","updated":"2026-02-06T16:55:00.986-03:00"}
+{"dg-publish":true,"permalink":"/temas/vuelta-7/","created":"2026-02-03T15:20:23.054-03:00","updated":"2026-02-06T17:25:33.857-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ Según como cada uno configure su [[TEMAS/vuelta 7\|Vuelta 7]] y su [[TEMAS/vuel
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

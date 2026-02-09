@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/tierra/","created":"2026-01-23T10:34:55.626-03:00","updated":"2026-02-06T16:54:59.449-03:00"}
+{"dg-publish":true,"permalink":"/temas/tierra/","created":"2026-01-23T10:34:55.626-03:00","updated":"2026-02-09T11:38:23.817-03:00"}
 ---
 
 
@@ -28,5 +28,16 @@
 
 
 
+**Ale en Red 106**
+
+Cuando nosotros decimos **[[TEMAS/Tierra\|Tierra]]** , es la biblioteca del 3° Orbital [[TEMAS/orbital 3\|orbital 3]], o sea, todo lo que suceda en el 3° Orbital se tracciona y se deja fijo como [[TEMAS/memoria\|Memoria]]; [[ACER/Ale en Red 106#^n0nrsr\|Ale en Red 106#^n0nrsr]]
+
+imprime este, el otro, aquel, todo puede, como si la Tierra fuera un _Desdoblamiento Primario_. ¡No! **la Tierra es un** **_[[TEMAS/desdoblamiento secundario\|Desdoblamiento Secundario]]_** **;** tiene una carga, tiene un [[TEMAS/límite\|límite]], [[ACER/Ale en Red 106#^vc0opr\|Ale en Red 106#^vc0opr]]
+
+
+
+
+
+
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

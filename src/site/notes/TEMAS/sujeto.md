@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/sujeto/","created":"2026-01-25T17:04:04.240-03:00","updated":"2026-02-06T16:55:00.000-03:00"}
+{"dg-publish":true,"permalink":"/temas/sujeto/","created":"2026-01-25T17:04:04.240-03:00","updated":"2026-02-06T17:25:33.161-03:00"}
 ---
 
 
@@ -17,4 +17,4 @@ dueño del [[TEMAS/código genético\|código genético]]. Ahora, el código gen
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/codigo-solar/","created":"2026-01-29T11:03:58.703-03:00","updated":"2026-02-06T16:55:00.400-03:00"}
+{"dg-publish":true,"permalink":"/temas/codigo-solar/","created":"2026-01-29T11:03:58.703-03:00","updated":"2026-02-06T17:25:33.418-03:00"}
 ---
 
 
@@ -12,4 +12,4 @@ todas las mejoras que podemos crearle al [[TEMAS/código solar\|código solar]] 
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/futuro/","created":"2026-01-23T15:26:50.533-03:00","updated":"2026-02-06T16:54:59.770-03:00"}
+{"dg-publish":true,"permalink":"/temas/futuro/","created":"2026-01-23T15:26:50.533-03:00","updated":"2026-02-06T17:25:32.864-03:00"}
 ---
 
 
@@ -10,4 +10,4 @@
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

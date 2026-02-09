@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/campo-unificado/","created":"2026-02-03T10:16:20.700-03:00","updated":"2026-02-06T16:55:00.785-03:00"}
+{"dg-publish":true,"permalink":"/temas/campo-unificado/","created":"2026-02-03T10:16:20.700-03:00","updated":"2026-02-06T17:25:33.720-03:00"}
 ---
 
 
@@ -14,4 +14,4 @@ el que decide en el [[TEMAS/campo unificado\|campo unificado]], es el campo unif
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

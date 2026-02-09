@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/procesador/","created":"2026-01-20T14:13:08.109-03:00","updated":"2026-02-06T16:54:59.881-03:00"}
+{"dg-publish":true,"permalink":"/temas/procesador/","created":"2026-01-20T14:13:08.109-03:00","updated":"2026-02-06T17:25:33.056-03:00"}
 ---
 
 
@@ -27,4 +27,4 @@ Lo que el [[TEMAS/procesador\|procesador]] hace es dirigir la señal para el asp
 El [[TEMAS/procesador\|procesador]] no es la [[TEMAS/experiencia\|experiencia]], es la [[TEMAS/señal\|señal]] [[ACER/Ale en Red 123#^ccf0ph\|Ale en Red 123#^ccf0ph]]
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

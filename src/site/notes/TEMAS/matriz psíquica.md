@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/matriz-psiquica/","created":"2026-01-23T11:50:59.955-03:00","updated":"2026-02-06T16:54:59.823-03:00"}
+{"dg-publish":true,"permalink":"/temas/matriz-psiquica/","created":"2026-01-23T11:50:59.955-03:00","updated":"2026-02-06T17:25:33.001-03:00"}
 ---
 
 
@@ -12,4 +12,4 @@ cada [[TEMAS/persona\|persona]] tiene acceso a una matriz que lo conecta con la 
 La MATRIZ ANALÓGICA, se basa en el pasado. La MATRIZ DIGITAL se basa en el futuro [[ACER/Ale en Red 002#^dkorex\|Ale en Red 002#^dkorex]]
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

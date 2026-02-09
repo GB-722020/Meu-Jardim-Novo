@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/estructura-psiquica/","created":"2026-01-23T16:56:52.237-03:00","updated":"2026-02-06T16:54:59.749-03:00"}
+{"dg-publish":true,"permalink":"/temas/estructura-psiquica/","created":"2026-01-23T16:56:52.237-03:00","updated":"2026-02-06T17:25:32.832-03:00"}
 ---
 
 
@@ -19,4 +19,4 @@ la estructura psíquica es un espacio de recepción de [[TEMAS/señal\|señal]]e
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/mente/","created":"2026-01-19T17:16:56.359-03:00","updated":"2026-02-06T16:54:59.831-03:00"}
+{"dg-publish":true,"permalink":"/temas/mente/","created":"2026-01-19T17:16:56.359-03:00","updated":"2026-02-08T16:34:37.103-03:00"}
 ---
 
 
@@ -27,6 +27,11 @@ la [[TEMAS/mente\|mente]] del otro me golpea en el [[TEMAS/cuerpo\|cuerpo]]; es 
 ¿Qué es la [[TEMAS/mente\|mente]]? La mente, es [[TEMAS/conciencia\|conciencia]] codificada. [[ACER/Ale en Red 090#^a7qh89\|Ale en Red 090#^a7qh89]]
 
 
+**Ale en Red 106**
+
+Si digo **[[TEMAS/mente\|Mente]]** es una [[TEMAS/memoria\|Memoria]], pero online; y si yo la puedo recrear a futuro, significa que ==la instalé bajo Memoria== - no es lo mismo-. [[ACER/Ale en Red 106#^0zjuep\|Ale en Red 106#^0zjuep]]
+
+
 
 **Ale en Red 123**
 
@@ -35,11 +40,11 @@ mente y [[TEMAS/mentalidad\|mentalidad]] [[ACER/Ale en Red 123#^vvu7oe\|Ale en R
 
 **Ale en Red 131**
 
-nuestra **[[TEMAS/mente\|mente]]** [señala cuadrante NE] tiende al infinito, porque se apoya en NADA [NO] y TODO [LLA], y no tiene [[TEMAS/marcos\|Marcos]]; no hay [[TEMAS/requisito evolutivo\|requisito evolutivo]] ninguno. [[ACER/Ale en Red 131#^4zbdqu\|Ale en Red 131#^4zbdqu]]
+nuestra **[[TEMAS/mente\|mente]]** [señala cuadrante NE] tiende al infinito, porque se apoya en NADA [NO] y TODO [LLA], y no tiene [[TEMAS/marco\|Marco]]s; no hay [[TEMAS/requisito evolutivo\|requisito evolutivo]] ninguno. [[ACER/Ale en Red 131#^4zbdqu\|Ale en Red 131#^4zbdqu]]
 
 
 
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

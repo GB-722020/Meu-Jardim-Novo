@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/paradoja/","created":"2026-01-19T17:44:35.159-03:00","updated":"2026-02-06T16:54:59.853-03:00"}
+{"dg-publish":true,"permalink":"/temas/paradoja/","created":"2026-01-19T17:44:35.159-03:00","updated":"2026-02-06T17:25:33.029-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ La palabra [[TEMAS/paradoja\|PARADOJA]], suma 69 y es justamente la capacidad de
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

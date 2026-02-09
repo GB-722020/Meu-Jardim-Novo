@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/vuelta-9/","created":"2026-02-03T14:59:18.022-03:00","updated":"2026-02-06T16:55:00.951-03:00"}
+{"dg-publish":true,"permalink":"/temas/vuelta-9/","created":"2026-02-03T14:59:18.022-03:00","updated":"2026-02-06T17:25:33.833-03:00"}
 ---
 
 
@@ -15,4 +15,4 @@ en el [[TEMAS/incremento\|incremento]] en la [[TEMAS/vuelta 9\|Vuelta 9]] , la r
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

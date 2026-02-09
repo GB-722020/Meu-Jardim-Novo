@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/si/","created":"2026-01-22T12:22:54.645-03:00","updated":"2026-02-06T16:54:59.438-03:00"}
+{"dg-publish":true,"permalink":"/temas/si/","created":"2026-01-22T12:22:54.645-03:00","updated":"2026-02-06T17:25:32.662-03:00"}
 ---
 
 
@@ -18,4 +18,4 @@ La nota SI, es recrear la [[TEMAS/intención\|intención]]. [[ACER/Ale en Red 13
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

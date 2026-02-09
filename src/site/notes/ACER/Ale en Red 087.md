@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-087/","created":"2026-01-26T15:37:15.859-03:00","updated":"2026-02-06T16:55:00.631-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-087/","created":"2026-01-26T15:37:15.859-03:00","updated":"2026-02-06T17:25:33.571-03:00"}
 ---
 
 Fecha: [[FECHAS/2023-03-22\|2023-03-22]]
@@ -119,7 +119,7 @@ Leticia: Claro, quien tenga esas herramientas para poderlo leer
 
 Alejandra: claro, porque son cosas que tienen que ver con responsabilidades de Sol y simplemente yo vendría a estar haciendo como una cuestión educativa para que nosotros nos enteremos de qué va.
 
-Leticia: claro Exactamente, identificarlo solamente. Aquí alguien pregunta ¿Cómo sabe- mos en qué escala está el [[TEMAS/conflicto\|conflicto]]? -de las escalas que mencionaste: [[TEMAS/particular\|particular]], [[clan\|clan]], [[TEMAS/especie\|especie]], [[TEMAS/entorno\|entorno]] _..._ -
+Leticia: claro Exactamente, identificarlo solamente. Aquí alguien pregunta ¿Cómo sabe- mos en qué escala está el [[TEMAS/conflicto\|conflicto]]? -de las escalas que mencionaste: [[TEMAS/particular\|particular]], [[TEMAS/clan\|clan]], [[TEMAS/especie\|especie]], [[TEMAS/entorno\|entorno]] _..._ -
 { #t41vr6}
 
 
@@ -485,4 +485,4 @@ Alejandra: Muchas gracias
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

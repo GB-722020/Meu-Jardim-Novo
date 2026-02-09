@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/lupa/","created":"2026-01-30T18:11:04.050-03:00","updated":"2026-02-06T16:55:00.691-03:00"}
+{"dg-publish":true,"permalink":"/temas/lupa/","created":"2026-01-30T18:11:04.050-03:00","updated":"2026-02-06T17:25:33.635-03:00"}
 ---
 
 
@@ -14,4 +14,4 @@ LO QUE ME DIGO, NO ES IGUAL A LO QUE DIGO. [[ACER/Ale en Red 151#^mpubi1\|Ale en
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

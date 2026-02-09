@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/temas/conflicto/","created":"2026-01-26T17:51:18.149-03:00","updated":"2026-02-06T16:55:00.153-03:00"}
+{"dg-publish":true,"permalink":"/temas/conflicto/","created":"2026-01-26T17:51:18.149-03:00","updated":"2026-02-06T17:25:33.272-03:00"}
 ---
 
 
 **Ale en Red 87**
 
-1. ¿Cómo sabemos en qué escala está el [[TEMAS/conflicto\|conflicto]]? -de las escalas que mencionaste: [[TEMAS/particular\|particular]], [[clan\|clan]], [[TEMAS/especie\|especie]], [[TEMAS/entorno\|entorno]] [[ACER/Ale en Red 087#^t41vr6\|Ale en Red 087#^t41vr6]]
+1. ¿Cómo sabemos en qué escala está el [[TEMAS/conflicto\|conflicto]]? -de las escalas que mencionaste: [[TEMAS/particular\|particular]], [[TEMAS/clan\|clan]], [[TEMAS/especie\|especie]], [[TEMAS/entorno\|entorno]] [[ACER/Ale en Red 087#^t41vr6\|Ale en Red 087#^t41vr6]]
 
 2. me estoy agrediendo continuamente - sencillamente porque no diferencio el área [[TEMAS/personal\|personal]] de la [[impersonal\|impersonal]] [[ACER/Ale en Red 087#^twa9tu\|Ale en Red 087#^twa9tu]]
 
@@ -27,4 +27,4 @@ Y todas las franjas que no tienen una [[TEMAS/estructura psicológica\|estructur
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

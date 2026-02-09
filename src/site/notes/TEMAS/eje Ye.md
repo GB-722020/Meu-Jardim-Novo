@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/eje-ye/","created":"2026-01-20T11:35:47.803-03:00","updated":"2026-02-06T16:54:59.554-03:00"}
+{"dg-publish":true,"permalink":"/temas/eje-ye/","created":"2026-01-20T11:35:47.803-03:00","updated":"2026-02-06T17:25:32.783-03:00"}
 ---
 
 
@@ -35,4 +35,4 @@ Es el [[TEMAS/ON\|ON]] que permite que el [[TEMAS/eje Ye\|Eje Ye]] se haga cargo
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

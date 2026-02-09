@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/tiempo-real/","created":"2026-01-20T12:21:24.522-03:00","updated":"2026-02-06T16:54:59.926-03:00"}
+{"dg-publish":true,"permalink":"/temas/tiempo-real/","created":"2026-01-20T12:21:24.522-03:00","updated":"2026-02-06T17:25:33.089-03:00"}
 ---
 
 
@@ -17,4 +17,4 @@ coordinar con [[TEMAS/caja de resonancia\|caja de resonancia]] ... en [[TEMAS/ti
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

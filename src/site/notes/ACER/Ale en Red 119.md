@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-119/","created":"2026-01-21T14:33:55.599-03:00","updated":"2026-02-06T16:54:59.253-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-119/","created":"2026-01-21T14:33:55.599-03:00","updated":"2026-02-06T17:25:32.485-03:00"}
 ---
 
 
@@ -43,7 +43,7 @@ sión._
 { #onmfwa}
 
 
-Así que bueno, vienen bastante abultados los contenidos que tengo que brindar en este “Ale en RED 119 ”, porque ya vemos que se sincroniza el “Ale en RED 119 ”, con todo lo que es el _[[TEMAS/toganesón\|toganesón]]_ y la tarea que le hemos dado al [[helio\|helio]] para generar el control de la variable 118 de la _[[TEMAS/tabla de elementos\|tabla de elementos]]_.
+Así que bueno, vienen bastante abultados los contenidos que tengo que brindar en este “Ale en RED 119 ”, porque ya vemos que se sincroniza el “Ale en RED 119 ”, con todo lo que es el _[[TEMAS/toganesón\|toganesón]]_ y la tarea que le hemos dado al [[TEMAS/helio\|helio]] para generar el control de la variable 118 de la _[[TEMAS/tabla de elementos\|tabla de elementos]]_.
 { #7y7jcp}
 
 
@@ -231,7 +231,7 @@ Claramente
 
 
 Por eso, lo que quiero que vean acá, que este señor que ahora está naciendo en su Día
-cero de vida, pero cuando sea mayorcito, va a presentar al [[elemento 118\|elemento 118]]. Lo que quiero
+cero de vida, pero cuando sea mayorcito, va a presentar al [[TEMAS/elemento 118\|elemento 118]]. Lo que quiero
 que vean, es de dónde saca esto ¿está?
 
 - Ahora, el Señor Tivadar. Puesto él, en su día de cumpleaños -que es el 7/4, pero en esta ocasión del 1933, sus días de vida son 1 460 ...9. Quiero que frecuencialmente recordemos que los Aparatos que cumplen con la normativa de excepción de los bisiestos -regla que empieza a formularse desde el Aparato 396- el primero que lo cumple es el Aparato 425, ¡y es el que mejor nos funciona! Después, ya vamos a hablar de eso, pero el Aparato 425 es el primero que cumple con la norma. Entonces, tiene ese Aparato **1460** días.
@@ -457,4 +457,4 @@ Entonces, cuando nos ponemos a mirar la economía -que es el flujo de las intera
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

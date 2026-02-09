@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/especie-humana/","created":"2026-01-25T17:09:10.343-03:00","updated":"2026-02-06T16:55:00.020-03:00"}
+{"dg-publish":true,"permalink":"/temas/especie-humana/","created":"2026-01-25T17:09:10.343-03:00","updated":"2026-02-06T17:25:33.173-03:00"}
 ---
 
 
@@ -16,4 +16,4 @@ la [[TEMAS/especie humana\|especie humana]] no es nativa de este [[TEMAS/sistema
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

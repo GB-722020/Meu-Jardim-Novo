@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/dia/","created":"2026-01-26T11:43:30.139-03:00","updated":"2026-02-06T16:55:00.083-03:00"}
+{"dg-publish":true,"permalink":"/temas/dia/","created":"2026-01-26T11:43:30.139-03:00","updated":"2026-02-06T17:25:33.217-03:00"}
 ---
 
 
@@ -10,4 +10,4 @@ Por eso nuestro [[TEMAS/día\|día]] se llama D-I (49) A [[ACER/Ale en Red 070#^
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

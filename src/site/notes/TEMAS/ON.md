@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/on/","created":"2026-01-30T11:24:58.308-03:00","updated":"2026-02-06T16:55:00.541-03:00"}
+{"dg-publish":true,"permalink":"/temas/on/","created":"2026-01-30T11:24:58.308-03:00","updated":"2026-02-06T17:25:33.495-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ No es [[TEMAS/ON\|ON]] la garantía, porque ON es una cobertura masiva, [[ACER/A
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/cuerpo/","created":"2026-01-23T10:47:14.439-03:00","updated":"2026-02-06T16:54:59.529-03:00"}
+{"dg-publish":true,"permalink":"/temas/cuerpo/","created":"2026-01-23T10:47:14.439-03:00","updated":"2026-02-06T17:25:32.756-03:00"}
 ---
 
 
@@ -18,4 +18,4 @@ el [[TEMAS/cuerpo\|cuerpo]] es una [[TEMAS/caja de resonancia\|caja de resonanci
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

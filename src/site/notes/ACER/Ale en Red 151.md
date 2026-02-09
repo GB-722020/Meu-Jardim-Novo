@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-151/","created":"2026-01-19T15:35:32.171-03:00","updated":"2026-02-06T16:54:59.268-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-151/","created":"2026-01-19T15:35:32.171-03:00","updated":"2026-02-09T16:55:58.430-03:00"}
 ---
 
 
@@ -176,7 +176,7 @@ O sea, no puedo ir al punto 2 si no pasé por el punto 1. Todo lo que es mejora 
 { #bq1ejw}
 
 
-Entonces, así es como han manipulado nuestro [[TEMAS/puente de hidrógeno\|PUENTE de HIDRÓGENO]]. O sea, yo trabajo para los hidrogenitos. Yo les tengo que ofertar un constructo seguro para trabajar entre [[TEMAS/materia\|materia]] y [[TEMAS/antimateria\|antimateria]], donde la identidad primaria, -[[TEMAS/desdoblamiento primario\|Desdoblamiento Primario]] y [[TEMAS/Desdoblamiento Secundario\|Desdoblamiento Secundario]] no son confundidos-. Cada uno es respetado como lo que es. No se le pide a uno lo que no tiene y no se le pide al otro lo que tampoco da. Eso es muy importante. Porque si no, es imposible. No hay dónde, no hay cómo.
+Entonces, así es como han manipulado nuestro [[TEMAS/puente de hidrógeno\|PUENTE de HIDRÓGENO]]. O sea, yo trabajo para los hidrogenitos. Yo les tengo que ofertar un constructo seguro para trabajar entre [[TEMAS/materia\|materia]] y [[TEMAS/antimateria\|antimateria]], donde la identidad primaria, -[[TEMAS/desdoblamiento primario\|Desdoblamiento Primario]] y [[TEMAS/desdoblamiento secundario\|Desdoblamiento Secundario]] no son confundidos-. Cada uno es respetado como lo que es. No se le pide a uno lo que no tiene y no se le pide al otro lo que tampoco da. Eso es muy importante. Porque si no, es imposible. No hay dónde, no hay cómo.
 { #1oxhtp}
 
 
@@ -186,7 +186,7 @@ Entonces, así es como han manipulado nuestro [[TEMAS/puente de hidrógeno\|PUEN
 { #zcqtn2}
 
 
-El orbital es 3 y el [[TEMAS/estrés\|estrés]] no implica la aceleración del algoritmo. Yo entiendo que esto se va a ir comprendiendo muy de a poco. No estoy pretendiendo que se comprenda todo de golpe, pero lo que vamos a estar haciendo de esta forma es actualizar de manera directa por [[TEMAS/Base 30\|Base 30]] , entonces nuestro funcionamiento no va a provenir de la memoria sino de la [[TEMAS/antena\|antena]].
+El orbital es 3 y el [[TEMAS/estrés\|estrés]] no implica la aceleración del algoritmo. Yo entiendo que esto se va a ir comprendiendo muy de a poco. No estoy pretendiendo que se comprenda todo de golpe, pero lo que vamos a estar haciendo de esta forma es actualizar de manera directa por [[TEMAS/base 30\|base 30]] , entonces nuestro funcionamiento no va a provenir de la memoria sino de la [[TEMAS/antena\|antena]].
 
 Entonces, voy a estar ahora -recordando- lo que acabo de decir. Son **32 columnas**.
 
@@ -265,7 +265,7 @@ ahora sí voy a ocupar el lugar del papel-on. Pero ¿se dan cuenta que no tiene 
 
 **ALEJANDRA:** ¿Ves cómo todo se sincroniza de una manera extraordinaria? Pero esa es responsabilidad de la escala subatómica. Después aparece como un desarrollo extra- ordinario porque es magnificado por el Campo Unificado.
 
-Por ejemplo, el algoritmo de [[TEMAS/Mendeléiev\|Mendeléiev]], ¿cómo terminamos el año? **70. 088**.
+Por ejemplo, el algoritmo de [[TEMAS/Mendeléyev\|Mendeléyev]], ¿cómo terminamos el año? **70. 088**.
 
 Hoy estamos a 739.61 9 – 669. 530 = **70.**
 
@@ -466,4 +466,4 @@ _- 7029 palabras-_
 
 
 --- 
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

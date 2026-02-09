@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/defecto/","created":"2026-01-23T11:57:07.021-03:00","updated":"2026-02-06T16:54:59.540-03:00"}
+{"dg-publish":true,"permalink":"/temas/defecto/","created":"2026-01-23T11:57:07.021-03:00","updated":"2026-02-06T17:25:32.770-03:00"}
 ---
 
 
@@ -18,4 +18,4 @@ Vamos a [[TEMAS/lupa\|lupa]]r porque cuando ya que no tenemos conflicto con el [
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

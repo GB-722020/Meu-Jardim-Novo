@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/reactivos/","created":"2026-01-20T17:11:09.261-03:00","updated":"2026-02-06T16:54:59.889-03:00"}
+{"dg-publish":true,"permalink":"/temas/reactivos/","created":"2026-01-20T17:11:09.261-03:00","updated":"2026-02-06T17:25:33.069-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

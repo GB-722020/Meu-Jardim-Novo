@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/vuelta-12/","created":"2026-01-24T10:37:16.301-03:00","updated":"2026-02-06T16:54:59.949-03:00"}
+{"dg-publish":true,"permalink":"/temas/vuelta-12/","created":"2026-01-24T10:37:16.301-03:00","updated":"2026-02-06T17:25:33.117-03:00"}
 ---
 
 
@@ -10,4 +10,4 @@ en [[TEMAS/vuelta 12\|vuelta 12]] la lógica tiene que ser la del [[TEMAS/contex
 Por eso, las segundas 11 vueltas, ponen a prueba a mis primeras 11 [[ACER/Ale en Red 070#^11yb23\|Ale en Red 070#^11yb23]]
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

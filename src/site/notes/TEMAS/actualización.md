@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/actualizacion/","created":"2026-01-26T12:47:33.951-03:00","updated":"2026-02-06T16:55:00.121-03:00"}
+{"dg-publish":true,"permalink":"/temas/actualizacion/","created":"2026-01-26T12:47:33.951-03:00","updated":"2026-02-06T17:25:33.236-03:00"}
 ---
 
 
@@ -20,4 +20,4 @@ SILENCIO es 88. Bueno, “protocolo de caos y control”, se ejecuta... esa [[TE
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

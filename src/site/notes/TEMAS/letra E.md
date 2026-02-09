@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/letra-e/","created":"2026-01-30T11:29:03.449-03:00","updated":"2026-02-06T16:55:00.548-03:00"}
+{"dg-publish":true,"permalink":"/temas/letra-e/","created":"2026-01-30T11:29:03.449-03:00","updated":"2026-02-06T17:25:33.497-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ La E es la letra 5, y tiene justamente marcadas estas tres escalas, pero que est
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

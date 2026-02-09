@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/energia/","created":"2026-01-22T17:33:52.153-03:00","updated":"2026-02-06T16:54:59.561-03:00"}
+{"dg-publish":true,"permalink":"/temas/energia/","created":"2026-01-22T17:33:52.153-03:00","updated":"2026-02-06T17:25:32.788-03:00"}
 ---
 
 
@@ -18,4 +18,4 @@ Ahí la identidad es netamente de la [[TEMAS/escala subatómica\|escala subatóm
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

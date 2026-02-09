@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/aparatos-gemelos/","created":"2026-01-30T17:43:07.340-03:00","updated":"2026-02-06T16:55:00.673-03:00"}
+{"dg-publish":true,"permalink":"/temas/aparatos-gemelos/","created":"2026-01-30T17:43:07.340-03:00","updated":"2026-02-06T17:25:33.616-03:00"}
 ---
 
 
@@ -10,4 +10,4 @@ Así que cuando digo que son “[[TEMAS/aparatos gemelos\|aparatos gemelos]]”,
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

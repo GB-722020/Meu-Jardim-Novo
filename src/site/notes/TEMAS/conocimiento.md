@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/conocimiento/","created":"2026-01-22T11:12:29.801-03:00","updated":"2026-02-06T16:54:59.509-03:00"}
+{"dg-publish":true,"permalink":"/temas/conocimiento/","created":"2026-01-22T11:12:29.801-03:00","updated":"2026-02-06T17:25:32.737-03:00"}
 ---
 
 
@@ -26,4 +26,4 @@ Necesitamos progresar esto a una situación donde parte de nuestra [[TEMAS/anato
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

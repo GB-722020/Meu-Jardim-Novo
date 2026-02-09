@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/evento-28/","created":"2026-01-20T17:00:06.366-03:00","updated":"2026-02-06T16:54:59.750-03:00"}
+{"dg-publish":true,"permalink":"/temas/evento-28/","created":"2026-01-20T17:00:06.366-03:00","updated":"2026-02-06T17:25:32.834-03:00"}
 ---
 
 
@@ -13,4 +13,4 @@
 los 3760 años arriba de nuestro año Calendario [[ACER/Ale en Red 123#^idguba\|Ale en Red 123#^idguba]]
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

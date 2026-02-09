@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/espacio/","created":"2026-01-26T12:19:34.705-03:00","updated":"2026-02-06T16:55:00.089-03:00"}
+{"dg-publish":true,"permalink":"/temas/espacio/","created":"2026-01-26T12:19:34.705-03:00","updated":"2026-02-06T17:25:33.220-03:00"}
 ---
 
 
@@ -16,4 +16,4 @@ La definición de **[[TEMAS/espacio\|espacio]]** , es lo galáctico; pero cuan
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

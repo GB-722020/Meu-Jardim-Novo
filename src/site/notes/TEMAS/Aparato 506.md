@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/aparato-506/","created":"2026-01-30T11:15:29.440-03:00","updated":"2026-02-06T16:55:00.518-03:00"}
+{"dg-publish":true,"permalink":"/temas/aparato-506/","created":"2026-01-30T11:15:29.440-03:00","updated":"2026-02-06T17:25:33.481-03:00"}
 ---
 
 
@@ -10,4 +10,4 @@ El [[TEMAS/Aparato 506\|Aparato 506]], es justamente: el Sol (0) va a interferir
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

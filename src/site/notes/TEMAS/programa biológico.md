@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/programa-biologico/","created":"2026-01-28T16:33:59.412-03:00","updated":"2026-02-06T16:55:00.385-03:00"}
+{"dg-publish":true,"permalink":"/temas/programa-biologico/","created":"2026-01-28T16:33:59.412-03:00","updated":"2026-02-06T17:25:33.405-03:00"}
 ---
 
 
@@ -12,4 +12,4 @@ es un [[TEMAS/programa biológico\|programa biológico]]”, es la lectura de la
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

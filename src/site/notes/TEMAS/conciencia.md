@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/conciencia/","created":"2026-01-23T10:38:44.210-03:00","updated":"2026-02-06T16:54:59.508-03:00"}
+{"dg-publish":true,"permalink":"/temas/conciencia/","created":"2026-01-23T10:38:44.210-03:00","updated":"2026-02-06T17:25:32.736-03:00"}
 ---
 
 
@@ -24,4 +24,4 @@ Las conciencias subjetivas son [[TEMAS/inmaterial\|inmaterial]]es, las objetivas
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

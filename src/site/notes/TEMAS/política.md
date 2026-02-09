@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/politica/","created":"2026-01-27T12:32:23.895-03:00","updated":"2026-02-06T16:55:00.272-03:00"}
+{"dg-publish":true,"permalink":"/temas/politica/","created":"2026-01-27T12:32:23.895-03:00","updated":"2026-02-06T17:25:33.329-03:00"}
 ---
 
 
@@ -12,4 +12,4 @@ los políticos tienen que reflejar a la [[TEMAS/conciencia social\|conciencia so
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

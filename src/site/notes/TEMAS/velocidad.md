@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/temas/velocidad/","created":"2026-02-04T14:52:57.626-03:00","updated":"2026-02-06T16:55:01.176-03:00"}
+{"dg-publish":true,"permalink":"/temas/velocidad/","created":"2026-02-04T14:52:57.626-03:00","updated":"2026-02-06T17:25:33.997-03:00"}
 ---
 
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-116/","created":"2026-01-22T09:19:42.390-03:00","updated":"2026-02-06T16:54:59.248-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-116/","created":"2026-01-22T09:19:42.390-03:00","updated":"2026-02-08T10:40:14.956-03:00"}
 ---
 
 
-# Alejandra Casado EN RED 11 6 - 25 DE JUNIO 2024
+# Alejandra Casado EN RED 116 - 25 DE JUNIO 2024
 
 
 Fecha: [[FECHAS/2024-06-25\|2024-06-25]]
@@ -84,8 +84,8 @@ ciemos la Vuelta 15 , vamos a estar en el **lógica/ lógica** , que es el **[[T
 
 - Voy a señalar una cosita acá: ahí he puesto 11/8 que es la fecha que se relaciona el **día 224** , y es la fecha relativa a **contexto/contexto, Vuelta 14**. Es cuando puedo captar al otro que está activo en mi percepción, o sea, [[TEMAS/vuelta 14\|vuelta 14]] es “la Vuelta 3 del otro”.
 - O sea, el 11 / 8 estoy sintonizando contexto/contexto- Vuelta 14. Ahora, fíjense esto:
-- 118 [[elemento 118\|elemento 118]] [[TEMAS/oganesón\|oganesón]] , es la referencia que dio el estímulo [118-Og] para darle al Toganesón [119-1] la tarea de poder crear un marco, para todo este contenido desbordado que estamos teniendo en nuestra realidad ¿Por qué está desbordado el contenido? Porque lógicamente, el código que está empleando Sol, no es un código creado nativamente por Sol, sino que es como diciendo “ _es la función cósmica”,_ es lo que describí primero.
-- Nuestro Sol está siendo estimulado para que en su futuro capitalice estos estímulos, empiece a formular lenguaje de [[TEMAS/marcos\|marcos]] y se una a la expansión del universo; entonces, como todas las oportunidades se sacan de los riesgos - y si no hay riesgos tampoco hay oportunidades-, todo ese riesgo de explosión que nosotros vimos y advertimos -creo que fue desde la Vuelta 10 - y lo manifestamos cuando inició Vuelta 11 , cuando se veía una onda expansiva de lo que fue la explosión de la [[TEMAS/supernova 1987\|supernova 1987]] A^1.
+- 118 [[TEMAS/elemento 118\|elemento 118]] [[TEMAS/oganesón\|oganesón]] , es la referencia que dio el estímulo [118-Og] para darle al Toganesón [119-1] la tarea de poder crear un marco, para todo este contenido desbordado que estamos teniendo en nuestra realidad ¿Por qué está desbordado el contenido? Porque lógicamente, el código que está empleando Sol, no es un código creado nativamente por Sol, sino que es como diciendo “ _es la función cósmica”,_ es lo que describí primero.
+- Nuestro Sol está siendo estimulado para que en su futuro capitalice estos estímulos, empiece a formular lenguaje de [[TEMAS/marco\|marco]]s y se una a la expansión del universo; entonces, como todas las oportunidades se sacan de los riesgos - y si no hay riesgos tampoco hay oportunidades-, todo ese riesgo de explosión que nosotros vimos y advertimos -creo que fue desde la Vuelta 10 - y lo manifestamos cuando inició Vuelta 11 , cuando se veía una onda expansiva de lo que fue la explosión de la [[TEMAS/supernova 1987\|supernova 1987]] A^1.
 { #pabp7f}
 
 - Bueno, se ve que eso hizo un estímulo -y ya les voy a contar lo que pasó con eso-
@@ -483,4 +483,4 @@ Gracias._
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

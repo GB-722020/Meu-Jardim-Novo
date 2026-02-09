@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/dios/","created":"2026-01-30T15:08:35.462-03:00","updated":"2026-02-06T16:55:00.601-03:00"}
+{"dg-publish":true,"permalink":"/temas/dios/","created":"2026-01-30T15:08:35.462-03:00","updated":"2026-02-06T17:25:33.536-03:00"}
 ---
 
 
@@ -12,4 +12,4 @@ vamos a asumir cosas que están fuera del [[TEMAS/alcance\|alcance]] de Dios -qu
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

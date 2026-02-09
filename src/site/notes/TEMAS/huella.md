@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/temas/huella/","created":"2026-01-21T19:07:32.283-03:00","updated":"2026-02-06T16:54:59.773-03:00"}
+{"dg-publish":true,"permalink":"/temas/huella/","created":"2026-01-21T19:07:32.283-03:00","updated":"2026-02-06T17:25:32.869-03:00"}
 ---
 
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

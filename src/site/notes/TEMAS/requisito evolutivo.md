@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/requisito-evolutivo/","created":"2026-01-30T11:37:26.772-03:00","updated":"2026-02-06T16:55:00.556-03:00"}
+{"dg-publish":true,"permalink":"/temas/requisito-evolutivo/","created":"2026-01-30T11:37:26.772-03:00","updated":"2026-02-06T17:25:33.516-03:00"}
 ---
 
 
@@ -9,4 +9,4 @@ El [[TEMAS/requisito evolutivo\|requisito evolutivo]] viene de aquí (señala el
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

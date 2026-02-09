@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/temas/mineral/","created":"2026-02-04T14:38:52.179-03:00","updated":"2026-02-06T16:55:01.158-03:00"}
+{"dg-publish":true,"permalink":"/temas/mineral/","created":"2026-02-04T14:38:52.179-03:00","updated":"2026-02-06T17:25:33.987-03:00"}
 ---
 
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

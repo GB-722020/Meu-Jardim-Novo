@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/falla/","created":"2026-01-26T11:42:38.492-03:00","updated":"2026-02-06T16:55:00.074-03:00"}
+{"dg-publish":true,"permalink":"/temas/falla/","created":"2026-01-26T11:42:38.492-03:00","updated":"2026-02-06T17:25:33.216-03:00"}
 ---
 
 
@@ -20,4 +20,4 @@
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

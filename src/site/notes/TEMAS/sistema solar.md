@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/sistema-solar/","created":"2026-01-23T11:50:36.387-03:00","updated":"2026-02-06T16:54:59.903-03:00"}
+{"dg-publish":true,"permalink":"/temas/sistema-solar/","created":"2026-01-23T11:50:36.387-03:00","updated":"2026-02-06T17:25:33.082-03:00"}
 ---
 
 
@@ -17,4 +17,4 @@ Desde nuestra perspectiva como Sistema Solar ¿Qué es lo que necesitamos increm
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

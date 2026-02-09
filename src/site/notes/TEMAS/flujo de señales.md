@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/flujo-de-senales/","created":"2026-01-22T08:57:53.184-03:00","updated":"2026-02-06T16:54:59.759-03:00"}
+{"dg-publish":true,"permalink":"/temas/flujo-de-senales/","created":"2026-01-22T08:57:53.184-03:00","updated":"2026-02-06T17:25:32.853-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ Cuando rechazo a otro, es la exteriorización del [[TEMAS/auto rechazo\|auto rec
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

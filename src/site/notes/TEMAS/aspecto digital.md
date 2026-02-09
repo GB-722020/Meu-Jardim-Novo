@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/aspecto-digital/","created":"2026-01-23T10:59:00.509-03:00","updated":"2026-02-06T16:54:59.480-03:00"}
+{"dg-publish":true,"permalink":"/temas/aspecto-digital/","created":"2026-01-23T10:59:00.509-03:00","updated":"2026-02-06T17:25:32.707-03:00"}
 ---
 
 
@@ -8,4 +8,4 @@
 desequilibrio entre el aspecto digital y el [[aspecto analógico\|aspecto analógico]]** [[ACER/Ale en Red 002#^9sn27i\|Ale en Red 002#^9sn27i]]
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

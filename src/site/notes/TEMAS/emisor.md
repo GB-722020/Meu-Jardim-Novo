@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/emisor/","created":"2026-01-29T11:19:49.648-03:00","updated":"2026-02-06T16:55:00.452-03:00"}
+{"dg-publish":true,"permalink":"/temas/emisor/","created":"2026-01-29T11:19:49.648-03:00","updated":"2026-02-06T17:25:33.436-03:00"}
 ---
 
 
@@ -12,4 +12,4 @@ el [[TEMAS/emisor\|emisor]] desde afuera de la caja, al [[TEMAS/receptor\|recept
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

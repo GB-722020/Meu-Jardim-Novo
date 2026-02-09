@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/retraccion/","created":"2026-01-27T12:41:44.802-03:00","updated":"2026-02-06T16:55:00.289-03:00"}
+{"dg-publish":true,"permalink":"/temas/retraccion/","created":"2026-01-27T12:41:44.802-03:00","updated":"2026-02-06T17:25:33.337-03:00"}
 ---
 
 
@@ -11,4 +11,4 @@ la gran [[TEMAS/retracción\|retracción]], es que nosotros nos demos cuenta de 
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

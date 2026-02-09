@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/antena/","created":"2026-01-21T17:32:24.055-03:00","updated":"2026-02-06T16:54:59.457-03:00"}
+{"dg-publish":true,"permalink":"/temas/antena/","created":"2026-01-21T17:32:24.055-03:00","updated":"2026-02-07T15:58:16.604-03:00"}
 ---
 
 
@@ -13,6 +13,11 @@ Somos una [[TEMAS/antena\|antena]]. LA [[TEMAS/mente\|mente]] NO ESTÁ ESCRITA [
 
 El [[TEMAS/sonar\|sonar]] es el efecto de la [[TEMAS/antena\|antena]] en su [[TEMAS/interactividad\|interactividad]] [[ACER/Ale en Red 070#^pgjml6\|Ale en Red 070#^pgjml6]]
 
+
+
+**Ale en Red 106**
+
+**¿Qué hace la [[TEMAS/antena\|antena]]?** La antena capta la [[TEMAS/fuente externa\|fuente externa]], la ingresa y la escribe en la [[TEMAS/fuente interna\|fuente interna]]. [[ACER/Ale en Red 106#^ozaljx\|Ale en Red 106#^ozaljx]]
 
 
 
@@ -38,4 +43,4 @@ Pero este es funcionamiento de [[TEMAS/antena\|antena]], o sea, usa la [[TEMAS/m
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*
