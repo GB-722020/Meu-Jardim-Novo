@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/no-propio/","created":"2026-02-03T10:45:23.112-03:00","updated":"2026-02-06T16:55:00.808-03:00"}
+{"dg-publish":true,"permalink":"/temas/no-propio/","created":"2026-02-03T10:45:23.112-03:00","updated":"2026-02-06T17:25:33.765-03:00"}
 ---
 
 
@@ -10,4 +10,4 @@ Si estoy lupando, no estoy culpando. Y tampoco me estoy haciendo cargo de lo [[T
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

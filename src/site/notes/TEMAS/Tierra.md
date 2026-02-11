@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/tierra/","created":"2026-01-23T10:34:55.626-03:00","updated":"2026-02-09T11:38:23.817-03:00"}
+{"dg-publish":true,"permalink":"/temas/tierra/","created":"2026-01-23T10:34:55.626-03:00","updated":"2026-02-10T17:55:28.131-03:00"}
 ---
 
 
@@ -19,6 +19,12 @@
 6. sí yo hago un backup de la [[TEMAS/comprensión\|comprensión]], ¡ella me backupea a mí! [[ACER/Ale en Red 002#^wk3r5a\|Ale en Red 002#^wk3r5a]]
 
 7. LA TIERRA NO TIENE PLANES. LA TIERRA ES EL [[plan\|plan]] [[ACER/Ale en Red 002#^hrq6nz\|Ale en Red 002#^hrq6nz]]
+
+
+
+**Ale en Red 11**
+
+¿la [[TEMAS/Tierra\|Tierra]] tiene un [[TEMAS/tumi\|TUMI]]? [[ACER/Ale en Red 011#^oybtme\|Ale en Red 011#^oybtme]]
 
 
 

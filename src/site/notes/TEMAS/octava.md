@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/octava/","created":"2026-01-22T08:59:47.668-03:00","updated":"2026-02-06T16:54:59.838-03:00"}
+{"dg-publish":true,"permalink":"/temas/octava/","created":"2026-01-22T08:59:47.668-03:00","updated":"2026-02-08T10:04:50.806-03:00"}
 ---
 
 
@@ -14,6 +14,11 @@ cada vez que nosotros nos equivocamos, estamos haciendo las cosas BIEN -en deter
 qué es una [[TEMAS/octava\|octava]]? [[ACER/Ale en Red 055#^e0nki5\|Ale en Red 055#^e0nki5]]
 
 [[TEMAS/octava\|octava]] acostada [[ACER/Ale en Red 055#^o9u28p\|Ale en Red 055#^o9u28p]]
+
+
+**Ale en Red 106**
+
+así como los latinoamericanos tienen que hacer exactamente lo complementario -dedicarse a construir una [[TEMAS/octava\|octava]]- porque ese es el punto acá. [[ACER/Ale en Red 106#^fsbhuf\|Ale en Red 106#^fsbhuf]]
 
 
 
@@ -32,4 +37,4 @@ acuérdense que la [[TEMAS/octava\|OCTAVA]] tiene el lugar del [[TEMAS/observado
 
 
 ---
-*volver al [[index\|index]]*
+*volver al [[0/índice\|índice]]*

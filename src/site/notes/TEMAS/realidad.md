@@ -1,6 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/temas/realidad/","created":"2026-01-25T17:07:22.416-03:00","updated":"2026-02-09T16:25:40.740-03:00"}
+{"dg-publish":true,"permalink":"/temas/realidad/","created":"2026-01-25T17:07:22.416-03:00","updated":"2026-02-10T18:21:03.851-03:00"}
 ---
+
+
+
+**Ale en Red 11**
+
+LA REALIDAD necesita actores también, que le presten atención y una atención que sea [[TEMAS/libre\|libre]]. No, no, no “ _yo voy a atender a LA REALIDAD, si a mí me pagan acá, tanto”_ “ _si me suben el sueldo, la atiendo más, si no, me lo suben_ ...” [[ACER/Ale en Red 011#^sxxw5z\|Ale en Red 011#^sxxw5z]]
+
+Entonces, no es solamente qué me interesa a mí de LA REALIDAD! ¡Sino qué le interesa a LA REALIDAD de mí! [[ACER/Ale en Red 011#^ts2bjj\|Ale en Red 011#^ts2bjj]]
 
 
 **Ale en Red 70**

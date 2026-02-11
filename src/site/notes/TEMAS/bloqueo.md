@@ -1,6 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/temas/bloqueo/","created":"2026-02-08T16:56:53.744-03:00","updated":"2026-02-08T16:59:05.389-03:00"}
+{"dg-publish":true,"permalink":"/temas/bloqueo/","created":"2026-02-08T16:56:53.744-03:00","updated":"2026-02-11T09:15:54.301-03:00"}
 ---
+
+
+
+**Ale en Red 11**
+
+Pero la psiquis humana -la que la que abre la antena- la puede cerrar con estas cosas, con estos desbalances la cierra y la bloquea. Porque si nosotros podemos mejorar nuestra vida, podemos mejorar nuestro hábitat, es que también lo podemos bloquear. Entonces, atentos a qué es lo que lo bloquea, porque son conexiones muy finas, son conexiones psíquicas algorítmicas a niveles supechiquitos. [[ACER/Ale en Red 011#^kypw38\|Ale en Red 011#^kypw38]]
 
 
 **Ale en Red 106**

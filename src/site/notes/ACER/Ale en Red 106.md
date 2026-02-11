@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-106/","created":"2026-02-06T14:38:04.260-03:00","updated":"2026-02-09T17:05:31.293-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-106/","created":"2026-02-06T14:38:04.260-03:00","updated":"2026-02-09T17:11:47.285-03:00"}
 ---
 
 
@@ -271,7 +271,7 @@ Yo no me recuerdo Leti si acá hablamos del **Toganesón**
 **ALEJANDRA** : Bueno, le puedo presentar a la audiencia el [[TEMAS/toganesón\|Toganesón]]. Lo que sí puedo decir es que este formateo de la **_[[TEMAS/tabla de elementos\|Tabla de Elementos]]_** donde coloco esa _burbuja rosada_ 1,2,3,4,5,6... hasta el 30 ,
 
 - Esas 30 burbujas rosadas **son instancias de administración**
-    **del Código Solar** [[TEMAS/30 pasos de promesa\|30 pasos de promesa]]
+    **del Código Solar** [[TEMAS/30 pasos del Toganesón\|30 pasos del Toganesón]]
 { #8usrph}
 
 - y les he colocado desde el 119, para prolongar al último elemento de la Tabla - el 118, el Oganesón- que está ahí debajo

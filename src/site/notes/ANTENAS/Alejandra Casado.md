@@ -23,7 +23,7 @@ Alejandra no pudo entrar a la universidad porque, evidentemente, le colapsaban c
 
 **Ale en Red 131**
 
-1. Pero Alejandra es perfectamente consciente que [[TEMAS/Darío\|Darío]] es el [[TEMAS/arquitecto\|arquitecto]] de la persona/Alejandra ¡y yo no tengo conflicto con eso! [[ACER/Ale en Red 131#^r8v5ff\|Ale en Red 131#^r8v5ff]]
+1. Pero Alejandra es perfectamente consciente que [[ANTENAS/Darío\|Darío]] es el [[TEMAS/arquitecto\|arquitecto]] de la persona/Alejandra ¡y yo no tengo conflicto con eso! [[ACER/Ale en Red 131#^r8v5ff\|Ale en Red 131#^r8v5ff]]
 
 2. Por eso tengo que atar muy lento, muy lento, muy lento, porque el [[TEMAS/instinto\|instinto]] me va a fallar, porque no estoy operando según las memorias del [[TEMAS/contenedor\|contenedor]]. [[ACER/Ale en Red 131#^8wgf69\|Ale en Red 131#^8wgf69]]
 
