@@ -1,6 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/temas/psiquismo/","created":"2026-01-24T10:12:31.091-03:00","updated":"2026-02-06T17:25:33.065-03:00"}
+{"dg-publish":true,"permalink":"/temas/psiquismo/","created":"2026-01-24T10:12:31.091-03:00","updated":"2026-02-11T15:28:36.837-03:00"}
 ---
+
+
+
+**Ale en Red 30**
+
+Todo el [[TEMAS/psiquismo\|psiquismo]] se da vuelta y empieza a funcionar exactamente al revés, brindado la [[TEMAS/estabilidad\|estabilidad]]. [[ACER/Ale en Red 030#^0liqm9\|Ale en Red 030#^0liqm9]]
 
 
 **Ale en Red 55**

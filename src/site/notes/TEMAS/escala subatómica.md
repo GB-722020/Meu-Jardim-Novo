@@ -1,6 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/temas/escala-subatomica/","created":"2026-01-20T18:53:57.420-03:00","updated":"2026-02-06T17:25:32.819-03:00"}
+{"dg-publish":true,"permalink":"/temas/escala-subatomica/","created":"2026-01-20T18:53:57.420-03:00","updated":"2026-02-13T17:27:58.556-03:00"}
 ---
+
+
+
+**Ale en Red 30**
+
+A la [[TEMAS/ciencia\|ciencia]] no le gusta lo [[TEMAS/subjetivo\|subjetivo]] y nosotros tratamos al mundo subatómico como [[TEMAS/objetivo\|objetivo]]; respetamos la [[TEMAS/escala subatómica\|escala subatómica]] y como es subatómico, tú lo ves a través; es como ver el [[TEMAS/futuro\|futuro]] de las cosas ya transformadas. [[ACER/Ale en Red 030#^md7gtl\|Ale en Red 030#^md7gtl]]
+
 
 
 **Ale en Red 123**

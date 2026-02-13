@@ -1,6 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/temas/error/","created":"2026-01-23T12:41:34.124-03:00","updated":"2026-02-09T11:32:50.410-03:00"}
+{"dg-publish":true,"permalink":"/temas/error/","created":"2026-01-23T12:41:34.124-03:00","updated":"2026-02-11T16:17:11.267-03:00"}
 ---
+
+
+
+**Ale en Red 30**
+
+Si no le hacemos [[TEMAS/restricción\|restricción]] al error en este punto exactamente y precisamente, se convierte en aberración. Entonces, sin llegar a aberración, el error en un margen que nos permita el discernimiento, el aumento de la [[TEMAS/intuición\|intuición]] para que se profundice la instancia de reflexión y esto **desacelera la [[TEMAS/velocidad\|velocidad]]** ; esto de que los días pasan tan rápido...[[ACER/Ale en Red 030#^lcicmk\|Ale en Red 030#^lcicmk]]
+
+Si mi [[TEMAS/error\|error]] no me habilita el [[TEMAS/futuro\|futuro]], me está consumiendo, yo no lo estoy consumiendo, me está consumiendo a mí; pero si me pongo a consumir mi error, mi [[TEMAS/margen de error\|margen de error]] ¿se achica o se agranda? Se achica, pero se agranda la base que te permite contemplarlo. La migración de [[TEMAS/octava\|octava]], se va dando. [[ACER/Ale en Red 030#^rq84bx\|Ale en Red 030#^rq84bx]]
+
+Si no me aprovecho de mi error, mi error se aprovecha de mí, y por supervivencia, la migración se irá dando. [[ACER/Ale en Red 030#^ufuprv\|Ale en Red 030#^ufuprv]]
 
 
 **Ale en Red 55**

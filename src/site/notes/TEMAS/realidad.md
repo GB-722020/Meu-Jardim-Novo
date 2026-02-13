@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/realidad/","created":"2026-01-25T17:07:22.416-03:00","updated":"2026-02-10T18:21:03.851-03:00"}
+{"dg-publish":true,"permalink":"/temas/realidad/","created":"2026-01-25T17:07:22.416-03:00","updated":"2026-02-11T15:25:52.186-03:00"}
 ---
 
 
@@ -9,6 +9,14 @@
 LA REALIDAD necesita actores también, que le presten atención y una atención que sea [[TEMAS/libre\|libre]]. No, no, no “ _yo voy a atender a LA REALIDAD, si a mí me pagan acá, tanto”_ “ _si me suben el sueldo, la atiendo más, si no, me lo suben_ ...” [[ACER/Ale en Red 011#^sxxw5z\|Ale en Red 011#^sxxw5z]]
 
 Entonces, no es solamente qué me interesa a mí de LA REALIDAD! ¡Sino qué le interesa a LA REALIDAD de mí! [[ACER/Ale en Red 011#^ts2bjj\|Ale en Red 011#^ts2bjj]]
+
+
+**Ale en Red 30**
+
+si estoy en una relación psíquica con la [[TEMAS/realidad\|Realidad]] donde me anticipa sus movimientos, en el mientras tanto llega, me voy preparando y para cuando llegó, estoy listo y empiezo a desarrollar junto con la Realidad.  [[ACER/Ale en Red 030#^j8gs85\|Ale en Red 030#^j8gs85]]
+
+Y eso se hace con [[TEMAS/anticipación\|anticipación]] porque la [[TEMAS/realidad\|Realidad]] tiene una [[TEMAS/velocidad\|velocidad]] distinta de la nuestra; entonces, la captamos antes y nos preparamos y ahí compensamos nuestro desfasaje de velocidad. [[ACER/Ale en Red 030#^iyvv6a\|Ale en Red 030#^iyvv6a]]
+
 
 
 **Ale en Red 70**

@@ -1,6 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/temas/broca/","created":"2026-01-26T17:48:25.213-03:00","updated":"2026-02-06T17:25:33.269-03:00"}
+{"dg-publish":true,"permalink":"/temas/broca/","created":"2026-01-26T17:48:25.213-03:00","updated":"2026-02-11T16:07:47.950-03:00"}
 ---
+
+
+
+**Ale en Red 30**
+
+Broca son las frases que ya están construidas y tengo en la cabeza y se me disparan como una reacción. [[ACER/Ale en Red 030#^ivtx8g\|Ale en Red 030#^ivtx8g]]
+
+Si bajo a Wernicke, tengo [[TEMAS/autorrechazo\|autorrechazo]], y si subo a Broca, tengo [[TEMAS/estabilidad\|estabilidad]], ¿dónde me voy a quedar? [[ACER/Ale en Red 030#^zjgx58\|Ale en Red 030#^zjgx58]]
+
 
 
 **Ale en Red 87**

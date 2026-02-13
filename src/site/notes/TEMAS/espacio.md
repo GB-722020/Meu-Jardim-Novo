@@ -1,6 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/temas/espacio/","created":"2026-01-26T12:19:34.705-03:00","updated":"2026-02-06T17:25:33.220-03:00"}
+{"dg-publish":true,"permalink":"/temas/espacio/","created":"2026-01-26T12:19:34.705-03:00","updated":"2026-02-11T15:24:03.181-03:00"}
 ---
+
+
+**Ale en Red 30**
+
+Pero la contención de la Realidad es cuando yo le di [[TEMAS/espacio\|espacio]] a la [[TEMAS/realidad\|Realidad]]; le di espacio, y la Realidad me contiene; si no le doy espacio a la Realidad porque sigo enfrascado en mi fantasía, no puedo esperar que la Realidad después me contenga... [[ACER/Ale en Red 030#^67ikme\|Ale en Red 030#^67ikme]]
+
 
 
 **Ale en Red 87**

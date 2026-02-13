@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-151/","created":"2026-01-19T15:35:32.171-03:00","updated":"2026-02-09T16:55:58.430-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-151/","created":"2026-01-19T15:35:32.171-03:00","updated":"2026-02-11T16:07:47.931-03:00"}
 ---
 
 
@@ -54,7 +54,7 @@ Vamos a ver en cada FALLA un tesoro y una oportunidad. Obviamente, si la [[TEMAS
 { #d8z7nn}
 
 
-Cuando rechazo a otro, es la exteriorización del [[TEMAS/auto rechazo\|auto rechazo]] de haber fallado en el [[TEMAS/flujo de señales\|Flujo De Señales]], pero esa falla es imperceptible para poderla rutear en la escala social.
+Cuando rechazo a otro, es la exteriorización del [[TEMAS/autorrechazo\|autorrechazo]] de haber fallado en el [[TEMAS/flujo de señales\|Flujo De Señales]], pero esa falla es imperceptible para poderla rutear en la escala social.
 { #cjgx4m}
 
 

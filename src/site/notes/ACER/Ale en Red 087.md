@@ -224,7 +224,7 @@ Alejandra: ¡También! Porque ya sabemos que cuando alguien está en un conflict
 { #ktniub}
 
 
-O sea, no puedo estar en zona caliente ¿por qué? Porque tengo que ingresar data objetiva, no subjetiva -esto tiene que ver con el aprendizaje-. Si alguien tiene un problema [[TEMAS/emocional\|emocional]], tiene problemas con el aprendizaje, porque el mundo [[subjetivo\|subjetivo]] llena el [[TEMAS/espacio\|espacio]], el único espacio que hay, está lleno de lo subjetivo entonces no hay espacio para lo objetivo, por lo tanto, hay problema con el aprendizaje; porque la vida afectiva es como que llena todo el espacio. Quiero decir, hay un conflicto en el [[TEMAS/orbital 2\|orbital 2]], entonces hay una fuga tan grande de recursos, que el [[TEMAS/orbital 3\|orbital 3]] -que es dónde ocurre el [[TEMAS/aprendizaje\|aprendizaje]]- no se puede dar, porque en el 2 hay una fuga.
+O sea, no puedo estar en zona caliente ¿por qué? Porque tengo que ingresar data objetiva, no subjetiva -esto tiene que ver con el aprendizaje-. Si alguien tiene un problema [[TEMAS/emocional\|emocional]], tiene problemas con el aprendizaje, porque el mundo [[TEMAS/subjetivo\|subjetivo]] llena el [[TEMAS/espacio\|espacio]], el único espacio que hay, está lleno de lo subjetivo entonces no hay espacio para lo objetivo, por lo tanto, hay problema con el aprendizaje; porque la vida afectiva es como que llena todo el espacio. Quiero decir, hay un conflicto en el [[TEMAS/orbital 2\|orbital 2]], entonces hay una fuga tan grande de recursos, que el [[TEMAS/orbital 3\|orbital 3]] -que es dónde ocurre el [[TEMAS/aprendizaje\|aprendizaje]]- no se puede dar, porque en el 2 hay una fuga.
 { #fi9cww}
 
 

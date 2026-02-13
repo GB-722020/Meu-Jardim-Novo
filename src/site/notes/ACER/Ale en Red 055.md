@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-055/","created":"2026-01-23T15:59:16.728-03:00","updated":"2026-02-06T17:25:33.563-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-055/","created":"2026-01-23T15:59:16.728-03:00","updated":"2026-02-11T09:41:42.361-03:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 
 Fecha: [[FECHAS/2021-10-22\|2021-10-22]]
 
-Link: https://youtu.be/rLqlRphkWDI**
+Link: https://youtu.be/rLqlRphkWDI
 
 [[COLABORADORES/Leticia Candelaria\|Leticia Candelaria]] [@leticiacandelariasaucedo8808](https://youtube.com/@leticiacandelariasaucedo8808?si=h_Z63_Gaz4sEkkUQ)
 

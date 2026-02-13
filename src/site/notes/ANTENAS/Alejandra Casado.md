@@ -1,7 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/antenas/alejandra-casado/","created":"2026-01-20T17:21:13.577-03:00","updated":"2026-02-09T11:49:40.677-03:00"}
+{"dg-publish":true,"permalink":"/antenas/alejandra-casado/","created":"2026-01-20T17:21:13.577-03:00","updated":"2026-02-11T15:20:57.625-03:00"}
 ---
 
+
+
+**Ale en Red 30**
+
+1. este es un rol nuevo que viene como producto de haber hecho en los dos [[TEMAS/aparato\|aparato]]s anteriores un proceso muy, muy profundo, porque 2.013-2.016 fue el entrenamiento más básico y 2.017-2.020 tiene que ver con lo actuado a partir de ese entrenamiento básico, y ahora vamos a poner a prueba -me toca poner a prueba- a ese mecanismo. [[ACER/Ale en Red 030#^savagk\|Ale en Red 030#^savagk]]
+
+2. Otro dato interesantísimo es la constante que tengo particularmente con este día donde [[TEMAS/Gran Bretaña\|Gran Bretaña]] toma las [[TEMAS/Malvinas\|Malvinas]], es justamente 50.011; ese es el número que me conecta a ese suceso de manera nativa. [[ACER/Ale en Red 030#^2iqqpj\|Ale en Red 030#^2iqqpj]]
+
+3. Nunca vimos la fecha de la usurpación de Malvinas contrastada con mi fecha nativa, nunca, y ahí está el [[TEMAS/código 500\|código 500]]. [[ACER/Ale en Red 030#^trs7hv\|Ale en Red 030#^trs7hv]]
 
 
 **Ale en Red 70**

@@ -1,11 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/temas/conciencia/","created":"2026-01-23T10:38:44.210-03:00","updated":"2026-02-06T17:25:32.736-03:00"}
+{"dg-publish":true,"permalink":"/temas/conciencia/","created":"2026-01-23T10:38:44.210-03:00","updated":"2026-02-13T09:48:46.570-03:00"}
 ---
 
 
 **Ale en Red 2**
 
 La [[TEMAS/conciencia\|conciencia]] es el dueño legítimo de la mente [[ACER/Ale en Red 002#^cck9wx\|Ale en Red 002#^cck9wx]]
+
+
+
+**Ale en Red 030**
+
+¿Cual es la gran diferencia del aprendizaje de la Conciencia y el [[TEMAS/aprendizaje\|aprendizaje]] de la [[TEMAS/mente\|mente]]? [[ACER/Ale en Red 030#^khij7b\|Ale en Red 030#^khij7b]]
 
 
 

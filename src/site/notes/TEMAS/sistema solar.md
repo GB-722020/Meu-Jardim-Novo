@@ -1,6 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/temas/sistema-solar/","created":"2026-01-23T11:50:36.387-03:00","updated":"2026-02-06T17:25:33.082-03:00"}
+{"dg-publish":true,"permalink":"/temas/sistema-solar/","created":"2026-01-23T11:50:36.387-03:00","updated":"2026-02-13T18:37:54.923-03:00"}
 ---
+
+
+**Ale en Red 30**
+
+el [[TEMAS/sistema solar\|Sistema Solar]], tiene un axioma de ”no repetición”, porque está conectado al [[TEMAS/universo expresado\|Universo Expresado]], por lo tanto, las transferencias están a la orden del día; por eso está la [[TEMAS/sincro\|sincro]]; por eso en una sola referencia coincide el [[TEMAS/lema\|lema]] con el [[TEMAS/axioma\|axioma]]; la vida real con lo que dije hace cinco años, hace cuatro, hace tres, hace dos, hace ocho, hace veinte... [[ACER/Ale en Red 030#^bd1i9j\|Ale en Red 030#^bd1i9j]]
+
 
 
 **Ale en Red 70**

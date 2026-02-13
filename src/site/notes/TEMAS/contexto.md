@@ -1,6 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/temas/contexto/","created":"2026-01-24T10:46:42.545-03:00","updated":"2026-02-06T17:25:32.740-03:00"}
+{"dg-publish":true,"permalink":"/temas/contexto/","created":"2026-01-24T10:46:42.545-03:00","updated":"2026-02-13T18:01:54.537-03:00"}
 ---
+
+
+
+**Ale en Red 30**
+
+Entonces, nos está llegando la información pero por [[TEMAS/contexto\|contexto]], y el contexto siempre tiende a aumentar mi condición nativa; es un axioma. EL CONTEXTO ME VIENE A DESAFIAR SIEMPRE, pasa en todas las [[TEMAS/escala\|escala]]s. [[ACER/Ale en Red 030#^co1frr\|Ale en Red 030#^co1frr]]
 
 
 **Ale en Red 70**
