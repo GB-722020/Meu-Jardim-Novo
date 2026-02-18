@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/calendaria/","created":"2026-01-23T15:18:38.303-03:00","updated":"2026-02-09T16:59:00.510-03:00"}
+{"dg-publish":true,"permalink":"/temas/calendaria/","created":"2026-01-23T15:18:38.303-03:00","updated":"2026-02-18T11:15:29.719-03:00"}
 ---
 
 
@@ -7,6 +7,10 @@
 
 [[TEMAS/Calendaria\|Calendaria]], es la construcción de una octava [[ACER/Ale en Red 002#^hurvu8\|Ale en Red 002#^hurvu8]]
 
+
+**Ale en Red 61**
+
+Calendaria permite hacer un uso eficiente del calendario, y como esa eficiencia está conectada con el Universo Expresado, irá en incremento, sino es un conocimiento [[TEMAS/estático\|estático]], sino que será [[TEMAS/dinámico\|dinámico]] pero irá cambiando sus estamentos estáticos, [[ACER/Ale en Red 061#^1ownpz\|Ale en Red 061#^1ownpz]]
 
 
 **Ale en Red 70**

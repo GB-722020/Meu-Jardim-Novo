@@ -1,6 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/temas/dolor/","created":"2026-02-03T11:34:06.728-03:00","updated":"2026-02-06T17:25:33.800-03:00"}
+{"dg-publish":true,"permalink":"/temas/dolor/","created":"2026-02-03T11:34:06.728-03:00","updated":"2026-02-15T18:04:57.038-03:00"}
 ---
+
+
+
+**Ale en Red 61**
+
+Salir del “me duele” al “te duele cuerpo”, te duele, te entiendo porque te duele, y en realidad es me duele... te pones desde el cuerpo y es “me duele”, y desde la [[TEMAS/mente\|mente]] es “te duele” cuerpo, te duele... Sí, yo veo que te duele, sé que te duele, te contengo, pero es salir de ahí para causar una [[TEMAS/contención\|contención]], para crear a propósito, una contención. [[ACER/Ale en Red 061#^gw2wfk\|Ale en Red 061#^gw2wfk]]
+
 
 
 **Ale en Red 151**

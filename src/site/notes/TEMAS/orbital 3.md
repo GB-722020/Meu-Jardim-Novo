@@ -1,6 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/temas/orbital-3/","created":"2026-01-23T11:50:30.690-03:00","updated":"2026-02-09T16:55:58.458-03:00"}
+{"dg-publish":true,"permalink":"/temas/orbital-3/","created":"2026-01-23T11:50:30.690-03:00","updated":"2026-02-14T11:05:13.086-03:00"}
 ---
+
+
+
+**Ale en Red 61**
+
+Y si nosotros somos tercer orbital, necesitamos tener como fijo al segundo orbital ([[TEMAS/orbital 2\|orbital 2]]).  [[ACER/Ale en Red 061#^xph0om\|Ale en Red 061#^xph0om]]
 
 
 **Ale en Red 151**

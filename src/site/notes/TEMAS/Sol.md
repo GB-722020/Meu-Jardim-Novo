@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/sol/","created":"2026-01-21T14:44:04.227-03:00","updated":"2026-02-06T17:25:32.668-03:00"}
+{"dg-publish":true,"permalink":"/temas/sol/","created":"2026-01-21T14:44:04.227-03:00","updated":"2026-02-14T12:13:26.047-03:00"}
 ---
 
 
@@ -16,6 +16,10 @@ un [[TEMAS/Sol\|Sol]] siempre viaja a su [[TEMAS/pasado\|pasado]] [[ACER/Ale en 
 
 2. actualización del [[TEMAS/Sol\|Sol]] como [[TEMAS/mente\|mente]] de la estrella [[ACER/Ale en Red 055#^j92q2h\|Ale en Red 055#^j92q2h]]
 
+
+**Ale en Red 61**
+
+el [[TEMAS/Sol\|Sol]] está en un periodo de calificación, de cómo se describe a sí mismo, y cómo interactúa con sus propios componentes, y cómo interactúa con la [[TEMAS/fuente externa\|Fuente Externa]] a su vez. [[ACER/Ale en Red 061#^9lgta7\|Ale en Red 061#^9lgta7]]
 
 
 **Ale en Red 70**

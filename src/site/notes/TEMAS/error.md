@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/error/","created":"2026-01-23T12:41:34.124-03:00","updated":"2026-02-11T16:17:11.267-03:00"}
+{"dg-publish":true,"permalink":"/temas/error/","created":"2026-01-23T12:41:34.124-03:00","updated":"2026-02-18T11:20:07.348-03:00"}
 ---
 
 
@@ -16,6 +16,14 @@ Si no me aprovecho de mi error, mi error se aprovecha de mí, y por supervivenci
 **Ale en Red 55**
 
 error como la [[TEMAS/octava\|octava]] combinada con nuestra posición gravitatoria [[ACER/Ale en Red 055#^7ewkk1\|Ale en Red 055#^7ewkk1]]
+
+
+**Ale en Red 61**
+
+Porque poco a poco, paso a paso, se irá naturalizado el aprovechamiento positivo del [[TEMAS/error\|error]], (...) y vamos a ir pudiendo ver que la trama del error tiene un [[aprendizaje \|aprendizaje ]]extraordinario del cual nuestro [[TEMAS/psiquismo\|psiquismo]] se nutre. [[ACER/Ale en Red 061#^oys0l9\|Ale en Red 061#^oys0l9]]
+
+Entonces, el [[TEMAS/error\|error]], estoy en [[TEMAS/destino\|destino]], no en [[TEMAS/origen\|origen]]. [[ACER/Ale en Red 061#^0vopxc\|Ale en Red 061#^0vopxc]]
+
 
 
 

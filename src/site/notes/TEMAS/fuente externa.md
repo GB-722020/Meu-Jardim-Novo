@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/temas/fuente-externa/","created":"2026-01-22T11:02:32.210-03:00","updated":"2026-02-08T11:29:16.441-03:00"}
+{"dg-publish":true,"permalink":"/temas/fuente-externa/","created":"2026-01-22T11:02:32.210-03:00","updated":"2026-02-18T11:06:21.445-03:00"}
 ---
+
+
+**Ale en Red 61**
+
+ Esos 12 días, son el aspecto de [[TEMAS/fuente externa\|Fuente Externa]] de estos 4 días de [[TEMAS/fuente interna\|Fuente Interna]]. [[ACER/Ale en Red 061#^jkk6g2\|Ale en Red 061#^jkk6g2]]
 
 
 **Ale en Red 106**

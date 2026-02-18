@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/psiquis/","created":"2026-01-26T09:40:33.287-03:00","updated":"2026-02-10T17:26:51.530-03:00"}
+{"dg-publish":true,"permalink":"/temas/psiquis/","created":"2026-01-26T09:40:33.287-03:00","updated":"2026-02-15T17:45:38.747-03:00"}
 ---
 
 
@@ -11,6 +11,11 @@
 
 3. Y que por supuesto, cada uno viene con la carga que viene, dentro de cada una de estas psiques, que cuanto menos se trabajó la 2 - la de uno **con uno mismo** - ¿qué pasa? ¡empieza a pesar mucho! La psique que me conecta **con los demás**. [[ACER/Ale en Red 011#^3xh88p\|Ale en Red 011#^3xh88p]]
 
+
+
+**Ale en Red 61**
+
+Entonces, esa tolerancia para comprender que el [[TEMAS/cuerpo\|cuerpo]] está viviendo un [[TEMAS/conflicto\|conflicto]] cuando yo ya, capaz que mi [[TEMAS/psiquis\|psiquis]], no lo está viviendo, lo está habitando. [[ACER/Ale en Red 061#^tqkwzz\|Ale en Red 061#^tqkwzz]]
 
 
 **Ale en Red 70**

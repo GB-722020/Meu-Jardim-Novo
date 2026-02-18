@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/mente/","created":"2026-01-19T17:16:56.359-03:00","updated":"2026-02-10T11:41:07.372-03:00"}
+{"dg-publish":true,"permalink":"/temas/mente/","created":"2026-01-19T17:16:56.359-03:00","updated":"2026-02-15T17:49:58.189-03:00"}
 ---
 
 
@@ -19,6 +19,11 @@
 **Ale en Red 11**
 
 La [[TEMAS/mente\|mente]] opera como una interfase entre espíritu, alma y cuerpo, por eso es que no tiene ninguno de los tres -porque va continuamente cambiando de un área a la otra, [[ACER/Ale en Red 011#^oxv66g\|Ale en Red 011#^oxv66g]]
+
+
+**Ale en Red 61**
+
+Entonces, es volvernos más conscientes que el [[TEMAS/cuerpo\|cuerpo]] exige una [[TEMAS/velocidad\|velocidad]] y que la [[TEMAS/mente\|mente]] se tiene que dar cuenta de eso; si no se da cuenta, pone en el [[TEMAS/futuro\|futuro]] lo mismo que estaba en el [[TEMAS/pasado\|pasado]], y así el pasado se perpetúa. [[ACER/Ale en Red 061#^uyx5fb\|Ale en Red 061#^uyx5fb]]
 
 
 **Ale en Red 70**

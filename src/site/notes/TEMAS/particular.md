@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/particular/","created":"2026-01-23T13:06:02.766-03:00","updated":"2026-02-08T09:59:48.143-03:00"}
+{"dg-publish":true,"permalink":"/temas/particular/","created":"2026-01-23T13:06:02.766-03:00","updated":"2026-02-18T11:47:30.231-03:00"}
 ---
 
 
@@ -7,6 +7,10 @@
 
 [[TEMAS/función PER\|función PER]] Porque, así como el aspecto general, se comunicó con un particular, el particular tiene que hacer lo mismo con un general [[ACER/Ale en Red 002#^u4hqnx\|Ale en Red 002#^u4hqnx]]
 
+
+**Ale en Red 61**
+
+Es una maduración [[TEMAS/colectiva\|colectiva]], instrumentada [[TEMAS/particular\|particular]]mente. Particularmente, porque a cada uno de nosotros, particularmente nos llega. [[ACER/Ale en Red 061#^81stl2\|Ale en Red 061#^81stl2]]
 
 
 **Ale en Red 106**

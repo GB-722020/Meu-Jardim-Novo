@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/ano/","created":"2026-01-23T16:11:34.875-03:00","updated":"2026-02-11T11:24:18.456-03:00"}
+{"dg-publish":true,"permalink":"/temas/ano/","created":"2026-01-23T16:11:34.875-03:00","updated":"2026-02-18T16:13:37.136-03:00"}
 ---
 
 
@@ -13,6 +13,10 @@ Básicamente, lo que hicimos fue diseñar una estructura del [[TEMAS/año\|año]
 
 regular los niveles de [[TEMAS/daño\|DAÑO]], es lo que cada [[TEMAS/año\|AÑO]] tenemos que hacer, para que un año no sea un año más, sino otro año. [[ACER/Ale en Red 055#^574fw9\|Ale en Red 055#^574fw9]]
 
+
+**Ale en Red 61**
+
+Y eso estará funcional completamente porque ya habrá pasado el año. Un [[TEMAS/año\|año]] entero que pasa, es una unidad de Conciencia Solar, y ahí, se vuelve [[TEMAS/función\|función]]. [[ACER/Ale en Red 061#^diqp3d\|Ale en Red 061#^diqp3d]]
 
 
 

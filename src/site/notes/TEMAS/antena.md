@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/antena/","created":"2026-01-21T17:32:24.055-03:00","updated":"2026-02-07T15:58:16.604-03:00"}
+{"dg-publish":true,"permalink":"/temas/antena/","created":"2026-01-21T17:32:24.055-03:00","updated":"2026-02-18T11:45:50.159-03:00"}
 ---
 
 
@@ -7,6 +7,11 @@
 **Ale en Red 2**
 
 Somos una [[TEMAS/antena\|antena]]. LA [[TEMAS/mente\|mente]] NO ESTÁ ESCRITA [[ACER/Ale en Red 002#^752joy\|Ale en Red 002#^752joy]]
+
+
+**Ale en Red 61**
+
+Hacen de [[TEMAS/antena\|antena]] las [[TEMAS/vacuna\|vacuna]]s porque nosotros que somos antenas, no estamos funcionando. [[ACER/Ale en Red 061#^rl38x9\|Ale en Red 061#^rl38x9]]
 
 
 **Ale en Red 70**

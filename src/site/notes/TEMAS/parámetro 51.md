@@ -9,7 +9,7 @@
 
 2. es como el reservorio global de la [[TEMAS/vida\|vida]], en su estado [[TEMAS/analógico\|analógico]]. [[ACER/Ale en Red 131#^mofa63\|Ale en Red 131#^mofa63]]
 
-3. El [[TEMAS/parámetro 51\|parámetro 51]] es un resguardo de la calidad de los [[TEMAS/proceso\|proceso]]s, por eso es súper exigente en términos [[anatómico\|anatómico]]s [[TEMAS/analógico\|analógico]]s, [[ACER/Ale en Red 131#^sv4xup\|Ale en Red 131#^sv4xup]]
+3. El [[TEMAS/parámetro 51\|parámetro 51]] es un resguardo de la calidad de los [[TEMAS/proceso\|proceso]]s, por eso es súper exigente en términos [[TEMAS/anatómico\|anatómico]]s [[TEMAS/analógico\|analógico]]s, [[ACER/Ale en Red 131#^sv4xup\|Ale en Red 131#^sv4xup]]
 
 
 

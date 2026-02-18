@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temas/aprendizaje/","created":"2026-01-27T09:20:45.212-03:00","updated":"2026-02-13T18:19:36.204-03:00"}
+{"dg-publish":true,"permalink":"/temas/aprendizaje/","created":"2026-01-27T09:20:45.212-03:00","updated":"2026-02-14T16:46:37.145-03:00"}
 ---
 
 
@@ -20,6 +20,11 @@
 7. Y mi [[TEMAS/mejor versión\|mejor versión]] para transformarme en ella misma, precisa que yo en el [[TEMAS/pasado\|pasado]] -que es donde estoy habitando- me entregue al aprendizaje y a la observación de un montón de [[TEMAS/señal\|señal]]es. 
 
 8. Ahora, la observación de **aprender algo, no es aprender [[TEMAS/lógica\|Lógica]].** [[ACER/Ale en Red 030#^7qri6c\|Ale en Red 030#^7qri6c]]
+
+
+**Ale en Red 61**
+
+Y el [[TEMAS/aprendizaje\|aprendizaje]] más importante a lo largo de todo el año es qué rol cumplen los errores. Qué rol cumple el [[TEMAS/error\|error]]. [[ACER/Ale en Red 061#^2ym4xv\|Ale en Red 061#^2ym4xv]]
 
 
 
