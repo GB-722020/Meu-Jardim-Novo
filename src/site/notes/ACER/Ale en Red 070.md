@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acer/ale-en-red-070/","created":"2026-01-24T10:32:17.724-03:00","updated":"2026-02-15T18:12:46.894-03:00"}
+{"dg-publish":true,"permalink":"/acer/ale-en-red-070/","created":"2026-01-24T10:32:17.724-03:00","updated":"2026-02-20T11:59:08.070-03:00"}
 ---
 
 
@@ -13,7 +13,7 @@ Link: https://youtu.be/H-4XtkrOzxM**
 
 [[COLABORADORES/Leticia Candelaria\|Leticia Candelaria]] [@leticiacandelariasaucedo8808](https://youtube.com/@leticiacandelariasaucedo8808?si=h_Z63_Gaz4sEkkUQ)
 
-_Transcrito y editado por Meli Moscoso_
+_Transcrito y editado por [[COLABORADORES/Meli Moscoso\|Meli Moscoso]]_
 
 
 
