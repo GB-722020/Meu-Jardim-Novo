@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0/logica-de-la-biblioteca/","created":"2026-02-06T11:39:59.530-03:00","updated":"2026-02-15T18:33:13.660-03:00"}
+{"dg-publish":true,"permalink":"/0/logica-de-la-biblioteca/","created":"2026-02-06T11:39:59.530-03:00","updated":"2026-02-18T16:24:26.938-03:00"}
 ---
 
 =="Estamos en la biblioteca pero justamente en este estante guardamos los libros que hablan de la biblioteca." [[ACER/Ale en Red 061#^j0qiyp\|Ale en Red 061#^j0qiyp]]==
@@ -17,7 +17,7 @@ Además, esta entrada a menudo contiene un vínculo a otros temas que también s
 
 Esta relación se expresa a través de un **gráfico**, que conecta las notas y los documentos.
 
-Por ejemplo, esta nota que estás leyendo está conectada al índice (ver gráfico abajo).
+Por ejemplo, esta nota que estás leyendo está conectada al Ale en Red 61 (ver gráfico abajo).
 
 
 ---
