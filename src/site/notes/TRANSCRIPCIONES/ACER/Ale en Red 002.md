@@ -1,8 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-002/","created":"2026-01-19T15:42:01.524-03:00","updated":"2026-02-21T10:50:18.645-03:00"}
+{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-002/","created":"2026-01-19T15:42:01.524-03:00","updated":"2026-02-24T10:43:52.649-03:00"}
 ---
 
- 
+
+> [!NOTE]- Nota acerca de las transcripciones y la diagramación en Obsidian
+>
+>
+> *Es importante resaltar que el objetivo del sitio no es ser una forma de leer una transcripción en su formato completo ni sustituir el papel de las transcripciones originales.*
+> 
+> *Además, Obsidian posee ciertas limitaciones que obligan a realizar modificaciones en la diagramación. También no se incluyen archivos multimedia para evitar una carga lenta que afectaría la visualización y interconexión de las notas.*
+> 
+> ***Para visualizar las transcripciones con todos los recursos de presentación y edición, se recomienda ir directamente a la transcripción en su formato original.***
+
+
 # ALEJANDRA EN RED - 30 de Mayo de 2020 – ALEJANDRA CASADO Y LETICIA CANDELARIA
 
 
