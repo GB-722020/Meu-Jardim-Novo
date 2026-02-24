@@ -312,7 +312,7 @@ Es el _legislador_ y también es el _ejecutor_ , y después, es la _auditoría_ 
 { #eyas63}
 
 
-Ese nuevo estático, es porque el [[ENTRADAS/_CONCEPTOS-TEMAS/espacio-tiempo\|espacio-tiempo]] [[lineal\|lineal]] se consume en formato [[ENTRADAS/_CONCEPTOS-TEMAS/estático\|estático]], para que se le dé apertura al pasado, separado del presente y separado del futuro. Eso se consume en la frecuencia 96. Es, Dinámico y Estático según cuál sea la perspectiva que nosotros elijamos ¡De esto podría hablar un montón!... de lo que es “el efecto paradojal”, pero es “la desdoblada” haciendo actualizaciones del _Código Solar_ , esto es una paradoja, porque la [[desdoblada\|desdoblada]] es producto del código solar, pero el [[ENTRADAS/_CONCEPTOS-TEMAS/1969\|1969]] permite invertir esa funcionalidad.
+Ese nuevo estático, es porque el [[ENTRADAS/_CONCEPTOS-TEMAS/espacio-tiempo\|espacio-tiempo]] [[lineal\|lineal]] se consume en formato [[ENTRADAS/_CONCEPTOS-TEMAS/estático\|estático]], para que se le dé apertura al pasado, separado del presente y separado del futuro. Eso se consume en la frecuencia 96. Es, Dinámico y Estático según cuál sea la perspectiva que nosotros elijamos ¡De esto podría hablar un montón!... de lo que es “el efecto paradojal”, pero es “la desdoblada” haciendo actualizaciones del _Código Solar_ , esto es una paradoja, porque la [[ENTRADAS/_CONCEPTOS-TEMAS/desdoblada\|desdoblada]] es producto del código solar, pero el [[ENTRADAS/_CONCEPTOS-TEMAS/1969\|1969]] permite invertir esa funcionalidad.
 { #f3ytrk}
 
 
