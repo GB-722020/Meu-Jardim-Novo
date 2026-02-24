@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0/logica-de-la-biblioteca/","created":"2026-02-06T11:39:59.530-03:00","updated":"2026-02-21T17:07:15.805-03:00"}
+{"dg-publish":true,"permalink":"/0/logica-de-la-biblioteca/","created":"2026-02-06T11:39:59.530-03:00","updated":"2026-02-24T11:29:24.918-03:00"}
 ---
 
 =="Estamos en la biblioteca pero justamente en este estante guardamos los libros que hablan de la biblioteca." [[TRANSCRIPCIONES/ACER/Ale en Red 061#^j0qiyp\|Ale en Red 061#^j0qiyp]]==
@@ -22,6 +22,12 @@ Por ejemplo, esta nota que estás leyendo está conectada al Ale en Red 61 (ver 
 Esta biblioteca está construida utilizando una herramienta llamada [[0/Obsidian\|Obsidian]].
 
 Para saber más acerca de la estructura de los archivos y cómo navegar en este sitio, haz clic en [[0/Instrucciones de navegación\|Instrucciones de navegación]].
+
+
+
+- permanente construção pouco a pouco, com mais documentos, aos poucos vamos construindo e melhorando os critérios e outras possibilidades que serão disponibilizadas 
+- espero contar com a comunidade lgc para melhorar os critérios e a construção desse recurso
+- a ideia de que isso não vai ser construída por apenas uma pessoa...?
 
 
 ---
