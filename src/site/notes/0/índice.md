@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/0/indice/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-02-24T11:17:51.410-03:00"}
+{"dg-publish":true,"permalink":"/0/indice/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-02-24T15:33:14.470-03:00"}
 ---
 
 
-=="Si no se anotan [[ENTRADAS/_CONCEPTOS-TEMAS/detalle\|detalle]]s, no se incrementa la [[ENTRADAS/_CONCEPTOS-TEMAS/captación\|captación]] y estas emisiones sirven para anotar detalles."
-[[TRANSCRIPCIONES/ACER/Ale en Red 061#^ajygdl\|Ale en Red 061#^ajygdl]]==
+### "Si no se anotan [[ENTRADAS/_CONCEPTOS-TEMAS/detalle\|detalle]]s, no se incrementa la [[ENTRADAS/_CONCEPTOS-TEMAS/captación\|captación]] y estas emisiones sirven para anotar detalles." [[TRANSCRIPCIONES/ACER/Ale en Red 061#^ajygdl\|Ale en Red 061#^ajygdl]]
 
 
 # Bienvenido a la Biblioteca Interconectada LGC
@@ -15,7 +14,7 @@ La estructura de la biblioteca está diseñada para un uso intuitivo. Pero si qu
 
 ### Esta es una versión resumida de cómo navegar este espacio:
 
-- **Explora la estructura:** Utiliza la **barra lateral (File Tree)** a tu izquierda para navegar por las diferentes carpetas. Aquí encontrará más información sobre la estructura de los archivos ([[0/Instrucciones de navegación#^dzg99q\|Instrucciones de navegación#^dzg99q]]). También puede utilizar la función de búsqueda para encontrar el tema deseado.
+- **Explora la estructura:** Utiliza la **barra lateral (File Tree)** a tu izquierda para navegar por las diferentes carpetas. También puede utilizar la función de búsqueda para encontrar el tema deseado. Aquí encontrará más información sobre la estructura de los archivos ([[0/Instrucciones de navegación#^dzg99q\|Instrucciones de navegación#^dzg99q]]). 
     
 - **Visualización de datos:** En las notas encontrarás **gráficos dinámicos**. Estos gráficos representan las métricas y las interconexiones de los temas. Puedes interactuar con ellos para ver los detalles de cada punto de torsión y migrar a una nota distinta. Aquí encontrará más información sobre los gráficos ([[0/Instrucciones de navegación#^0iqcv2\|Instrucciones de navegación#^0iqcv2]]).
     
@@ -25,7 +24,7 @@ La estructura de la biblioteca está diseñada para un uso intuitivo. Pero si qu
 Para una descripción más detallada acerca de la navegación, ver [[0/Instrucciones de navegación\|Instrucciones de navegación]].
 
 
-Gracias a todos los colaboradores que hicieron posible la construcción de este sitio, ya sea mediante la realización de las transcripciones, o la creación y revisión de las notas y criterios utilizados en la biblioteca.
+**Gracias** a todos los colaboradores que hicieron posible la construcción de este sitio, ya sea mediante la realización delas emisiones, de las transcripciones, o la creación y revisión de las notas y criterios utilizados en la biblioteca.
 
 
 > [!NOTE]- Nota acerca de las transcripciones y la diagramación en Obsidian

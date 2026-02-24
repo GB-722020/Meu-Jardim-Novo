@@ -4,7 +4,7 @@
 
 
 
-Esta biblioteca utiliza como herramienta la aplicación [[0/Obsidian\|Obsidian]].
+Esta biblioteca utiliza como herramienta la aplicación [[un otro 0/Obsidian\|Obsidian]].
 
 Hay dos factores en la estructura de la biblioteca cuya comprensión nos ayuda a navegarla:
 
@@ -57,7 +57,7 @@ Haga clic para expandir la pestaña correspondiente:
 > 
 > ### 2. Cómo funcionan las fichas
 > 
-> En [[0/Obsidian\|Obsidian]], cada vez que se colocan corchetes `[[ ]]` alrededor de una palabra, se genera una nueva ficha. La aplicación va mapeando y creando dos recursos fundamentales: **a.** las **"notas que mencionan esta nota"** (backlinks) y **b.** el **Graph View** (vista de gráfico), que son dos modos de navegar el sitio.
+> En [[un otro 0/Obsidian\|Obsidian]], cada vez que se colocan corchetes `[[ ]]` alrededor de una palabra, se genera una nueva ficha. La aplicación va mapeando y creando dos recursos fundamentales: **a.** las **"notas que mencionan esta nota"** (backlinks) y **b.** el **Graph View** (vista de gráfico), que son dos modos de navegar el sitio.
 > 
 > 
 > **a. Notas que mencionan esta nota**
