@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0/indice/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-02-24T15:33:14.470-03:00"}
+{"dg-publish":true,"permalink":"/0/indice/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-02-25T16:53:59.712-03:00"}
 ---
 
 
@@ -40,7 +40,7 @@ Para una descripción más detallada acerca de la navegación, ver [[0/Instrucci
 
 > [!NOTE]- Nota acerca de los gráficos
 > 
-> _Actualmente, debido a la plataforma que se utiliza para la publicación, los gráficos no cuentan con una presentación optimizada. Los gráficos con demasiadas conexiones están praticamente inelegibles._
+> _Actualmente, debido a la plataforma que se utiliza para la publicación, los gráficos no cuentan con una presentación optimizada. Los gráficos con demasiadas conexiones no son funcionales._
 > 
 > *El objetivo es mejorar este recurso en futuras versiones.*
 
