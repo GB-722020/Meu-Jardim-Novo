@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0/indice/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-02-25T16:53:59.712-03:00"}
+{"dg-publish":true,"permalink":"/0/indice/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-02-25T17:01:36.504-03:00"}
 ---
 
 
@@ -14,14 +14,14 @@ La estructura de la biblioteca está diseñada para un uso intuitivo. Pero si qu
 
 ### Esta es una versión resumida de cómo navegar este espacio:
 
-- **Explora la estructura:** Utiliza la **barra lateral (File Tree)** a tu izquierda para navegar por las diferentes carpetas. También puede utilizar la función de búsqueda para encontrar el tema deseado. Aquí encontrará más información sobre la estructura de los archivos ([[0/Instrucciones de navegación#^dzg99q\|Instrucciones de navegación#^dzg99q]]). 
+- **Explora la estructura:** Utiliza la **barra lateral (File Tree)** a tu izquierda para navegar por las diferentes carpetas. También puede utilizar la función de búsqueda para encontrar el tema deseado. Aquí encontrará más información sobre la estructura de los archivos ([[0/instrucciones de navegación#^dzg99q\|instrucciones de navegación#^dzg99q]]). 
     
-- **Visualización de datos:** En las notas encontrarás **gráficos dinámicos**. Estos gráficos representan las métricas y las interconexiones de los temas. Puedes interactuar con ellos para ver los detalles de cada punto de torsión y migrar a una nota distinta. Aquí encontrará más información sobre los gráficos ([[0/Instrucciones de navegación#^0iqcv2\|Instrucciones de navegación#^0iqcv2]]).
+- **Visualización de datos:** En las notas encontrarás **gráficos dinámicos**. Estos gráficos representan las métricas y las interconexiones de los temas. Puedes interactuar con ellos para ver los detalles de cada punto de torsión y migrar a una nota distinta. Aquí encontrará más información sobre los gráficos ([[0/instrucciones de navegación#^0iqcv2\|instrucciones de navegación#^0iqcv2]]).
     
 - **Interconexión:** Presta atención a los enlaces internos y a los _backlinks_ en la parte lateral de cada página.
 
 
-Para una descripción más detallada acerca de la navegación, ver [[0/Instrucciones de navegación\|Instrucciones de navegación]].
+Para una descripción más detallada acerca de la navegación, ver [[0/instrucciones de navegación\|instrucciones de navegación]].
 
 
 **Gracias** a todos los colaboradores que hicieron posible la construcción de este sitio, ya sea mediante la realización delas emisiones, de las transcripciones, o la creación y revisión de las notas y criterios utilizados en la biblioteca.

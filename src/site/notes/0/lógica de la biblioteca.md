@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0/logica-de-la-biblioteca/","created":"2026-02-06T11:39:59.530-03:00","updated":"2026-02-24T15:47:49.978-03:00"}
+{"dg-publish":true,"permalink":"/0/logica-de-la-biblioteca/","created":"2026-02-06T11:39:59.530-03:00","updated":"2026-02-25T17:01:36.453-03:00"}
 ---
 
 =="Estamos en la biblioteca pero justamente en este estante guardamos los libros que hablan de la biblioteca." [[TRANSCRIPCIONES/ACER/Ale en Red 061#^j0qiyp\|Ale en Red 061#^j0qiyp]]==
@@ -27,7 +27,7 @@ Por ejemplo, esta nota que estás leyendo está conectada al Ale en Red 61 (ver 
 
 Esta biblioteca está construida utilizando una herramienta llamada [[un otro 0/Obsidian\|Obsidian]].
 
-Para saber más acerca de la estructura de los archivos y cómo navegar en este sitio, haz clic en [[0/Instrucciones de navegación\|Instrucciones de navegación]].
+Para saber más acerca de la estructura de los archivos y cómo navegar en este sitio, haz clic en [[0/instrucciones de navegación\|instrucciones de navegación]].
 
 
 **Un proceso de construcción permanente**
