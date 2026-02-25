@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0/instrucciones-de-navegacion/","created":"2026-02-08T10:32:10.846-03:00","updated":"2026-02-24T11:29:12.418-03:00"}
+{"dg-publish":true,"permalink":"/0/instrucciones-de-navegacion/","created":"2026-02-08T10:32:10.846-03:00","updated":"2026-02-25T17:43:35.939-03:00"}
 ---
 
 
@@ -78,7 +78,15 @@ Haga clic para expandir la pestaña correspondiente:
 > 
 > El tamaño del punto indica la cantidad de conexiones que posee. Cuanto más grande sea el punto, mayor será el número de conexiones que realiza, y viceversa.
 > 
-> _**Observación:** actualmente, debido a la plataforma que se utiliza para la publicación, los gráficos no cuentan con una presentación optimizada._
+> En la parte superior del gráfico, encontrarás el **selector de profundidad** (depth). Esta función controla el "alcance" de la visión del lector en el mapa de conexiones. Los niveles de profundidad definen **cuántas conexiones de distancia** mostrará el gráfico a partir de la nota que se está leyendo en ese momento.
+> 
+> |**Nivel**|**Qué ve el lector en el gráfico**|
+|---|---|
+|**Nivel 1**|Solo la nota actual y las notas que están **directamente conectadas** a ella (un clic de distancia).|
+|**Nivel 2**|La nota actual, las conectadas a ella y también las notas que están conectadas a **esas** notas (dos clics de distancia).|
+|**Nivel 3**|Una "red" mucho más amplia: muestra conexiones de hasta tres niveles de distancia.|
+> 
+> _**Observación:** actualmente, debido a la plataforma que se utiliza para la publicación, los gráficos no cuentan con una presentación optimizada, especialmente en el nivel 3 o en notas con demasiadas conexiones._
 > 
 > ### 3. Más detalles sobre las fichas
 > 
@@ -97,10 +105,12 @@ Haga clic para expandir la pestaña correspondiente:
 
 
 
-
-Si quieres comprender cómo está la biblioteca esta construida, haz clic em [[0/lógica de la biblioteca\|lógica de la biblioteca]].
-
 ¡Buena navegación!
+
+
+(Si quieres comprender cómo está la biblioteca esta construida, haz clic em [[0/lógica de la biblioteca\|lógica de la biblioteca]].)
+
+
 
 
 

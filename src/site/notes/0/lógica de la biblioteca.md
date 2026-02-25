@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/0/logica-de-la-biblioteca/","created":"2026-02-06T11:39:59.530-03:00","updated":"2026-02-25T17:01:36.453-03:00"}
+{"dg-publish":true,"permalink":"/0/logica-de-la-biblioteca/","created":"2026-02-06T11:39:59.530-03:00","updated":"2026-02-25T17:44:21.466-03:00"}
 ---
 
-=="Estamos en la biblioteca pero justamente en este estante guardamos los libros que hablan de la biblioteca." [[TRANSCRIPCIONES/ACER/Ale en Red 061#^j0qiyp\|Ale en Red 061#^j0qiyp]]==
+"Estamos en la biblioteca pero justamente en este estante guardamos los libros que hablan de la biblioteca." [[TRANSCRIPCIONES/ACER/Ale en Red 061#^j0qiyp\|Ale en Red 061#^j0qiyp]]
 
 
 **El proceso de creación de notas**

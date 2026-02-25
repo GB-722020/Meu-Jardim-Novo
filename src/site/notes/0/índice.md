@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/0/indice/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-02-25T17:01:36.504-03:00"}
+{"dg-publish":true,"permalink":"/0/indice/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-02-25T17:44:04.585-03:00"}
 ---
 
 
-### "Si no se anotan [[ENTRADAS/_CONCEPTOS-TEMAS/detalle\|detalle]]s, no se incrementa la [[ENTRADAS/_CONCEPTOS-TEMAS/captación\|captación]] y estas emisiones sirven para anotar detalles." [[TRANSCRIPCIONES/ACER/Ale en Red 061#^ajygdl\|Ale en Red 061#^ajygdl]]
+### =="Si no se anotan [[ENTRADAS/_CONCEPTOS-TEMAS/detalle\|detalle]]s, no se incrementa la [[ENTRADAS/_CONCEPTOS-TEMAS/captación\|captación]] y estas emisiones sirven para anotar detalles."== [[TRANSCRIPCIONES/ACER/Ale en Red 061#^ajygdl\|Ale en Red 061#^ajygdl]]
 
 
 # Bienvenido a la Biblioteca Interconectada LGC
