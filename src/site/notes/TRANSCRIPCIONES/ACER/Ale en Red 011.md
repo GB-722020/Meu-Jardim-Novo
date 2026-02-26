@@ -1,6 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-011/","created":"2026-02-10T11:03:17.330-03:00","updated":"2026-02-21T10:52:30.986-03:00"}
+{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-011/","created":"2026-02-10T11:03:17.330-03:00","updated":"2026-02-26T10:09:56.975-03:00"}
 ---
+
+
+
+> [!NOTE]- Nota acerca de las transcripciones y la diagramación en Obsidian
+>
+>
+> 
+> *Es importante resaltar que el objetivo del sitio no es ser una forma de leer una transcripción en su formato completo ni sustituir el papel de las transcripciones originales.*
+> 
+> *Además, Obsidian posee una manera diferente de **interpretar ciertos caracteres**, lo que acaba creando algunos **problemas de diagramación**. También no se incluyen archivos multimedia para evitar una carga lenta que afectaría la visualización y interconexión de las notas.*
+> 
+> ***Para visualizar las transcripciones con todos los recursos de presentación y edición, se recomienda ir directamente a la transcripción en su formato original.***
+
+
 
 
 # “ Alejandra Casado en RED ” 11 - con LETICIA CANDELARIA - 1 DE AGOSTO 2020

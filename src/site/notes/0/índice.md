@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/0/indice/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-02-25T17:44:04.585-03:00"}
+{"dg-publish":true,"permalink":"/0/indice/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-02-26T11:11:10.856-03:00"}
 ---
 
 
 ### =="Si no se anotan [[ENTRADAS/_CONCEPTOS-TEMAS/detalle\|detalle]]s, no se incrementa la [[ENTRADAS/_CONCEPTOS-TEMAS/captación\|captación]] y estas emisiones sirven para anotar detalles."== [[TRANSCRIPCIONES/ACER/Ale en Red 061#^ajygdl\|Ale en Red 061#^ajygdl]]
 
+---
 
 # Bienvenido a la Biblioteca Interconectada LGC
 
@@ -33,7 +34,7 @@ Para una descripción más detallada acerca de la navegación, ver [[0/instrucci
 > 
 > *Es importante resaltar que el objetivo del sitio no es ser una forma de leer una transcripción en su formato completo ni sustituir el papel de las transcripciones originales.*
 > 
-> *Además, Obsidian posee ciertas limitaciones que obligan a realizar modificaciones en la diagramación. También no se incluyen archivos multimedia para evitar una carga lenta que afectaría la visualización y interconexión de las notas.*
+> *Además, Obsidian posee una manera diferente de **interpretar ciertos caracteres**, lo que acaba creando algunos **problemas de diagramación**. También no se incluyen archivos multimedia para evitar una carga lenta que afectaría la visualización y interconexión de las notas.*
 > 
 > ***Para visualizar las transcripciones con todos los recursos de presentación y edición, se recomienda ir directamente a la transcripción en su formato original.***
 
