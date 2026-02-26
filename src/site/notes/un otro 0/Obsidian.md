@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/un-otro-0/obsidian/","created":"2026-02-20T18:50:01.650-03:00","updated":"2026-02-24T15:30:10.127-03:00"}
+{"dg-publish":true,"permalink":"/un-otro-0/obsidian/","created":"2026-02-20T18:50:01.650-03:00","updated":"2026-02-26T11:30:50.730-03:00"}
 ---
 
+
+## ¿Qué es Obsidian?
 
 Esta biblioteca está construida utilizando una herramienta llamada Obsidian, que funciona como lo que podríamos llamar un "jardín digital".
 
