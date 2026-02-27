@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0/instrucciones-de-navegacion/","created":"2026-02-08T10:32:10.846-03:00","updated":"2026-02-25T17:43:35.939-03:00"}
+{"dg-publish":true,"permalink":"/0/instrucciones-de-navegacion/","created":"2026-02-08T10:32:10.846-03:00","updated":"2026-02-26T11:38:44.056-03:00"}
 ---
 
 
@@ -19,13 +19,9 @@ Haga clic para expandir la pestaña correspondiente:
 > 
 > ### Carpertas
 > 
-> La primera carpeta **0** contiene una introducción y las instrucciones de navegación.
+> La primera carpeta **0** contiene una introducción, lógica de la biblioteca y las instrucciones de navegación.
 > 
-> Luego, la carpeta **ENTRADAS** (detallada en División de las ENTRADAS) contiene todas las notas creadas a partir de la lectura de la carpeta **TRANSCRIPCIONES**. Actualmente, en esta carpeta se encuentran únicamente la sub-carpeta ACER, "Alejandra Casado en Red".
-> 
-> 
-> 
-> La última carpeta **"un otro 0"** contiene instrucciones adicionales, así como notas con fines administrativos.
+> Luego, la carpeta **ENTRADAS** (detallada en División de las ENTRADAS) contiene todas las notas creadas a partir de la lectura de la carpeta **TRANSCRIPCIONES**. Actualmente, en esta carpeta se encuentra únicamente la sub-carpeta ACER, "Alejandra Casado en Red".
 > 
 > ### División de las ENTRADAS
 > 
@@ -36,6 +32,10 @@ Haga clic para expandir la pestaña correspondiente:
 > - **ANTENAS;**
 >     
 > - **FECHAS.**
+> 
+> La última carpeta **"un otro 0"** incluye una mención a los colaboradores, instrucciones adicionales, así como notas con fines administrativos.
+> 
+> 
 
 { #dzg99q}
 
