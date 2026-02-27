@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/0/logica-de-la-biblioteca/","created":"2026-02-06T11:39:59.530-03:00","updated":"2026-02-26T11:28:49.286-03:00"}
+{"dg-publish":true,"permalink":"/0/logica-de-la-biblioteca/","created":"2026-02-06T11:39:59.530-03:00","updated":"2026-02-27T18:27:53.381-03:00"}
 ---
 
-=="Estamos en la biblioteca pero justamente en este estante guardamos los libros que hablan de la biblioteca."== [[TRANSCRIPCIONES/ACER/Ale en Red 061#^j0qiyp\|Ale en Red 061#^j0qiyp]]
+## =="Estamos en la biblioteca pero justamente en este estante guardamos los libros que hablan de la biblioteca."== [[TRANSCRIPCIONES/ACER/Ale en Red 061#^j0qiyp\|Ale en Red 061#^j0qiyp]]
 
 ---
 
