@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/0/indice/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-02-27T18:27:38.097-03:00"}
+{"dg-publish":true,"permalink":"/0/indice/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-02-28T10:39:12.365-03:00"}
 ---
 
 
-## =="Si no se anotan [[ENTRADAS/_TEMAS/detalle\|detalle]]s, no se incrementa la [[ENTRADAS/_TEMAS/captación\|captación]] y estas emisiones sirven para anotar detalles."== [[TRANSCRIPCIONES/ACER/Ale en Red 061#^ajygdl\|Ale en Red 061#^ajygdl]]
+## =="Si no se anotan [[ENTRADAS/CONCEPTOS/detalle\|detalle]]s, no se incrementa la [[ENTRADAS/CONCEPTOS/captación\|captación]] y estas emisiones sirven para anotar detalles."== [[TRANSCRIPCIONES/ACER/Ale en Red 061#^ajygdl\|Ale en Red 061#^ajygdl]]
 
 ---
 
@@ -12,6 +12,8 @@
 Este espacio está dedicado a la documentación e interconexión de los conceptos desarrollados en **LGC**.
 
 La estructura de la biblioteca está diseñada para un uso intuitivo. Pero si quieres entender mejor cómo está construida, haz clic em [[0/lógica de la biblioteca\|lógica de la biblioteca]].
+
+*Algunas de las descripciones para el uso del sitio están orientadas solo para la versión de desktop.*
 
 ### Esta es una versión resumida de cómo navegar este espacio:
 

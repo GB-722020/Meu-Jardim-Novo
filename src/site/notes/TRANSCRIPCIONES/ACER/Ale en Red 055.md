@@ -1,6 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-055/","created":"2026-01-23T15:59:16.728-03:00","updated":"2026-02-21T10:50:18.657-03:00"}
+{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-055/","created":"2026-01-23T15:59:16.728-03:00","updated":"2026-02-28T14:44:53.797-03:00"}
 ---
+
+
+
+
+> [!NOTE]- Nota acerca de las transcripciones y la diagramación en Obsidian
+>
+>
+> 
+> *Es importante resaltar que el objetivo del sitio no es ser una forma de leer una transcripción en su formato completo ni sustituir el papel de las transcripciones originales.*
+> 
+> *Además, Obsidian posee una manera diferente de **interpretar ciertos caracteres**, lo que acaba creando algunos **problemas de diagramación**. También no se incluyen archivos multimedia para evitar una carga lenta que afectaría la visualización y interconexión de las notas.*
+> 
+> ***Para visualizar las transcripciones con todos los recursos de presentación y edición, se recomienda ir directamente a la transcripción en su formato original.***
+
 
 
 # TRANSCRIPCIÓN ”Alejandra Casado en RED-55” Con Leticia Candelaria
@@ -29,37 +43,37 @@ Prácticamente estamos en la mitad de la Cuarentena 85.
 
 **_Sí, día 19, faltan 20. ¿De qué nos quieres charlar este día?_**
 
-La verdad que es difícil para mí decir de qué hablar y proponer yo el tema, para eso, lo que procuro hacer, es brindar la referencia que veo que se necesita más, de acuerdo a lo que visualizo que va ocurriendo. Y en este sentido, me parece que vale la pena recordar [[ENTRADAS/_TEMAS/vuelta 19\|vuelta 19]] y poder entender que se trata de la octava del otro que no soy yo; si la puedo o no la puedo reconocer, si la puedo o no la puedo integrar... esta es la instan- cia; todos habitamos una Realidad que no necesariamente, planificamos, sino que entramos en el plan de otro sin darnos cuenta. Esta es como la apoyatura del momento, donde registramos que estamos en una Realidad donde alguien está de” domador” y otro está de “domado”, y el que está de domador, toma como propia la vida del otro, porque no la ha secuenciado. 
+La verdad que es difícil para mí decir de qué hablar y proponer yo el tema, para eso, lo que procuro hacer, es brindar la referencia que veo que se necesita más, de acuerdo a lo que visualizo que va ocurriendo. Y en este sentido, me parece que vale la pena recordar [[ENTRADAS/CONCEPTOS/vuelta 19\|vuelta 19]] y poder entender que se trata de la octava del otro que no soy yo; si la puedo o no la puedo reconocer, si la puedo o no la puedo integrar... esta es la instan- cia; todos habitamos una Realidad que no necesariamente, planificamos, sino que entramos en el plan de otro sin darnos cuenta. Esta es como la apoyatura del momento, donde registramos que estamos en una Realidad donde alguien está de” domador” y otro está de “domado”, y el que está de domador, toma como propia la vida del otro, porque no la ha secuenciado. 
 
 Hace ratito miraba las noticias y había enorme cantidad de noticias que tenían que ver con violaciones en masa a una persona... corte de cabeza en Afganistan a una muchachita... y así una larga lista de noticias...; acá gente que incendia lugares que considera que le pertenecen; directamente los toma como propios...; estas son las aberraciones que produce la no secuenciación de Calendaria; confundo los espacios y considero propio a todo, el territorio es mío, yo soy el único que tiene antepasados, los antepasados del otro, no cuentan; soy yo el que tengo en antepasado, entonces, a mí me corresponde y tengo el derecho y la rienda, y sin darme cuenta, absorbo a la vida del otro y ejecuto a la vida del otro como si fuera propia, como si fuera parte de mi combustible. Digo porqué estas cosas pasan en estos momentos a esta altura del año... 
 
-Entonces vivir este primer año... o este Aparato, mejor dicho, que lo vengo secuenciando desde primero de enero, ruteando, ruteando, ru- teando... ahora la Realidad, como tiene que ver con el componente social, es para que tomemos más conciencia de que nuestro [[ENTRADAS/_TEMAS/aparato psíquico\|aparato psíquico]], funciona bajo todas las frecuencias del año, entonces, modula los algoritmos entre nosotros, a través de cómo nosotros modulamos a ese año como frecuencias de nuestro psiquismo. 
+Entonces vivir este primer año... o este Aparato, mejor dicho, que lo vengo secuenciando desde primero de enero, ruteando, ruteando, ruteando... ahora la Realidad, como tiene que ver con el componente social, es para que tomemos más conciencia de que nuestro [[ENTRADAS/CONCEPTOS/aparato psíquico\|aparato psíquico]], funciona bajo todas las frecuencias del año, entonces, modula los algoritmos entre nosotros, a través de cómo nosotros modulamos a ese año como frecuencias de nuestro psiquismo. 
 
-Entonces, la palabra [[ENTRADAS/_TEMAS/daño\|daño]], tiene que ver con eso. Es un [[ENTRADAS/_TEMAS/año\|año]], en el cual yo estoy tomando la vida de los otros como propia. Aparte, hay un montón de noticias de personas que se matan y que tienen una gran relación de pareja o de madre/hijo... o sea, todo tipo de relaciones donde se trata de estas aberraciones... el canal de noticias está lleno de esto. 
+Entonces, la palabra [[ENTRADAS/CONCEPTOS/daño\|daño]], tiene que ver con eso. Es un [[ENTRADAS/CONCEPTOS/año\|año]], en el cual yo estoy tomando la vida de los otros como propia. Aparte, hay un montón de noticias de personas que se matan y que tienen una gran relación de pareja o de madre/hijo... o sea, todo tipo de relaciones donde se trata de estas aberraciones... el canal de noticias está lleno de esto. 
 
-Cuantos más tenemos reconocimiento de esta falla del nivel psíquico, nos da la chance de crear psicologías nuevas, y dejar a estas psicologías viejas, a nivel del ancla, para que el próximo año, ese [[ENTRADAS/_TEMAS/pasado\|pasado]] que fue este año, no tenerlo ATRÁS, porque si lo tenemos atrás, el pasado que está atrás, me lo encuentro delante, porque el tiempo es circular, y el pasado que está atrás me lo encuentro adelante, ¿Cómo hago para que el pasado no se me repita? Registro sus fallas a nivel anual, o sea, que tengo que tener en cuenta estos 23 espacios.
+Cuantos más tenemos reconocimiento de esta falla del nivel psíquico, nos da la chance de crear psicologías nuevas, y dejar a estas psicologías viejas, a nivel del ancla, para que el próximo año, ese [[ENTRADAS/CONCEPTOS/pasado\|pasado]] que fue este año, no tenerlo ATRÁS, porque si lo tenemos atrás, el pasado que está atrás, me lo encuentro delante, porque el tiempo es circular, y el pasado que está atrás me lo encuentro adelante, ¿Cómo hago para que el pasado no se me repita? Registro sus fallas a nivel anual, o sea, que tengo que tener en cuenta estos 23 espacios.
 { #8e55hf}
 
 
-Nosotros dedicamos 22 a las vueltas de 16 días, y el [[ENTRADAS/_TEMAS/Anillo de Fuego\|Anillo de Fuego]] que marca a las 12 posiciones del reloj, teniendo como eje al [[ENTRADAS/_TEMAS/procesador\|procesador]], que es el que regula los distintos tránsitos de acuerdo a minutos, segundos, horas... pero es un procesador el que tiene que regular a esos espacios. Entonces, Anillo de Fuego es nuestro grupo 23 de días; 23 es la V que es una antena que llamamos “[[cabecera del año\|cabecera del año]]” y que va a interconectar con el resto de las cabeceras de los años y eso se resume, en un reporte final, al [[ENTRADAS/_TEMAS/universo expresado\|universo expresado]] a nivel Sistema Solar, porque le enviamos una señal al Universo de dónde estamos, tal cual como estamos, y recibimos recursos para procesarlos en el Aparato siguiente, por eso tiene que ver con 23 (V), es la wifi, pero una wifi que funciona en muchas frecuencias distintas de fractal; es cómo nosotros recibimos las novedades para procesar de una manera distinta a los mismos asuntos. Ahora, si no podemos procesar de una manera distinta porque la [[ENTRADAS/_TEMAS/antena\|antena]] nos funciona mal, la procesamos igual, o sea, lo que tengo en el pasado, me lo encuentro en el futuro porque es una ruta que retorna, y vuelvo a repetir lo mismo.
+Nosotros dedicamos 22 a las vueltas de 16 días, y el [[ENTRADAS/CONCEPTOS/Anillo de Fuego\|Anillo de Fuego]] que marca a las 12 posiciones del reloj, teniendo como eje al [[ENTRADAS/CONCEPTOS/procesador\|procesador]], que es el que regula los distintos tránsitos de acuerdo a minutos, segundos, horas... pero es un procesador el que tiene que regular a esos espacios. Entonces, Anillo de Fuego es nuestro grupo 23 de días; 23 es la V que es una antena que llamamos “[[cabecera del año\|cabecera del año]]” y que va a interconectar con el resto de las cabeceras de los años y eso se resume, en un reporte final, al [[ENTRADAS/CONCEPTOS/universo expresado\|universo expresado]] a nivel Sistema Solar, porque le enviamos una señal al Universo de dónde estamos, tal cual como estamos, y recibimos recursos para procesarlos en el Aparato siguiente, por eso tiene que ver con 23 (V), es la wifi, pero una wifi que funciona en muchas frecuencias distintas de fractal; es cómo nosotros recibimos las novedades para procesar de una manera distinta a los mismos asuntos. Ahora, si no podemos procesar de una manera distinta porque la [[ENTRADAS/CONCEPTOS/antena\|antena]] nos funciona mal, la procesamos igual, o sea, lo que tengo en el pasado, me lo encuentro en el futuro porque es una ruta que retorna, y vuelvo a repetir lo mismo.
 { #lizf2v}
 
 
-Ahora, el [[ENTRADAS/_TEMAS/Sol\|Sol]] no está en el mismo lugar y las consecuencias que voy a tener para los mismos [[ENTRADAS/_TEMAS/error\|error]]es, son otras. Por ejemplo, yo le decía a mi pareja o a mi hijo, cuando se portaba mal, un insulto, y me respondía con un grito, y nos peleábamos y ya está... después en la repetición vuelve a pasar lo mismo, pero ya el nivel de impulso no puede responderme con un grito, toma un cuchillo y me lo clavó... Este incremento es de la “Escala Iónica”, entra por el Sistema Psíquico, sigue los conductos de la psicología que nosotros no lo hemos trabajado, porque en definitiva decimos: _es su carácter y el mío_ ... y ya está... ¡como si eso terminase ahí! 
+Ahora, el [[ENTRADAS/CONCEPTOS/Sol\|Sol]] no está en el mismo lugar y las consecuencias que voy a tener para los mismos [[ENTRADAS/CONCEPTOS/error\|error]]es, son otras. Por ejemplo, yo le decía a mi pareja o a mi hijo, cuando se portaba mal, un insulto, y me respondía con un grito, y nos peleábamos y ya está... después en la repetición vuelve a pasar lo mismo, pero ya el nivel de impulso no puede responderme con un grito, toma un cuchillo y me lo clavó... Este incremento es de la “Escala Iónica”, entra por el Sistema Psíquico, sigue los conductos de la psicología que nosotros no lo hemos trabajado, porque en definitiva decimos: _es su carácter y el mío_ ... y ya está... ¡como si eso terminase ahí!
 { #7l3a2q}
 
 
 No termina ahí, porque no se está teniendo en cuenta, que hay otro nivel de influencia en la Carga Iónica, y que va a exacerbar todos los defectos de la Estructura Psicológica, y le va a levantar el volumen a los mismos defectos; por lo tanto las CONsecuecias no son las mismas. Entonces, ahora que estamos en “alza” de un ciclo solar, es súper importante, que vivamos cada año con la mayor de las prudencias, porque el nivel de desquicio que vamos a encontrar si repetimos al mismo defecto que el año anterior, la consecuencia que vamos a recibir, tiene un volumen muchísimo más alto.
 
-Ahora, esto, por favor, no ligar ni al castigo, ni al karma, ni a la brujería... ni todas estas cuestiones que nos pueden haber entretenido muchísimo en nuestra etapa infantil, pero que ahora no nos va a alcanzar. Porque, por ejemplo, si dentro de “mi mundo”, portarme bien, hacer tal, tal, tal cosa... porque todas estas cosas están en equilibrio en mi mun- do... sin embargo, alguno de esos modos, puesto en el mundo del otro, puede ser el detonante de una bomba atómica; y como en “mi mundo” yo no puedo registrar cómo afecta eso al mundo del otro, voy y le toqueteó todo la “botonera”... entonces, no es que explota una vez, hace una serie de explosiones en hilera...
+Ahora, esto, por favor, no ligar ni al castigo, ni al karma, ni a la brujería... ni todas estas cuestiones que nos pueden haber entretenido muchísimo en nuestra etapa infantil, pero que ahora no nos va a alcanzar. Porque, por ejemplo, si dentro de “mi mundo”, portarme bien, hacer tal, tal, tal cosa... porque todas estas cosas están en equilibrio en mi mundo... sin embargo, alguno de esos modos, puesto en el mundo del otro, puede ser el detonante de una bomba atómica; y como en “mi mundo” yo no puedo registrar cómo afecta eso al mundo del otro, voy y le toqueteó todo la “botonera”... entonces, no es que explota una vez, hace una serie de explosiones en hilera...
 
-Y yo voy a estar re-inocente, re-bueno... porque estoy en mi “nube de pedo”, siendo el más bueno del planeta; sin darme cuenta que la octava del otro, es otra, no es igual que la mía. Eso son niveles de responsabilidad, que son niveles de respuesta que re- quiere la Realidad de nosotros, de que vayamos avanzando en nuestra madurez, porque nuestra ‘especie’ está capacitada con un nivel de antena mucho más sofisticada que necesita ser regulada con una Conciencia de porte distinto, donde la creencia, sea la creencia que sea, nos queda corta.
+Y yo voy a estar re-inocente, re-bueno... porque estoy en mi “nube de pedo”, siendo el más bueno del planeta; sin darme cuenta que la octava del otro, es otra, no es igual que la mía. Eso son niveles de responsabilidad, que son niveles de respuesta que requiere la Realidad de nosotros, de que vayamos avanzando en nuestra madurez, porque nuestra ‘especie’ está capacitada con un nivel de antena mucho más sofisticada que necesita ser regulada con una Conciencia de porte distinto, donde la creencia, sea la creencia que sea, nos queda corta.
 
-Cuando nosotros evaluamos la [[ENTRADAS/_TEMAS/cultura\|cultura]], lo hacemos en referencia al [[ENTRADAS/_TEMAS/pasado\|pasado]], como si en el futuro, la cultura no fuese algo a construir... Entonces, es como si pudiésemos trasladar la cultura del pasado hacia el futuro... No va a dar “torta”, dará “tortazos”... Antes me daba torta esa ecuación, pero después me da tortazos porque la Realidad exige una variación continua. Yo tengo un margen de paz para el aprendizaje, pero después de que ese tiempo de paz pasa, vienen los exámenes para ver qué aprendí de ahí, y si no aprendí de ahí, entonces, pierdo lo que obtuve en principio; ahora, si yo aprendo de esa paz, cuando viene el examen, puedo producir un nivel de paz mucho más estable del que recibí.
+Cuando nosotros evaluamos la [[ENTRADAS/CONCEPTOS/cultura\|cultura]], lo hacemos en referencia al [[ENTRADAS/CONCEPTOS/pasado\|pasado]], como si en el futuro, la cultura no fuese algo a construir... Entonces, es como si pudiésemos trasladar la cultura del pasado hacia el futuro... No va a dar “torta”, dará “tortazos”... Antes me daba torta esa ecuación, pero después me da tortazos porque la Realidad exige una variación continua. Yo tengo un margen de paz para el aprendizaje, pero después de que ese tiempo de paz pasa, vienen los exámenes para ver qué aprendí de ahí, y si no aprendí de ahí, entonces, pierdo lo que obtuve en principio; ahora, si yo aprendo de esa paz, cuando viene el examen, puedo producir un nivel de paz mucho más estable del que recibí.
 { #2w7ikh}
 
 
-Entonces, la [[ENTRADAS/_TEMAS/paz\|paz]] NO ES ALGO A CONSUMIR, ES ALGO A CONSTRUIR porque se requiere una altura distinta por cada año que transcurre, porque sino, se incremente el nivel de daño, porque se carga de iones la franjan que tiene que ver con la intención. Y esa intención que no tenía tanta Carga Iónica, yo la modulaba con mi Estructura Psicológica, pero si de pronto aparece una Carga Iónica mayor... un leve descontento que el otro produce con su comportamiento, hace que me saque psíquicamente, y después de una respuesta que es efímera y momentánea, no voy a poder creer lo que hice... Las cárceles están llenas de gente que hace cosas en un momento de desquicio, y en realidad tiene que ver con un fallo del [[ENTRADAS/_TEMAS/sistema psíquico\|sistema psíquico]], porque nuestra sociedad todavía no evolucionó hasta ese punto de poder interpretar al Aparato Psíquico nuestro, su relación con la Estructura Espaciotemporal y las oportunidades de la Anatomía del Calendario.
+Entonces, la [[ENTRADAS/CONCEPTOS/paz\|paz]] NO ES ALGO A CONSUMIR, ES ALGO A CONSTRUIR porque se requiere una altura distinta por cada año que transcurre, porque sino, se incremente el nivel de daño, porque se carga de iones la franjan que tiene que ver con la intención. Y esa intención que no tenía tanta Carga Iónica, yo la modulaba con mi Estructura Psicológica, pero si de pronto aparece una Carga Iónica mayor... un leve descontento que el otro produce con su comportamiento, hace que me saque psíquicamente, y después de una respuesta que es efímera y momentánea, no voy a poder creer lo que hice... Las cárceles están llenas de gente que hace cosas en un momento de desquicio, y en realidad tiene que ver con un fallo del [[ENTRADAS/CONCEPTOS/sistema psíquico\|sistema psíquico]], porque nuestra sociedad todavía no evolucionó hasta ese punto de poder interpretar al Aparato Psíquico nuestro, su relación con la Estructura Espaciotemporal y las oportunidades de la Anatomía del Calendario.
 { #gigeec}
 
 
@@ -71,12 +85,12 @@ Entonces, ¿cuál es la importancia de ese 31 de diciembre del Aparato 505? [[EN
 
 **_El de el 2.020, claro!_**
 
-Eso es donde recibimos la señal del Universo Expresado, respecto al reporte que nosotros hacemos de dónde estamos y dónde no estamos. Entonces, los recursos que después recibimos como soporte, tiene que ver... porque a ver, si yo no puedo tener restricciones, voy a recibir restricciones de parte del Universo Expresado, porque es como una especie de tutoría, hasta que nosotros aprendamos a regularnos solos, que eso lo vamos a tramitar recién en el año 2.100, porque se nos deja solos para transitar el Campo Particular con Aparatos de 1.460 días: 1.700, 1.800 y 1.900 [[ENTRADAS/_TEMAS/años seculares\|años seculares]], y 14 años después empezamos con guerras mundiales, porque no tenemos la madurez en el psiquismo. Eso es una especie de Tomografía Computada, que el Universo ya tomó nota de nuestro nivel de inmadurez. Y, lo que hace desde esos hechos, en estos nuevos Aparatos 500, es darnos todos los instructivos que vamos a ir citando para solucionar nuestros propios problemas a nivel de [[ENTRADAS/_TEMAS/estructura psíquica\|estructura psíquica]].
-Por favor, no confundir con [[ENTRADAS/_TEMAS/estructura psicológica\|estructura psicológica]]. La Estructura Psicológica es de orden doméstico, la Estructura Psíquica es foránea, es para tratar con Estructuras Espaciotemporales del Universo Expresado, no tiene nada que ver; pero es por ahí, por el nivel de desequilibrio que tuvimos, es el nivel del recurso que recibimos, porque es el que necesitamos.
+Eso es donde recibimos la señal del Universo Expresado, respecto al reporte que nosotros hacemos de dónde estamos y dónde no estamos. Entonces, los recursos que después recibimos como soporte, tiene que ver... porque a ver, si yo no puedo tener restricciones, voy a recibir restricciones de parte del Universo Expresado, porque es como una especie de tutoría, hasta que nosotros aprendamos a regularnos solos, que eso lo vamos a tramitar recién en el año 2.100, porque se nos deja solos para transitar el Campo Particular con Aparatos de 1.460 días: 1.700, 1.800 y 1.900 [[ENTRADAS/CONCEPTOS/años seculares\|años seculares]], y 14 años después empezamos con guerras mundiales, porque no tenemos la madurez en el psiquismo. Eso es una especie de Tomografía Computada, que el Universo ya tomó nota de nuestro nivel de inmadurez. Y, lo que hace desde esos hechos, en estos nuevos Aparatos 500, es darnos todos los instructivos que vamos a ir citando para solucionar nuestros propios problemas a nivel de [[ENTRADAS/CONCEPTOS/estructura psíquica\|estructura psíquica]].
+Por favor, no confundir con [[ENTRADAS/CONCEPTOS/estructura psicológica\|estructura psicológica]]. La Estructura Psicológica es de orden doméstico, la Estructura Psíquica es foránea, es para tratar con Estructuras Espaciotemporales del Universo Expresado, no tiene nada que ver; pero es por ahí, por el nivel de desequilibrio que tuvimos, es el nivel del recurso que recibimos, porque es el que necesitamos.
 { #3rj305}
 
 
-Entonces, de acá hasta el 2.100, paulatinamente, cada vez, cada vez, vamos recibiendo exactamente lo que necesitamos. Por favor, una cosa es la actualización del [[ENTRADAS/_TEMAS/Sol\|Sol]] como [[ENTRADAS/_TEMAS/mente\|mente]] de la estrella, y otra cosa es el despliegue doméstico de MENTALIDAD que son los ORBITALES DEL SOL.
+Entonces, de acá hasta el 2.100, paulatinamente, cada vez, cada vez, vamos recibiendo exactamente lo que necesitamos. Por favor, una cosa es la actualización del [[ENTRADAS/CONCEPTOS/Sol\|Sol]] como [[ENTRADAS/CONCEPTOS/mente\|mente]] de la estrella, y otra cosa es el despliegue doméstico de MENTALIDAD que son los ORBITALES DEL SOL.
 { #j92q2h}
 
 
@@ -100,11 +114,11 @@ Espero haber hablado súper claro, por lo menos lo mejor que puedo a día de hoy
 O sea, el margen es amplio, relativamente, pero es el día a día, el paso a paso, el que hace esta construcción._**
 
 
-Así es, e ir comprendiendo la anatomía del año, la anatomía de nuestras palabras, que están compuestas por fonemas que son códigos interdimensionales; los [[ENTRADAS/_TEMAS/concepto\|concepto]]s son estructuras psíquicas primero, psicológicas después, y luego, son registros de memoria.
+Así es, e ir comprendiendo la anatomía del año, la anatomía de nuestras palabras, que están compuestas por fonemas que son códigos interdimensionales; los [[ENTRADAS/CONCEPTOS/concepto\|concepto]]s son estructuras psíquicas primero, psicológicas después, y luego, son registros de memoria.
 { #b1sqx7}
 
 
-O sea, que nosotros volvemos a reinterpretar el Origen del concepto, podemos mejorar la canalización psicológica, por lo tanto, hacer mucho más estable al registro en [[ENTRADAS/_TEMAS/memoria\|memoria]]. Siempre que hago un registro nuevo de una memoria vieja, retiro el pasado de atrás y lo coloco abajo, eso me permite ahondar en la estabilidad.
+O sea, que nosotros volvemos a reinterpretar el Origen del concepto, podemos mejorar la canalización psicológica, por lo tanto, hacer mucho más estable al registro en [[ENTRADAS/CONCEPTOS/memoria\|memoria]]. Siempre que hago un registro nuevo de una memoria vieja, retiro el pasado de atrás y lo coloco abajo, eso me permite ahondar en la estabilidad.
 { #dcvnpd}
 
 
@@ -118,17 +132,17 @@ Porque el riesgo es la vida! Y es la vida en todas sus formas. Cuando el Sistema
 { #qcjw0u}
 
 
-Entonces, regular los niveles de [[ENTRADAS/_TEMAS/daño\|daño]], es lo que cada [[ENTRADAS/_TEMAS/año\|año]] tenemos que hacer, para que un año no sea un año más, sino otro año. Un año más es un año que está en el pasado y que se reiteran iguales todas mis plantillas, pero el año es otro año, no es un año más; si lo tomo como un año más, ese es mi problema, no es un año más.
+Entonces, regular los niveles de [[ENTRADAS/CONCEPTOS/daño\|daño]], es lo que cada [[ENTRADAS/CONCEPTOS/año\|año]] tenemos que hacer, para que un año no sea un año más, sino otro año. Un año más es un año que está en el pasado y que se reiteran iguales todas mis plantillas, pero el año es otro año, no es un año más; si lo tomo como un año más, ese es mi problema, no es un año más.
 { #574fw9}
 
 
 **_Claro, además cada año nos abre nuevas oportunidades y trae nuevas posiciones en el Espaciotiempo con un sentido y un propósito claro, entonces, se sigue incrementando uno a uno.
 
-Entonces ahora estamos en ese mapeo de la octava del otro para no hacer esa mezcla inconsciente o esa aparente [[ENTRADAS/_TEMAS/clonación\|clonación]], sino tenerlo claro._**
+Entonces ahora estamos en ese mapeo de la octava del otro para no hacer esa mezcla inconsciente o esa aparente [[ENTRADAS/CONCEPTOS/clonación\|clonación]], sino tenerlo claro._**
 
 Ahora, aprendo tanto de donde he mejorado como también de ver que otro entró en una aberración, y para mí, leer la aberración del otro es una premisa, porque es mi responsabilidad fichar a dónde está y después mantener...
 
-O sea, la octava mía, la octava tuya y construir la octava nuestra. Nosotros tenemos una fecha próxima que está dentro de esta vuelta 19, que es el 29 de octubre [[ENTRADAS/FECHAS/2021-10-29\|2021-10-29]], que es donde tenemos a la [[ENTRADAS/_TEMAS/5ª etapa\|5ª etapa]] 1.888. Esas tres octavas que aparecen en la cardinalidad SE, tiene que ver con mi octava, la tuya y la nuestra. En la nuestra, tienen que estar contempladas esas dos. Ahora, qué pasa con aquél que toma a la otra como propia? Entonces, aquella persona que no tiene límites personales, tendrá que recibir límites de parte del Contexto.
+O sea, la octava mía, la octava tuya y construir la octava nuestra. Nosotros tenemos una fecha próxima que está dentro de esta vuelta 19, que es el 29 de octubre [[ENTRADAS/FECHAS/2021-10-29\|2021-10-29]], que es donde tenemos a la [[ENTRADAS/CONCEPTOS/5ª etapa\|5ª etapa]] 1.888. Esas tres octavas que aparecen en la cardinalidad SE, tiene que ver con mi octava, la tuya y la nuestra. En la nuestra, tienen que estar contempladas esas dos. Ahora, qué pasa con aquél que toma a la otra como propia? Entonces, aquella persona que no tiene límites personales, tendrá que recibir límites de parte del Contexto.
 
 LO ÚNICO QUE TIENE QUE DOMINAR UNA PERSONA ES LA OCTAVA PROPIA, no la del otro. Esto es muy importante, tengo que tener en la mía cómo leer la del otro, para ayudar a construir la nuestra, por eso tenemos 22 vueltas y no 11.
 
@@ -162,11 +176,11 @@ Porque si yo dijera “seguro todos estamos a salvo”, es porque vino un santit
 
 El punto es que al santito, ya lo jubilamos, le hicimos a todos un pase verde y ya está, no tenemos más santitos, porque necesitamos madurar la franja del nivel personal, del nivel particular, y los santitos financiando tantas cosas, nos dejan siempre en “punto ciego”.
 
-TODOS ESTOS RECURSOS DEL NIVEL MÍSTICO, OCUPARON ESPACIO, AHORA OCUPAN NUESTRAS MEMORIAS, PERO NO PUEDEN OCUPAR NUESTRO [[ENTRADAS/_TEMAS/procesador\|procesador]], porque estamos en otro momento histórico donde precisamos poner en juego recursos que tienen que ver con los alcances de ‘nuestra especie’, que son muy altos, por eso que si no los regulamos, se vuelven en contra nuestra.
+TODOS ESTOS RECURSOS DEL NIVEL MÍSTICO, OCUPARON ESPACIO, AHORA OCUPAN NUESTRAS MEMORIAS, PERO NO PUEDEN OCUPAR NUESTRO [[ENTRADAS/CONCEPTOS/procesador\|procesador]], porque estamos en otro momento histórico donde precisamos poner en juego recursos que tienen que ver con los alcances de ‘nuestra especie’, que son muy altos, por eso que si no los regulamos, se vuelven en contra nuestra.
 { #9twb8t}
 
 
-Una cosa que también podemos hacer es separar [[ENTRADAS/_TEMAS/juicio\|juicio]] de [[ENTRADAS/_TEMAS/juzgamiento\|juzgamiento]]. Juicio es este equilibrio que tengo en mi mente que me hacer poder regular con mi Conciencia y tomar a esos impulsos y poder decodificarlos y los ruteo en incremento finalmente; eso es lo que hace mi juicio. Ahora, juzgamiento es cuando linealmente construyo las distancias entre Conciencia de distinto tamaño; una Conciencia siempre tiene un tamaño distinto de otra, por lo tanto, lo que es normal para la vida de una persona, es una brutalidad para otra, porque nuestras Conciencias no miden lo mismo, entonces, nuestra escala de valores corre por lugares distintos, y si esas cosas no las diferenciamos primero, no podemos regular un tercer mundo que sea el mundo nuestro. 
+Una cosa que también podemos hacer es separar [[ENTRADAS/CONCEPTOS/juicio\|juicio]] de [[ENTRADAS/CONCEPTOS/juzgamiento\|juzgamiento]]. Juicio es este equilibrio que tengo en mi mente que me hacer poder regular con mi Conciencia y tomar a esos impulsos y poder decodificarlos y los ruteo en incremento finalmente; eso es lo que hace mi juicio. Ahora, juzgamiento es cuando linealmente construyo las distancias entre Conciencia de distinto tamaño; una Conciencia siempre tiene un tamaño distinto de otra, por lo tanto, lo que es normal para la vida de una persona, es una brutalidad para otra, porque nuestras Conciencias no miden lo mismo, entonces, nuestra escala de valores corre por lugares distintos, y si esas cosas no las diferenciamos primero, no podemos regular un tercer mundo que sea el mundo nuestro. 
 { #81ovb2}
 
 
@@ -184,14 +198,14 @@ Entonces, las octavas sociales, tienen que tener a vista que incluyen a ‘sujet
 
 Lógicamente, no se puede construir una octava social con esos niveles de inmadurez particular.
 
-Todas estas cosas, tienen que ver ya con [[ENTRADAS/_TEMAS/vuelta 20\|vuelta 20]], porque vuelta 20, ya es la vuelta 9 del otro, o sea que voy a estar gestionando los incrementos del otro, me voy a tener que incrementar en el negativo ( _se señala a sí misma_ ) para atender un incremento positivo de alguien que se desborda y toma mi vida como propia suya.
+Todas estas cosas, tienen que ver ya con [[ENTRADAS/CONCEPTOS/vuelta 20\|vuelta 20]], porque vuelta 20, ya es la vuelta 9 del otro, o sea que voy a estar gestionando los incrementos del otro, me voy a tener que incrementar en el negativo ( _se señala a sí misma_ ) para atender un incremento positivo de alguien que se desborda y toma mi vida como propia suya.
 
 Entonces, entramos en vuelta 20, a gestionar incrementos. Incrementos: negativo ( _se señala a sí misma_ ) cómo atiendo el desborde de los incrementos en positivo de quien no tiene una regulación propia.
 
 **_Buenísimo, buenísimo! Para quienes estamos haciendo este mapeo del otro y vamos a tener esa oportunidad de procesar- lo así.
 Quienes no lo están realizando, van a esa complicación..._**
 
-Comprendamos que lo primero que nos pasa, es el registro de juicio que lo hago desde mí, ahí me va a caer afuera en el [[ENTRADAS/_TEMAS/límite\|límite]], muchísimas cosas de los demás, por límites míos, del otro, fallos en la comunicación, acumulación de cosas reprimidas en el pasado... cantidad de variantes, por las cuales no estaré en condiciones de que todo esto pase suave.
+Comprendamos que lo primero que nos pasa, es el registro de juicio que lo hago desde mí, ahí me va a caer afuera en el [[ENTRADAS/CONCEPTOS/límite\|límite]], muchísimas cosas de los demás, por límites míos, del otro, fallos en la comunicación, acumulación de cosas reprimidas en el pasado... cantidad de variantes, por las cuales no estaré en condiciones de que todo esto pase suave.
 
 **_Por eso es importante haciendo el paso a paso, esa Conciencia y el seguimiento de la Calendaria para ir procesando esos vínculos o esos mapeos para ir sumando recursos, como dijiste, en negativo, para cuando se presentan en el contexto._**
 
@@ -207,7 +221,7 @@ Lo que pasa es que, como obviamente, estamos conectados algoritmicamente, los �
 
 **_No es un enjuiciamiento_**
 
-Está reflejando nuestro [[ENTRADAS/_TEMAS/defecto\|defecto]] en el nivel estructural: nuestros niveles de fantasía, de negación, de soberbia... todas las cosas que no nos gustan, están puestas ahí.
+Está reflejando nuestro [[ENTRADAS/CONCEPTOS/defecto\|defecto]] en el nivel estructural: nuestros niveles de fantasía, de negación, de soberbia... todas las cosas que no nos gustan, están puestas ahí.
 
 Entonces, hay que rescatar el “valor del aprendizaje”, ese nivel de madurez, también se lo debo a ella, porque la madurez se construye a la par de que se produce el desequilibrio; digamos, somos todos socios, quien lo hace consciente, quien lo hace inconsciente, de la mejora de nuestra especie, eso por un lado.
 
@@ -219,17 +233,17 @@ Entonces, es muy importante que destaquemos estas cosas de ES UN PUENTE HACIA LO
 
 ¿Qué es lo realmente nuevo?
 
-Es el [[ENTRADAS/_TEMAS/nuevo\|nuevo]] detalle que encontramos en lo viejo, entonces, lo viejo quedó registrado y pasa a formar parte de abajo, del ancla, y no del pasado que se vuelve a repetir en el futuro. Entonces, si vemos el Calendario LGC, la sumatoria tiene 18.076, o sea, ese 708 que es la nueva codificación de un error social. Un error social es un Sistema de Navegación y le llamo error porque dejo abierta la posibilidad de que sea mejor en el futuro.
+Es el [[ENTRADAS/CONCEPTOS/nuevo\|nuevo]] detalle que encontramos en lo viejo, entonces, lo viejo quedó registrado y pasa a formar parte de abajo, del ancla, y no del pasado que se vuelve a repetir en el futuro. Entonces, si vemos el Calendario LGC, la sumatoria tiene 18.076, o sea, ese 708 que es la nueva codificación de un error social. Un error social es un Sistema de Navegación y le llamo error porque dejo abierta la posibilidad de que sea mejor en el futuro.
 { #21bq2l}
 
 
-Siempre, la premisa [[ENTRADAS/_TEMAS/espacio-temporal\|espacio-temporal]], es peor en el [[ENTRADAS/_TEMAS/pasado\|pasado]], mejor en el [[ENTRADAS/_TEMAS/futuro\|futuro]]; el futuro no tiene mejor, si el pasado no es peor. Entonces, es muy importante que la función Espaciotemporal, quede acordada.
+Siempre, la premisa [[ENTRADAS/CONCEPTOS/espacio-temporal\|espacio-temporal]], es peor en el [[ENTRADAS/CONCEPTOS/pasado\|pasado]], mejor en el [[ENTRADAS/CONCEPTOS/futuro\|futuro]]; el futuro no tiene mejor, si el pasado no es peor. Entonces, es muy importante que la función Espaciotemporal, quede acordada.
 { #y5973o}
 
 
 Después, peor va en el ancla, porque SI PEOR ESTÁ EN EL ANCLA, A MÍ NO ME HACE DAÑO, PERO ME HACE ANCLAJE. Ese anclaje, me da poder en el presente, y el poder tiene la Función PER atrapando al DO, y el DO es el peor que está abajo, y también es una actualización PER, pero desactualizada.
 
-La misma palabra “poder”, la misma palabra “peor”, pero, si peor en vez de estar abajo, está en el pasado, va a actuar a nivel de mi “procesador”; yo preciso que “peor”, funcione a nivel del [[ENTRADAS/_TEMAS/ancla\|ancla]], no a nivel de [[ENTRADAS/_TEMAS/procesador\|procesador]], si la tengo como boya, me funciona a la altura del procesador. Son detalles, son cosas... ¡esto es una ciencia!, pero no es de este tiempo, es del futuro, y no la vamos a poder encontrar en el pobre Freud, no va- mos a ser tan “cara rota” de pedirle esto al pobre Freud que no vivió toda esta era de tantos cambios y tanta convulsión.
+La misma palabra “poder”, la misma palabra “peor”, pero, si peor en vez de estar abajo, está en el pasado, va a actuar a nivel de mi “procesador”; yo preciso que “peor”, funcione a nivel del [[ENTRADAS/CONCEPTOS/ancla\|ancla]], no a nivel de [[ENTRADAS/CONCEPTOS/procesador\|procesador]], si la tengo como boya, me funciona a la altura del procesador. Son detalles, son cosas... ¡esto es una ciencia!, pero no es de este tiempo, es del futuro, y no la vamos a poder encontrar en el pobre Freud, no vamos a ser tan “cara rota” de pedirle esto al pobre Freud que no vivió toda esta era de tantos cambios y tanta convulsión.
 { #15o8yp}
 
 
@@ -242,7 +256,7 @@ Claro, ahora, tenemos que jugar nuestra captación, hacer nuestros desarrollos y
 
 ¡Esta me vuelve a poner lo personal ahí!
 
-Evidentemente, 44 son todos los modelos, aparte, nuestro referentes Greenwich... más claro... Ahora, esos todos los modelos 44, tienen ahora todos los modelos que es 404 [[ENTRADAS/_TEMAS/código 404\|código 404]], que es un código, que cuando lo vemos en la web, significa que no se identifica al modelo; esa solicitud, no se identifica, no se encuentra, o sea, todos los modelos encuentran a lo que no se encuentra; todos los modelos están encontrando al “no encontrador”.
+Evidentemente, 44 son todos los modelos, aparte, nuestro referentes Greenwich... más claro... Ahora, esos todos los modelos 44, tienen ahora todos los modelos que es 404 [[ENTRADAS/CONCEPTOS/código 404\|código 404]], que es un código, que cuando lo vemos en la web, significa que no se identifica al modelo; esa solicitud, no se identifica, no se encuentra, o sea, todos los modelos encuentran a lo que no se encuentra; todos los modelos están encontrando al “no encontrador”.
 { #9pdmsb}
 
 
@@ -265,34 +279,34 @@ Solamente tengo que detectar lo que es capaz de hacer, y ahí colocar el límite
 
 Las octavas acostadas es cómo se interconectan las octavas nativas.
 
-**_Empieza antes por, qué es una [[ENTRADAS/_TEMAS/octava\|octava]]..._**
+**_Empieza antes por, qué es una [[ENTRADAS/CONCEPTOS/octava\|octava]]..._**
 
 Es un circuito que abarca todos los orbitales de nuestro Sistema Solar. Entonces, todos los orbitales de nuestro Sistema Solar, forman una composición muy dinámica que siempre se está alimentando con un nuevo actualizador, porque el 9º orbital tiene que ver con una actualización del octavo, por eso 98 es una actualización permanente de nuestro circuito que abarca desde el aspecto más sutil y subatómico, al más físico y anatómico.
 { #e0nki5}
 
 
-Todas las escalas están cubiertas, todas las necesidades están cubiertas,
-y es un algoritmo.
-Y eso combinado con nuestra posición gravitatoria, nos da lo que llamamos [[ENTRADAS/_TEMAS/error\|error]]: 7, posición gravitatoria en mi unidad de valor, -orbital [[ENTRADAS/_TEMAS/Urano\|Urano]]- que son todos los circuitos RA que están en la posición NO, la que activa a la octava; cuando NO se pone en ON, se activa la octava. Entonces, octava es un circuito cerrado de comunicación. Yo tengo un “sistema”, un “sonar” que funciona con un alcance, fuera de ese alcance, todos son límites.
+Todas las escalas están cubiertas, todas las necesidades están cubiertas, y es un algoritmo.
+
+Y eso combinado con nuestra posición gravitatoria, nos da lo que llamamos [[ENTRADAS/CONCEPTOS/error\|error]]: 7, posición gravitatoria en mi unidad de valor, -orbital [[ENTRADAS/CONCEPTOS/Urano\|Urano]]- que son todos los circuitos RA que están en la posición NO, la que activa a la octava; cuando NO se pone en ON, se activa la octava. Entonces, octava es un circuito cerrado de comunicación. Yo tengo un “sistema”, un “sonar” que funciona con un alcance, fuera de ese alcance, todos son límites.
 { #7ewkk1}
 
 
-Entonces, quien tiene una octava que incluye más elementos, tiene más cobertura, más anticipación, más estabilidad, más recursos... porque tiene a priori, un juicio equilibrado, más real, donde apoya todos sus mecanismos, desde el más psíquico hasta el más físico, sino no es una octava.
+Entonces, quien tiene una octava que incluye más elementos, tiene más cobertura, más anticipación, más estabilidad, más recursos... porque tiene a priori, un juicio equilibrado, más real, donde apoya todos sus mecanismos, desde el más psíquico hasta el más físico, sino no es una octava. 
 
 Por eso es tratamiento interdimensional de las cosas. 
 
 Cada uno tenemos un octava que puede ir creciendo, o sea, se puede ir incrementando para que tenga cada vez más cobertura, entonces, nuestro “juicio”, capaz que es inestable, cruzado, no es auto-referente... o sea, tiene muchas anomalías, es una octava muy porosa, se filtra, prácticamente está muy desdibujada... entonces, me encuentro circulando por caminos ajenos, porque no tengo una auto-definición.
 
 
-Por eso digo, [[ENTRADAS/_TEMAS/juicio\|juicio]] TIENE QUE VER CON EL EQUILIBRIO MENTAL, y si tiene que ver con el equilibrio, también tiene que ver con el desequilibrio, porque yo no sería el foco de auto-referencia si mi foco de referencia está desplazado a otro sujeto que no soy yo. Y si ese foco está desplazado, obviamente mi formato mental, no es estable, es inestable.
+Por eso digo, [[ENTRADAS/CONCEPTOS/juicio\|juicio]] TIENE QUE VER CON EL EQUILIBRIO MENTAL, y si tiene que ver con el equilibrio, también tiene que ver con el desequilibrio, porque yo no sería el foco de auto-referencia si mi foco de referencia está desplazado a otro sujeto que no soy yo. Y si ese foco está desplazado, obviamente mi formato mental, no es estable, es inestable.
 { #lu6h52}
 
 
-Todas esas cosas, octava nativa es reconocer e identificar esos patrones que tengo naturalmente, de modo espontáneo, conocer dónde están apoyados, conocer sus diferentes secciones, y con eso, obtengo incrementos y ganancias, porque siempre que la [[ENTRADAS/_TEMAS/conciencia\|conciencia]] observe a la octava, la octava se incrementará, nunca puede quedar igual, porque la Conciencia es la que la inicia, por eso es la que la puede modificar; la mente por sí sola, no puede hacerlo, pero dejas a la mente sola, y lo que hace es repetir, repetir y repetir... y se dará ochenta veces contra la misma pared, y en todo caso, romperá la pared, pero no puede rediseñar nada, es la Conciencia la que rediseña a la mente, pero si la Conciencia está obturada, no hay posibilidades.
+Todas esas cosas, octava nativa es reconocer e identificar esos patrones que tengo naturalmente, de modo espontáneo, conocer dónde están apoyados, conocer sus diferentes secciones, y con eso, obtengo incrementos y ganancias, porque siempre que la [[ENTRADAS/CONCEPTOS/conciencia\|conciencia]] observe a la octava, la octava se incrementará, nunca puede quedar igual, porque la Conciencia es la que la inicia, por eso es la que la puede modificar; la mente por sí sola, no puede hacerlo, pero dejas a la mente sola, y lo que hace es repetir, repetir y repetir... y se dará ochenta veces contra la misma pared, y en todo caso, romperá la pared, pero no puede rediseñar nada, es la Conciencia la que rediseña a la mente, pero si la Conciencia está obturada, no hay posibilidades.
 { #2t84qn}
 
 
-Porque la [[ENTRADAS/_TEMAS/conciencia\|conciencia]] tiene acceso al [[ENTRADAS/_TEMAS/psiquismo\|psiquismo]], en tanto que la [[ENTRADAS/_TEMAS/mente\|mente]], a la [[ENTRADAS/_TEMAS/psicología\|psicología]], y la psicología, ya es el ruteo de la octava. Entonces, si tengo una Conciencia, -que la tengo que ligar al Espacio- tiempo- estoy hablando de Conciencia con “C”, no estoy hablando de ConSciencia.
+Porque la [[ENTRADAS/CONCEPTOS/conciencia\|conciencia]] tiene acceso al [[ENTRADAS/CONCEPTOS/psiquismo\|psiquismo]], en tanto que la [[ENTRADAS/CONCEPTOS/mente\|mente]], a la [[ENTRADAS/CONCEPTOS/psicología\|psicología]], y la psicología, ya es el ruteo de la octava. Entonces, si tengo una Conciencia, -que la tengo que ligar al Espacio- tiempo- estoy hablando de Conciencia con “C”, no estoy hablando de ConSciencia.
 { #zpdffb}
 
 
@@ -309,7 +323,7 @@ ConSciencia es el ruteo que necesitamos domésticamente para gestionar nuestro f
 La Conciencia es donde alojamos el área estratégica de nuestras vidas,
 no el área de valor.
 
-Lo estratégico tiene que ver con un aspecto que está al servicio del valor, pero no es en sí mismo el valor, sino que está al servicio de aquello que tiene valor; lo que tiene valor es lo que está más abajo, está más plasma- do en la 3D. El aspecto de [[ENTRADAS/_TEMAS/5ª dimensión\|5ª dimensión]], tiene que ver, con servir a la 3ª, en aquello que la 3ª necesita para seguir siendo 3ª; auxiliar, ahí está la palabra.
+Lo estratégico tiene que ver con un aspecto que está al servicio del valor, pero no es en sí mismo el valor, sino que está al servicio de aquello que tiene valor; lo que tiene valor es lo que está más abajo, está más plasma- do en la 3D. El aspecto de [[ENTRADAS/CONCEPTOS/5ª dimensión\|5ª dimensión]], tiene que ver, con servir a la 3ª, en aquello que la 3ª necesita para seguir siendo 3ª; auxiliar, ahí está la palabra.
 
 **_Te interrumpí cuando estabas hablando de acostar la octava,
 por si ahí querías..._**
@@ -325,10 +339,10 @@ No va acá, va allá, es, pero no ahora; la octava cuando se me acuesta, se me v
 **_Sí, muy bien, muy claro.
 Ale, qué más quisieras agregar, con qué deseas terminar esta emisión 55, qué te surge..._**
 
-Realmente... me surge el deseo de que podamos poco a poco advertir la importancia que tiene esto que la Realidad nos está poniendo en bande- ja, es un recurso gigantesco y que, por supuesto, lo tenemos que ir sabo- reando muy de a poquito, de otra manera no se puede.
+Realmente... me surge el deseo de que podamos poco a poco advertir la importancia que tiene esto que la Realidad nos está poniendo en bandeja, es un recurso gigantesco y que, por supuesto, lo tenemos que ir saboreando muy de a poquito, de otra manera no se puede.
 
 Ayer creo que fue que comenté una señal muy alentadora...
-Eso puedo compartir para el final... en el volcán de La Palma, había pe- rros perdidos y todos mirando ese lugar, y de pronto aparece una bande- ra que dice: “los perros están bien”. Alguien entró por donde no se podía ver por donde entraba, sacó los pe-
+Eso puedo compartir para el final... en el volcán de La Palma, había perros perdidos y todos mirando ese lugar, y de pronto aparece una bandera que dice: “los perros están bien”. Alguien entró por donde no se podía ver por donde entraba, sacó los pe-
 rros y puso ese cartel.
 
 Y la paradoja es: hay observadores tan hábiles y veloces, que hacen posi-
@@ -341,9 +355,9 @@ y unos operan en un tiempo imperceptible para otros.
 Y en mensaje bonito fue, que no están para hacernos daño por más que
 sean invisibles.
 
-Así que es un mensaje alentador para un 21-10-21, en un volcán que también se expresó en el mismo año donde [[ENTRADAS/ANTENAS/Cristóbal Colón\|Cristóbal Colón]] viajaba para América en el [[ENTRADAS/_TEMAS/Aparato 373\|Aparato 373]], año Decide y ahora en el Aparato 506, pero en el año Asume.
+Así que es un mensaje alentador para un 21-10-21, en un volcán que también se expresó en el mismo año donde [[ENTRADAS/ANTENAS/Cristóbal Colón\|Cristóbal Colón]] viajaba para América en el [[ENTRADAS/CONCEPTOS/Aparato 373\|Aparato 373]], año Decide y ahora en el Aparato 506, pero en el año Asume.
 
-Y bueno, nada, creo que estamos descubriendo finalmente a la 5ª dimensión, y de eso se trata [[ENTRADAS/_TEMAS/La Palma\|La Palma]].
+Y bueno, nada, creo que estamos descubriendo finalmente a la 5ª dimensión, y de eso se trata [[ENTRADAS/CONCEPTOS/La Palma\|La Palma]].
 
 **_Esa base 12 vinculando la MA el PA_**
 
