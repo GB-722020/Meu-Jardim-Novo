@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0/instrucciones-de-navegacion/","created":"2026-02-08T10:32:10.846-03:00","updated":"2026-02-26T11:38:44.056-03:00"}
+{"dg-publish":true,"permalink":"/0/instrucciones-de-navegacion/","created":"2026-02-08T10:32:10.846-03:00","updated":"2026-02-28T09:46:07.704-03:00"}
 ---
 
 
@@ -27,7 +27,7 @@ Haga clic para expandir la pestaña correspondiente:
 > 
 > La carpeta **ENTRADAS** está subdividida en 3 carpetas:
 > 
-> - **_CONCEPTOS-TEMAS:** contiene conceptos y cualquier otro tema, con excepción de las otras subcarpetas;
+> - **_TEMAS:** contiene conceptos y cualquier otro tema, con excepción de las otras subcarpetas;
 >     
 > - **ANTENAS;**
 >     
@@ -47,7 +47,7 @@ Haga clic para expandir la pestaña correspondiente:
 > 
 > El principal recurso que encontramos en las **ENTRADAS** son **apuntes** que sintetizan la forma en que la nota actual fue mencionada en alguna de las **TRANSCRIPCIONES**, generando un enlace.
 > 
-> Por ejemplo, en la ficha **[[ENTRADAS/_CONCEPTOS-TEMAS/mente\|mente]]** encontrará el siguiente apunte:
+> Por ejemplo, en la ficha **[[ENTRADAS/_TEMAS/mente\|mente]]** encontrará el siguiente apunte:
 > 
 > > `La mente opera como una interfase entre espíritu, alma y cuerpo, por eso es que no tiene ninguno de los tres -porque va continuamente cambiando de un área a la otra,` [[TRANSCRIPCIONES/ACER/Ale en Red 011#^oxv66g\|Ale en Red 011#^oxv66g]]
 > 
@@ -57,11 +57,11 @@ Haga clic para expandir la pestaña correspondiente:
 > 
 > ### 2. Cómo funcionan las fichas
 > 
-> En [[un otro 0/Obsidian\|Obsidian]], cada vez que se colocan corchetes `[[ ]]` alrededor de una palabra, se genera una nueva ficha. La aplicación va mapeando y creando dos recursos fundamentales: **a.** las **"notas que mencionan esta nota"** (backlinks) y **b.** el **Graph View** (vista de gráfico), que son dos modos de navegar el sitio.
+> En [[un otro 0/Obsidian\|Obsidian]], cada vez que se colocan corchetes `[[ ]]` alrededor de una palabra, se genera una nueva nota. La aplicación va mapeando y creando dos recursos fundamentales: **a.** las **"notas que mencionan esta nota"** (backlinks) y **b.** el **Graph View** (vista de gráfico), que son dos modos de navegar el sitio.
 > 
 > 
 > **a. Notas que mencionan esta nota**
-> El recurso de las notas que mencionan esta ficha es autoexplicativo: son las menciones que otras fichas contienen en relación a la ficha actual.
+> El recurso de las notas que mencionan esta nota es autoexplicativo: son las menciones que otras fichas contienen en relación a la ficha actual.
 > 
 > Sería como preguntar: **"¿Quién está hablando de mí?"**.
 > 
@@ -74,9 +74,9 @@ Haga clic para expandir la pestaña correspondiente:
 > **b. Graph View**
 > El recurso visual para navegar por la biblioteca son los gráficos contenidos dentro de cada nota. El punto central representa la nota actual y podemos visualizar todas las demás notas con las que se conecta, tanto **ENTRADAS** como **TRANSCRIPCIONES**.
 > 
-> Puede hacer clic en cualquier punto para visitar dicha nota.
+> Puede hacer clic en cualquier punto para visitar dicha nota, o 'jugar' con las notas y moverlas para entender mejor su relación.
 > 
-> El tamaño del punto indica la cantidad de conexiones que posee. Cuanto más grande sea el punto, mayor será el número de conexiones que realiza, y viceversa.
+> El tamaño del punto indica la cantidad de conexiones que posee. Cuanto más grande sea el punto, mayor será el número de conexiones que realiza (con las notas que se ven en este recorte), y viceversa.
 > 
 > En la parte superior del gráfico, encontrarás el **selector de profundidad** (depth). Esta función controla el "alcance" de la visión del lector en el mapa de conexiones. Los niveles de profundidad definen **cuántas conexiones de distancia** mostrará el gráfico a partir de la nota que se está leyendo en ese momento.
 > 

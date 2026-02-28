@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/entradas/temas/5-etapa/","created":"2026-01-23T11:55:14.303-03:00","updated":"2026-02-06T17:25:32.583-03:00"}
+---
+
+
+**Ale en Red 2**
+
+[[ENTRADAS/FECHAS/2020-05-28\|2020-05-28]],  [[ENTRADAS/_TEMAS/5ª etapa\|5ª etapa]] está en **1369 - 1 369 [[TRANSCRIPCIONES/ACER/Ale en Red 002#^xfhmp4\|Ale en Red 002#^xfhmp4]]
+
+---
+*volver al [[0/índice\|índice]]*

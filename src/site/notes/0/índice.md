@@ -3,7 +3,7 @@
 ---
 
 
-## =="Si no se anotan [[ENTRADAS/_CONCEPTOS-TEMAS/detalle\|detalle]]s, no se incrementa la [[ENTRADAS/_CONCEPTOS-TEMAS/captación\|captación]] y estas emisiones sirven para anotar detalles."== [[TRANSCRIPCIONES/ACER/Ale en Red 061#^ajygdl\|Ale en Red 061#^ajygdl]]
+## =="Si no se anotan [[ENTRADAS/_TEMAS/detalle\|detalle]]s, no se incrementa la [[ENTRADAS/_TEMAS/captación\|captación]] y estas emisiones sirven para anotar detalles."== [[TRANSCRIPCIONES/ACER/Ale en Red 061#^ajygdl\|Ale en Red 061#^ajygdl]]
 
 ---
 
