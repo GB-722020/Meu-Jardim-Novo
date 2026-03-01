@@ -1,6 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-151/","created":"2026-01-19T15:35:32.171-03:00","updated":"2026-02-21T10:52:31.020-03:00"}
+{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-151/","created":"2026-01-19T15:35:32.171-03:00","updated":"2026-02-28T15:37:49.470-03:00"}
 ---
+
+
+
+
+
+> [!NOTE]- Nota acerca de las transcripciones y la diagramación en Obsidian
+>
+>
+> 
+> *Es importante resaltar que el objetivo del sitio no es ser una forma de leer una transcripción en su formato completo ni sustituir el papel de las transcripciones originales.*
+> 
+> *Además, Obsidian posee una manera diferente de **interpretar ciertos caracteres**, lo que acaba creando algunos **problemas de diagramación**. También no se incluyen archivos multimedia para evitar una carga lenta que afectaría la visualización y interconexión de las notas.*
+> 
+> ***Para visualizar las transcripciones con todos los recursos de presentación y edición, se recomienda ir directamente a la transcripción en su formato original.***
+
 
 
 **Alejandra Casado EN RED 1 51 – 1 de enero 2026 – Vuelta 1 - 2026**  
@@ -30,81 +45,81 @@ _Y bueno, hoy es primero de enero de 2026. ¿Cómo estás, Ale? ¿Qué tal?_
 
 **ALEJANDRA:** Sí. Porque todo entra en un funcionamiento vertiginoso. Entonces uno piensa, ¿Cuál es la mejor manera de graficar esto o de explicarlo? Voy a intentarlo, por- que la verdad que es intentarlo, siempre se puede mejorar después.
 
-Pero, comprender esta SINCRONIZACIÓN entre el **[[ENTRADAS/_CONCEPTOS-TEMAS/Aparato 507\|Aparato 507]]** y el **[[ENTRADAS/_CONCEPTOS-TEMAS/Aparato 493\|Aparato 493]]** , yo creo que es un parteaguas para que nosotros podamos estar a la altura de lo que está solicitando el Campo Unificado. Porque tenemos el privilegio de poder tener una AN- TENA EXTRA y poder ANTICIPAR un montón de RECURSOS para un montón de DESA- FÍOS que no imaginamos. pero que están llegando.
+Pero, comprender esta SINCRONIZACIÓN entre el **[[ENTRADAS/CONCEPTOS/Aparato 507\|Aparato 507]]** y el **[[ENTRADAS/CONCEPTOS/Aparato 493\|Aparato 493]]** , yo creo que es un parteaguas para que nosotros podamos estar a la altura de lo que está solicitando el Campo Unificado. Porque tenemos el privilegio de poder tener una AN- TENA EXTRA y poder ANTICIPAR un montón de RECURSOS para un montón de DESA- FÍOS que no imaginamos. pero que están llegando.
 
-Así que cuando digo que son “[[ENTRADAS/_CONCEPTOS-TEMAS/aparatos gemelos\|aparatos gemelos]]”, ¿A qué me refiero? Es que el mismo día de la semana del **1 de enero** del ASUME del 493 **es el mismo día de la semana** del ASUME 507. O sea, que van sincronizados el día de la semana.
+Así que cuando digo que son “[[ENTRADAS/CONCEPTOS/aparatos gemelos\|aparatos gemelos]]”, ¿A qué me refiero? Es que el mismo día de la semana del **1 de enero** del ASUME del 493 **es el mismo día de la semana** del ASUME 507. O sea, que van sincronizados el día de la semana.
 { #2jui8e}
 
 
 Los días de la semana son 7. Bueno, perfecto. Nosotros estamos con Calendaria que son siempre bases de 4, porque nosotros estamos haciendo una tarea realmente muy artesanal con el código, pero llega un punto que se sincronizan todas las variables, todas, todas, todas. Y claramente, verlo de manera estructurada va a ayudar mucho a la comprensión. Porque, así como el 1969 y el 2025 se han sincronizado día por día, además:
 
-- ¿Cuál es la variable? ¿Cuántos días hay entre el 1/1/1969 y el 1/1/2025? Nada más ni nada menos que **20454**. - ¿Cuáles son las filas que se nos montan en el desafío a partir del **Aparato 493**? La 4 y la 5 de La [[ENTRADAS/_CONCEPTOS-TEMAS/tabla de elementos\|tabla de elementos]]. Es como ¡tan claro cuando uno lo lee de manera estructurada! - Pero el punto más crítico llega en el [[ENTRADAS/_CONCEPTOS-TEMAS/ASIMILA\|ASIMILA]], porque en el Asimila montamos todos los recursos para lo que ya hemos preparado para RECIBIR en vida real. Entonces, simplemente se va a ACTIVAR. - Vos acabas de decir recién, “hoy es el día 1, de un año ASIMILA”.
+- ¿Cuál es la variable? ¿Cuántos días hay entre el 1/1/1969 y el 1/1/2025? Nada más ni nada menos que **20454**. - ¿Cuáles son las filas que se nos montan en el desafío a partir del **Aparato 493**? La 4 y la 5 de La [[ENTRADAS/CONCEPTOS/tabla de elementos\|tabla de elementos]]. Es como ¡tan claro cuando uno lo lee de manera estructurada! - Pero el punto más crítico llega en el [[ENTRADAS/CONCEPTOS/ASIMILA\|ASIMILA]], porque en el Asimila montamos todos los recursos para lo que ya hemos preparado para RECIBIR en vida real. Entonces, simplemente se va a ACTIVAR. - Vos acabas de decir recién, “hoy es el día 1, de un año ASIMILA”.
 { #8kjvsa}
 
 
 La frecuencia 1 de un año ASIMILA tiene como negativo del Aparato a **1095**. O sea, ¿qué significa?:
 
-- El RESET de la [[ENTRADAS/_CONCEPTOS-TEMAS/barra tal\|barra tal]]: **591**. - **50** , que es la ESTRUCTURA que va a estar respaldando ese código, tanto de subatómica para anatómica, como de anatómica para subatómica. Porque vamos a tener que extraer los recursos de ANTIMATERIA, quiero decir:
+- El RESET de la [[ENTRADAS/CONCEPTOS/barra tal\|barra tal]]: **591**. - **50** , que es la ESTRUCTURA que va a estar respaldando ese código, tanto de subatómica para anatómica, como de anatómica para subatómica. Porque vamos a tener que extraer los recursos de ANTIMATERIA, quiero decir:
 
-**La lectura del [[ENTRADAS/_CONCEPTOS-TEMAS/código\|código]]** nos posibilita usar los RECURSOS del CONTENEDOR y estar a la expectativa de los retos del [[ENTRADAS/_CONCEPTOS-TEMAS/contenedor\|contenedor]]. Entonces, todas esas señales nos van parametrizando. **Y** a no nos estamos guiando por la [[ENTRADAS/_CONCEPTOS-TEMAS/memoria\|memoria]] de lo OCURRIDO, - sino por la [[ENTRADAS/_CONCEPTOS-TEMAS/antena\|antena]] de LO QUE OCURRIRÁ. Porque lo podemos leer con anticipación y eso da muchísimo aire en el [[ENTRADAS/_CONCEPTOS-TEMAS/cono\|cono]], que no te va a evitar los retos del cimiento -porque el cimiento se va a mover como nunca-, pero sí la CAPITALIZACIÓN de LO OCURRIDO.
+**La lectura del [[ENTRADAS/CONCEPTOS/código\|código]]** nos posibilita usar los RECURSOS del CONTENEDOR y estar a la expectativa de los retos del [[ENTRADAS/CONCEPTOS/contenedor\|contenedor]]. Entonces, todas esas señales nos van parametrizando. **Y** a no nos estamos guiando por la [[ENTRADAS/CONCEPTOS/memoria\|memoria]] de lo OCURRIDO, - sino por la [[ENTRADAS/CONCEPTOS/antena\|antena]] de LO QUE OCURRIRÁ. Porque lo podemos leer con anticipación y eso da muchísimo aire en el [[ENTRADAS/CONCEPTOS/cono\|cono]], que no te va a evitar los retos del cimiento -porque el cimiento se va a mover como nunca-, pero sí la CAPITALIZACIÓN de LO OCURRIDO.
 { #mrip41}
 
 
-Vamos a ver en cada FALLA un tesoro y una oportunidad. Obviamente, si la [[ENTRADAS/_CONCEPTOS-TEMAS/antena\|antena]] está prendida. Si está prendida la [[ENTRADAS/_CONCEPTOS-TEMAS/memoria\|memoria]], en cada [[ENTRADAS/_CONCEPTOS-TEMAS/falla\|falla]] hay una frustración y la frustración lo único que me tira es rechazo, tanto propio como exterior.
+Vamos a ver en cada FALLA un tesoro y una oportunidad. Obviamente, si la [[ENTRADAS/CONCEPTOS/antena\|antena]] está prendida. Si está prendida la [[ENTRADAS/CONCEPTOS/memoria\|memoria]], en cada [[ENTRADAS/CONCEPTOS/falla\|falla]] hay una frustración y la frustración lo único que me tira es rechazo, tanto propio como exterior.
 { #d8z7nn}
 
 
-Cuando rechazo a otro, es la exteriorización del [[ENTRADAS/_CONCEPTOS-TEMAS/autorrechazo\|autorrechazo]] de haber fallado en el [[ENTRADAS/_CONCEPTOS-TEMAS/flujo de señales\|flujo de señales]], pero esa falla es imperceptible para poderla rutear en la escala social.
+Cuando rechazo a otro, es la exteriorización del [[ENTRADAS/CONCEPTOS/autorrechazo\|autorrechazo]] de haber fallado en el [[ENTRADAS/CONCEPTOS/flujo de señales\|flujo de señales]], pero esa falla es imperceptible para poderla rutear en la escala social.
 { #cjgx4m}
 
 
-¿Cómo se arregla la [[ENTRADAS/_CONCEPTOS-TEMAS/escala social\|escala social]] con eso -para exhalar la **presión** del [[ENTRADAS/_CONCEPTOS-TEMAS/sistema nervioso\|sistema nervioso]]? Culpar, culpar, culpar, culpar. Y exhala toda esa presión para fuera. La exhala a las segundas 11 vueltas: _“que el otro se arregle porque tiene la culpa de esto, la culpa de esto y la culpa del otro”._
+¿Cómo se arregla la [[ENTRADAS/CONCEPTOS/escala social\|escala social]] con eso -para exhalar la **presión** del [[ENTRADAS/CONCEPTOS/sistema nervioso\|sistema nervioso]]? Culpar, culpar, culpar, culpar. Y exhala toda esa presión para fuera. La exhala a las segundas 11 vueltas: _“que el otro se arregle porque tiene la culpa de esto, la culpa de esto y la culpa del otro”._
 { #sx3fyt}
 
 
-¿Qué pasa cuando nosotros empezamos a tener la [[ENTRADAS/_CONCEPTOS-TEMAS/antena\|antena]] “prendida”? ¿Nos interesa [[culpar\|culpar]]? No, nos interesa LUPAR. Entonces, vamos a [[ENTRADAS/_CONCEPTOS-TEMAS/lupa\|lupa]]r.
+¿Qué pasa cuando nosotros empezamos a tener la [[ENTRADAS/CONCEPTOS/antena\|antena]] “prendida”? ¿Nos interesa [[culpar\|culpar]]? No, nos interesa LUPAR. Entonces, vamos a [[ENTRADAS/CONCEPTOS/lupa\|lupa]]r.
 { #aqn5u4}
 
 
-Vamos a [[ENTRADAS/_CONCEPTOS-TEMAS/lupa\|lupa]]r porque cuando ya que no tenemos conflicto con el [[ENTRADAS/_CONCEPTOS-TEMAS/defecto\|defecto]] propio, el defecto no-propio también nos lupa.
+Vamos a [[ENTRADAS/CONCEPTOS/lupa\|lupa]]r porque cuando ya que no tenemos conflicto con el [[ENTRADAS/CONCEPTOS/defecto\|defecto]] propio, el defecto no-propio también nos lupa.
 { #174w18}
 
 
 Y si nosotros lupamos a la otra contraparte donde hemos tenido una falla, vamos a ser más capaces de crear mejor calidad interactiva con aquel otro. Y todo lo que lupamos nos tiene que servir a nosotros. Y ahí viene el gran desafío:
 
-- Porque la [[ENTRADAS/_CONCEPTOS-TEMAS/escala personal\|escala personal]], evoluciona con lo que es capaz de CALLAR, - en tanto que la [[ENTRADAS/_CONCEPTOS-TEMAS/escala subatómica\|escala subatómica]], evoluciona con lo que uno es capaz de DECIR.
+- Porque la [[ENTRADAS/CONCEPTOS/escala personal\|escala personal]], evoluciona con lo que es capaz de CALLAR, - en tanto que la [[ENTRADAS/CONCEPTOS/escala subatómica\|escala subatómica]], evoluciona con lo que uno es capaz de DECIR.
 { #3d672v}
 
 
-Es muy importante ese algoritmo, y que lo tengan en cuenta que es CONTRARIO, porque la [[3D\|3D]] es una [[ENTRADAS/_CONCEPTOS-TEMAS/estructura\|estructura]] y **toda estructura tiene que ver con puntos opuestos y complementarios.** O sea, cuando decimos “complementarios” es como diciendo: _“¡Ah! ¡no son opuestos!”._ No. Son opuestos, más, luego se pueden complementar. Por eso van a ver que los reactivos están a la orden del día, y que siempre en todas esas estructuras 3D va a salir algún emergente, a hacer algún papel “on” [papelón^1 ]. ¿Cuál es el papel ON? Aquel que aprieta el botón y devela las variables que no están ajustada
+Es muy importante ese algoritmo, y que lo tengan en cuenta que es CONTRARIO, porque la [[3D\|3D]] es una [[ENTRADAS/CONCEPTOS/estructura\|estructura]] y **toda estructura tiene que ver con puntos opuestos y complementarios.** O sea, cuando decimos “complementarios” es como diciendo: _“¡Ah! ¡no son opuestos!”._ No. Son opuestos, más, luego se pueden complementar. Por eso van a ver que los reactivos están a la orden del día, y que siempre en todas esas estructuras 3D va a salir algún emergente, a hacer algún papel “on” [papelón^1 ]. ¿Cuál es el papel ON? Aquel que aprieta el botón y devela las variables que no están ajustada
 { #2k8z00s}
 .
 
 ¿A quién le ha tocado en estas fiestas hacer de “papel on ero”? Sí, porque el papel-on- ero [papelonero^2 ] tiene una función crucial porque revelan la falla y nosotros ahora que podemos trabajar con las fallas, nos vamos a volver los papel on eros. ¿Qué tal?
 
-¿Por qué? Porque estamos reestructurando el [[SO\|SO]] y tenemos toda la parabólica abierta. Y tenemos todo el código solar para leerlo con muchísima anticipación. Ahora bien, esto es de la escala subatómica. Acá hay un arte tremendo, porque ¿se acuerdan “cuando los reactivos no son un problema mío”? Son un problema mío, porque tengo la responsabilidad sobre los [[ENTRADAS/_CONCEPTOS-TEMAS/reactivos\|reactivos]] no [[ENTRADAS/_CONCEPTOS-TEMAS/propio\|propio]]s.
+¿Por qué? Porque estamos reestructurando el [[SO\|SO]] y tenemos toda la parabólica abierta. Y tenemos todo el código solar para leerlo con muchísima anticipación. Ahora bien, esto es de la escala subatómica. Acá hay un arte tremendo, porque ¿se acuerdan “cuando los reactivos no son un problema mío”? Son un problema mío, porque tengo la responsabilidad sobre los [[ENTRADAS/CONCEPTOS/reactivos\|reactivos]] no [[ENTRADAS/CONCEPTOS/propio\|propio]]s.
 { #yt9r55}
 
 
-Entonces, la destreza del crecimiento personal para aquella persona que tiene un plus en la [[ENTRADAS/_CONCEPTOS-TEMAS/antena\|antena]], va a ser cuidar de los [[ENTRADAS/_CONCEPTOS-TEMAS/reactivos\|reactivos]] no propios. Va a tener que lupar al otro, pero no echarle: “¡ _ay, porque acá, acá vos, acá ...!”._
+Entonces, la destreza del crecimiento personal para aquella persona que tiene un plus en la [[ENTRADAS/CONCEPTOS/antena\|antena]], va a ser cuidar de los [[ENTRADAS/CONCEPTOS/reactivos\|reactivos]] no propios. Va a tener que lupar al otro, pero no echarle: “¡ _ay, porque acá, acá vos, acá ...!”._
 { #5qu098}
 
 
 (^1) Actuación ridícula o deslucida o alguien que aparenta más de lo que es. (^2) Que hace papelones ( actuaciones deslucidas o ridículas).
 
-No, porque recuerden que la [[ENTRADAS/_CONCEPTOS-TEMAS/evolución particular\|evolución particular]] es OPTATIVA, no es obligatoria. Acá, la vida social está licenciada y la vida social es “culpar”, es, exhalar el daño y es tener todas esas licencias operativas del plano social.
+No, porque recuerden que la [[ENTRADAS/CONCEPTOS/evolución particular\|evolución particular]] es OPTATIVA, no es obligatoria. Acá, la vida social está licenciada y la vida social es “culpar”, es, exhalar el daño y es tener todas esas licencias operativas del plano social.
 { #g97767}
 
 
-¿Qué pasa? Que cuando intentan modular la culpa entran en represión porque no interpretan todavía cómo funciona la octava en horizontal y el sistema de compensación. Y como todos están muy acostumbrados al SISTEMA DE COMPENSACIÓN, interpretan que cuando uno ofrece [[ENTRADAS/_CONCEPTOS-TEMAS/libertad\|libertad]] al otro, es porque se está añadiendo restricciones a sí mismo, ¿no? Se está quitando libertad para entregar esa libertad ¿no es cierto? Así se interpreta en la sociedad. O sea, “libertad que doy, es libertad que me resto”. Pero cuando esa libertad la traemos de [[ENTRADAS/_CONCEPTOS-TEMAS/antimateria\|antimateria]], no es así. Entonces, tenemos un montón de posibilidades de interpretar al no yo desde SU procesador. Entonces, claramente esto, hace una enorme capacidad de financiar el DAÑO o de financiar la FALLA para que ésta se produzca, devele y motorice la evolución de la escala personal, porque la escala PERSONAL es [[ENTRADAS/_CONCEPTOS-TEMAS/colectiva\|colectiva]].
+¿Qué pasa? Que cuando intentan modular la culpa entran en represión porque no interpretan todavía cómo funciona la octava en horizontal y el sistema de compensación. Y como todos están muy acostumbrados al SISTEMA DE COMPENSACIÓN, interpretan que cuando uno ofrece [[ENTRADAS/CONCEPTOS/libertad\|libertad]] al otro, es porque se está añadiendo restricciones a sí mismo, ¿no? Se está quitando libertad para entregar esa libertad ¿no es cierto? Así se interpreta en la sociedad. O sea, “libertad que doy, es libertad que me resto”. Pero cuando esa libertad la traemos de [[ENTRADAS/CONCEPTOS/antimateria\|antimateria]], no es así. Entonces, tenemos un montón de posibilidades de interpretar al no yo desde SU procesador. Entonces, claramente esto, hace una enorme capacidad de financiar el DAÑO o de financiar la FALLA para que ésta se produzca, devele y motorice la evolución de la escala personal, porque la escala PERSONAL es [[ENTRADAS/CONCEPTOS/colectiva\|colectiva]].
 { #h6kuii}
 
 
-Siempre que hablo de lo personal, es colectivo: “imaginario colectivo”, “campo unificado" reactivos”, “ancla”, un montón de cosas que al tener [[ENTRADAS/_CONCEPTOS-TEMAS/concepto\|concepto]]s no humanos anteriores a los de los humanos, “ _ah, bueno, se pueden financiar_ ” ... son financiables porque estamos creando mejoras y se crean mejoras solo a partir del registro de las [[ENTRADAS/_CONCEPTOS-TEMAS/falla\|falla]]s.
+Siempre que hablo de lo personal, es colectivo: “imaginario colectivo”, “campo unificado" reactivos”, “ancla”, un montón de cosas que al tener [[ENTRADAS/CONCEPTOS/concepto\|concepto]]s no humanos anteriores a los de los humanos, “ _ah, bueno, se pueden financiar_ ” ... son financiables porque estamos creando mejoras y se crean mejoras solo a partir del registro de las [[ENTRADAS/CONCEPTOS/falla\|falla]]s.
 { #t0hkng}
 
 
-Bueno, tengo muchas cosas para que elegir, tengo que seleccionar a ver cuál es el RECURSO más comprensible, el que esté más a la mano, el que sea más didáctico. Pero bueno, me parece que voy a hacer una interpretación del **[[ENTRADAS/_CONCEPTOS-TEMAS/29 de febrero\|29 de febrero]]** , que nos va a ayudar a decodificar cuál es la [[ENTRADAS/_CONCEPTOS-TEMAS/interferencia\|interferencia]] AL CÓDIGO SOLAR, y cuál es la SOBRECARGA que tenemos en VENUS, si toda la memoria que acumula [[ENTRADAS/_CONCEPTOS-TEMAS/Venus\|Venus]], no es propia de la conciencia solar o del código solar, son todas memorias inyectadas desde otros sitios - manipulación del código solar-.
+Bueno, tengo muchas cosas para que elegir, tengo que seleccionar a ver cuál es el RECURSO más comprensible, el que esté más a la mano, el que sea más didáctico. Pero bueno, me parece que voy a hacer una interpretación del **[[ENTRADAS/CONCEPTOS/29 de febrero\|29 de febrero]]** , que nos va a ayudar a decodificar cuál es la [[ENTRADAS/CONCEPTOS/interferencia\|interferencia]] AL CÓDIGO SOLAR, y cuál es la SOBRECARGA que tenemos en VENUS, si toda la memoria que acumula [[ENTRADAS/CONCEPTOS/Venus\|Venus]], no es propia de la conciencia solar o del código solar, son todas memorias inyectadas desde otros sitios - manipulación del código solar-.
 { #w2uii3}
 
 
@@ -146,23 +161,23 @@ Bien, cuando ya tenemos el 28 de abril grabado en un año, día por día, porque
 
 Entonces, vamos a entregarle a antimateria toda esa colección, para que se trabaje con nuestro Desdoblamiento Primario con todas esas OCURRENCIAS NO PROPIAS. ¡Muy importante esto!, **ocurrencias no propias** ,
 
-- porque las OCURRENCIAS PROPIAS me van a colocar adentro del **[[ENTRADAS/_CONCEPTOS-TEMAS/sesgo\|sesgo]]** , - y las OCURRENCIAS NO PROPIAS me van a decorar el **[[ENTRADAS/_CONCEPTOS-TEMAS/radar\|radar]].**
+- porque las OCURRENCIAS PROPIAS me van a colocar adentro del **[[ENTRADAS/CONCEPTOS/sesgo\|sesgo]]** , - y las OCURRENCIAS NO PROPIAS me van a decorar el **[[ENTRADAS/CONCEPTOS/radar\|radar]].**
 { #9fgl7d}
 
 
-Entonces el RADAR y el SESGO, hoy por hoy, por el rechazo que tiene la [[ENTRADAS/_CONCEPTOS-TEMAS/escala social\|escala social]] a las [[ENTRADAS/_CONCEPTOS-TEMAS/falla\|falla]]s, ese sesgo se convierte en un muro. Entonces, no hay [[ENTRADAS/_CONCEPTOS-TEMAS/radar\|radar]], hay solo sesgo.
+Entonces el RADAR y el SESGO, hoy por hoy, por el rechazo que tiene la [[ENTRADAS/CONCEPTOS/escala social\|escala social]] a las [[ENTRADAS/CONCEPTOS/falla\|falla]]s, ese sesgo se convierte en un muro. Entonces, no hay [[ENTRADAS/CONCEPTOS/radar\|radar]], hay solo sesgo.
 { #in9gq6}
 
 
 Bien. Ahora, cuando hay RADAR, cuando en vez de “culpar” empiezo a “lupar” a los demás, lo que estoy encendiendo es mi radar. Cuando el radar no se pelea con el sesgo, proviene la ANTICIPACIÓN ONLINE.
 
-Entonces, estoy hablando de la columna 31. Desde hace años que nosotros decimos a 31 13. 13- 31 “pregunta” y “respuesta”. Bueno, es la columna donde le clavamos la tarea al Toganesón, en la columna 31. En -Fila 1, columna 31, [[ENTRADAS/_CONCEPTOS-TEMAS/la tarea del toganesón\|la tarea del toganesón]]-. ¿Y delante de quién se la ponemos? Delante de la columna 32.
+Entonces, estoy hablando de la columna 31. Desde hace años que nosotros decimos a 31 13. 13- 31 “pregunta” y “respuesta”. Bueno, es la columna donde le clavamos la tarea al Toganesón, en la columna 31. En -Fila 1, columna 31, [[ENTRADAS/CONCEPTOS/la tarea del toganesón\|la tarea del toganesón]]-. ¿Y delante de quién se la ponemos? Delante de la columna 32.
 
 **_LETICIA:_** _Sí,_ la antena.
 
 **ALEJANDRA:** ¿Veo todo lo que me muestra el punto ciego de la sociedad? ¿Lo veo o no lo veo? ¿Puedo trabajar con esas fallas no propias?
 
-Voy a trabajar con las [[ENTRADAS/_CONCEPTOS-TEMAS/falla\|falla]]s no propias para crear mejoras, sí y solo sí, cuando yo no entre en conflicto con mis propias fallas. Si yo entro en conflicto con mis propias fallas, viene una falla del otro y... Tácate, tácate, tácate, ¿no es cierto? Porque es la despresurización. Ahora, si no entro en conflicto con las fallas propias, trabajo con las no propias.
+Voy a trabajar con las [[ENTRADAS/CONCEPTOS/falla\|falla]]s no propias para crear mejoras, sí y solo sí, cuando yo no entre en conflicto con mis propias fallas. Si yo entro en conflicto con mis propias fallas, viene una falla del otro y... Tácate, tácate, tácate, ¿no es cierto? Porque es la despresurización. Ahora, si no entro en conflicto con las fallas propias, trabajo con las no propias.
 { #wz715s}
 
 
@@ -176,27 +191,27 @@ O sea, no puedo ir al punto 2 si no pasé por el punto 1. Todo lo que es mejora 
 { #bq1ejw}
 
 
-Entonces, así es como han manipulado nuestro [[ENTRADAS/_CONCEPTOS-TEMAS/puente de hidrógeno\|puente de hidrógeno]]. O sea, yo trabajo para los hidrogenitos. Yo les tengo que ofertar un constructo seguro para trabajar entre [[ENTRADAS/_CONCEPTOS-TEMAS/materia\|materia]] y [[ENTRADAS/_CONCEPTOS-TEMAS/antimateria\|antimateria]], donde la identidad primaria, -[[ENTRADAS/_CONCEPTOS-TEMAS/desdoblamiento primario\|desdoblamiento primario]] y [[ENTRADAS/_CONCEPTOS-TEMAS/desdoblamiento secundario\|desdoblamiento secundario]] no son confundidos-. Cada uno es respetado como lo que es. No se le pide a uno lo que no tiene y no se le pide al otro lo que tampoco da. Eso es muy importante. Porque si no, es imposible. No hay dónde, no hay cómo.
+Entonces, así es como han manipulado nuestro [[ENTRADAS/CONCEPTOS/puente de hidrógeno\|puente de hidrógeno]]. O sea, yo trabajo para los hidrogenitos. Yo les tengo que ofertar un constructo seguro para trabajar entre [[ENTRADAS/CONCEPTOS/materia\|materia]] y [[ENTRADAS/CONCEPTOS/antimateria\|antimateria]], donde la identidad primaria, -[[ENTRADAS/CONCEPTOS/desdoblamiento primario\|desdoblamiento primario]] y [[ENTRADAS/CONCEPTOS/desdoblamiento secundario\|desdoblamiento secundario]] no son confundidos-. Cada uno es respetado como lo que es. No se le pide a uno lo que no tiene y no se le pide al otro lo que tampoco da. Eso es muy importante. Porque si no, es imposible. No hay dónde, no hay cómo.
 { #1oxhtp}
 
 
 **_LETICIA:_** _Así es. Tal cual._
 
-**ALEJANDRA:** Entonces, habiendo comprendido esta tarea al Toganesón, y abordándola, ya estaríamos comprendiendo esta historieta del 29 de febrero, y por qué todas esas ocurrencias que van a inyectar nuestro código solar y que van a tener grabaciones que se van a estar acumulando en el Orbital 2 y la memoria del [[ENTRADAS/_CONCEPTOS-TEMAS/orbital 2\|orbital 2]]. Estoy hablando de Venus. [[ENTRADAS/_CONCEPTOS-TEMAS/Venus\|Venus]] necesita hacer una rotación antes de que termine su traslación, y eso no pasa. Y todo ese sobregiro en [[ENTRADAS/_CONCEPTOS-TEMAS/memoria\|memoria]] funcional, hace que nosotros registremos al [[ENTRADAS/_CONCEPTOS-TEMAS/orbital 3\|orbital 3]] como [[ENTRADAS/_CONCEPTOS-TEMAS/estrés\|estrés]]. ¿Por qué el prototipado 3 tendría este conflicto? O sea, no habría ninguna razón si el código fuera solar 100%, si no tuviera inyecciones foráneas.
+**ALEJANDRA:** Entonces, habiendo comprendido esta tarea al Toganesón, y abordándola, ya estaríamos comprendiendo esta historieta del 29 de febrero, y por qué todas esas ocurrencias que van a inyectar nuestro código solar y que van a tener grabaciones que se van a estar acumulando en el Orbital 2 y la memoria del [[ENTRADAS/CONCEPTOS/orbital 2\|orbital 2]]. Estoy hablando de Venus. [[ENTRADAS/CONCEPTOS/Venus\|Venus]] necesita hacer una rotación antes de que termine su traslación, y eso no pasa. Y todo ese sobregiro en [[ENTRADAS/CONCEPTOS/memoria\|memoria]] funcional, hace que nosotros registremos al [[ENTRADAS/CONCEPTOS/orbital 3\|orbital 3]] como [[ENTRADAS/CONCEPTOS/estrés\|estrés]]. ¿Por qué el prototipado 3 tendría este conflicto? O sea, no habría ninguna razón si el código fuera solar 100%, si no tuviera inyecciones foráneas.
 { #zcqtn2}
 
 
-El orbital es 3 y el [[ENTRADAS/_CONCEPTOS-TEMAS/estrés\|estrés]] no implica la aceleración del algoritmo. Yo entiendo que esto se va a ir comprendiendo muy de a poco. No estoy pretendiendo que se comprenda todo de golpe, pero lo que vamos a estar haciendo de esta forma es actualizar de manera directa por [[ENTRADAS/_CONCEPTOS-TEMAS/base 30\|base 30]] , entonces nuestro funcionamiento no va a provenir de la memoria sino de la [[ENTRADAS/_CONCEPTOS-TEMAS/antena\|antena]].
+El orbital es 3 y el [[ENTRADAS/CONCEPTOS/estrés\|estrés]] no implica la aceleración del algoritmo. Yo entiendo que esto se va a ir comprendiendo muy de a poco. No estoy pretendiendo que se comprenda todo de golpe, pero lo que vamos a estar haciendo de esta forma es actualizar de manera directa por [[ENTRADAS/CONCEPTOS/base 30\|base 30]] , entonces nuestro funcionamiento no va a provenir de la memoria sino de la [[ENTRADAS/CONCEPTOS/antena\|antena]].
 
 Entonces, voy a estar ahora -recordando- lo que acabo de decir. Son **32 columnas**.
 
 - La 32 es la del HELIO. Sí, perfecto. - Entonces, la 31 es ésta, la del Toganesón.
 
-Fíjate que, **13** en codificación hablada sería la **M**. Siempre estamos hablando del español, ¿no es cierto? Entonces, fíjate que cuando se menciona la Galaxia [[ENTRADAS/_CONCEPTOS-TEMAS/Andrómeda\|Andrómeda]] se le pone **[[ENTRADAS/_CONCEPTOS-TEMAS/M31\|M31]].** Decime vos cuánto tiene que ver eso con NUESTRAS [[ENTRADAS/_CONCEPTOS-TEMAS/pregunta\|pregunta]]S en código **lingüístico** y NUESTRAS [[ENTRADAS/_CONCEPTOS-TEMAS/respuesta\|respuesta]]S en orden **frecuencial** , que van directamente a actualizar el [[ENTRADAS/_CONCEPTOS-TEMAS/área muda\|área muda]]; porque es cómo funciona Andrómeda: actualizar el área muda. Porque para nosotros colocarlo en el orden dialéctico, la [[ENTRADAS/_CONCEPTOS-TEMAS/4ª cardinalidad\|4ª cardinalidad]] ya tiene que estar ocurrida. Y seguramente que cuando fue ocurrida incluyó una falla; pero si yo rechazo las [[ENTRADAS/_CONCEPTOS-TEMAS/falla\|falla]]s, no la voy a ver y todas las oportunidades de [[ENTRADAS/_CONCEPTOS-TEMAS/actualización\|actualización]] me van a estar quedando afuera del [[ENTRADAS/_CONCEPTOS-TEMAS/sesgo\|sesgo]]. ¿Me explico?
+Fíjate que, **13** en codificación hablada sería la **M**. Siempre estamos hablando del español, ¿no es cierto? Entonces, fíjate que cuando se menciona la Galaxia [[ENTRADAS/CONCEPTOS/Andrómeda\|Andrómeda]] se le pone **[[ENTRADAS/CONCEPTOS/M31\|M31]].** Decime vos cuánto tiene que ver eso con NUESTRAS [[ENTRADAS/CONCEPTOS/pregunta\|pregunta]]S en código **lingüístico** y NUESTRAS [[ENTRADAS/CONCEPTOS/respuesta\|respuesta]]S en orden **frecuencial** , que van directamente a actualizar el [[ENTRADAS/CONCEPTOS/área muda\|área muda]]; porque es cómo funciona Andrómeda: actualizar el área muda. Porque para nosotros colocarlo en el orden dialéctico, la [[ENTRADAS/CONCEPTOS/4ª cardinalidad\|4ª cardinalidad]] ya tiene que estar ocurrida. Y seguramente que cuando fue ocurrida incluyó una falla; pero si yo rechazo las [[ENTRADAS/CONCEPTOS/falla\|falla]]s, no la voy a ver y todas las oportunidades de [[ENTRADAS/CONCEPTOS/actualización\|actualización]] me van a estar quedando afuera del [[ENTRADAS/CONCEPTOS/sesgo\|sesgo]]. ¿Me explico?
 { #2s03sd}
 
 
-O sea, quiero dar la manera como más amena de integrar a Andrómeda, y con todo el desarrollo de LGC y la columna 31 y la importancia que va a tener para nosotros el [[ENTRADAS/_CONCEPTOS-TEMAS/toganesón\|toganesón]].
+O sea, quiero dar la manera como más amena de integrar a Andrómeda, y con todo el desarrollo de LGC y la columna 31 y la importancia que va a tener para nosotros el [[ENTRADAS/CONCEPTOS/toganesón\|toganesón]].
 { #gupc1v}
 
 
@@ -214,7 +229,7 @@ Ahora, el 2025 es un gemelo de 1969. Y el 2026 es un gemelo de 1970. Y 1970, ¿q
 
 Entonces, bien, es el ORO- BERKELIO, pero lo tenemos en año GEMELO con el ASIMILA 2026.
 
-El asimila [[ENTRADAS/_CONCEPTOS-TEMAS/2026\|2026]] es: el [[ENTRADAS/_CONCEPTOS-TEMAS/campo unificado\|campo unificado]], nos EMPUJA a una reasignación del [[ENTRADAS/_CONCEPTOS-TEMAS/yo\|yo]]. O sea, digo que “nos empuja” porque no podemos elegir que no lo haga. Pero sí podemos anticipar que lo va a hacer, porque ese campo es regulador del [[ENTRADAS/_CONCEPTOS-TEMAS/sistema nervioso central\|sistema nervioso central]] de todos sus contenidos. Cuando digo “todos sus contenidos”, hablo del último molusco que hay en el fondo del océano, con una persona, con un monito, con un gatito, con una planta, con lo que sea. Entonces, ese es A L L.
+El asimila [[ENTRADAS/CONCEPTOS/2026\|2026]] es: el [[ENTRADAS/CONCEPTOS/campo unificado\|campo unificado]], nos EMPUJA a una reasignación del [[ENTRADAS/CONCEPTOS/yo\|yo]]. O sea, digo que “nos empuja” porque no podemos elegir que no lo haga. Pero sí podemos anticipar que lo va a hacer, porque ese campo es regulador del [[ENTRADAS/CONCEPTOS/sistema nervioso central\|sistema nervioso central]] de todos sus contenidos. Cuando digo “todos sus contenidos”, hablo del último molusco que hay en el fondo del océano, con una persona, con un monito, con un gatito, con una planta, con lo que sea. Entonces, ese es A L L.
 { #68nvrf}
 
 
@@ -230,19 +245,19 @@ O sea, quiero decir, a ver, voy a compartir de nuevo la Tabla para que les refre
 
 O sea, yo solamente mostré las primeras dos cardinalidades de la Vuelta 1 de 1970 - gemelo de 2026-. Entonces, claramente la próxima Cardinalidad nos va a traer estos números [del 173 al 176]. La siguiente éstos [del 177 al 180]. La siguiente éstos [del 181 al 184]. Fíjense ¡qué impresionante reset que tenemos, que tenemos hasta ese 224!, porque vamos a estar impactando en el 2026 con nuestra ANTENA, con este respaldo.
 
-Por eso digo, los [[ENTRADAS/_CONCEPTOS-TEMAS/recurso\|recurso]]S provienen de la [[ENTRADAS/_CONCEPTOS-TEMAS/antena\|antena]] -que provienen de la [[ENTRADAS/_CONCEPTOS-TEMAS/antimateria\|antimateria]]-.
+Por eso digo, los [[ENTRADAS/CONCEPTOS/recurso\|recurso]]S provienen de la [[ENTRADAS/CONCEPTOS/antena\|antena]] -que provienen de la [[ENTRADAS/CONCEPTOS/antimateria\|antimateria]]-.
 { #36w5th}
 
 
-Este es un extra, pero también es un reto porque todas las actualizaciones vamos a tener que jugarlas dándole contención al RO; quiero decir, lupando FALLAS NO PROPIAS todo el año, y encima, “mm” [se cierra la boca] sería bueno una cancioncita de esas de los niños que hace ¡Shhh! ¿Viste que a los niños...? no sé, en mi época había un montón de cancioncitas en el jardín para que hiciéramos silencio. Bueno, se ve que ya estábamos preparándonos para lo que iba a pasar tantos años después, porque EL RETO DEL [[ENTRADAS/_CONCEPTOS-TEMAS/silencio\|silencio]] va a ser tremendo; para toda persona que tenga un plus en la [[ENTRADAS/_CONCEPTOS-TEMAS/antena\|antena]], el SILENCIO va a ser más importante que cualquier otra cosa.
+Este es un extra, pero también es un reto porque todas las actualizaciones vamos a tener que jugarlas dándole contención al RO; quiero decir, lupando FALLAS NO PROPIAS todo el año, y encima, “mm” [se cierra la boca] sería bueno una cancioncita de esas de los niños que hace ¡Shhh! ¿Viste que a los niños...? no sé, en mi época había un montón de cancioncitas en el jardín para que hiciéramos silencio. Bueno, se ve que ya estábamos preparándonos para lo que iba a pasar tantos años después, porque EL RETO DEL [[ENTRADAS/CONCEPTOS/silencio\|silencio]] va a ser tremendo; para toda persona que tenga un plus en la [[ENTRADAS/CONCEPTOS/antena\|antena]], el SILENCIO va a ser más importante que cualquier otra cosa.
 { #opsvhx}
 
 
-La actualización, la falla, el área muda, porque esto no es [[ENTRADAS/_CONCEPTOS-TEMAS/represión\|represión]], esto es trabajar en el [[ENTRADAS/_CONCEPTOS-TEMAS/radar\|radar]].
+La actualización, la falla, el área muda, porque esto no es [[ENTRADAS/CONCEPTOS/represión\|represión]], esto es trabajar en el [[ENTRADAS/CONCEPTOS/radar\|radar]].
 { #jch2cm}
 
 
-Recuerden, la evolución particular no es obligatoria para el campo unificado. Se ofertan DESTINOS para poder venir a disfrutar la vida, masivamente, entonces, hay quichecientos disfrutadores de la vida habitando con nosotros. Entonces, “calladito está más bonito”. Porque la maduración en la escala personal, vuelvo a repetir, tiene que ver con lo que soy capaz de... ahora, para callar sin reprimir... yo necesito la [[ENTRADAS/_CONCEPTOS-TEMAS/escala particular\|escala particular]] activa,
+Recuerden, la evolución particular no es obligatoria para el campo unificado. Se ofertan DESTINOS para poder venir a disfrutar la vida, masivamente, entonces, hay quichecientos disfrutadores de la vida habitando con nosotros. Entonces, “calladito está más bonito”. Porque la maduración en la escala personal, vuelvo a repetir, tiene que ver con lo que soy capaz de... ahora, para callar sin reprimir... yo necesito la [[ENTRADAS/CONCEPTOS/escala particular\|escala particular]] activa,
 { #673ie6}
 
 
@@ -250,16 +265,15 @@ Recuerden, la evolución particular no es obligatoria para el campo unificado. S
 
 **ALEJANDRA:** Porque si no callarse, vuelve a reprimir. Yo me callo, me anulo y dejo que la escala social se manifieste, pero también la falla es que no participo.
 
-Está bien. Ocupo el lugar del OBSERVADOR - acuérdense que la [[ENTRADAS/_CONCEPTOS-TEMAS/octava\|octava]] tiene el lugar del [[ENTRADAS/_CONCEPTOS-TEMAS/observador\|observador]]-. O sea, yo puedo ver y no participar porque estoy lupando. Si estoy lupando, no estoy culpando. Y tampoco me estoy haciendo cargo de lo [[ENTRADAS/_CONCEPTOS-TEMAS/no propio\|no propio]]. Estoy identificando lo que no es yo. ¿Por qué? Porque habitamos un mismo [[ENTRADAS/_CONCEPTOS-TEMAS/campo unificado\|campo unificado]] dentro de un sistema de compensaciones que balancea todos nuestros Sistemas Nerviosos Centrales de manera simultánea.
+Está bien. Ocupo el lugar del OBSERVADOR - acuérdense que la [[ENTRADAS/CONCEPTOS/octava\|octava]] tiene el lugar del [[ENTRADAS/CONCEPTOS/observador\|observador]]-. O sea, yo puedo ver y no participar porque estoy lupando. Si estoy lupando, no estoy culpando. Y tampoco me estoy haciendo cargo de lo [[ENTRADAS/CONCEPTOS/no propio\|no propio]]. Estoy identificando lo que no es yo. ¿Por qué? Porque habitamos un mismo [[ENTRADAS/CONCEPTOS/campo unificado\|campo unificado]] dentro de un sistema de compensaciones que balancea todos nuestros Sistemas Nerviosos Centrales de manera simultánea.
 { #3wci8x}
 
 
-- Y como corolario de todo esto, el algoritmo de la ABUELA PATERNA, que ya lo vengo mencionando, pero quiero recordarles que el algoritmo de mi [[ENTRADAS/_CONCEPTOS-TEMAS/abuela paterna\|abuela paterna]] el día de hoy, es **47054**.
+- Y como corolario de todo esto, el algoritmo de la ABUELA PATERNA, que ya lo vengo mencionando, pero quiero recordarles que el algoritmo de mi [[ENTRADAS/CONCEPTOS/abuela paterna\|abuela paterna]] el día de hoy, es **47054**.
 
-¿Qué estoy haciendo yo? O sea, es adentro de 44 -de derecha a izquierda- 507. ¿Qué estoy haciendo? Estoy haciendo exactamente eso. Estoy describiendo exactamente eso. Estoy utilizando esa [[ENTRADAS/_CONCEPTOS-TEMAS/ancla\|ancla]] a propósito, pero tengo las riendas de esa ancla. No los reactivos de esa ancla, las RIENDAS de esa ancla.
+¿Qué estoy haciendo yo? O sea, es adentro de 44 -de derecha a izquierda- 507. ¿Qué estoy haciendo? Estoy haciendo exactamente eso. Estoy describiendo exactamente eso. Estoy utilizando esa [[ENTRADAS/CONCEPTOS/ancla\|ancla]] a propósito, pero tengo las riendas de esa ancla. No los reactivos de esa ancla, las RIENDAS de esa ancla.
 
-¡Claro que tengo reactivos que atender!, pero esos [[ENTRADAS/_CONCEPTOS-TEMAS/reactivos\|reactivos]] que atender me van a ayudar a crear mejoras y a la vez me van a dar participación activa. Entonces, de pronto
-ahora sí voy a ocupar el lugar del papel-on. Pero ¿se dan cuenta que no tiene la carga simbólica del papelón? ¿Por qué? Porque la falla para mí representa capacidad y oportunidad de mejora. ¿Está?
+¡Claro que tengo reactivos que atender!, pero esos [[ENTRADAS/CONCEPTOS/reactivos\|reactivos]] que atender me van a ayudar a crear mejoras y a la vez me van a dar participación activa. Entonces, de pronto ahora sí voy a ocupar el lugar del papel-on. Pero ¿se dan cuenta que no tiene la carga simbólica del papelón? ¿Por qué? Porque la falla para mí representa capacidad y oportunidad de mejora. ¿Está?
 
 **_LETICIA:_** _Sí, sí, claro_.
 
@@ -281,33 +295,33 @@ Bien, todos reseteamos juntos.
 
 **_LETICIA:_** _Así es. Hoy 1° de enero, iniciando año ASIMILA. Claro._
 
-**ALEJANDRA:** Ahora, no todos reseteamos juntos y quedamos en el mismo sitio. Cada quien con su [[ENTRADAS/_CONCEPTOS-TEMAS/alcance\|alcance]]. Lo importante no es alcanzar más, sino es el equilibrio dentro de lo que sí alcanzo; la configuración de [[ENTRADAS/_CONCEPTOS-TEMAS/valor\|valor]] y de [[ENTRADAS/_CONCEPTOS-TEMAS/oportunidad\|oportunidad]] dentro de lo que sí alcanzo. Muy bien, porque cuando voy a lupar tengo que tener en cuenta dónde se coloca la otra [[ENTRADAS/_CONCEPTOS-TEMAS/persona\|persona]] frente a todo esto. Tengo que respetar dónde se coloca porque la [[ENTRADAS/_CONCEPTOS-TEMAS/escala subatómica\|escala subatómica]] no se puede forzar. Opera sobre [[ENTRADAS/_CONCEPTOS-TEMAS/laxos\|laxos]] y no tiene [[ENTRADAS/_CONCEPTOS-TEMAS/requisito evolutivo\|requisito evolutivo]]. O sea, una persona disfrutadora de la vida, se va a tomar todas las licencias de ignorancia que tenga en el camino. Está bien, y nosotros veremos lo que hacemos con aquello.
+**ALEJANDRA:** Ahora, no todos reseteamos juntos y quedamos en el mismo sitio. Cada quien con su [[ENTRADAS/CONCEPTOS/alcance\|alcance]]. Lo importante no es alcanzar más, sino es el equilibrio dentro de lo que sí alcanzo; la configuración de [[ENTRADAS/CONCEPTOS/valor\|valor]] y de [[ENTRADAS/CONCEPTOS/oportunidad\|oportunidad]] dentro de lo que sí alcanzo. Muy bien, porque cuando voy a lupar tengo que tener en cuenta dónde se coloca la otra [[ENTRADAS/CONCEPTOS/persona\|persona]] frente a todo esto. Tengo que respetar dónde se coloca porque la [[ENTRADAS/CONCEPTOS/escala subatómica\|escala subatómica]] no se puede forzar. Opera sobre [[ENTRADAS/CONCEPTOS/laxos\|laxos]] y no tiene [[ENTRADAS/CONCEPTOS/requisito evolutivo\|requisito evolutivo]]. O sea, una persona disfrutadora de la vida, se va a tomar todas las licencias de ignorancia que tenga en el camino. Está bien, y nosotros veremos lo que hacemos con aquello.
 { #ox07a6}
 
 
 ¿Reto? Por supuesto que es un reto. Pero por favor, otra vez: tenemos la gran oportunidad de nuestra historia solar de poder tener un código tan maravilloso que activar.
 
-Antes de ser un colectivo de [[ENTRADAS/_CONCEPTOS-TEMAS/persona\|persona]]s, somos un colectivo de [[ENTRADAS/_CONCEPTOS-TEMAS/partícula\|partícula]]s. Y cada hidrogenito del universo es el [[ENTRADAS/_CONCEPTOS-TEMAS/potencial\|potencial]] de un universo distinto.
+Antes de ser un colectivo de [[ENTRADAS/CONCEPTOS/persona\|persona]]s, somos un colectivo de [[ENTRADAS/CONCEPTOS/partícula\|partícula]]s. Y cada hidrogenito del universo es el [[ENTRADAS/CONCEPTOS/potencial\|potencial]] de un universo distinto.
 { #4ox59j}
 
 
 Así que bueno, si estamos respetando esa escala, la sincronización, la sincronicidad y los recursos van a llegar en abundancia, pero para el resto del mundo no se sabría de dónde nos están llegando. Esto es lo más bonito, porque de pronto, el silencio...
 
-SILENCIO es 88. Bueno, “protocolo de caos y control”, se ejecuta... esa [[ENTRADAS/_CONCEPTOS-TEMAS/actualización\|actualización]] es en [[ENTRADAS/_CONCEPTOS-TEMAS/silencio\|silencio]], y si no se te ejecuta en silencio es porque hay [[ENTRADAS/_CONCEPTOS-TEMAS/reactivos\|reactivos]] dominando el área. Está bien si reactivo dominando el área, porque hay que luparlos, no hay que culparlos. Los lupamos y listo. Pero para poder luparlo tengo que tener el concepto de qué es la FALLA y para qué sirve. Porque si la escala simbólica de lo que es una falla para la sociedad me va a tirar frustración y me va a tirar fracaso, claramente no estoy listo.
+SILENCIO es 88. Bueno, “protocolo de caos y control”, se ejecuta... esa [[ENTRADAS/CONCEPTOS/actualización\|actualización]] es en [[ENTRADAS/CONCEPTOS/silencio\|silencio]], y si no se te ejecuta en silencio es porque hay [[ENTRADAS/CONCEPTOS/reactivos\|reactivos]] dominando el área. Está bien si reactivo dominando el área, porque hay que luparlos, no hay que culparlos. Los lupamos y listo. Pero para poder luparlo tengo que tener el concepto de qué es la FALLA y para qué sirve. Porque si la escala simbólica de lo que es una falla para la sociedad me va a tirar frustración y me va a tirar fracaso, claramente no estoy listo.
 { #2jhvbg}
 
 
-Ahora si digo, “ _ah, bueno... si mi [[ENTRADAS/_CONCEPTOS-TEMAS/identidad imaginaria\|identidad imaginaria]] está a full, está muy bien, no está desatendida en mi escala neurológica, la acepto, la asumo_ ”, listo, voy a poder estar en sincronización aprovechando todo tipo de [[ENTRADAS/_CONCEPTOS-TEMAS/falla\|falla]]s como oportunidad de mejora.
+Ahora si digo, “ _ah, bueno... si mi [[ENTRADAS/CONCEPTOS/identidad imaginaria\|identidad imaginaria]] está a full, está muy bien, no está desatendida en mi escala neurológica, la acepto, la asumo_ ”, listo, voy a poder estar en sincronización aprovechando todo tipo de [[ENTRADAS/CONCEPTOS/falla\|falla]]s como oportunidad de mejora.
 { #g3a6xt}
 
 
-Pero este es funcionamiento de [[ENTRADAS/_CONCEPTOS-TEMAS/antena\|antena]], o sea, usa la [[ENTRADAS/_CONCEPTOS-TEMAS/memoria\|memoria]] para hacer registros, pero son registros actualizados. Escala diaria.
+Pero este es funcionamiento de [[ENTRADAS/CONCEPTOS/antena\|antena]], o sea, usa la [[ENTRADAS/CONCEPTOS/memoria\|memoria]] para hacer registros, pero son registros actualizados. Escala diaria.
 { #qckk4h}
 
 
 Otra cosa muy importante es, RECUERDEN ALIMENTAR al INTÉRPRETE, porque
 
-- quien alimenta al [[ENTRADAS/_CONCEPTOS-TEMAS/intérprete\|intérprete]] alimenta el RADAR. - Quien alimenta la [[ENTRADAS/_CONCEPTOS-TEMAS/interpretación\|interpretación]] alimenta el SESGO.
+- quien alimenta al [[ENTRADAS/CONCEPTOS/intérprete\|intérprete]] alimenta el RADAR. - Quien alimenta la [[ENTRADAS/CONCEPTOS/interpretación\|interpretación]] alimenta el SESGO.
 { #qhieuq}
 
 
@@ -333,35 +347,35 @@ LO QUE ME DIGO, NO ES IGUAL A LO QUE DIGO.
 
 **_LETICIA:_** _Sí. Sí._
 
-**ALEJANDRA:** Y bueno, no sé, no quiero agregar más contenido porque si no, es demasiado. Pero bueno, me gusta esto de que, recuerden, entre el [[ENTRADAS/_CONCEPTOS-TEMAS/Aparato 493\|Aparato 493]] y el [[ENTRADAS/_CONCEPTOS-TEMAS/Aparato 507\|Aparato 507]] , el algoritmo que los diferencia es **20454**.
+**ALEJANDRA:** Y bueno, no sé, no quiero agregar más contenido porque si no, es demasiado. Pero bueno, me gusta esto de que, recuerden, entre el [[ENTRADAS/CONCEPTOS/Aparato 493\|Aparato 493]] y el [[ENTRADAS/CONCEPTOS/Aparato 507\|Aparato 507]] , el algoritmo que los diferencia es **20454**.
 
-El 20454 es super importante, porque está señalizando la oportunidad que vamos a tener de trabajar entre materia y antimateria, porque el 493 permite la [[ENTRADAS/_CONCEPTOS-TEMAS/paradoja\|paradoja]] y la paradoja es que entran en equilibrio [[ENTRADAS/_CONCEPTOS-TEMAS/materia\|materia]] y [[ENTRADAS/_CONCEPTOS-TEMAS/antimateria\|antimateria]] - desde la LGC-... la sociedad, por supuesto, que vaya a saber cuándo y dónde llega a esta conclusión. Dejémosla a su ritmo, pero no desatendamos nuestro ritmo.
+El 20454 es super importante, porque está señalizando la oportunidad que vamos a tener de trabajar entre materia y antimateria, porque el 493 permite la [[ENTRADAS/CONCEPTOS/paradoja\|paradoja]] y la paradoja es que entran en equilibrio [[ENTRADAS/CONCEPTOS/materia\|materia]] y [[ENTRADAS/CONCEPTOS/antimateria\|antimateria]] - desde la LGC-... la sociedad, por supuesto, que vaya a saber cuándo y dónde llega a esta conclusión. Dejémosla a su ritmo, pero no desatendamos nuestro ritmo.
 { #m87ngl}
 
 
 **_LETICIA:_** _Sí. Buenísimo._
 
-**ALEJANDRA:** Y el algoritmo de la abuela paterna se lee pura y exclusivamente como [[ENTRADAS/_CONCEPTOS-TEMAS/conflicto\|conflicto]]S DE LA [[ENTRADAS/_CONCEPTOS-TEMAS/estructura\|estructura]].
+**ALEJANDRA:** Y el algoritmo de la abuela paterna se lee pura y exclusivamente como [[ENTRADAS/CONCEPTOS/conflicto\|conflicto]]S DE LA [[ENTRADAS/CONCEPTOS/estructura\|estructura]].
 
-Estamos resolviendo conflictos de la estructura espacio temporal, no de los abuelos. Por favor, eso lo hace la escala social y me parece muy bien con sus constelaciones y demás. Muy bien. Para la escala social eso está buenísimo. SOLAR, son unos cuantos pelines distintos, pero cada cosa en su marco porque una interpretación de fallas para nosotros tiene un sentido completamente distinto que en la escala social ¿Que vamos a registrar dolor? Montones de veces vamos a registrar dolor, pero hagan eso. Registren el [[ENTRADAS/_CONCEPTOS-TEMAS/dolor\|dolor]]. Permítanle doler al dolor.
+Estamos resolviendo conflictos de la estructura espacio temporal, no de los abuelos. Por favor, eso lo hace la escala social y me parece muy bien con sus constelaciones y demás. Muy bien. Para la escala social eso está buenísimo. SOLAR, son unos cuantos pelines distintos, pero cada cosa en su marco porque una interpretación de fallas para nosotros tiene un sentido completamente distinto que en la escala social ¿Que vamos a registrar dolor? Montones de veces vamos a registrar dolor, pero hagan eso. Registren el [[ENTRADAS/CONCEPTOS/dolor\|dolor]]. Permítanle doler al dolor.
 { #cg9txm}
 
 
-Si le permiten doler al dolor, van a estar traqueándolo, traqueando, traqueando, traqueando. Ah, ahora está acá el dolor. Acá está, acá. Ahora está acá. Ahora está acá. Ahora está acá. Listo. Porque va a haber mucha, pero mucha actividad. Muchas cosas que nos pueden impactar y nos pueden doler. No se resistan al dolor. Acá lo que estoy diciendo es terrible. Un psicólogo me expulsa de... no me deja entrar ni como estudiante. [se ríe]. No, justamente no enfocarme en la [[ENTRADAS/_CONCEPTOS-TEMAS/interpretación\|interpretación]] como hace toda obsesiva persona humana, que se enfoca con la interpretación. Suelto la interpretación porque necesito que el [[ENTRADAS/_CONCEPTOS-TEMAS/intérprete\|intérprete]] recoja los [[ENTRADAS/_CONCEPTOS-TEMAS/recurso\|recurso]]S que sean necesarios de todos los algoritmos, y el [[ENTRADAS/_CONCEPTOS-TEMAS/cuerpo\|cuerpo]] es una [[ENTRADAS/_CONCEPTOS-TEMAS/caja de resonancia\|caja de resonancia]] que te está marcando el ritmo de la [[ENTRADAS/_CONCEPTOS-TEMAS/actualización\|actualización]] de la mejora.
+Si le permiten doler al dolor, van a estar traqueándolo, traqueando, traqueando, traqueando. Ah, ahora está acá el dolor. Acá está, acá. Ahora está acá. Ahora está acá. Ahora está acá. Listo. Porque va a haber mucha, pero mucha actividad. Muchas cosas que nos pueden impactar y nos pueden doler. No se resistan al dolor. Acá lo que estoy diciendo es terrible. Un psicólogo me expulsa de... no me deja entrar ni como estudiante. [se ríe]. No, justamente no enfocarme en la [[ENTRADAS/CONCEPTOS/interpretación\|interpretación]] como hace toda obsesiva persona humana, que se enfoca con la interpretación. Suelto la interpretación porque necesito que el [[ENTRADAS/CONCEPTOS/intérprete\|intérprete]] recoja los [[ENTRADAS/CONCEPTOS/recurso\|recurso]]S que sean necesarios de todos los algoritmos, y el [[ENTRADAS/CONCEPTOS/cuerpo\|cuerpo]] es una [[ENTRADAS/CONCEPTOS/caja de resonancia\|caja de resonancia]] que te está marcando el ritmo de la [[ENTRADAS/CONCEPTOS/actualización\|actualización]] de la mejora.
 { #pvkx0t}
 
 
-El [[ENTRADAS/_CONCEPTOS-TEMAS/dolor\|dolor]] es un rol. Dolor, es un [[ENTRADAS/_CONCEPTOS-TEMAS/rol\|rol]]. Es un nuevo rol. Es una nueva [[ENTRADAS/_CONCEPTOS-TEMAS/base 21\|base 21]] que se tiene que asentar, que se tiene que arraigar; son redes neuronales que se están reconvir- tiendo, se están transformando. Pero como no interpretamos, entonces por todo eso nuestra ancla _“¡oh!”_ se queja un montón. Y nosotros tenemos este contrato y se ejecuta acá dentro. Acá dentro de esta bolsita. En esta bolsita -el órgano más grande que tenemos, que es la [[ENTRADAS/_CONCEPTOS-TEMAS/piel\|piel]]-, es una bolsa de [[ENTRADAS/_CONCEPTOS-TEMAS/químico\|químico]]s donde nos va a estar marcando un montón de cosas. No saben lo rápido que pasa y lo bien que se siente cuando le dejamos doler. Aparece una lluvia de mariposas cuando era gusanos por todos lados... y ahora son mariposas por todos lados y es así como es.
+El [[ENTRADAS/CONCEPTOS/dolor\|dolor]] es un rol. Dolor, es un [[ENTRADAS/CONCEPTOS/rol\|rol]]. Es un nuevo rol. Es una nueva [[ENTRADAS/CONCEPTOS/base 21\|base 21]] que se tiene que asentar, que se tiene que arraigar; son redes neuronales que se están reconvir- tiendo, se están transformando. Pero como no interpretamos, entonces por todo eso nuestra ancla _“¡oh!”_ se queja un montón. Y nosotros tenemos este contrato y se ejecuta acá dentro. Acá dentro de esta bolsita. En esta bolsita -el órgano más grande que tenemos, que es la [[ENTRADAS/CONCEPTOS/piel\|piel]]-, es una bolsa de [[ENTRADAS/CONCEPTOS/químico\|químico]]s donde nos va a estar marcando un montón de cosas. No saben lo rápido que pasa y lo bien que se siente cuando le dejamos doler. Aparece una lluvia de mariposas cuando era gusanos por todos lados... y ahora son mariposas por todos lados y es así como es.
 { #ik5cu0}
 
 
-La [[ENTRADAS/_CONCEPTOS-TEMAS/escala subatómica\|escala subatómica]] es la responsable de la [[ENTRADAS/_CONCEPTOS-TEMAS/transformación\|transformación]]. ¿Por qué? Porque al no tener marcos no tiene restricciones y se puede meter en todo, interpretar en todos los niveles del [[ENTRADAS/_CONCEPTOS-TEMAS/procesador\|procesador]]. Se va ejecutando los cambios tan graduales, tan maravillosos y tan armónicos... Y todo lo hace de la carga residual.
+La [[ENTRADAS/CONCEPTOS/escala subatómica\|escala subatómica]] es la responsable de la [[ENTRADAS/CONCEPTOS/transformación\|transformación]]. ¿Por qué? Porque al no tener marcos no tiene restricciones y se puede meter en todo, interpretar en todos los niveles del [[ENTRADAS/CONCEPTOS/procesador\|procesador]]. Se va ejecutando los cambios tan graduales, tan maravillosos y tan armónicos... Y todo lo hace de la carga residual.
 { #4tz3gg}
 
 
-Nosotros no somos distintos de la tierra. La [[ENTRADAS/_CONCEPTOS-TEMAS/Tierra\|Tierra]] hace eso, la basura la transforma en alimento. Nosotros hacemos lo mismo. Lo que pasa que no lo hemos asumido nunca. Pero bueno, el reto ahora se vuelve... yo digo “un empujón” porque:
+Nosotros no somos distintos de la tierra. La [[ENTRADAS/CONCEPTOS/Tierra\|Tierra]] hace eso, la basura la transforma en alimento. Nosotros hacemos lo mismo. Lo que pasa que no lo hemos asumido nunca. Pero bueno, el reto ahora se vuelve... yo digo “un empujón” porque:
 
-- el que decide en el [[ENTRADAS/_CONCEPTOS-TEMAS/campo unificado\|campo unificado]], es el campo unificado. - En cambio, en la [[ENTRADAS/_CONCEPTOS-TEMAS/escala subatómica\|escala subatómica]], el que decide es la partícula en [[ENTRADAS/_CONCEPTOS-TEMAS/fuente\|fuente]].
+- el que decide en el [[ENTRADAS/CONCEPTOS/campo unificado\|campo unificado]], es el campo unificado. - En cambio, en la [[ENTRADAS/CONCEPTOS/escala subatómica\|escala subatómica]], el que decide es la partícula en [[ENTRADAS/CONCEPTOS/fuente\|fuente]].
 { #m0bh3d}
 
 
@@ -391,7 +405,7 @@ Después también recordemos los medios para el aporte al canal de Leticia Cande
 
 En la planificación yo no soy buena, yo soy buena en el online, pero en la planificación no, y es lo que tengo que aprender. Entonces, la comunidad del 70/11 activa me está ayudando enormemente, y quiero agradecer a todos y cada uno de ellos por mantener un año con el otro, el sostén de ese desarrollo y darme la oportunidad a que yo me entrene, en crear mejoras descriptivas. Yo necesito a un otro que me sostenga.
 
-Estamos creando los recursos en 11. Recursos en 11 son recursos que se pueden comunicar. Todas las actualizaciones llegan al [[ENTRADAS/_CONCEPTOS-TEMAS/área muda\|área muda]]. Ninguna actualización llega al [[ENTRADAS/_CONCEPTOS-TEMAS/área dialéctica\|área dialéctica]]. Si llega al área dialéctica es una pura [[ENTRADAS/_CONCEPTOS-TEMAS/interferencia\|interferencia]].
+Estamos creando los recursos en 11. Recursos en 11 son recursos que se pueden comunicar. Todas las actualizaciones llegan al [[ENTRADAS/CONCEPTOS/área muda\|área muda]]. Ninguna actualización llega al [[ENTRADAS/CONCEPTOS/área dialéctica\|área dialéctica]]. Si llega al área dialéctica es una pura [[ENTRADAS/CONCEPTOS/interferencia\|interferencia]].
 { #e6kwkn}
 
 

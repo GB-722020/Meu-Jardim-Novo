@@ -5,7 +5,7 @@
 
 **Ale en Red 131**
 
-O sea **¿qué es lo que le falló?** El [[ENTRADAS/_TEMAS/parámetro 39\|parámetro 39]]. [[TRANSCRIPCIONES/ACER/Ale en Red 131#^r03jda\|Ale en Red 131#^r03jda]]
+O sea **¿qué es lo que le falló?** El [[ENTRADAS/CONCEPTOS/parámetro 39\|parámetro 39]]. [[TRANSCRIPCIONES/ACER/Ale en Red 131#^r03jda\|Ale en Red 131#^r03jda]]
 
 
 

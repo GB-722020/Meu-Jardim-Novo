@@ -1,6 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-070/","created":"2026-01-24T10:32:17.724-03:00","updated":"2026-02-20T11:59:08.070-03:00"}
+{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-070/","created":"2026-01-24T10:32:17.724-03:00","updated":"2026-02-28T14:50:45.711-03:00"}
 ---
+
+
+
+
+
+
+
+> [!NOTE]- Nota acerca de las transcripciones y la diagramación en Obsidian
+>
+>
+> 
+> *Es importante resaltar que el objetivo del sitio no es ser una forma de leer una transcripción en su formato completo ni sustituir el papel de las transcripciones originales.*
+> 
+> *Además, Obsidian posee una manera diferente de **interpretar ciertos caracteres**, lo que acaba creando algunos **problemas de diagramación**. También no se incluyen archivos multimedia para evitar una carga lenta que afectaría la visualización y interconexión de las notas.*
+> 
+> ***Para visualizar las transcripciones con todos los recursos de presentación y edición, se recomienda ir directamente a la transcripción en su formato original.***
+
+
 
 
 # TRANSCRIPCIÓN ”Alejandra Casado en RED-70” Con Leticia Candelaria
@@ -24,25 +42,25 @@ Alejandra: ¡Hola! ¿Qué tal, Leti? Yo, muy contenta de estar compartiendo el i
 
 **_Sí, sí, un poquito ronca, hoy. Estamos iniciando esta Vuelta 12, precisamente, y se abre esta segunda parte de Calendaria. ¿Por dónde quieres empezar hoy?_**
 
-Me parece que lo más interesante para compartir es lo que me pasó esta noche... ahora son las 10 de la mañana, acá, del primer día de la [[ENTRADAS/_CONCEPTOS-TEMAS/vuelta 12\|vuelta 12]] del 2022...
+Me parece que lo más interesante para compartir es lo que me pasó esta noche... ahora son las 10 de la mañana, acá, del primer día de la [[ENTRADAS/CONCEPTOS/vuelta 12\|vuelta 12]] del 2022...
 
 Y la transición entre la noche y este día, tiene cosas muy interesantes, y me parece que son tan ilustrativas y tan amorosas, que vale la pena compartir cómo lo viví.
 
 **_A ver, adelante, claro que sí, cuéntanos..._**
 
-Primero dormí hasta las 3 de la madrugada... y a partir de ahí ya no... Hace ya tiempo, que yo respeto y no intento forzar el dormir, porque entiendo que el procesador administra si la potestad de la grabación de ese momento, se la va a brindar al [[ENTRADAS/_CONCEPTOS-TEMAS/origen\|origen]] o al [[ENTRADAS/_CONCEPTOS-TEMAS/destino\|destino]]. O sea, el origen, que es una dimensión de escala subatómica y el destino de escala anatómica.
+Primero dormí hasta las 3 de la madrugada... y a partir de ahí ya no... Hace ya tiempo, que yo respeto y no intento forzar el dormir, porque entiendo que el procesador administra si la potestad de la grabación de ese momento, se la va a brindar al [[ENTRADAS/CONCEPTOS/origen\|origen]] o al [[ENTRADAS/CONCEPTOS/destino\|destino]]. O sea, el origen, que es una dimensión de escala subatómica y el destino de escala anatómica.
 { #pcpjxg}
 
 
-Entonces el [[ENTRADAS/_CONCEPTOS-TEMAS/procesador\|procesador]] evalúa los recursos y dirige la orquesta, y he decidido respetar esa decisión del procesador.
+Entonces el [[ENTRADAS/CONCEPTOS/procesador\|procesador]] evalúa los recursos y dirige la orquesta, y he decidido respetar esa decisión del procesador.
 
-Entonces, cuando me toca despierta de noche, me siento halagada por- que el procesador dice: ahora los recursos están de este lado del anatómico.
+Entonces, cuando me toca despierta de noche, me siento halagada porque el procesador dice: ahora los recursos están de este lado del anatómico.
 
-Entonces, me pongo a ver en el celular a ver si encuentro más vídeos del tema que estoy estudiando de programación y voy juntando youtubers y poniéndolos en una lista... porque a las 3 de la madrugada estoy enfocada en mi progreso como estudiante y varias horas se juntaban... Y finalmente comienza de nuevo la dormida... y en ese instante yo vengo reflexionando sobre esta decisión del procesador y cómo el procesador estaba calificando entre [[ENTRADAS/_CONCEPTOS-TEMAS/origen\|origen]] y [[ENTRADAS/_CONCEPTOS-TEMAS/destino\|destino]], y estaba asumiendo que como destino, con la autoridad del procesador, tenía que reconfigurar el origen y decir: Ok. Porque origen hizo todo lo que pudo, reestructuró todo lo que pudo.
+Entonces, me pongo a ver en el celular a ver si encuentro más vídeos del tema que estoy estudiando de programación y voy juntando youtubers y poniéndolos en una lista... porque a las 3 de la madrugada estoy enfocada en mi progreso como estudiante y varias horas se juntaban... Y finalmente comienza de nuevo la dormida... y en ese instante yo vengo reflexionando sobre esta decisión del procesador y cómo el procesador estaba calificando entre [[ENTRADAS/CONCEPTOS/origen\|origen]] y [[ENTRADAS/CONCEPTOS/destino\|destino]], y estaba asumiendo que como destino, con la autoridad del procesador, tenía que reconfigurar el origen y decir: Ok. Porque origen hizo todo lo que pudo, reestructuró todo lo que pudo.
 { #0t6bxh}
 
 
-Entonces, en la Vuelta 12, la lógica tiene que ser la del [[ENTRADAS/_CONCEPTOS-TEMAS/contexto\|contexto]], no la propia, o sea, no la puedo codificar, entonces, claro, cuando me voy a dormir, en ese instante en que estás en la transición que es una frecuencia distinta a cuando estoy buscando el recurso de mi próximo YouTuber a mirar de programación... 
+Entonces, en la Vuelta 12, la lógica tiene que ser la del [[ENTRADAS/CONCEPTOS/contexto\|contexto]], no la propia, o sea, no la puedo codificar, entonces, claro, cuando me voy a dormir, en ese instante en que estás en la transición que es una frecuencia distinta a cuando estoy buscando el recurso de mi próximo YouTuber a mirar de programación...
 { #av8d2f}
 
 
@@ -51,12 +69,12 @@ Cuando estamos en esa transición, ahí es muy clara la comanda, la autoridad es
 Y ahí me duermo.
 Lo más bonito es cómo me despierto, porque me despierto con un audio, que suena en mi mente, de un spot publicitario que me causó una ternura enorme, porque el spot publicitario hablaba de la casa protegida, de un sistema de alarmas para proteger la casa.
 
-Y con la cancioncita de la casa protegida... y fue tan tierno... porque tenía relación con ese último tránsito donde el prototipo acá abajo, en destino, tomaba la recodificación del origen de las primeras 11 vueltas, pero tam- bién ahora, tomaba la referencia de afuera.
+Y con la cancioncita de la casa protegida... y fue tan tierno... porque tenía relación con ese último tránsito donde el prototipo acá abajo, en destino, tomaba la recodificación del origen de las primeras 11 vueltas, pero también ahora, tomaba la referencia de afuera.
 
 
 ¿Por qué razón?
 Ahora, que ya conté lo tierno, voy a explicar lo técnico.
-La tomografía computada de todo lo que hay entre nuestra [[ENTRADAS/_CONCEPTOS-TEMAS/base 12\|base 12]] y nuestra [[ENTRADAS/_CONCEPTOS-TEMAS/base 21\|base 21]]...Base 12, en cómo la Realidad nos pega, y 21 cómo nosotros aprovechamos ese golpe. Porque, en definitiva, volvemos a gestionar una instancia gravitatoria para el receptor. O sea, P-E-G-A: gestionar una instancia gravitatoria para el receptor.
+La tomografía computada de todo lo que hay entre nuestra [[ENTRADAS/CONCEPTOS/base 12\|base 12]] y nuestra [[ENTRADAS/CONCEPTOS/base 21\|base 21]]...Base 12, en cómo la Realidad nos pega, y 21 cómo nosotros aprovechamos ese golpe. Porque, en definitiva, volvemos a gestionar una instancia gravitatoria para el receptor. O sea, P-E-G-A: gestionar una instancia gravitatoria para el receptor.
 { #a7yggb}
 
 
@@ -64,7 +82,7 @@ Entonces, ¿realmente, el origen tomó la codificación de lo que la Realidad le
 
 Sí, no, más o menos...
 
-Pero el punto es, que esas respuestas ya están tomadas por el [[ENTRADAS/_CONCEPTOS-TEMAS/sistema solar\|sistema solar]]. El mejor tomógrafo lo tiene el Sistema Solar, no nuestros centros clínicos de atención de la salud.
+Pero el punto es, que esas respuestas ya están tomadas por el [[ENTRADAS/CONCEPTOS/sistema solar\|sistema solar]]. El mejor tomógrafo lo tiene el Sistema Solar, no nuestros centros clínicos de atención de la salud.
 
 Entonces, mis recursos como codificador, no van a ser suficientes, porque en el contexto opera una “caja” que sí contiene los documentos de todos los integrantes. Entonces, quien tiene la autoridad es “la caja”, no el autor del código.
 { #0dvdmq}
@@ -76,11 +94,11 @@ Autor del código de mi prototipo, sí, ok, yo, yo igual a yo, igual a perfecto,
 
 Así que, bueno, ahí funcionalizando según la anatomía del año, el recurso, siendo el día 177 y faltando 188 días para que termine el año, podemos ver muy claramente que 77-88 es toda la Conciencia que podamos portar más todas las octavas que se van a cruzar, porque ahí entramos en el punto de cruzamiento de las octavas y entramos a sacar fricción.
 
-Entonces, coordinar con “la caja” ([[ENTRADAS/_CONCEPTOS-TEMAS/caja de resonancia\|caja de resonancia]]) al ámbito donde yo voy a entrar, es decir: ok, ahora no manda mi lógica, manda tu lógica. Si manda tu lógica, mi prototipo tiene que tener un sistema de alerta para que en [[ENTRADAS/_CONCEPTOS-TEMAS/tiempo real\|tiempo real]] pueda elaborar una respuesta para una mente distinta de la propia.
+Entonces, coordinar con “la caja” ([[ENTRADAS/CONCEPTOS/caja de resonancia\|caja de resonancia]]) al ámbito donde yo voy a entrar, es decir: ok, ahora no manda mi lógica, manda tu lógica. Si manda tu lógica, mi prototipo tiene que tener un sistema de alerta para que en [[ENTRADAS/CONCEPTOS/tiempo real\|tiempo real]] pueda elaborar una respuesta para una mente distinta de la propia.
 { #dywpoy}
 
 
-Porque sino, lo que ocurre es que la [[ENTRADAS/_CONCEPTOS-TEMAS/mente\|mente]] del otro me golpea en el [[ENTRADAS/_CONCEPTOS-TEMAS/cuerpo\|cuerpo]]; es cuando decimos, el otro me da [[ENTRADAS/_CONCEPTOS-TEMAS/carga\|carga]]. Significa que hay un vínculo que todavía no chequeaste entre la mente del otro y tu cuerpo. Significa que tienes una lista de tareas en la Conciencia para codificar y mapear al ámbito, al miembro, y poder escribir tu código para que tu estructura psicológica pueda recibir la señal.
+Porque sino, lo que ocurre es que la [[ENTRADAS/CONCEPTOS/mente\|mente]] del otro me golpea en el [[ENTRADAS/CONCEPTOS/cuerpo\|cuerpo]]; es cuando decimos, el otro me da [[ENTRADAS/CONCEPTOS/carga\|carga]]. Significa que hay un vínculo que todavía no chequeaste entre la mente del otro y tu cuerpo. Significa que tienes una lista de tareas en la Conciencia para codificar y mapear al ámbito, al miembro, y poder escribir tu código para que tu estructura psicológica pueda recibir la señal.
 { #90t8aq}
 
 
@@ -88,7 +106,7 @@ Si te da carga es porque ya la recibió el cuerpo.
 
 Quiero decir, hay una bacante en tu estructura psicológica que todavía tiene una tarea pendiente. 
 
-Comprendamos el “me da [[ENTRADAS/_CONCEPTOS-TEMAS/carga\|carga]]” de una manera distinta, donde...
+Comprendamos el “me da [[ENTRADAS/CONCEPTOS/carga\|carga]]” de una manera distinta, donde...
 ¿La carga, a quién le da?
 A mí
 ¡Ah, bueno!
@@ -97,27 +115,27 @@ A mí
 { #tc23uq}
 
 
-Este es el punto, porque en definitiva la [[ENTRADAS/_CONCEPTOS-TEMAS/carga\|carga]] es un [[ENTRADAS/_CONCEPTOS-TEMAS/recurso\|recurso]] que ya tienes... es como si fuera el auto que ya tiene el combustible pero todavía no tiene hoja de ruta.
+Este es el punto, porque en definitiva la [[ENTRADAS/CONCEPTOS/carga\|carga]] es un [[ENTRADAS/CONCEPTOS/recurso\|recurso]] que ya tienes... es como si fuera el auto que ya tiene el combustible pero todavía no tiene hoja de ruta.
 { #lxje3p}
 
 
 Y dices: me da carga. Sí, claro, me da carga pero no me da ruta...
 
-Porque si te da carga y ruta, la carga está llegando y se está yendo en el mismo instante porque hay ruta. Pero si llega la carga y no hay [[ENTRADAS/_CONCEPTOS-TEMAS/ruta\|ruta]], el prototipo dice: tengo carga ¿dónde vamos?
+Porque si te da carga y ruta, la carga está llegando y se está yendo en el mismo instante porque hay ruta. Pero si llega la carga y no hay [[ENTRADAS/CONCEPTOS/ruta\|ruta]], el prototipo dice: tengo carga ¿dónde vamos?
 { #qe4pm0}
 
 
 Y como yo soy igual a yo, igual a perfecto allá arriba, el que tendría que cambiar es el otro...
 
-Si incluimos a la Cardinalidad Contexto, evidentemente, su mente llega a mi cuerpo de manera directa porque estamos finalmente conectados. Fisicamente, los componentes de nuestro [[ENTRADAS/_CONCEPTOS-TEMAS/cuerpo\|cuerpo]] no le pertenecen al que está codificando, sino que le pertenecen al [[ENTRADAS/_CONCEPTOS-TEMAS/ámbito\|ámbito]]. De hecho, cuando nos morimos, no nos llevamos el cuerpo, nos llevamos la programación de ese cuerpo, pero no el cuerpo mismo; hay una degradación de las sustancias... y es más, se vuelve combustible con el correr de los años en elaboración del marco porque se siguen degradando sus sustancias más simples. Eso significa que en tu programa no incluiste al [[ENTRADAS/_CONCEPTOS-TEMAS/objeto biológico\|objeto biológico]], sino al [[ENTRADAS/_CONCEPTOS-TEMAS/sujeto biológico\|sujeto biológico]].
+Si incluimos a la Cardinalidad Contexto, evidentemente, su mente llega a mi cuerpo de manera directa porque estamos finalmente conectados. Fisicamente, los componentes de nuestro [[ENTRADAS/CONCEPTOS/cuerpo\|cuerpo]] no le pertenecen al que está codificando, sino que le pertenecen al [[ENTRADAS/CONCEPTOS/ámbito\|ámbito]]. De hecho, cuando nos morimos, no nos llevamos el cuerpo, nos llevamos la programación de ese cuerpo, pero no el cuerpo mismo; hay una degradación de las sustancias... y es más, se vuelve combustible con el correr de los años en elaboración del marco porque se siguen degradando sus sustancias más simples. Eso significa que en tu programa no incluiste al [[ENTRADAS/CONCEPTOS/objeto biológico\|objeto biológico]], sino al [[ENTRADAS/CONCEPTOS/sujeto biológico\|sujeto biológico]].
 { #5ofoci}
 .
 
-Pero ese es el destino que tenemos para ganar, o sea, en la medida que codificamos mejor desde la instancia subatómica hasta la anatómica, vamos ganando destino en Tierra. Entonces ya, el objeto biológico y el sujeto biológico perpetúan y vuelven a actualizar su vínculo. A toda esta configuración, es lo que llevo llamando [[ENTRADAS/_CONCEPTOS-TEMAS/Proyecto Humano del Sistema Solar\|Proyecto Humano del Sistema Solar]].
+Pero ese es el destino que tenemos para ganar, o sea, en la medida que codificamos mejor desde la instancia subatómica hasta la anatómica, vamos ganando destino en Tierra. Entonces ya, el objeto biológico y el sujeto biológico perpetúan y vuelven a actualizar su vínculo. A toda esta configuración, es lo que llevo llamando [[ENTRADAS/CONCEPTOS/Proyecto Humano del Sistema Solar\|Proyecto Humano del Sistema Solar]].
 { #zuc25u}
 
 
-Una cosa es el proyecto humano del Sistema Solar que es mucho más completo con una performance muchísimo más amplia, y su objetivo es mejorar la interacción entre todos los objetos/sujetos humanos que abarca el Contexto, o sea, tiene un plan de mejorar la interactividad; la interactividad depende tanto de Ri como de Ro. La interactividad respecto de la Conciencia marco del Sistema Solar; la interacción respecto de nosotros, porque para nosotros es [[ENTRADAS/_CONCEPTOS-TEMAS/interacción\|interacción]] y para el [[ENTRADAS/_CONCEPTOS-TEMAS/sistema solar\|sistema solar]] es [[ENTRADAS/_CONCEPTOS-TEMAS/interactividad\|interactividad]].
+Una cosa es el proyecto humano del Sistema Solar que es mucho más completo con una performance muchísimo más amplia, y su objetivo es mejorar la interacción entre todos los objetos/sujetos humanos que abarca el Contexto, o sea, tiene un plan de mejorar la interactividad; la interactividad depende tanto de Ri como de Ro. La interactividad respecto de la Conciencia marco del Sistema Solar; la interacción respecto de nosotros, porque para nosotros es [[ENTRADAS/CONCEPTOS/interacción\|interacción]] y para el [[ENTRADAS/CONCEPTOS/sistema solar\|sistema solar]] es [[ENTRADAS/CONCEPTOS/interactividad\|interactividad]].
 { #k853rz}
 
 
@@ -125,11 +143,11 @@ Y cuando medimos la interactividad, está la interacción incluida, pero no desd
 
 Una es transaccional mientras la otra es ancla, porque la interacción es ancla; la interactividad es algo muy circunstancial.
 
-La [[ENTRADAS/_CONCEPTOS-TEMAS/interacción\|interacción]] queda grabada, es lo que nos convierte en ‘[[ENTRADAS/_CONCEPTOS-TEMAS/sujeto\|sujeto]]s’, y después el ‘[[ENTRADAS/_CONCEPTOS-TEMAS/objeto\|objeto]] humano’ ejecuta el código del ‘sujeto’, y ahí toma cuerpo nuestro mundo.
+La [[ENTRADAS/CONCEPTOS/interacción\|interacción]] queda grabada, es lo que nos convierte en ‘[[ENTRADAS/CONCEPTOS/sujeto\|sujeto]]s’, y después el ‘[[ENTRADAS/CONCEPTOS/objeto\|objeto]] humano’ ejecuta el código del ‘sujeto’, y ahí toma cuerpo nuestro mundo.
 { #r1vnlq}
 
 
-Mundo como una fracción que yo logré codificar de la [[ENTRADAS/_CONCEPTOS-TEMAS/realidad\|realidad]]; una parte de la Realidad que tiene sentido para mí, ya es [[ENTRADAS/_CONCEPTOS-TEMAS/mundo\|mundo]]. Está el mundo que es propio, y el mundo colectivo. El mundo que es colectivo, ya estamos hablando en el marco de SE, y el mundo que es propio en el marco de SO. Pero ese mundo es una fracción de la Realidad, no es equivalente con la Realidad, pero como es tu filtro para percibir a la Realidad, vas a decir que la Realidad es así, y en realidad lo que estás queriendo representar es que tu codificación de la Realidad es así. Y obviamente, discriminar entre la Percepción Global y lo que es la Realidad...
+Mundo como una fracción que yo logré codificar de la [[ENTRADAS/CONCEPTOS/realidad\|realidad]]; una parte de la Realidad que tiene sentido para mí, ya es [[ENTRADAS/CONCEPTOS/mundo\|mundo]]. Está el mundo que es propio, y el mundo colectivo. El mundo que es colectivo, ya estamos hablando en el marco de SE, y el mundo que es propio en el marco de SO. Pero ese mundo es una fracción de la Realidad, no es equivalente con la Realidad, pero como es tu filtro para percibir a la Realidad, vas a decir que la Realidad es así, y en realidad lo que estás queriendo representar es que tu codificación de la Realidad es así. Y obviamente, discriminar entre la Percepción Global y lo que es la Realidad...
 { #83osb2}
 
 
@@ -141,22 +159,22 @@ Sí, perdón, tienes razón, 176 las primeras 11, y a partir de hoy las siguient
 
 189, es la actualización del receptor, la actualización de la octava del receptor, que se ve incrementada por el desarrollo de estas 11 vueltas más el Anillo de Fuego.
 
-De hecho, [[ENTRADAS/_CONCEPTOS-TEMAS/Anillo de Fuego\|Anillo de Fuego]] para que podamos separar que nuestro mundo terminó en las 22 vueltas, resto, realidad. Porque pasa a ser una fuente externa para todo nuestro mundo, “nuestro mundo”, no “mi mundo”; comprender las escalas y tratar de desmenuzarlas cada vez mejor es parte de nuestra responsabilidad.
+De hecho, [[ENTRADAS/CONCEPTOS/Anillo de Fuego\|Anillo de Fuego]] para que podamos separar que nuestro mundo terminó en las 22 vueltas, resto, realidad. Porque pasa a ser una fuente externa para todo nuestro mundo, “nuestro mundo”, no “mi mundo”; comprender las escalas y tratar de desmenuzarlas cada vez mejor es parte de nuestra responsabilidad.
 { #vw8ys2}
 
 
-[[ENTRADAS/_CONCEPTOS-TEMAS/responsabilidad\|responsabilidad]] porque somos portadores de una configuración muy compleja que es la [[ENTRADAS/_CONCEPTOS-TEMAS/especie humana\|especie humana]].
+[[ENTRADAS/CONCEPTOS/responsabilidad\|responsabilidad]] porque somos portadores de una configuración muy compleja que es la [[ENTRADAS/CONCEPTOS/especie humana\|especie humana]].
 
 Y como es una configuración muy compleja, tiene requerimientos de alta complejidad.
 
-Una Conciencia que pretende seguir teniendo [[ENTRADAS/_CONCEPTOS-TEMAS/destino\|destino]], necesita chequear muchísimas cosas en el sonar, porque sino la vulnerabilidad es inmensa, porque vengo con mi plan y yo quiero ejecutar mi plan, pero todos vienen con su plan y quieren ejecutarlo.
+Una Conciencia que pretende seguir teniendo [[ENTRADAS/CONCEPTOS/destino\|destino]], necesita chequear muchísimas cosas en el sonar, porque sino la vulnerabilidad es inmensa, porque vengo con mi plan y yo quiero ejecutar mi plan, pero todos vienen con su plan y quieren ejecutarlo.
 
 Entonces, tienes el tuyo pero no tienes el de los demás y te ayuda con eso
 la “caja de resonancia”.
 
 **_Dijiste en el “sonar”, ¿qué quiere decir eso?_**
 
-El [[ENTRADAS/_CONCEPTOS-TEMAS/sonar\|sonar]] es el efecto de la [[ENTRADAS/_CONCEPTOS-TEMAS/antena\|antena]] en su [[ENTRADAS/_CONCEPTOS-TEMAS/interactividad\|interactividad]]. Emitimos y recibimos ondas que procesamos particularmente, y esas ondas nos traen un montón de información contradictoria respecto de nuestro código nativo, y eso es lo que tenemos que procesar porque no encajan, porque en este ámbito hay muchas [[ENTRADAS/_CONCEPTOS-TEMAS/partícula\|partícula]]s procesando [[ENTRADAS/_CONCEPTOS-TEMAS/onda\|onda]]s, no somos nosotros solamente ni tampoco lo hacemos de la misma manera...
+El [[ENTRADAS/CONCEPTOS/sonar\|sonar]] es el efecto de la [[ENTRADAS/CONCEPTOS/antena\|antena]] en su [[ENTRADAS/CONCEPTOS/interactividad\|interactividad]]. Emitimos y recibimos ondas que procesamos particularmente, y esas ondas nos traen un montón de información contradictoria respecto de nuestro código nativo, y eso es lo que tenemos que procesar porque no encajan, porque en este ámbito hay muchas [[ENTRADAS/CONCEPTOS/partícula\|partícula]]s procesando [[ENTRADAS/CONCEPTOS/onda\|onda]]s, no somos nosotros solamente ni tampoco lo hacemos de la misma manera...
 { #pgjml6}
 
 
@@ -165,7 +183,7 @@ Con un grupo compartía esto de...
 
 Salen desde la capacidad que poseen, interpretando que el resto de humanos tienen la misma capacidad, y nada que ver; hay personas que cierran los ojos y todo imágenes y hay otros que cierran los ojos y no hay nada...
 
-Entonces, uno cierra los ojos y piensa que al otro le pasa lo mismo que a uno, y no es así, porque las configuraciones nativas de código difieren, y todas estas cosas conforman estas tres estructuras de las que venimos hablando ya, bueno, en Una Mano para el Humano en su momento, después en otros ámbitos acá... de que tiene que ver con esa división de la [[ENTRADAS/_CONCEPTOS-TEMAS/psiquis\|psiquis]] en tres áreas.
+Entonces, uno cierra los ojos y piensa que al otro le pasa lo mismo que a uno, y no es así, porque las configuraciones nativas de código difieren, y todas estas cosas conforman estas tres estructuras de las que venimos hablando ya, bueno, en Una Mano para el Humano en su momento, después en otros ámbitos acá... de que tiene que ver con esa división de la [[ENTRADAS/CONCEPTOS/psiquis\|psiquis]] en tres áreas.
 
 Una que tiene que ver con la Realidad, otra conmigo y otra que tiene que ver con el cuerpo, con el soma directamente...
 
@@ -180,7 +198,7 @@ La Realidad es un artículo mayor a nuestro mundo, y solemos recibirla en su est
 
 Son señales no codificadas, y entonces, el prototipo se ve arrastrado, arrasado, influido por una Realidad, donde siente que la Realidad lo está dominando, no es que domina la Realidad.
 
-En la medida que hay documentadores de la Realidad, la Realidad está siendo codificada y hoy vivimos en un mundo confortable, porque a eso llamamos [[ENTRADAS/_CONCEPTOS-TEMAS/tecnología\|tecnología]], es una [[ENTRADAS/_CONCEPTOS-TEMAS/codificación\|codificación]] de la [[ENTRADAS/_CONCEPTOS-TEMAS/realidad\|realidad]] que la humanidad ha hecho... y ahora, hace frío y tenemos estufas... no sé cómo explicarlo... o sea, tenemos una infraestructura que nuestras generaciones anteriores no tuvieron, y eso es porque los escuchadores de la Realidad la han logrado codificar, y al codificarla, la estructuran, y al estructurarla, la anticipan, y al anticiparla está la confortabilidad en la cual nacen las criaturas de hoy en día y ya nacen en un mundo que está ampliamente codificado.
+En la medida que hay documentadores de la Realidad, la Realidad está siendo codificada y hoy vivimos en un mundo confortable, porque a eso llamamos [[ENTRADAS/CONCEPTOS/tecnología\|tecnología]], es una [[ENTRADAS/CONCEPTOS/codificación\|codificación]] de la [[ENTRADAS/CONCEPTOS/realidad\|realidad]] que la humanidad ha hecho... y ahora, hace frío y tenemos estufas... no sé cómo explicarlo... o sea, tenemos una infraestructura que nuestras generaciones anteriores no tuvieron, y eso es porque los escuchadores de la Realidad la han logrado codificar, y al codificarla, la estructuran, y al estructurarla, la anticipan, y al anticiparla está la confortabilidad en la cual nacen las criaturas de hoy en día y ya nacen en un mundo que está ampliamente codificado.
 { #wqo509}
 
 
@@ -192,17 +210,17 @@ No, la Realidad no para de emitir porque es la vida de nuestro Sistema Solar en 
 
 Bueno, ese espacio, se lo damos a lo que nosotros llamamos Anillo de Fuego o últimos 13 días del año, que la configuración que le da Calendaria a todo este conjunto de días, es tipo reloj; pasamos del día 352 al 353 y el día 353 es el procesador.
 
-Cuando empecé esta charla contigo, empecé hablando del procesador. Lo que el [[ENTRADAS/_CONCEPTOS-TEMAS/procesador\|procesador]] hace es dirigir la señal para el aspecto subatómico o para el anatómico en el horario nocturno, y que yo, como parte del prototipo acá abajo en el anatómico, ¡ok, está bien, nos hacemos cargo!, y a veces, directamente, otra vez para ( _Ale señala hacia arriba_ ) o sea, comanda; ese 353 es el que está comandando qué instancia va a procesar la señal, porque es el que detecta el Sistema de Equilibrio entre mi base estable que son los 352 días de las 22 vueltas, y todo lo que me traerá la inestabilidad, está en el tiempo de los últimos 13 días del año.
+Cuando empecé esta charla contigo, empecé hablando del procesador. Lo que el [[ENTRADAS/CONCEPTOS/procesador\|procesador]] hace es dirigir la señal para el aspecto subatómico o para el anatómico en el horario nocturno, y que yo, como parte del prototipo acá abajo en el anatómico, ¡ok, está bien, nos hacemos cargo!, y a veces, directamente, otra vez para ( _Ale señala hacia arriba_ ) o sea, comanda; ese 353 es el que está comandando qué instancia va a procesar la señal, porque es el que detecta el Sistema de Equilibrio entre mi base estable que son los 352 días de las 22 vueltas, y todo lo que me traerá la inestabilidad, está en el tiempo de los últimos 13 días del año.
 { #g052fi}
 
 
-Esta es la idea de poder administrar cada día como una [[ENTRADAS/_CONCEPTOS-TEMAS/caja de resonancia\|caja de resonancia]] específica y mejorar el funcionamiento de nuestro [[ENTRADAS/_CONCEPTOS-TEMAS/aparato psíquico\|aparato psíquico]], si mejora el funcionamiento de nuestra Aparato Psíquico tendremos más chance de darle claridad y recursos a nuestro Sistema Psicológico, y si nuestro Sistema Psicológico es capaz de procesar señales, el cuerpo no se ve directamente influenciado, sino que tiene un filtro para tramitar esas influencias.
+Esta es la idea de poder administrar cada día como una [[ENTRADAS/CONCEPTOS/caja de resonancia\|caja de resonancia]] específica y mejorar el funcionamiento de nuestro [[ENTRADAS/CONCEPTOS/aparato psíquico\|aparato psíquico]], si mejora el funcionamiento de nuestra Aparato Psíquico tendremos más chance de darle claridad y recursos a nuestro Sistema Psicológico, y si nuestro Sistema Psicológico es capaz de procesar señales, el cuerpo no se ve directamente influenciado, sino que tiene un filtro para tramitar esas influencias.
 { #oxy5el}
 
 
 ¡Ay! ¿Fue muy difícil? ¡Perdón!
 
-**_Esto último, la última parte, me perdí un poquito, tanto, que no sé qué estabas diciendo, estas últimas palabras no las es- cuché, no sé qué pasó... por cierto, te estuve acompañando a distancia, yo estuve igual que tú, despierta durante la noche y veía eso. En el trayecto de estos 20.500 días, y al despertar, la primera frase que me llegó en la mañana fue: 12 de octubre. Más tarde veré qué me estará diciendo ese 12 de octubre, porque lo que había visto dentro de lo de anoche era: en unos días tendré 20.508... pero bueno, no sé, ya veré eso...
+**_Esto último, la última parte, me perdí un poquito, tanto, que no sé qué estabas diciendo, estas últimas palabras no las escuché, no sé qué pasó... por cierto, te estuve acompañando a distancia, yo estuve igual que tú, despierta durante la noche y veía eso. En el trayecto de estos 20.500 días, y al despertar, la primera frase que me llegó en la mañana fue: 12 de octubre. Más tarde veré qué me estará diciendo ese 12 de octubre, porque lo que había visto dentro de lo de anoche era: en unos días tendré 20.508... pero bueno, no sé, ya veré eso...
 Pero ahorita que mencionaste esto...
 No sé qué dijiste en las últimas 10 palabras, dos frases, pero
 tampoco te acuerdas, supongo..._**
@@ -211,13 +229,13 @@ Lo que estaba intentando recapitular es que estas tres estructuras: física, psi
 
 **_En las tres psiquis_**
 
-Claro, claro, que dan soporte a las tres psiquis, justamente porque el Aparato Psíquico está en una configuración de tipo Espaciotemporal, entonces, va mejorando los recursos porque procesa las [[ENTRADAS/_CONCEPTOS-TEMAS/señal\|señal]]es en estado puro. Las señales en estado puro solamente es esa instancia, porque abajo, en el anatómico, requiere [[ENTRADAS/_CONCEPTOS-TEMAS/ancla\|ancla]] y pasado, entonces obviamente, la señal ya no es pura; es cuando la tomas ya con todos esos filtros cursados. Y, evidentemente los registros de claridad ya no van a estar, van a estar los registros de [[ENTRADAS/_CONCEPTOS-TEMAS/valor\|valor]]. Es como el aspecto precario de [[ENTRADAS/_CONCEPTOS-TEMAS/sistema solar\|sistema solar]] (7), impacta sobre el [[ENTRADAS/_CONCEPTOS-TEMAS/receptor\|receptor]] (1).
+Claro, claro, que dan soporte a las tres psiquis, justamente porque el Aparato Psíquico está en una configuración de tipo Espaciotemporal, entonces, va mejorando los recursos porque procesa las [[ENTRADAS/CONCEPTOS/señal\|señal]]es en estado puro. Las señales en estado puro solamente es esa instancia, porque abajo, en el anatómico, requiere [[ENTRADAS/CONCEPTOS/ancla\|ancla]] y pasado, entonces obviamente, la señal ya no es pura; es cuando la tomas ya con todos esos filtros cursados. Y, evidentemente los registros de claridad ya no van a estar, van a estar los registros de [[ENTRADAS/CONCEPTOS/valor\|valor]]. Es como el aspecto precario de [[ENTRADAS/CONCEPTOS/sistema solar\|sistema solar]] (7), impacta sobre el [[ENTRADAS/CONCEPTOS/receptor\|receptor]] (1).
 { #hkemve}
  
 { #w6rpk1}
 
 
-Entonces, lo precario será lo más consistente, porque está siendo el ancla para que tengas un lugar de guardado del rombo que precisas para armar tu [[ENTRADAS/_CONCEPTOS-TEMAS/conocimiento\|conocimiento]], el CONO dependerá del psiquismo, pero el CIMIENTO dependerá del archivo. A ver, como-cimiento, _(Ale dibuja en el aire el rombo que los divide a ambos_ ) y es un rumbo en definitiva, ahí hay dificultades entre el CONO que recibe señales que no alcanza a decodificar de manera limpia porque el CIMIENTO, no se lo permite. Ahí notamos que la Realidad es agresiva con nosotros, porque nuestro CIMIENTO no es suficiente para soportar la violencia de la señal. La violencia de la señal porque ya la estamos queriendo procesar en la escala anatómica, y en la escala anatómica, ya es tarde.
+Entonces, lo precario será lo más consistente, porque está siendo el ancla para que tengas un lugar de guardado del rombo que precisas para armar tu [[ENTRADAS/CONCEPTOS/conocimiento\|conocimiento]], el CONO dependerá del psiquismo, pero el CIMIENTO dependerá del archivo. A ver, como-cimiento, _(Ale dibuja en el aire el rombo que los divide a ambos_ ) y es un rumbo en definitiva, ahí hay dificultades entre el CONO que recibe señales que no alcanza a decodificar de manera limpia porque el CIMIENTO, no se lo permite. Ahí notamos que la Realidad es agresiva con nosotros, porque nuestro CIMIENTO no es suficiente para soportar la violencia de la señal. La violencia de la señal porque ya la estamos queriendo procesar en la escala anatómica, y en la escala anatómica, ya es tarde.
 { #2jf11t}
 
 
@@ -245,15 +263,15 @@ Por eso, las segundas 11 vueltas, ponen a prueba a mis primeras 11, pero si mis 
 { #11yb23}
 
 
-Son tres instancias distintas, el puro, puro, puro, es el de arriba; psicología ya empieza a mezclar el ancla con la novedad, entonces, procura describir esa novedad, y después resulta, cuando hacemos la afirmación concreta de valor, va para abajo, y estamos hablando ya de que eso se convierte en el [[ENTRADAS/_CONCEPTOS-TEMAS/pasado\|pasado]]. Los pasados, los habrá de los más temporales a los más permanentes. Tenemos memorias de las más temporales a las más permanentes. Pero no quiero embarullar más con cosas complejas a la audiencia que tiene su vida por delante.
+Son tres instancias distintas, el puro, puro, puro, es el de arriba; psicología ya empieza a mezclar el ancla con la novedad, entonces, procura describir esa novedad, y después resulta, cuando hacemos la afirmación concreta de valor, va para abajo, y estamos hablando ya de que eso se convierte en el [[ENTRADAS/CONCEPTOS/pasado\|pasado]]. Los pasados, los habrá de los más temporales a los más permanentes. Tenemos memorias de las más temporales a las más permanentes. Pero no quiero embarullar más con cosas complejas a la audiencia que tiene su vida por delante.
 { #gl21ik}
 
 
-Pero que en definitiva, es que la Realidad no tiene [[ENTRADAS/_CONCEPTOS-TEMAS/límite\|límite]]s, tiene [[ENTRADAS/_CONCEPTOS-TEMAS/alcance\|alcance]]s. Nosotros, tenemos límites, y tenemos que comprender a nuestros límites, y aprender a respetarlos porque nuestro aspecto en la [[ENTRADAS/_CONCEPTOS-TEMAS/escala subatómica\|escala subatómica]], precisa que nuestro aspecto en [[ENTRADAS/_CONCEPTOS-TEMAS/escala anatómica\|escala anatómica]] identifique sus límites porque así “la caja” le funcionará mejor.
+Pero que en definitiva, es que la Realidad no tiene [[ENTRADAS/CONCEPTOS/límite\|límite]]s, tiene [[ENTRADAS/CONCEPTOS/alcance\|alcance]]s. Nosotros, tenemos límites, y tenemos que comprender a nuestros límites, y aprender a respetarlos porque nuestro aspecto en la [[ENTRADAS/CONCEPTOS/escala subatómica\|escala subatómica]], precisa que nuestro aspecto en [[ENTRADAS/CONCEPTOS/escala anatómica\|escala anatómica]] identifique sus límites porque así “la caja” le funcionará mejor.
 { #9voeml}
 
 
-“La caja” lee de manera técnica tus [[ENTRADAS/_CONCEPTOS-TEMAS/límite\|límite]]s, y si tú no los reconoces, no los tienes codificados, tu relación con “la caja” es ambigua, es netamente subjetiva, te va a estar espejando a tu propia mente y no te va a hacer percibir al otro como otro, sino como un reflejo tuyo.
+“La caja” lee de manera técnica tus [[ENTRADAS/CONCEPTOS/límite\|límite]]s, y si tú no los reconoces, no los tienes codificados, tu relación con “la caja” es ambigua, es netamente subjetiva, te va a estar espejando a tu propia mente y no te va a hacer percibir al otro como otro, sino como un reflejo tuyo.
 { #3agvv2}
 
 
@@ -263,7 +281,7 @@ No, no, es como tu filtraste a la señal pura y cómo la documentaste y cómo se
 
 Las nociones de humano configuración Sistema Solar, configuran el destino de nuestra especie, y realmente es un artículo valiosísimo y bellísimo y amplísimo que iremos encontrando.
 
-En estos días atrás, se cumplieron los 9 años de la salida pública del primero vídeo donde presenté el CONO, y después del [[ENTRADAS/_CONCEPTOS-TEMAS/evento 28\|evento 28]] el CIMIENTO, porque justamente fue después del Evento 28 que se desplegó el gráfico para abajo.
+En estos días atrás, se cumplieron los 9 años de la salida pública del primero vídeo donde presenté el CONO, y después del [[ENTRADAS/CONCEPTOS/evento 28\|evento 28]] el CIMIENTO, porque justamente fue después del Evento 28 que se desplegó el gráfico para abajo.
 
 Pero el CONO porque estábamos trabajando todo con nociones de Espaciotiempo que eran completamente inéditas para nosotros. Ahora, no todos pudimos hacer el mismo CIMIENTO de ese CONO, porque ya tenemos muchos cimientos anteriores que nos terminan por ensuciar la señal en estado puro, y entonces, se ve en los niveles de claridad que hay en los años subsiguientes.
 { #1fa54i}
@@ -271,7 +289,7 @@ Pero el CONO porque estábamos trabajando todo con nociones de Espaciotiempo que
 
 Estos 9 años que han sido realmente titánicos para brindar un conocimiento inédito en un campo muy poblado, entramos a configurar nuestros próximos 9 años, que ya no van a ocurrir sobre la base de Ri, sino sobre la base de Ro, que va a tratar de la reconstrucción del valor de ese recurso.
 
-Cuando nosotros podemos hacer una mirada retrospectiva de los pasos dados, lo que pasa es que como los pasos ya son dados, hay métricas de [[ENTRADAS/_CONCEPTOS-TEMAS/pasado\|pasado]], y ahí se van a poder establecer qué cosa era un atributo de la [[ENTRADAS/_CONCEPTOS-TEMAS/señal\|señal]] en su estado puro, y qué cosa era la parte más sucia de cuando se iba bajando y documentando, y vamos a poder aclarar todas esas cuestiones para que la señal en su estado puro capee cada vez más a la Estructura Psicológica y no se vuelva una contienda de unos contra otros, sino la comprensión y el entendimiento prosperando día a día en nuestra capacidad de interacción, porque es la integridad del recurso, que es señal educativa amplia, a señal educativa apropiada particularmente.
+Cuando nosotros podemos hacer una mirada retrospectiva de los pasos dados, lo que pasa es que como los pasos ya son dados, hay métricas de [[ENTRADAS/CONCEPTOS/pasado\|pasado]], y ahí se van a poder establecer qué cosa era un atributo de la [[ENTRADAS/CONCEPTOS/señal\|señal]] en su estado puro, y qué cosa era la parte más sucia de cuando se iba bajando y documentando, y vamos a poder aclarar todas esas cuestiones para que la señal en su estado puro capee cada vez más a la Estructura Psicológica y no se vuelva una contienda de unos contra otros, sino la comprensión y el entendimiento prosperando día a día en nuestra capacidad de interacción, porque es la integridad del recurso, que es señal educativa amplia, a señal educativa apropiada particularmente.
 { #olc58l}
 
 
@@ -281,7 +299,7 @@ De hecho, todos los científicos que están mirando al espacio en este momento, 
 
 Y justamente esto, se les ocurre a partir de que aparece Calendaria, porque el último segundo intercalar ocurre en 2.016, y en 2.017 ya aparece Calendaria.
 
-Entonces, [[ENTRADAS/_CONCEPTOS-TEMAS/Calendaria\|Calendaria]] procura brindar estabilidad al [[ENTRADAS/_CONCEPTOS-TEMAS/espacio-tiempo\|espacio-tiempo]] y el correlato de los científicos que se ponen a buscar un segundo que tenga una base más estable.
+Entonces, [[ENTRADAS/CONCEPTOS/Calendaria\|Calendaria]] procura brindar estabilidad al [[ENTRADAS/CONCEPTOS/espacio-tiempo\|espacio-tiempo]] y el correlato de los científicos que se ponen a buscar un segundo que tenga una base más estable.
 { #9sfg30}
 
 
@@ -301,11 +319,11 @@ Cuando hablan del clima piensan que es una cosa que no tiene nada que ver con nu
 
 Hay muchas escalas participando que son anteriores a la anatómica, en las cuales existimos, no con esta sustancia gravitatoria, pero con otra, de otra índole.
 
-Entonces, el CONO está funcionando en muchas [[ENTRADAS/_CONCEPTOS-TEMAS/dimensión\|dimensión]]es, y acá el CIMIENTO, en muchos [[ENTRADAS/_CONCEPTOS-TEMAS/plano\|plano]]s. Las dimensiones son editadles, pero los planos son estrictos, se ejecutan. Vengo hablando de la [[ENTRADAS/_CONCEPTOS-TEMAS/función PER\|función PER]] como algo muy abstracto, muy abstracto desde hacer varios años, pero claro, nos damos cuenta que de pronto vamos a los registros viejos, viejos, viejos... bíblicos podría decirle, y encontramos la figura de [[ENTRADAS/_CONCEPTOS-TEMAS/Pedro\|Pedro]], que es la Función Per con el filtro de la D, que lo que está filtrando es la totalidad, ¡oh!, cuando nosotros el [[ENTRADAS/_CONCEPTOS-TEMAS/cero\|cero]], es la [[ENTRADAS/_CONCEPTOS-TEMAS/totalidad\|totalidad]] como editores de código; después resulta que pasamos ese filtro y acá en el anatómico vemos como funciona y hacemos correcciones en otras gamas.
+Entonces, el CONO está funcionando en muchas [[ENTRADAS/CONCEPTOS/dimensión\|dimensión]]es, y acá el CIMIENTO, en muchos [[ENTRADAS/CONCEPTOS/plano\|plano]]s. Las dimensiones son editadles, pero los planos son estrictos, se ejecutan. Vengo hablando de la [[ENTRADAS/CONCEPTOS/función PER\|función PER]] como algo muy abstracto, muy abstracto desde hacer varios años, pero claro, nos damos cuenta que de pronto vamos a los registros viejos, viejos, viejos... bíblicos podría decirle, y encontramos la figura de [[ENTRADAS/CONCEPTOS/Pedro\|Pedro]], que es la Función Per con el filtro de la D, que lo que está filtrando es la totalidad, ¡oh!, cuando nosotros el [[ENTRADAS/CONCEPTOS/cero\|cero]], es la [[ENTRADAS/CONCEPTOS/totalidad\|totalidad]] como editores de código; después resulta que pasamos ese filtro y acá en el anatómico vemos como funciona y hacemos correcciones en otras gamas.
 { #r9yq4n}
 
 
-Entonces, Pedro es una Función Per filtrada, lo que para nosotros en LGC es el 4º orbital, y del 4º orbital al 9º, es nuestro recurso de amparo, porque todo lo que no pudimos captar de la emisión del Sol, no está documentado en el orbital 1 ni en el orbital 2, es lo que en el orbital 3 nos empieza a dar [[ENTRADAS/_CONCEPTOS-TEMAS/falla\|falla]], entonces, ahí viene en nuestras fallas el recurso de amparo, los orbitales del 4 al 9. Por eso nuestro [[ENTRADAS/_CONCEPTOS-TEMAS/día\|día]] se llama D-I (49) A, porque está justamente haciendo esta tarea de tomar de nuestro amparo y colocar en nuestro soporte, tomar de nuestro amparo y colocarlo en el soporte. Cada día, estamos haciendo eso.
+Entonces, Pedro es una Función Per filtrada, lo que para nosotros en LGC es el 4º orbital, y del 4º orbital al 9º, es nuestro recurso de amparo, porque todo lo que no pudimos captar de la emisión del Sol, no está documentado en el orbital 1 ni en el orbital 2, es lo que en el orbital 3 nos empieza a dar [[ENTRADAS/CONCEPTOS/falla\|falla]], entonces, ahí viene en nuestras fallas el recurso de amparo, los orbitales del 4 al 9. Por eso nuestro [[ENTRADAS/CONCEPTOS/día\|día]] se llama D-I (49) A, porque está justamente haciendo esta tarea de tomar de nuestro amparo y colocar en nuestro soporte, tomar de nuestro amparo y colocarlo en el soporte. Cada día, estamos haciendo eso.
 { #ixkt2k}
 
 
@@ -313,7 +331,7 @@ Entonces vamos, la Función Per filtrada por el Pedro, que tenía las llaves del
 
 Te das cuenta que el lenguaje místico, obviamente, lo guardas en escala simbólica pero cuando vas a la técnica no te sirve, no te alcanza.
 
-Entonces, ahora, resulta que tenemos como un presidente nuevo del [[ENTRADAS/_CONCEPTOS-TEMAS/código 57\|código 57]]... 57 es administración de valor, de cómo vamos a administrar el valor gravitatorio... y el hombre tiene todo un historial donde matar gente se convirtió en algo común: bombas por las calles, guerrillas... el valor de la vida humana es muy poco...
+Entonces, ahora, resulta que tenemos como un presidente nuevo del [[ENTRADAS/CONCEPTOS/código 57\|código 57]]... 57 es administración de valor, de cómo vamos a administrar el valor gravitatorio... y el hombre tiene todo un historial donde matar gente se convirtió en algo común: bombas por las calles, guerrillas... el valor de la vida humana es muy poco...
 { #yh5h66}
 
 
@@ -325,15 +343,15 @@ Es muy loco porque su apellido es Petro, también es una Función Per, pero en e
 
 Entonces, Petro, indica a fijo y está del lado de abajo, está en lo que nos sostiene. O sea, que la Función Per, cambió de eje, el orbital 4 pasa a estar más orientado... o sea, el filtro se pone más exigente: Petro, estamos hablando de que se petrifica, porque necesitamos estabilizar el cimiento. Todas estas configuraciones son exquisitas y podemos ir a mirar con un aspecto puro de la señal pura acá arriba, el día de nacimiento del Sr. Petro, entrar a ver la configuración, cómo combina con otra secuencia, en qué vuelta, cuál es el procesamiento que está haciendo la seña en su estado puro...
 
-No estamos hablando del contaminado porque obviamente hay todos pecadores... el tema es la capacidad que podemos o no podemos de tomar la señal pura y usar ese pasado como [[ENTRADAS/_CONCEPTOS-TEMAS/ancla\|ancla]] para prototipar el tiempo lineal y poner el [[ENTRADAS/_CONCEPTOS-TEMAS/pasado\|pasado]] como peor y el [[ENTRADAS/_CONCEPTOS-TEMAS/futuro\|futuro]] como mejor. Si el mejor ocupa el pasado, el peor ocupará el futuro, así que siempre nos conviene que el pasado sea peor, por más mejor que haya sido, nuestro psiquismo tiene que procesar señales en estado puro, y aclarar registros para mejorar el futuro.
+No estamos hablando del contaminado porque obviamente hay todos pecadores... el tema es la capacidad que podemos o no podemos de tomar la señal pura y usar ese pasado como [[ENTRADAS/CONCEPTOS/ancla\|ancla]] para prototipar el tiempo lineal y poner el [[ENTRADAS/CONCEPTOS/pasado\|pasado]] como peor y el [[ENTRADAS/CONCEPTOS/futuro\|futuro]] como mejor. Si el mejor ocupa el pasado, el peor ocupará el futuro, así que siempre nos conviene que el pasado sea peor, por más mejor que haya sido, nuestro psiquismo tiene que procesar señales en estado puro, y aclarar registros para mejorar el futuro.
 { #0m8ff2}
 
 
-Nuestra tarea principal como humanos habilitados con un Aparato Psíquico tan sofisticado y con una responsabilidad tan inmensa... claro que estamos sujetos al clima de nuestro Sistema Solar, claro que sí, no es la cuestión de que tiene ciclos y ya, y nosotros no tenemos nada que ver... Si nosotros no tenemos nada que ver, significa que no hemos asumido el proyecto humano según el Sistema Solar [[ENTRADAS/_CONCEPTOS-TEMAS/Proyecto Humano del Sistema Solar\|Proyecto Humano del Sistema Solar]]... entonces venimos a disfrutar una temporada y nos importa nada el destino de este entorno, porque total, como yo voy a estar muerto, qué me va a estar importando. Entonces, esta configuración de humano como Sistema Solar, no es que solamente le interesa el momento en el cual está vivo, le interesa ser un mejor nexo entre los distintos tiempos del mismo [[ENTRADAS/_CONCEPTOS-TEMAS/espacio\|espacio]]. Un mejor nexo entre los distintos tiempos de un mismo espacio, por eso viene la necesidad de estabilizar. Obviamente que la dialéctica de los científicos es para que la tecnología no falle.
+Nuestra tarea principal como humanos habilitados con un Aparato Psíquico tan sofisticado y con una responsabilidad tan inmensa... claro que estamos sujetos al clima de nuestro Sistema Solar, claro que sí, no es la cuestión de que tiene ciclos y ya, y nosotros no tenemos nada que ver... Si nosotros no tenemos nada que ver, significa que no hemos asumido el proyecto humano según el Sistema Solar [[ENTRADAS/CONCEPTOS/Proyecto Humano del Sistema Solar\|Proyecto Humano del Sistema Solar]]... entonces venimos a disfrutar una temporada y nos importa nada el destino de este entorno, porque total, como yo voy a estar muerto, qué me va a estar importando. Entonces, esta configuración de humano como Sistema Solar, no es que solamente le interesa el momento en el cual está vivo, le interesa ser un mejor nexo entre los distintos tiempos del mismo [[ENTRADAS/CONCEPTOS/espacio\|espacio]]. Un mejor nexo entre los distintos tiempos de un mismo espacio, por eso viene la necesidad de estabilizar. Obviamente que la dialéctica de los científicos es para que la tecnología no falle.
 { #mtsj1o}
 
 
-En [[ENTRADAS/_CONCEPTOS-TEMAS/LGC\|LGC]] es para procesar nuestras propias [[ENTRADAS/_CONCEPTOS-TEMAS/falla\|falla]]s, pero ellos de las propias fallas no estarían muy enterados. Están ocupándose en que la tecnología no falle. Que también es importante, porque todavía estamos con una enorme lista de tareas y si no dispongo de la tecnología, no podría estar charlando contigo todas estas cosas.
+En [[ENTRADAS/CONCEPTOS/LGC\|LGC]] es para procesar nuestras propias [[ENTRADAS/CONCEPTOS/falla\|falla]]s, pero ellos de las propias fallas no estarían muy enterados. Están ocupándose en que la tecnología no falle. Que también es importante, porque todavía estamos con una enorme lista de tareas y si no dispongo de la tecnología, no podría estar charlando contigo todas estas cosas.
 { #6aw5hk}
 
 
@@ -343,7 +361,7 @@ Yo me ocupo más de los límites que de los alcances, y bueno, es una tarea que 
 { #xnsjiz}
 
 
-Los sistemas de dependencia cambian de acuerdo a nuestras facultades y nuestras dificultades. Tenemos un conjunto de [[ENTRADAS/_CONCEPTOS-TEMAS/dificultad\|dificultad]]es y un conjunto de [[ENTRADAS/_CONCEPTOS-TEMAS/facultad\|facultad]]es. ¿Cual es la diferencia entre las dos? Que las facultades vienen de dificultades que han sido codificadas. Entonces, yo puedo agrandar mi cambio de facultades si estoy dispuesto a procesar las dificultades que tengo, entonces mi campo de mis faculta- des va creciendo.
+Los sistemas de dependencia cambian de acuerdo a nuestras facultades y nuestras dificultades. Tenemos un conjunto de [[ENTRADAS/CONCEPTOS/dificultad\|dificultad]]es y un conjunto de [[ENTRADAS/CONCEPTOS/facultad\|facultad]]es. ¿Cual es la diferencia entre las dos? Que las facultades vienen de dificultades que han sido codificadas. Entonces, yo puedo agrandar mi cambio de facultades si estoy dispuesto a procesar las dificultades que tengo, entonces mi campo de mis faculta- des va creciendo.
 { #ceyxgc}
 
 
@@ -353,23 +371,23 @@ Creo que vamos bastante ya, ¿o no? ¿Cómo vamos?
 
 Ah, bueno, porque no quiero hacer sobrecarga porque estoy como respetuosa de los procesos naturales, que ante tanto tumulto, tanta intensidad que estamos teniendo, no quiero hacer un aporte que haga sobrecarga, sino que pueda ser útil a quienes están siguiendo esto en remoto, porque ahora la prioridad de LGC, es la aplicación en vida real, entonces, estamos todos en la cueva o en nuestras primeras lineas documentando qué aprovechamiento le dimos al recurso cada uno de nosotros. 
 
-Y, en todo caso, qué es lo que faltó o lo que falló, eso también... Estas 11 vueltas van a terminar en una documentación de fallas y faltas [[ENTRADAS/_CONCEPTOS-TEMAS/reporte de fallas y faltas\|reporte de fallas y faltas]]. Las fallas y faltas no es para tener premios o castigos...
+Y, en todo caso, qué es lo que faltó o lo que falló, eso también... Estas 11 vueltas van a terminar en una documentación de fallas y faltas [[ENTRADAS/CONCEPTOS/reporte de fallas y faltas\|reporte de fallas y faltas]]. Las fallas y faltas no es para tener premios o castigos...
 
 **_Es para tener un registro_**
 
-Claro, porque dependemos de la [[ENTRADAS/_CONCEPTOS-TEMAS/falta\|falta]] para corregir al código nativo y dependemos de las [[ENTRADAS/_CONCEPTOS-TEMAS/falla\|falla]]s para movernos con criterios no propios, con criterios ajenos al propio. Porque una falla es cuando se volvió evidente un [[ENTRADAS/_CONCEPTOS-TEMAS/error\|error]] y se vuelve evidente un error cuando se choca con otro error que es distinto, sino, el error es perfecto, todos podemos vivir en un error toda la vida, sin dificultades y con facultades, y eso sigue siendo un error porque es una fracción de la Realidad.
+Claro, porque dependemos de la [[ENTRADAS/CONCEPTOS/falta\|falta]] para corregir al código nativo y dependemos de las [[ENTRADAS/CONCEPTOS/falla\|falla]]s para movernos con criterios no propios, con criterios ajenos al propio. Porque una falla es cuando se volvió evidente un [[ENTRADAS/CONCEPTOS/error\|error]] y se vuelve evidente un error cuando se choca con otro error que es distinto, sino, el error es perfecto, todos podemos vivir en un error toda la vida, sin dificultades y con facultades, y eso sigue siendo un error porque es una fracción de la Realidad.
 { #h84960}
 
 
 Ahora, una fracción se topa con otra fracción y va a entrar en fricción, y ahí la Realidad pone un punto de atención, porque se tienen que mirar y documentarse lo que le falto a uno y lo que otro tiene y lo que el otro tiene y yo tengo... o sea, la complementariedad de los recursos y la distribución de los mismos y la comprensión de las distintas instancias: psíquicas, psicológicas, físicas, archivos, pasado, presente, futuro... todas esas cosas.
 
-Entonces, documentación de fallas y faltas a documentarlas para que el tránsito del día 352 al día 353, podamos alimentar al [[ENTRADAS/_CONCEPTOS-TEMAS/procesador\|procesador]].
+Entonces, documentación de fallas y faltas a documentarlas para que el tránsito del día 352 al día 353, podamos alimentar al [[ENTRADAS/CONCEPTOS/procesador\|procesador]].
 
-Cuanto más alimentado esté ese procesador, le estaré dando la autoridad a ese procesador para que dirija la orquesta porque es el que se ocupa del destino que es la reconfiguración del origen; bien al revés, porque el Sol también tiene sus movimientos; pero son movimientos de retracción, donde el [[ENTRADAS/_CONCEPTOS-TEMAS/Sol\|Sol]] proyecta en su [[ENTRADAS/_CONCEPTOS-TEMAS/mente\|mente]], su [[ENTRADAS/_CONCEPTOS-TEMAS/pasado\|pasado]] y nosotros debemos hacer eso; los artículos, los nexos que están reviviendo el histórico del Sol, estamos siendo nosotros, por eso es que cuando el Sol nos escanea, escanea su propio pasado, para castigarse no lo hace, lo hace para mejorarse. Si nosotros utilizamos esos mismos criterios, usamos nuestro pasado no para castigarnos, sino para mejorarnos, porque sino llevamos al futuro algo peor todavía... o sea, vamos desgastando al [[ENTRADAS/_CONCEPTOS-TEMAS/código nativo\|código nativo]] y empieza con su mejor versión y después se desgasta, se desgasta, se desgasta, y termina en lo peor, porque el punto de referencia ha sido el código nativo. Esto es.
+Cuanto más alimentado esté ese procesador, le estaré dando la autoridad a ese procesador para que dirija la orquesta porque es el que se ocupa del destino que es la reconfiguración del origen; bien al revés, porque el Sol también tiene sus movimientos; pero son movimientos de retracción, donde el [[ENTRADAS/CONCEPTOS/Sol\|Sol]] proyecta en su [[ENTRADAS/CONCEPTOS/mente\|mente]], su [[ENTRADAS/CONCEPTOS/pasado\|pasado]] y nosotros debemos hacer eso; los artículos, los nexos que están reviviendo el histórico del Sol, estamos siendo nosotros, por eso es que cuando el Sol nos escanea, escanea su propio pasado, para castigarse no lo hace, lo hace para mejorarse. Si nosotros utilizamos esos mismos criterios, usamos nuestro pasado no para castigarnos, sino para mejorarnos, porque sino llevamos al futuro algo peor todavía... o sea, vamos desgastando al [[ENTRADAS/CONCEPTOS/código nativo\|código nativo]] y empieza con su mejor versión y después se desgasta, se desgasta, se desgasta, y termina en lo peor, porque el punto de referencia ha sido el código nativo. Esto es.
 { #gjuuw3}
 
 
-Invertir el tema es asumir que venimos a un marco para aumentar nuestra capacidad como lectores y escritores de código, y eso va haciendo una resonancia con “la caja” donde nosotros mejoramos el código, y ahí creamos un rombo. ROM ([[ENTRADAS/_CONCEPTOS-TEMAS/ROM\|ROM]]), es justamente cómo le damos con la M el brochecito al Ro, o sea, lo estabilizamos, porque le damos CIMIENTO. Entonces, esa configuración es importante para nuestra [[ENTRADAS/_CONCEPTOS-TEMAS/estabilidad\|estabilidad]], pero a la vez, el CONO es importante para nuestra [[ENTRADAS/_CONCEPTOS-TEMAS/actualización\|actualización]]; no tendrían ningún problema en coexistir si nosotros adoptamos y es un proyecto adoptado.
+Invertir el tema es asumir que venimos a un marco para aumentar nuestra capacidad como lectores y escritores de código, y eso va haciendo una resonancia con “la caja” donde nosotros mejoramos el código, y ahí creamos un rombo. ROM ([[ENTRADAS/CONCEPTOS/ROM\|ROM]]), es justamente cómo le damos con la M el brochecito al Ro, o sea, lo estabilizamos, porque le damos CIMIENTO. Entonces, esa configuración es importante para nuestra [[ENTRADAS/CONCEPTOS/estabilidad\|estabilidad]], pero a la vez, el CONO es importante para nuestra [[ENTRADAS/CONCEPTOS/actualización\|actualización]]; no tendrían ningún problema en coexistir si nosotros adoptamos y es un proyecto adoptado.
 { #vpuq4y}
 
 
@@ -377,7 +395,7 @@ El proyecto humano como Sistema Solar es un proyecto por adopción. Tú ya tiene
 
 El tema es, que la Realidad posee los recursos que a nosotros nos falta. Entonces, ¿tenemos la capacidad de ser receptivos y reconocer todo lo que nos falta?
 
-Entonces [[ENTRADAS/_CONCEPTOS-TEMAS/la caja\|la caja]] lo va a empezar a enviar, ya no viene de tu origen, viene de aquel ámbito que te da origen a ti, y no es lo mismo. Entonces, tu [[ENTRADAS/_CONCEPTOS-TEMAS/origen\|origen]] se empieza a incrementar porque tu [[ENTRADAS/_CONCEPTOS-TEMAS/destino\|destino]] se empieza a prolongar, y en el Espaciotiempo, toda la mejora tiene que ver con una gestión del Espaciotiempo entre estas tres estructuras: psíquicas, psicológica y física.
+Entonces [[ENTRADAS/CONCEPTOS/la caja\|la caja]] lo va a empezar a enviar, ya no viene de tu origen, viene de aquel ámbito que te da origen a ti, y no es lo mismo. Entonces, tu [[ENTRADAS/CONCEPTOS/origen\|origen]] se empieza a incrementar porque tu [[ENTRADAS/CONCEPTOS/destino\|destino]] se empieza a prolongar, y en el Espaciotiempo, toda la mejora tiene que ver con una gestión del Espaciotiempo entre estas tres estructuras: psíquicas, psicológica y física.
 { #u6cldn}
 
 
@@ -393,7 +411,7 @@ A documentar se ha dicho, a registrar, ojalá les pudiera transferir el entusias
 
 La puesta en valor del recurso es sustancial porque hace a tu micro- cambio, y cuando observas a tus propios micro-cambios, te llega un entusiasmo increíble.
 
-Pero esto es la puesta en valor del recurso que hice, eso es. No todos tenemos la posibilidad de hacer el mismo tipo de puesta en valor, porque tenemos que resolver las [[ENTRADAS/_CONCEPTOS-TEMAS/identidad\|identidad]]es con el CIMIENTO para si le van a dar oportunidad al CONO o no. 
+Pero esto es la puesta en valor del recurso que hice, eso es. No todos tenemos la posibilidad de hacer el mismo tipo de puesta en valor, porque tenemos que resolver las [[ENTRADAS/CONCEPTOS/identidad\|identidad]]es con el CIMIENTO para si le van a dar oportunidad al CONO o no. 
 { #kocvmf}
 
 

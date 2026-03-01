@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0/instrucciones-de-navegacion/","created":"2026-02-08T10:32:10.846-03:00","updated":"2026-02-28T09:46:07.704-03:00"}
+{"dg-publish":true,"permalink":"/0/instrucciones-de-navegacion/","created":"2026-02-08T10:32:10.846-03:00","updated":"2026-03-01T09:50:35.752-03:00"}
 ---
 
 
@@ -15,7 +15,7 @@ Haga clic para expandir la pestaña correspondiente:
 
 1.
 > [!NOTE]- estructura de archivos
-> En la barra lateral (izquierda) puedes navegar por los archivos, los cuales están en orden alfabético. Los archivos han sido nombrados intencionalmente para que el orden alfabético coincida con un sistema de prioridad.
+> En la barra lateral (izquierda) puedes navegar por los archivos, los cuales están en orden alfabético. 
 > 
 > ### Carpertas
 > 
@@ -27,13 +27,13 @@ Haga clic para expandir la pestaña correspondiente:
 > 
 > La carpeta **ENTRADAS** está subdividida en 3 carpetas:
 > 
-> - **_TEMAS:** contiene conceptos y cualquier otro tema, con excepción de las otras subcarpetas;
+> - **CONCEPTOS** contiene conceptos y cualquier otro tema o referencia, con excepción de las otras subcarpetas;
 >     
 > - **ANTENAS;**
 >     
 > - **FECHAS.**
 > 
-> La última carpeta **"un otro 0"** incluye una mención a los colaboradores, instrucciones adicionales, así como notas con fines administrativos.
+> La última carpeta **"un otro 0"** incluye una mención a los colaboradores, informaciones adicionales, así como notas con fines administrativos.
 > 
 > 
 
@@ -47,7 +47,7 @@ Haga clic para expandir la pestaña correspondiente:
 > 
 > El principal recurso que encontramos en las **ENTRADAS** son **apuntes** que sintetizan la forma en que la nota actual fue mencionada en alguna de las **TRANSCRIPCIONES**, generando un enlace.
 > 
-> Por ejemplo, en la ficha **[[ENTRADAS/_TEMAS/mente\|mente]]** encontrará el siguiente apunte:
+> Por ejemplo, en la ficha **[[ENTRADAS/CONCEPTOS/mente\|mente]]** encontrará el siguiente apunte:
 > 
 > > `La mente opera como una interfase entre espíritu, alma y cuerpo, por eso es que no tiene ninguno de los tres -porque va continuamente cambiando de un área a la otra,` [[TRANSCRIPCIONES/ACER/Ale en Red 011#^oxv66g\|Ale en Red 011#^oxv66g]]
 > 
@@ -55,28 +55,28 @@ Haga clic para expandir la pestaña correspondiente:
 > 
 > Este bloque puede visualizarse simplemente pasando el mouse sobre el enlace. O entonces, al hacer clic en él, se le dirigirá a la transcripción original para observar el contexto exacto en el que dicho bloque fue emitido.
 > 
-> ### 2. Cómo funcionan las fichas
+> ### 2. Cómo funcionan las notas
 > 
 > En [[un otro 0/Obsidian\|Obsidian]], cada vez que se colocan corchetes `[[ ]]` alrededor de una palabra, se genera una nueva nota. La aplicación va mapeando y creando dos recursos fundamentales: **a.** las **"notas que mencionan esta nota"** (backlinks) y **b.** el **Graph View** (vista de gráfico), que son dos modos de navegar el sitio.
 > 
 > 
 > **a. Notas que mencionan esta nota**
-> El recurso de las notas que mencionan esta nota es autoexplicativo: son las menciones que otras fichas contienen en relación a la ficha actual.
+> El recurso de las notas que mencionan esta nota es autoexplicativo: son las menciones que otras notas contienen en relación a la nota actual.
 > 
 > Sería como preguntar: **"¿Quién está hablando de mí?"**.
 > 
 > Estas aparecen en la barra lateral derecha. Puede desplazar el cursor dentro del recuadro para ver más elementos.
 > 
-> Este recurso solo muestra qué otras fichas se conectan con la actual, pero no el punto específico de la mención. Para descubrir dicho punto, primero debe hacer clic en el enlace para ir a la ficha donde se encuentra la mención y, una vez allí, realizar una búsqueda: `Control + F` en Windows o `Command + F` en Mac.
+> Este recurso solo muestra qué otras notas se conectan con la actual, pero no el punto específico de la mención. Para descubrir dicho punto, primero debe hacer clic en el enlace para ir a la nota donde se encuentra la mención y, una vez allí, realizar una búsqueda: `Control + F` en Windows o `Command + F` en Mac.
 > 
-> Este mismo recurso de búsqueda puede utilizarse para encontrar cualquier término dentro de una ficha.
+> Este mismo recurso de búsqueda puede utilizarse para encontrar cualquier término dentro de una nota.
 > 
 > **b. Graph View**
 > El recurso visual para navegar por la biblioteca son los gráficos contenidos dentro de cada nota. El punto central representa la nota actual y podemos visualizar todas las demás notas con las que se conecta, tanto **ENTRADAS** como **TRANSCRIPCIONES**.
 > 
 > Puede hacer clic en cualquier punto para visitar dicha nota, o 'jugar' con las notas y moverlas para entender mejor su relación.
 > 
-> El tamaño del punto indica la cantidad de conexiones que posee. Cuanto más grande sea el punto, mayor será el número de conexiones que realiza (con las notas que se ven en este recorte), y viceversa.
+> El tamaño del punto indica la cantidad de conexiones que posee **con las notas que se ven en este recorte**. Cuanto más grande sea el punto, mayor será el número de conexiones que realiza, y viceversa.
 > 
 > En la parte superior del gráfico, encontrarás el **selector de profundidad** (depth). Esta función controla el "alcance" de la visión del lector en el mapa de conexiones. Los niveles de profundidad definen **cuántas conexiones de distancia** mostrará el gráfico a partir de la nota que se está leyendo en ese momento.
 > 
@@ -92,14 +92,16 @@ Haga clic para expandir la pestaña correspondiente:
 > 
 > En el encabezado de cada ficha encontrará dos iconos:
 > 
-> - A la **izquierda**, el icono de un **calendario con un signo de suma (+)** indica la fecha y hora en que se creó la ficha.
+> - A la **izquierda**, el icono de un **calendario con un signo de suma (+)** indica la fecha y hora en que se creó la nota.
 >     
 > - A la **derecha**, el icono de un **calendario con un reloj** indica la fecha y hora de la última modificación.
 >     
 > 
 > **Formato:** En todo el sitio, el formato para indicar las fechas es siempre **AÑO/MES/DÍA**
 > 
-> **Observación**: algunas notas están predefinidas, pero aún no existen efectivamente. Al hacer clic en ellas, aparecerá el mensaje de que no hay nada en esta nota: el error 404.
+> **Observación**: algunas notas están predefinidas, pero aún no existen efectivamente. Al hacer clic en ellas, aparecerá el mensaje de que no hay nada en esta nota: el **error 404**.
+> 
+> Hay algunos casos en los que la nota existe, pero por un fallo de la plataforma de publicación aparece el mensaje de que la nota no existe. Sin embargo, se puede encontrar en la barra lateral izquierda (**File Tree**).
 > 
 { #0iqcv2}
 
