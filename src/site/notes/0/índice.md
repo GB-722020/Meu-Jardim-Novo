@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/0/indice/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-02-28T10:39:12.365-03:00"}
+{"dg-publish":true,"permalink":"/0/indice/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-03-01T11:17:23.010-03:00"}
 ---
 
 
-## =="Si no se anotan [[ENTRADAS/CONCEPTOS/detalle\|detalle]]s, no se incrementa la [[ENTRADAS/CONCEPTOS/captación\|captación]] y estas emisiones sirven para anotar detalles."== [[TRANSCRIPCIONES/ACER/Ale en Red 061#^ajygdl\|Ale en Red 061#^ajygdl]]
+=="Si no se anotan [[ENTRADAS/CONCEPTOS/detalle\|detalle]]s, no se incrementa la [[ENTRADAS/CONCEPTOS/captación\|captación]] y estas emisiones sirven para anotar detalles."== [[TRANSCRIPCIONES/ACER/Ale en Red 061#^ajygdl\|Ale en Red 061#^ajygdl]]
 
 ---
 
