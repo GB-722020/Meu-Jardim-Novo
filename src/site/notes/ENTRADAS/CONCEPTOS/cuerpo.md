@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/cuerpo/","created":"2026-01-23T10:47:14.439-03:00","updated":"2026-02-18T15:22:42.816-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/cuerpo/","created":"2026-01-23T10:47:14.439-03:00","updated":"2026-03-02T11:38:39.941-03:00"}
 ---
 
 
@@ -20,13 +20,13 @@
 
 **Ale en Red 70**
 
-los componentes de nuestro [[ENTRADAS/CONCEPTOS/cuerpo\|cuerpo]] ... pertenecen al [[ENTRADAS/CONCEPTOS/ámbito\|ámbito]] [[TRANSCRIPCIONES/ACER/Ale en Red 070#^5ofoci\|Ale en Red 070#^5ofoci]]
+los componentes de nuestro [[ENTRADAS/CONCEPTOS/cuerpo\|cuerpo]] ... pertenecen al [[ENTRADAS/CONCEPTOS/ámbito\|ámbito]], [[TRANSCRIPCIONES/ACER/Ale en Red 070#^5ofoci\|Ale en Red 070#^5ofoci]]
 
 
 
 **Ale en Red 151**
 
-el [[ENTRADAS/CONCEPTOS/cuerpo\|cuerpo]] es una [[ENTRADAS/CONCEPTOS/caja de resonancia\|caja de resonancia]] que te está marcando el ritmo de la [[ENTRADAS/CONCEPTOS/actualización\|actualización]] de la mejora.[[TRANSCRIPCIONES/ACER/Ale en Red 151#^pvkx0t\|Ale en Red 151#^pvkx0t]]
+el [[ENTRADAS/CONCEPTOS/cuerpo\|cuerpo]] es una [[ENTRADAS/CONCEPTOS/caja de resonancia\|caja de resonancia]] que te está marcando el ritmo de la [[ENTRADAS/CONCEPTOS/actualización\|actualización]] de la mejora. [[TRANSCRIPCIONES/ACER/Ale en Red 151#^pvkx0t\|Ale en Red 151#^pvkx0t]]
 
 
 

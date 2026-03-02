@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-106/","created":"2026-02-06T14:38:04.260-03:00","updated":"2026-03-02T11:16:53.077-03:00"}
+{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-106/","created":"2026-02-06T14:38:04.260-03:00","updated":"2026-03-02T11:42:44.436-03:00"}
 ---
 
 
@@ -75,6 +75,8 @@ El **[[ENTRADAS/CONCEPTOS/hidrógeno\|hidrógeno]]** es lo más común de todo, 
 { #4k24hc}
 
 - y ¿qué es la Fuente? [[ENTRADAS/CONCEPTOS/nada\|nada]].
+{ #iqwtjd}
+
 - Y ¿qué brinda Nada? ESPACIO
 - ¿Espacio para qué? espacio para que allí, nosotros hagamos **cosas**.
 - Todas esas cosas sumadas, es TODO. Entonces, nos sumamos al constructo del
