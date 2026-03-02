@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/eje-ye/","created":"2026-01-20T11:35:47.803-03:00","updated":"2026-02-21T10:50:18.995-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/eje-ye/","created":"2026-01-20T11:35:47.803-03:00","updated":"2026-03-02T11:32:40.886-03:00"}
 ---
 
 
@@ -19,11 +19,9 @@
 
 3. la influencia del eje Z en la formación del eje Ye [[TRANSCRIPCIONES/ACER/Ale en Red 123#^1u1whb\|Ale en Red 123#^1u1whb]]
 
-4. relación del eje Ye con el [[ENTRADAS/CONCEPTOS/evento 60 tal que 1\|evento 60 tal que 1]]
+4. _Eje Ye_ es el que controla el [[ENTRADAS/CONCEPTOS/tiempo real\|tiempo real]]  [[TRANSCRIPCIONES/ACER/Ale en Red 123#^zw8wsk\|Ale en Red 123#^zw8wsk]]
 
-5. _Eje Ye_ es el que controla el [[ENTRADAS/CONCEPTOS/tiempo real\|tiempo real]]  [[TRANSCRIPCIONES/ACER/Ale en Red 123#^zw8wsk\|Ale en Red 123#^zw8wsk]]
-
-6. de [[creadores de contenido\|creadores de contenido]] a creadores de sentido, i griega a Ye [[TRANSCRIPCIONES/ACER/Ale en Red 123#^q8xnl8\|Ale en Red 123#^q8xnl8]]
+5. de [[creadores de contenido\|creadores de contenido]] a creadores de sentido, i griega a Ye [[TRANSCRIPCIONES/ACER/Ale en Red 123#^q8xnl8\|Ale en Red 123#^q8xnl8]]
 
 
 
