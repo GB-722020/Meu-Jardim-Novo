@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-151/","created":"2026-01-19T15:35:32.171-03:00","updated":"2026-02-28T15:37:49.470-03:00"}
+{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-151/","created":"2026-01-19T15:35:32.171-03:00","updated":"2026-03-02T11:17:49.331-03:00"}
 ---
 
 
 
 
 
-> [!NOTE]- Nota acerca de las transcripciones y la diagramación en Obsidian
+> [!info]- Nota acerca de las transcripciones y la diagramación en Obsidian
 >
 >
 > 

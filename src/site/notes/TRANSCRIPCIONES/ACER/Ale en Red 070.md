@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-070/","created":"2026-01-24T10:32:17.724-03:00","updated":"2026-02-28T14:50:45.711-03:00"}
+{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-070/","created":"2026-01-24T10:32:17.724-03:00","updated":"2026-03-02T11:15:06.927-03:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 
 
 
-> [!NOTE]- Nota acerca de las transcripciones y la diagramación en Obsidian
+> [!info]- Nota acerca de las transcripciones y la diagramación en Obsidian
 >
 >
 > 
