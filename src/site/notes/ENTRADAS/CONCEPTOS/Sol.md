@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/sol/","created":"2026-01-21T14:44:04.227-03:00","updated":"2026-02-21T10:50:18.929-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/sol/","created":"2026-01-21T14:44:04.227-03:00","updated":"2026-03-02T15:17:10.719-03:00"}
 ---
 
 
@@ -24,13 +24,13 @@ el [[ENTRADAS/CONCEPTOS/Sol\|Sol]] está en un periodo de calificación, de cóm
 
 **Ale en Red 70**
 
-[[ENTRADAS/CONCEPTOS/Sol\|Sol]] proyecta en su [[ENTRADAS/CONCEPTOS/mente\|mente]], su [[ENTRADAS/CONCEPTOS/pasado\|pasado]] y nosotros debemos hacer eso (...) Sol escanea su propio pasado [[TRANSCRIPCIONES/ACER/Ale en Red 070#^gjuuw3\|Ale en Red 070#^gjuuw3]]
+[[ENTRADAS/CONCEPTOS/Sol\|Sol]] proyecta en su [[ENTRADAS/CONCEPTOS/mente\|mente]], su [[ENTRADAS/CONCEPTOS/pasado\|pasado]] y nosotros debemos hacer eso (...) Sol escanea su propio pasado, [[TRANSCRIPCIONES/ACER/Ale en Red 070#^gjuuw3\|Ale en Red 070#^gjuuw3]]
 
 
 
 **Ale en Red 87**
 
- 1. Un terremoto, un tsunami, un maremoto, una erupción... o sea, todas esas cosas son errores de código -de la [[ENTRADAS/CONCEPTOS/mente\|mente]] de [[ENTRADAS/CONCEPTOS/Sol\|Sol]] [[TRANSCRIPCIONES/ACER/Ale en Red 087#^m4itdm\|Ale en Red 087#^m4itdm]]
+ 1. Un terremoto, un tsunami, un maremoto, una erupción... o sea, todas esas cosas son errores de código -de la [[ENTRADAS/CONCEPTOS/mente\|mente]] de [[ENTRADAS/CONCEPTOS/Sol\|Sol]], [[TRANSCRIPCIONES/ACER/Ale en Red 087#^m4itdm\|Ale en Red 087#^m4itdm]]
  
 2. el aspecto [[ENTRADAS/CONCEPTOS/objetivo\|objetivo]] tiene que ser importante para mí, porque una de las tareas que tiene [[ENTRADAS/CONCEPTOS/Sol\|Sol]], es compartir su [[ENTRADAS/CONCEPTOS/mente\|mente]] con nosotros. [[TRANSCRIPCIONES/ACER/Ale en Red 087#^g3ecxu\|Ale en Red 087#^g3ecxu]]
 
@@ -49,13 +49,13 @@ en la medida en que Sol siga avanzando hacia aquello que lo atrae. Porque en pri
 
 **Ale en Red 116**
 
-El [[ENTRADAS/CONCEPTOS/ámbito\|ámbito]] es [[ENTRADAS/CONCEPTOS/Sol\|Sol]] [[TRANSCRIPCIONES/ACER/Ale en Red 116#^6m173i\|Ale en Red 116#^6m173i]]
+El [[ENTRADAS/CONCEPTOS/ámbito\|ámbito]] es [[ENTRADAS/CONCEPTOS/Sol\|Sol]], [[TRANSCRIPCIONES/ACER/Ale en Red 116#^6m173i\|Ale en Red 116#^6m173i]]
 
 
 
 **Ale en Red 119**
 
-calificación de Sol [[TRANSCRIPCIONES/ACER/Ale en Red 119#^onmfwa\|Ale en Red 119#^onmfwa]]
+calificación de Sol, [[TRANSCRIPCIONES/ACER/Ale en Red 119#^onmfwa\|Ale en Red 119#^onmfwa]]
 
 
 

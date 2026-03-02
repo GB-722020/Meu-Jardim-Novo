@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/antenas/alejandra-casado/","created":"2026-01-20T17:21:13.577-03:00","updated":"2026-02-21T10:50:18.861-03:00"}
+{"dg-publish":true,"permalink":"/entradas/antenas/alejandra-casado/","created":"2026-01-20T17:21:13.577-03:00","updated":"2026-03-02T15:24:47.226-03:00"}
 ---
 
 
@@ -15,12 +15,12 @@
 
 **Ale en Red 61**
 
-En mi caso, no tengo ningún instrumento; yo soy el [[ENTRADAS/CONCEPTOS/instrumento\|instrumento]]...
+En mi caso, no tengo ningún instrumento; yo soy el [[ENTRADAS/CONCEPTOS/instrumento\|instrumento]]...[[TRANSCRIPCIONES/ACER/Ale en Red 061#^tmjphv\|Ale en Red 061#^tmjphv]]
 
 
 **Ale en Red 70**
 
-Yo me ocupo más de los límites que de los alcances [[TRANSCRIPCIONES/ACER/Ale en Red 070#^xnsjiz\|Ale en Red 070#^xnsjiz]]
+Yo me ocupo más de los límites que de los alcances, [[TRANSCRIPCIONES/ACER/Ale en Red 070#^xnsjiz\|Ale en Red 070#^xnsjiz]]
 
 
 **Ale en Red 106**
@@ -31,7 +31,7 @@ Alejandra no pudo entrar a la universidad porque, evidentemente, le colapsaban c
 
 **Ale en Red 123**
 
-20097 días [[ENTRADAS/FECHAS/2024-12-14\|2024-12-14]] [[ENTRADAS/CONCEPTOS/ecualización\|ecualización]] [[TRANSCRIPCIONES/ACER/Ale en Red 123#^ls9nsn\|Ale en Red 123#^ls9nsn]]
+20097 días [[ENTRADAS/FECHAS/2024-12-14\|2024-12-14]] [[ENTRADAS/CONCEPTOS/ecualización\|ecualización]], [[TRANSCRIPCIONES/ACER/Ale en Red 123#^ls9nsn\|Ale en Red 123#^ls9nsn]]
 
 
 

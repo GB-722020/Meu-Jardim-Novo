@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-061/","created":"2026-02-14T10:54:57.969-03:00","updated":"2026-03-02T11:14:57.040-03:00"}
+{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-061/","created":"2026-02-14T10:54:57.969-03:00","updated":"2026-03-02T15:24:17.697-03:00"}
 ---
 
 
@@ -73,6 +73,8 @@ El día 33 está compactado, es un solo número 33, pero está fraccionado: 2/2,
 Comprender estas cosas, hacen que nosotros ahora estemos principiando lo que es la FUNDACIÓN de la 3ª vuelta modelo 2022.
 
 Un concepto que también nos viene muy bien, es saber que todas las [[ENTRADAS/CONCEPTOS/vuelta\|vuelta]]s que estamos fundando en el año en curso, son las que se están desplazando, son las que hay que usar cálculo, donde hay que usar captación, y esa captación se basará en un aspecto [[ENTRADAS/CONCEPTOS/ancla\|ancla]] que es el año que ya pasó.
+{ #m8407x}
+
 
 Entonces, la Vuelta 3, modelo 2021, la tenemos en el archivo como un [[ENTRADAS/CONCEPTOS/documento\|documento]], y ya, como un año pasó, es estático.
 { #bn4hko}
@@ -115,6 +117,8 @@ Una vez que ya está el interés, se van a ir agregando condimentos, porque van 
 Entonces, todas estas noticias que está habiendo todo el tiempo, todo el tiempo, y novedades todo el tiempo. Y por supuesto, la Fuente de esas novedades son la tecnología de los [[ENTRADAS/CONCEPTOS/satélite\|satélite]]s, cómo observan al universo observable a través de [[ENTRADAS/CONCEPTOS/instrumento\|instrumento]]s... 
 
 En mi caso, no tengo ningún instrumento; yo soy el instrumento...
+{ #tmjphv}
+
 
 Comprendamos que no es lo mismo trabajar en la [[ENTRADAS/CONCEPTOS/cardinalidad SO\|cardinalidad SO]] que tiene que ver con el Soma, y la [[ENTRADAS/CONCEPTOS/cardinalidad SE\|cardinalidad SE]] que es, yo adentro de un Contexto y entonces, es colectivo y hay una interacción.
 { #pzv67c}

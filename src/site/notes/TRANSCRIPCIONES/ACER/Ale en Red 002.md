@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-002/","created":"2026-01-19T15:42:01.524-03:00","updated":"2026-03-02T11:14:26.868-03:00"}
+{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-002/","created":"2026-01-19T15:42:01.524-03:00","updated":"2026-03-02T12:20:26.492-03:00"}
 ---
 
 
@@ -288,7 +288,7 @@ Exactamente, está en nuestras manos el mejoramiento de ese eje. El [[ENTRADAS/C
 { #b78ppa}
 
 
-¿Por qué le pongo todo en letras? porque cuando pongo todas **[[ENTRADAS/CONCEPTOS/letras\|letras]]** significa para nosotros, MENTALIDAD. si son **[[ENTRADAS/CONCEPTOS/números\|números]]** , nos quedan abiertos a la MENTE.
+¿Por qué le pongo todo en letras? porque cuando pongo todas **[[ENTRADAS/CONCEPTOS/letra\|letra]]** significa para nosotros, MENTALIDAD. si son **[[ENTRADAS/CONCEPTOS/número\|número]]s** , nos quedan abiertos a la MENTE.
 { #4igutj}
 
 

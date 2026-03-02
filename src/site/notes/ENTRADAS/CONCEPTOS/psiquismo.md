@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/psiquismo/","created":"2026-01-24T10:12:31.091-03:00","updated":"2026-02-21T10:50:19.101-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/psiquismo/","created":"2026-01-24T10:12:31.091-03:00","updated":"2026-03-02T12:23:53.732-03:00"}
 ---
 
 
@@ -11,11 +11,11 @@ Todo el [[ENTRADAS/CONCEPTOS/psiquismo\|psiquismo]] se da vuelta y empieza a fun
 
 **Ale en Red 55**
 
-la [[ENTRADAS/CONCEPTOS/conciencia\|conciencia]] tiene acceso al [[ENTRADAS/CONCEPTOS/psiquismo\|psiquismo]], en tanto que la [[ENTRADAS/CONCEPTOS/mente\|mente]], a la [[ENTRADAS/CONCEPTOS/psicología\|psicología]] [[TRANSCRIPCIONES/ACER/Ale en Red 055#^zpdffb\|Ale en Red 055#^zpdffb]]
+1. la [[ENTRADAS/CONCEPTOS/conciencia\|conciencia]] tiene acceso al [[ENTRADAS/CONCEPTOS/psiquismo\|psiquismo]], en tanto que la [[ENTRADAS/CONCEPTOS/mente\|mente]], a la [[ENTRADAS/CONCEPTOS/psicología\|psicología]] [[TRANSCRIPCIONES/ACER/Ale en Red 055#^zpdffb\|Ale en Red 055#^zpdffb]]
 
-en el psiquismo, no hay [[ENTRADAS/CONCEPTOS/psicología\|psicología]] [[TRANSCRIPCIONES/ACER/Ale en Red 055#^v5bvc9\|Ale en Red 055#^v5bvc9]]
+2. en el psiquismo, no hay [[ENTRADAS/CONCEPTOS/psicología\|psicología]] [[TRANSCRIPCIONES/ACER/Ale en Red 055#^v5bvc9\|Ale en Red 055#^v5bvc9]]
 
-[[ENTRADAS/CONCEPTOS/psiquismo\|psiquismo]] es la unidad subatómica [[TRANSCRIPCIONES/ACER/Ale en Red 055#^8565e2\|Ale en Red 055#^8565e2]]
+3. [[ENTRADAS/CONCEPTOS/psiquismo\|psiquismo]] es la unidad subatómica [[TRANSCRIPCIONES/ACER/Ale en Red 055#^8565e2\|Ale en Red 055#^8565e2]]
 
 
 

@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/procesador/","created":"2026-01-20T14:13:08.109-03:00","updated":"2026-02-06T17:25:33.056-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/procesador/","created":"2026-01-20T14:13:08.109-03:00","updated":"2026-03-02T12:23:09.202-03:00"}
 ---
 
 
 
 **Ale en Red 55**
 
-pero es un procesador el que tiene que regular a esos (23) espacios [[TRANSCRIPCIONES/ACER/Ale en Red 055#^lizf2v\|Ale en Red 055#^lizf2v]]
+1. pero es un procesador el que tiene que regular a esos (23) espacios [[TRANSCRIPCIONES/ACER/Ale en Red 055#^lizf2v\|Ale en Red 055#^lizf2v]]
 
-recursos del [[ENTRADAS/CONCEPTOS/misticismo\|misticismo]] no pueden ocupar nuestro [[ENTRADAS/CONCEPTOS/procesador\|procesador]] [[TRANSCRIPCIONES/ACER/Ale en Red 055#^9twb8t\|Ale en Red 055#^9twb8t]]
+2. recursos del [[ENTRADAS/CONCEPTOS/misticismo\|misticismo]] no pueden ocupar nuestro [[ENTRADAS/CONCEPTOS/procesador\|procesador]] [[TRANSCRIPCIONES/ACER/Ale en Red 055#^9twb8t\|Ale en Red 055#^9twb8t]]
 
-yo preciso que “peor”, funcione a nivel del [[ENTRADAS/CONCEPTOS/ancla\|ancla]], no a nivel de [[ENTRADAS/CONCEPTOS/procesador\|procesador]] [[TRANSCRIPCIONES/ACER/Ale en Red 055#^15o8yp\|Ale en Red 055#^15o8yp]]
+3. yo preciso que “peor”, funcione a nivel del [[ENTRADAS/CONCEPTOS/ancla\|ancla]], no a nivel de [[ENTRADAS/CONCEPTOS/procesador\|procesador]] [[TRANSCRIPCIONES/ACER/Ale en Red 055#^15o8yp\|Ale en Red 055#^15o8yp]]
 
 
 
