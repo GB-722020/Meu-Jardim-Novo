@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/antena/","created":"2026-01-21T17:32:24.055-03:00","updated":"2026-02-18T11:45:50.159-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/antena/","created":"2026-01-21T17:32:24.055-03:00","updated":"2026-03-02T11:37:55.622-03:00"}
 ---
 
 
@@ -33,7 +33,7 @@ duplicación de [[ENTRADAS/CONCEPTOS/fila 7\|fila 7]] [[TRANSCRIPCIONES/ACER/Ale
 
 **Ale en Red 119**
 
-[[ENTRADAS/CONCEPTOS/entorno\|entorno]], [[ENTRADAS/CONCEPTOS/antena\|antena]] y [[ENTRADAS/CONCEPTOS/ancla\|ancla]] ; [[ENTRADAS/CONCEPTOS/eje X\|eje X]], [[ENTRADAS/CONCEPTOS/eje Ye\|eje Ye]] y [[ENTRADAS/CONCEPTOS/eje Z\|eje Z]] [[TRANSCRIPCIONES/ACER/Ale en Red 119#^je59ud\|Ale en Red 119#^je59ud]]
+[[ENTRADAS/CONCEPTOS/entorno\|entorno]], [[ENTRADAS/CONCEPTOS/antena\|antena]] y [[ENTRADAS/CONCEPTOS/ancla\|ancla]] ; [[ENTRADAS/CONCEPTOS/eje X\|eje X]], [[ENTRADAS/CONCEPTOS/eje Ye\|eje Ye]] y [[ENTRADAS/CONCEPTOS/eje Z\|eje Z]] , [[TRANSCRIPCIONES/ACER/Ale en Red 119#^je59ud\|Ale en Red 119#^je59ud]]
 
 
 
