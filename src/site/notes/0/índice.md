@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0/indice/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-03-02T09:42:19.151-03:00"}
+{"dg-publish":true,"permalink":"/0/indice/","tags":["gardenEntry"],"created":"2026-01-18T20:23:33.855-03:00","updated":"2026-03-02T09:50:05.515-03:00"}
 ---
 
 
@@ -30,7 +30,7 @@ Para una descripción más detallada acerca de la navegación, ver [[0/instrucci
 **Gracias** a todos los colaboradores que hicieron posible la construcción de este sitio, ya sea mediante la realización delas emisiones, de las transcripciones, o la creación y revisión de las notas y criterios utilizados en la biblioteca.
 
 
-> [!warning] Nota acerca de las transcripciones y la diagramación en Obsidian
+> [!warning]- Nota acerca de las transcripciones y la diagramación en Obsidian
 >
 >
 > 
@@ -41,7 +41,7 @@ Para una descripción más detallada acerca de la navegación, ver [[0/instrucci
 > ***Para visualizar las transcripciones con todos los recursos de presentación y edición, se recomienda ir directamente a la transcripción en su formato original.***
 
 
-> [!info] Nota acerca de los gráficos
+> [!info]- Nota acerca de los gráficos
 > 
 > _Actualmente, debido a la plataforma que se utiliza para la publicación, los gráficos no cuentan con una presentación optimizada. Por este motivo, los gráficos con demasiadas conexiones no son funcionales._
 > 
