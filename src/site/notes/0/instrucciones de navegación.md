@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0/instrucciones-de-navegacion/","created":"2026-02-08T10:32:10.846-03:00","updated":"2026-03-01T09:50:35.752-03:00"}
+{"dg-publish":true,"permalink":"/0/instrucciones-de-navegacion/","created":"2026-02-08T10:32:10.846-03:00","updated":"2026-03-02T09:40:55.295-03:00"}
 ---
 
 
@@ -43,7 +43,7 @@ Haga clic para expandir la pestaña correspondiente:
 2.
 > [!NOTE]- sistema de interconexión
 > 
-> ### 1. Anclaje al bloque
+> ### 1. Enlace al bloque
 > 
 > El principal recurso que encontramos en las **ENTRADAS** son **apuntes** que sintetizan la forma en que la nota actual fue mencionada en alguna de las **TRANSCRIPCIONES**, generando un enlace.
 > 
@@ -72,7 +72,9 @@ Haga clic para expandir la pestaña correspondiente:
 > Este mismo recurso de búsqueda puede utilizarse para encontrar cualquier término dentro de una nota.
 > 
 > **b. Graph View**
-> El recurso visual para navegar por la biblioteca son los gráficos contenidos dentro de cada nota. El punto central representa la nota actual y podemos visualizar todas las demás notas con las que se conecta, tanto **ENTRADAS** como **TRANSCRIPCIONES**.
+> El recurso visual para navegar por la biblioteca son los gráficos contenidos dentro de cada nota. Los gráficos están abajo, al final de la nota.
+> 
+> El punto central representa la nota actual y podemos visualizar todas las demás notas con las que se conecta.
 > 
 > Puede hacer clic en cualquier punto para visitar dicha nota, o 'jugar' con las notas y moverlas para entender mejor su relación.
 > 
