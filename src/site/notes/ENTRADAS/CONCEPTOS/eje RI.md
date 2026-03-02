@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/eje-ri/","created":"2026-01-20T19:06:28.384-03:00","updated":"2026-02-06T17:25:32.780-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/eje-ri/","created":"2026-01-20T19:06:28.384-03:00","updated":"2026-03-02T12:06:28.964-03:00"}
 ---
 
 
@@ -12,11 +12,11 @@ en una escala soy [[ENTRADAS/CONCEPTOS/contenedor\|contenedor]] y en otra escala
 
 **Ale en Red 123**
 
-crédito en RI [[TRANSCRIPCIONES/ACER/Ale en Red 123#^whu3zl\|Ale en Red 123#^whu3zl]]
+1. crédito en RI [[TRANSCRIPCIONES/ACER/Ale en Red 123#^whu3zl\|Ale en Red 123#^whu3zl]]
 
-**la influencia del** [[ENTRADAS/CONCEPTOS/eje X\|eje X]] sobre [[ENTRADAS/CONCEPTOS/eje Ye\|eje Ye]] [[TRANSCRIPCIONES/ACER/Ale en Red 123#^1u1whb\|Ale en Red 123#^1u1whb]]
+2. **la influencia del** [[ENTRADAS/CONCEPTOS/eje X\|eje X]] sobre [[ENTRADAS/CONCEPTOS/eje Ye\|eje Ye]] [[TRANSCRIPCIONES/ACER/Ale en Red 123#^1u1whb\|Ale en Red 123#^1u1whb]]
 
-Eje RI, el crecimiento siempre es escalar [[TRANSCRIPCIONES/ACER/Ale en Red 123#^br22o2\|Ale en Red 123#^br22o2]]
+3. Eje RI, el crecimiento siempre es escalar [[TRANSCRIPCIONES/ACER/Ale en Red 123#^br22o2\|Ale en Red 123#^br22o2]]
 
 
 

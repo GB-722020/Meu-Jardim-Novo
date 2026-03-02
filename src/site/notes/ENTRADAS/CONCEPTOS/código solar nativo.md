@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/codigo-solar-nativo/","created":"2026-01-20T14:03:07.471-03:00","updated":"2026-02-06T17:25:32.766-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/codigo-solar-nativo/","created":"2026-01-20T14:03:07.471-03:00","updated":"2026-03-02T12:02:02.787-03:00"}
 ---
 
 
 **Ale en Red 116**
 
-5 4, dentro de nuestro código solar nativo [[TRANSCRIPCIONES/ACER/Ale en Red 116#^zltfgs\|Ale en Red 116#^zltfgs]]
+1. 5 4, dentro de nuestro código solar nativo [[TRANSCRIPCIONES/ACER/Ale en Red 116#^zltfgs\|Ale en Red 116#^zltfgs]]
 
-el [[ENTRADAS/CONCEPTOS/código 200\|código 200]] es el código de los servidores de conexión exitosa [[TRANSCRIPCIONES/ACER/Ale en Red 116#^ci7mrb\|Ale en Red 116#^ci7mrb]]
+2. el [[ENTRADAS/CONCEPTOS/código 200\|código 200]] es el código de los servidores de conexión exitosa [[TRANSCRIPCIONES/ACER/Ale en Red 116#^ci7mrb\|Ale en Red 116#^ci7mrb]]
 
-[[ENTRADAS/CONCEPTOS/código solar nativo\|código solar nativo]] conectado con [[ENTRADAS/CONCEPTOS/desdoblamiento primario\|desdoblamiento primario]], crédito a nuevos [[ENTRADAS/CONCEPTOS/hidrógeno\|hidrógeno]]s [[TRANSCRIPCIONES/ACER/Ale en Red 116#^xcdeea\|Ale en Red 116#^xcdeea]]
+3. [[ENTRADAS/CONCEPTOS/código solar nativo\|código solar nativo]] conectado con [[ENTRADAS/CONCEPTOS/desdoblamiento primario\|desdoblamiento primario]], crédito a nuevos [[ENTRADAS/CONCEPTOS/hidrógeno\|hidrógeno]]s [[TRANSCRIPCIONES/ACER/Ale en Red 116#^xcdeea\|Ale en Red 116#^xcdeea]]
 
 
 

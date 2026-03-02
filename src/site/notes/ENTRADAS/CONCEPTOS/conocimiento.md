@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/conocimiento/","created":"2026-01-22T11:12:29.801-03:00","updated":"2026-02-06T17:25:32.737-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/conocimiento/","created":"2026-01-22T11:12:29.801-03:00","updated":"2026-03-02T12:03:21.882-03:00"}
 ---
 
 
 **Ale en Red 70**
 
-el CONO dependerá del psiquismo, pero el CIMIENTO dependerá del archivo [[TRANSCRIPCIONES/ACER/Ale en Red 070#^2jf11t\|Ale en Red 070#^2jf11t]]
+1. el CONO dependerá del psiquismo, pero el CIMIENTO dependerá del archivo [[TRANSCRIPCIONES/ACER/Ale en Red 070#^2jf11t\|Ale en Red 070#^2jf11t]]
 
-no todos pudimos hacer el mismo CIMIENTO de ese CONO [[TRANSCRIPCIONES/ACER/Ale en Red 070#^1fa54i\|Ale en Red 070#^1fa54i]]
+2. no todos pudimos hacer el mismo CIMIENTO de ese CONO [[TRANSCRIPCIONES/ACER/Ale en Red 070#^1fa54i\|Ale en Red 070#^1fa54i]]
 
-el CONO está funcionando en muchas [[ENTRADAS/CONCEPTOS/dimensión\|dimensión]]es, y acá el CIMIENTO, en muchos [[ENTRADAS/CONCEPTOS/plano\|plano]]s. [[TRANSCRIPCIONES/ACER/Ale en Red 070#^r9yq4n\|Ale en Red 070#^r9yq4n]]
+3. el CONO está funcionando en muchas [[ENTRADAS/CONCEPTOS/dimensión\|dimensión]]es, y acá el CIMIENTO, en muchos [[ENTRADAS/CONCEPTOS/plano\|plano]]s. [[TRANSCRIPCIONES/ACER/Ale en Red 070#^r9yq4n\|Ale en Red 070#^r9yq4n]]
 
-resolver las [[ENTRADAS/CONCEPTOS/identidad\|identidad]]es con el CIMIENTO para si le van a dar oportunidad al CONO [[TRANSCRIPCIONES/ACER/Ale en Red 070#^kocvmf\|Ale en Red 070#^kocvmf]]
+4. resolver las [[ENTRADAS/CONCEPTOS/identidad\|identidad]]es con el CIMIENTO para si le van a dar oportunidad al CONO [[TRANSCRIPCIONES/ACER/Ale en Red 070#^kocvmf\|Ale en Red 070#^kocvmf]]
 
 
 

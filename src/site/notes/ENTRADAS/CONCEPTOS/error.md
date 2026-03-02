@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/error/","created":"2026-01-23T12:41:34.124-03:00","updated":"2026-02-21T10:50:18.997-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/error/","created":"2026-01-23T12:41:34.124-03:00","updated":"2026-03-02T12:07:29.415-03:00"}
 ---
 
 
 
 **Ale en Red 30**
 
-Si no le hacemos [[ENTRADAS/CONCEPTOS/restricción\|restricción]] al error en este punto exactamente y precisamente, se convierte en aberración. Entonces, sin llegar a aberración, el error en un margen que nos permita el discernimiento, el aumento de la [[ENTRADAS/CONCEPTOS/intuición\|intuición]] para que se profundice la instancia de reflexión y esto **desacelera la [[ENTRADAS/CONCEPTOS/velocidad\|velocidad]]** ; esto de que los días pasan tan rápido...[[TRANSCRIPCIONES/ACER/Ale en Red 030#^lcicmk\|Ale en Red 030#^lcicmk]]
+1. Si no le hacemos [[ENTRADAS/CONCEPTOS/restricción\|restricción]] al error en este punto exactamente y precisamente, se convierte en aberración. Entonces, sin llegar a aberración, el error en un margen que nos permita el discernimiento, el aumento de la [[ENTRADAS/CONCEPTOS/intuición\|intuición]] para que se profundice la instancia de reflexión y esto **desacelera la [[ENTRADAS/CONCEPTOS/velocidad\|velocidad]]** ; esto de que los días pasan tan rápido...[[TRANSCRIPCIONES/ACER/Ale en Red 030#^lcicmk\|Ale en Red 030#^lcicmk]]
 
-Si mi [[ENTRADAS/CONCEPTOS/error\|error]] no me habilita el [[ENTRADAS/CONCEPTOS/futuro\|futuro]], me está consumiendo, yo no lo estoy consumiendo, me está consumiendo a mí; pero si me pongo a consumir mi error, mi [[ENTRADAS/CONCEPTOS/margen de error\|margen de error]] ¿se achica o se agranda? Se achica, pero se agranda la base que te permite contemplarlo. La migración de [[ENTRADAS/CONCEPTOS/octava\|octava]], se va dando. [[TRANSCRIPCIONES/ACER/Ale en Red 030#^rq84bx\|Ale en Red 030#^rq84bx]]
+2. Si mi [[ENTRADAS/CONCEPTOS/error\|error]] no me habilita el [[ENTRADAS/CONCEPTOS/futuro\|futuro]], me está consumiendo, yo no lo estoy consumiendo, me está consumiendo a mí; pero si me pongo a consumir mi error, mi [[ENTRADAS/CONCEPTOS/margen de error\|margen de error]] ¿se achica o se agranda? Se achica, pero se agranda la base que te permite contemplarlo. La migración de [[ENTRADAS/CONCEPTOS/octava\|octava]], se va dando. [[TRANSCRIPCIONES/ACER/Ale en Red 030#^rq84bx\|Ale en Red 030#^rq84bx]]
 
-Si no me aprovecho de mi error, mi error se aprovecha de mí, y por supervivencia, la migración se irá dando. [[TRANSCRIPCIONES/ACER/Ale en Red 030#^ufuprv\|Ale en Red 030#^ufuprv]]
+3. Si no me aprovecho de mi error, mi error se aprovecha de mí, y por supervivencia, la migración se irá dando. [[TRANSCRIPCIONES/ACER/Ale en Red 030#^ufuprv\|Ale en Red 030#^ufuprv]]
 
 
 **Ale en Red 55**
@@ -34,9 +34,9 @@ Entonces, explorar el [[ENTRADAS/CONCEPTOS/error\|error]], trabajar con él, es 
 
 **Ale en Red 106**
 
-no hay ningún problema con la imperfección de nosotros, porque en una [[ENTRADAS/CONCEPTOS/octava gravitatoria\|octava gravitatoria]] lo que me paso viendo, son los fallos técnicos; en cambio en el perfil [[ENTRADAS/CONCEPTOS/molecular\|molecular]], (...) evidentemente, lo que menos voy a querer ver es un [[ENTRADAS/CONCEPTOS/error\|error]]. [[TRANSCRIPCIONES/ACER/Ale en Red 106#^og0rf7\|Ale en Red 106#^og0rf7]]
+1. no hay ningún problema con la imperfección de nosotros, porque en una [[ENTRADAS/CONCEPTOS/octava gravitatoria\|octava gravitatoria]] lo que me paso viendo, son los fallos técnicos; en cambio en el perfil [[ENTRADAS/CONCEPTOS/molecular\|molecular]], (...) evidentemente, lo que menos voy a querer ver es un [[ENTRADAS/CONCEPTOS/error\|error]]. [[TRANSCRIPCIONES/ACER/Ale en Red 106#^og0rf7\|Ale en Red 106#^og0rf7]]
 
-Los [[ENTRADAS/CONCEPTOS/marco\|marco]]s viven continuamente del chequeo de los [[ENTRADAS/CONCEPTOS/error\|error]]es, porque es así como se evoluciona. Entonces, toda nuestra [[ENTRADAS/CONCEPTOS/cultura\|cultura]] está infectada en que los errores son feos, son malos, que hay que taparlos; no, esto es lo que había, pero no es lo que llega. [[TRANSCRIPCIONES/ACER/Ale en Red 106#^wbajkh\|Ale en Red 106#^wbajkh]]
+2. Los [[ENTRADAS/CONCEPTOS/marco\|marco]]s viven continuamente del chequeo de los [[ENTRADAS/CONCEPTOS/error\|error]]es, porque es así como se evoluciona. Entonces, toda nuestra [[ENTRADAS/CONCEPTOS/cultura\|cultura]] está infectada en que los errores son feos, son malos, que hay que taparlos; no, esto es lo que había, pero no es lo que llega. [[TRANSCRIPCIONES/ACER/Ale en Red 106#^wbajkh\|Ale en Red 106#^wbajkh]]
 
 
 
