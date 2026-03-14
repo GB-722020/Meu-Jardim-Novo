@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/sistema-solar/","created":"2026-01-23T11:50:36.387-03:00","updated":"2026-02-21T10:50:19.137-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/sistema-solar/","created":"2026-01-23T11:50:36.387-03:00","updated":"2026-03-13T12:14:44.802-03:00"}
 ---
 
 
@@ -21,6 +21,9 @@ Desde nuestra perspectiva como Sistema Solar ¿Qué es lo que necesitamos increm
 ¿qué hace la [[ENTRADAS/CONCEPTOS/semilla\|semilla]] estelar si no tiene ningún lugar a donde brotar? Si no elegís brotar adentro de este [[ENTRADAS/CONCEPTOS/sistema solar\|sistema solar]]... ¡a marchar! porque acá, se viene a brotar - no a ser una semilla- [[TRANSCRIPCIONES/ACER/Ale en Red 090#^oikn3f\|Ale en Red 090#^oikn3f]]
 
 
+**Ale en Red 93**
+
+¿Cuál es la diferencia entre los Marcos “[[ENTRADAS/CONCEPTOS/sistema solar\|Sistema Solar]]” y “[[ENTRADAS/CONCEPTOS/sistema planetario\|Sistema Planetario]]”? [[TRANSCRIPCIONES/ACER/Ale en Red 093#^o53xgi\|Ale en Red 093#^o53xgi]]
 
 ---
 *volver al [[0/índice\|índice]]*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/antena/","created":"2026-01-21T17:32:24.055-03:00","updated":"2026-03-02T11:37:55.622-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/antena/","created":"2026-01-21T17:32:24.055-03:00","updated":"2026-03-13T16:32:28.766-03:00"}
 ---
 
 
@@ -18,6 +18,10 @@ Hacen de [[ENTRADAS/CONCEPTOS/antena\|antena]] las [[ENTRADAS/CONCEPTOS/vacuna\|
 
 El [[ENTRADAS/CONCEPTOS/sonar\|sonar]] es el efecto de la [[ENTRADAS/CONCEPTOS/antena\|antena]] en su [[ENTRADAS/CONCEPTOS/interactividad\|interactividad]] [[TRANSCRIPCIONES/ACER/Ale en Red 070#^pgjml6\|Ale en Red 070#^pgjml6]]
 
+
+**Ale en Red 93**
+
+porque estamos sobre la huella de que Sol tiene una tarea que reconfigurar nuestra [[ENTRADAS/CONCEPTOS/antena\|antena]], y reconfigurar nuestra antena depende de eso, que podamos “sintonizar futuro” y “codificar [[ENTRADAS/CONCEPTOS/destino\|destino]] adentro de ese futuro”. [[TRANSCRIPCIONES/ACER/Ale en Red 093#^uustfe\|Ale en Red 093#^uustfe]]
 
 
 **Ale en Red 106**

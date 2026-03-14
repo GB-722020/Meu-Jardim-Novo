@@ -4,7 +4,7 @@
 
 **Ale en Red 2**
 
-Saturno, lo que hace es **emular** que es un [[sistema planetario\|sistema planetario]] [[TRANSCRIPCIONES/ACER/Ale en Red 002#^30dvnf\|Ale en Red 002#^30dvnf]]
+Saturno, lo que hace es **emular** que es un [[ENTRADAS/CONCEPTOS/sistema planetario\|sistema planetario]] [[TRANSCRIPCIONES/ACER/Ale en Red 002#^30dvnf\|Ale en Red 002#^30dvnf]]
 
 ---
 *volver al [[0/índice\|índice]]*

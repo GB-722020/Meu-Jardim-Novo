@@ -1,6 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/resonancia/","created":"2026-01-26T12:50:56.953-03:00","updated":"2026-02-08T16:58:59.029-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/resonancia/","created":"2026-01-26T12:50:56.953-03:00","updated":"2026-03-13T12:17:59.025-03:00"}
 ---
+
+
+**Ale en Red 93**
+
+Si entra en [[ENTRADAS/CONCEPTOS/resonancia\|resonancia]], evidentemente hay algún registro en su cimiento, que guarda un compromiso con la señal que estoy brindando. [[TRANSCRIPCIONES/ACER/Ale en Red 093#^azq393\|Ale en Red 093#^azq393]]
+
 
 
 **Ale en Red 106**

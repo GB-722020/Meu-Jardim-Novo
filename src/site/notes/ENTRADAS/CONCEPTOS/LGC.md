@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/lgc/","created":"2026-01-20T11:53:34.255-03:00","updated":"2026-02-21T10:50:18.920-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/lgc/","created":"2026-01-20T11:53:34.255-03:00","updated":"2026-03-14T18:12:12.774-03:00"}
 ---
 
 
@@ -19,6 +19,24 @@ Siempre el aporte de Lógica Global Convergente [[ENTRADAS/CONCEPTOS/LGC\|LGC]],
 3. Entonces, ¿cómo podemos discernir cuando el [[ENTRADAS/CONCEPTOS/defecto\|defecto]] toma a la [[ENTRADAS/CONCEPTOS/lógica\|lógica]] y cuando la Lógica toma al defecto? [[TRANSCRIPCIONES/ACER/Ale en Red 030#^e4xslp\|Ale en Red 030#^e4xslp]]
 
 4. espetando las [[ENTRADAS/CONCEPTOS/estructura\|estructura]]s, estamos ligados a esa integridad que nos permite ver el defecto, escarbar y desentramar lo doloroso; te mantiene en una estatura alta psíquica para que vos abajo vayas preparando... entonces, la observación del [[ENTRADAS/CONCEPTOS/defecto\|defecto]]... [[TRANSCRIPCIONES/ACER/Ale en Red 030#^34r41c\|Ale en Red 030#^34r41c]]
+
+
+
+**Ale en Red 93**
+
+1. Entendamos, mente para sol, es energía para nosotros, entonces [[ENTRADAS/CONCEPTOS/LGC\|LGC]] opera antes de la cuestión de que la [[ENTRADAS/CONCEPTOS/conciencia solar\|conciencia solar]] sea codificada, [[TRANSCRIPCIONES/ACER/Ale en Red 093#^avucug\|Ale en Red 093#^avucug]]
+
+2. esto es como para educar que [[ENTRADAS/CONCEPTOS/LGC\|LGC]] es como viene a través de una [[ENTRADAS/CONCEPTOS/señal\|señal]], no viene de una documentación histórica, no viene de un aprendizaje, ni mucho menos viene desde la especulación de unos datos, sino que justamente, es una instrucción que se recibe directamente en un [[ENTRADAS/CONCEPTOS/área muda\|área muda]], [[TRANSCRIPCIONES/ACER/Ale en Red 093#^knxev8\|Ale en Red 093#^knxev8]]
+
+3. Entrenarse en [[ENTRADAS/CONCEPTOS/LGC\|LGC]] es como aprender a ser nadador en el mar de la [[ENTRADAS/CONCEPTOS/frustración\|frustración]], porque primero uno se frustra porque no entiende, y cuando entiende mucho, o más, se frustra porque no lo puede transferir; entonces sencillamente la frustración te va cambiando de lugar. [[TRANSCRIPCIONES/ACER/Ale en Red 093#^a4gwo5\|Ale en Red 093#^a4gwo5]]
+
+4. O sea, yo no sé si esto está claro o no está claro, pero, Lógica Global Convergente tiene que ver con que el contenido de esa educación, es respecto de [[ENTRADAS/CONCEPTOS/Sol\|Sol]] y respecto de [[ENTRADAS/CONCEPTOS/Tierra\|Tierra]]. Porque que sea Tierra, lo hace global; y que sea Sol lo hace convergente. [[TRANSCRIPCIONES/ACER/Ale en Red 093#^7s1lu8\|Ale en Red 093#^7s1lu8]]
+
+5. la configuración que nos compete a nosotros es gravitatorio y conceptual. O sea:
+- no somos globales, sino que somos gravitatorios;
+- y no somos convergentes, sino que somos conceptuales. [[TRANSCRIPCIONES/ACER/Ale en Red 093#^vmhly4\|Ale en Red 093#^vmhly4]]
+
+6. Conceptual y gravitatorio es la fractalización a nuestra escala. La escala que le va la métrica del “doble y el desdoblado”, para que puedan evolucionar desde donde están realmente, y aprovechar todo lo que los [[ENTRADAS/CONCEPTOS/marco\|Marco]]s tienen para ofrecernos... que es la lectura de ellos mismos, ¡pero la lectura de ellos mismos según ellos! no según nosotros. [[TRANSCRIPCIONES/ACER/Ale en Red 093#^jalhyt\|Ale en Red 093#^jalhyt]]
 
 
 

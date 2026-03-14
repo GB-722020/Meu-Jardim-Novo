@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/broca/","created":"2026-01-26T17:48:25.213-03:00","updated":"2026-02-11T16:07:47.950-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/broca/","created":"2026-01-26T17:48:25.213-03:00","updated":"2026-03-13T15:12:58.313-03:00"}
 ---
 
 
@@ -21,6 +21,10 @@ Si bajo a Wernicke, tengo [[ENTRADAS/CONCEPTOS/autorrechazo\|autorrechazo]], y s
 
 [[ENTRADAS/CONCEPTOS/Alejandría\|Alejandría]], ahora, tiene que estar en nuestra área de [[ENTRADAS/CONCEPTOS/Broca\|Broca]] -en la construcción del [[ENTRADAS/CONCEPTOS/lenguaje\|lenguaje]]- donde el sujeto se apropia de la fractalización de esas señales.
 
+
+**Ale en Red 93**
+
+Entonces, lo mío, está en el área de Broca, que es donde el sujeto construye a partir del [[ENTRADAS/CONCEPTOS/idioma\|idioma]] y con su propio [[ENTRADAS/CONCEPTOS/lenguaje\|lenguaje]], su propia explicación de lo que le pasó, lo que le ocurrió; y después en la medida que el alcance se va amplificando, lo que me ocurrió, lo que le ocurrió, lo que te ocurrió, lo que nos ocurrió, lo que les ocurrió ¿está? [[TRANSCRIPCIONES/ACER/Ale en Red 093#^h0ledi\|Ale en Red 093#^h0ledi]]
 
 
 ---

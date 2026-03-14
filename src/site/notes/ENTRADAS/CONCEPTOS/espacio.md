@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/espacio/","created":"2026-01-26T12:19:34.705-03:00","updated":"2026-02-21T10:50:19.005-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/espacio/","created":"2026-01-26T12:19:34.705-03:00","updated":"2026-03-13T10:24:05.472-03:00"}
 ---
 
 
@@ -13,6 +13,10 @@ Pero la contención de la Realidad es cuando yo le di [[ENTRADAS/CONCEPTOS/espac
 
 El tiempo, respecto del espacio, es una nueva cualidad(...)el [[ENTRADAS/CONCEPTOS/tiempo\|tiempo]], es “temporal” porque pasa, pero deja un registro, que el [[ENTRADAS/CONCEPTOS/espacio\|espacio]] lo absorbe  [[TRANSCRIPCIONES/ACER/Ale en Red 087#^4zfxxl\|Ale en Red 087#^4zfxxl]]
 
+
+**Ale en Red 93**
+
+¡esto pasa todo el tiempo! porque para el [[ENTRADAS/CONCEPTOS/espacio\|espacio]], el tiempo es quieto, es plano; para nosotros que lo estamos habitando dinámicamente, [[TRANSCRIPCIONES/ACER/Ale en Red 093#^cgybvf\|Ale en Red 093#^cgybvf]]
 
 
 **Ale en Red 123**

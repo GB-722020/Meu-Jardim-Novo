@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-011/","created":"2026-02-10T11:03:17.330-03:00","updated":"2026-03-02T11:14:33.273-03:00"}
+{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-011/","created":"2026-02-10T11:03:17.330-03:00","updated":"2026-03-13T09:40:32.480-03:00"}
 ---
 
 
@@ -69,7 +69,7 @@ Ahora recibimos agosto, y bueno, vamos a ver. A este día, se le llama el “dí
 
 **_LETICIA: nos vas a dar la primicia de cuál es la fecha y cuál será la modalidad._**
 
-ALE: Así es. Primera cosa, que el evento 70 11 [[ENTRADAS/CONCEPTOS/evento 70 tal que 11\|evento 70 tal que 11]] lo que pretende brindar, es esta conexión, es ¿cómo hacemos nosotros -siendo habitantes de LA REALIDAD en este sistema solar, dentro de uno de sus recursos que es el planeta Tierra- como llevamos adelante la [[ENTRADAS/CONCEPTOS/proyección genética\|proyección genética]] de nuestra [[ENTRADAS/CONCEPTOS/alma\|alma]]? Porque la proyección genética del alma necesita un **dónde** y un **cuándo**. Nosotros le quitamos el dónde y el cuándo, y es un átomo en el universo. De un átomo en el universo, a, un enfoque concreto, con limitaciones concretas, con alcances concretos, con porte gravitatorio concreto... necesita mi [[ENTRADAS/CONCEPTOS/conciencia atómica\|conciencia atómica]] volverse anatómica.^rlxtlk 
+ALE: Así es. Primera cosa, que el evento 70 11 [[ENTRADAS/CONCEPTOS/evento 70-11\|evento 70-11]] lo que pretende brindar, es esta conexión, es ¿cómo hacemos nosotros -siendo habitantes de LA REALIDAD en este sistema solar, dentro de uno de sus recursos que es el planeta Tierra- como llevamos adelante la [[ENTRADAS/CONCEPTOS/proyección genética\|proyección genética]] de nuestra [[ENTRADAS/CONCEPTOS/alma\|alma]]? Porque la proyección genética del alma necesita un **dónde** y un **cuándo**. Nosotros le quitamos el dónde y el cuándo, y es un átomo en el universo. De un átomo en el universo, a, un enfoque concreto, con limitaciones concretas, con alcances concretos, con porte gravitatorio concreto... necesita mi [[ENTRADAS/CONCEPTOS/conciencia atómica\|conciencia atómica]] volverse anatómica.^rlxtlk 
 ( [[ENTRADAS/CONCEPTOS/conciencia anatómica\|conciencia anatómica]] )
 { #rpsqvq}
 

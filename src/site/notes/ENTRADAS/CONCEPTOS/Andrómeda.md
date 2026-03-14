@@ -1,6 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/andromeda/","created":"2026-01-22T10:42:28.171-03:00","updated":"2026-02-21T10:50:18.897-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/andromeda/","created":"2026-01-22T10:42:28.171-03:00","updated":"2026-03-13T09:33:23.809-03:00"}
 ---
+
+
+
+**Ale en Red 93**
+
+Pero cuando estamos hablando de [[ENTRADAS/CONCEPTOS/Andrómeda\|Andrómeda]], evidentemente es hiper sutil, completamente imperceptible. [[TRANSCRIPCIONES/ACER/Ale en Red 093#^eo84cr\|Ale en Red 093#^eo84cr]]
 
 
 **Ale en Red 151**

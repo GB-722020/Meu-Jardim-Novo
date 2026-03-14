@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/antenas/alejandra-casado/","created":"2026-01-20T17:21:13.577-03:00","updated":"2026-03-02T15:24:47.226-03:00"}
+{"dg-publish":true,"permalink":"/entradas/antenas/alejandra-casado/","created":"2026-01-20T17:21:13.577-03:00","updated":"2026-03-13T15:15:25.301-03:00"}
 ---
 
 
@@ -21,6 +21,11 @@ En mi caso, no tengo ningún instrumento; yo soy el [[ENTRADAS/CONCEPTOS/instrum
 **Ale en Red 70**
 
 Yo me ocupo más de los límites que de los alcances, [[TRANSCRIPCIONES/ACER/Ale en Red 070#^xnsjiz\|Ale en Red 070#^xnsjiz]]
+
+
+**Ale en Red 93**
+
+Por ejemplo: el tema de la [[ENTRADAS/CONCEPTOS/historia\|historia]], yo tuve la intuición desde muy jovencita “¡no estudies historia! ¡no estudies historia! ¡no estudies historia! _”_ y no había un porqué, no había justificativo, pero a mí la intuición me decía “ _¡ni se te ocurra estudiar historia!”_ ¿Qué me pasa? [[TRANSCRIPCIONES/ACER/Ale en Red 093#^dpp0d0\|Ale en Red 093#^dpp0d0]]
 
 
 **Ale en Red 106**

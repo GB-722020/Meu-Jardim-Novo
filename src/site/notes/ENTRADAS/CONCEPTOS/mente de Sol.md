@@ -1,11 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/mente-de-sol/","created":"2026-02-04T10:38:05.433-03:00","updated":"2026-02-06T17:25:33.930-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/mente-de-sol/","created":"2026-02-04T10:38:05.433-03:00","updated":"2026-03-12T17:49:39.907-03:00"}
 ---
+
+
+==ver también [[ENTRADAS/CONCEPTOS/mente solar\|mente solar]]==
 
 
 **Ale en Red 90**
 
  la [[ENTRADAS/CONCEPTOS/mente de Sol\|mente de Sol]] -para nosotros- es [[ENTRADAS/CONCEPTOS/materia\|materia]]. Entonces cuando nuestro observador movía partículas de escala subatómica - y nos daba la sensación de que éramos dioses-. [[TRANSCRIPCIONES/ACER/Ale en Red 090#^a7qh89\|Ale en Red 090#^a7qh89]]
+
+
+
+**Ale en Red 93**
+
+Cuando tiene que ordenar todo eso y volcarlo en código, estamos hablando de [[ENTRADAS/CONCEPTOS/mente solar\|mente solar]], [[TRANSCRIPCIONES/ACER/Ale en Red 093#^lrc4mq\|Ale en Red 093#^lrc4mq]]
 
 
 ---

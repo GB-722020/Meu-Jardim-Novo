@@ -1,11 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/fuente-externa/","created":"2026-01-22T11:02:32.210-03:00","updated":"2026-02-21T10:50:19.032-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/fuente-externa/","created":"2026-01-22T11:02:32.210-03:00","updated":"2026-03-13T09:36:41.476-03:00"}
 ---
 
 
 **Ale en Red 61**
 
  Esos 12 días, son el aspecto de [[ENTRADAS/CONCEPTOS/fuente externa\|fuente externa]] de estos 4 días de [[ENTRADAS/CONCEPTOS/fuente interna\|fuente interna]]. [[TRANSCRIPCIONES/ACER/Ale en Red 061#^jkk6g2\|Ale en Red 061#^jkk6g2]]
+
+
+**Ale en Red 93**
+
+Si es externa en sentido primario, va a ser mi [[ENTRADAS/CONCEPTOS/doble\|Doble]] mi [[ENTRADAS/CONCEPTOS/fuente externa\|fuente externa]]. Entonces, yo soy su instancia desdoblada -de mi doble-. Ese me va a sonar muy fuerte, [[TRANSCRIPCIONES/ACER/Ale en Red 093#^p2s8tt\|Ale en Red 093#^p2s8tt]]
+
+Por eso digo, cuando leemos de acuerdo a la Fuente externa más sutil de todas ¡todo para abajo converge como una [[ENTRADAS/CONCEPTOS/Matrix\|Matrix]] que se percibe con una claridad tremenda! [[TRANSCRIPCIONES/ACER/Ale en Red 093#^7qnvj2\|Ale en Red 093#^7qnvj2]]
 
 
 **Ale en Red 106**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/sol/","created":"2026-01-21T14:44:04.227-03:00","updated":"2026-03-02T15:17:10.719-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/sol/","created":"2026-01-21T14:44:04.227-03:00","updated":"2026-03-13T16:05:23.702-03:00"}
 ---
 
 
@@ -45,6 +45,11 @@ en la medida en que Sol siga avanzando hacia aquello que lo atrae. Porque en pri
 [[ENTRADAS/CONCEPTOS/Sol\|Sol]], es un espacio de recepción de señales del [[ENTRADAS/CONCEPTOS/universo expresado\|universo expresado]]. Y cuando las puede codificar, eso es su [[ENTRADAS/CONCEPTOS/mente\|mente]], y para nosotros es [[ENTRADAS/CONCEPTOS/energía\|energía]]. [[TRANSCRIPCIONES/ACER/Ale en Red 090#^336tib\|Ale en Red 090#^336tib]]
 
 
+**Ale en Red 93**
+
+O sea, [[ENTRADAS/CONCEPTOS/Sol\|Sol]] está ahora frente a un área donde tiene que hacernos evolucionar a la par de su [[ENTRADAS/CONCEPTOS/evolución\|evolución]], a la par de su requisito evolutivo. [[TRANSCRIPCIONES/ACER/Ale en Red 093#^cgybvf\|Ale en Red 093#^cgybvf]]
+
+Nosotros estamos hablando de un soporte físico de la [[ENTRADAS/CONCEPTOS/memoria\|memoria]], pero los soportes físicos para Sol es la [[ENTRADAS/CONCEPTOS/escala subatómica\|escala subatómica]]; para nosotros ni siquiera existe, entonces para nosotros es online. [[TRANSCRIPCIONES/ACER/Ale en Red 093#^unu37u\|Ale en Red 093#^unu37u]]
 
 
 **Ale en Red 116**
