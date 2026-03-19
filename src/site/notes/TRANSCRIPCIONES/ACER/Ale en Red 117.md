@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-117/","created":"2026-03-14T18:22:58.279-03:00","updated":"2026-03-19T17:24:28.100-03:00"}
+{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-117/","created":"2026-03-14T18:22:58.279-03:00","updated":"2026-03-19T17:46:58.887-03:00"}
 ---
 
 
@@ -110,7 +110,9 @@ está pasando esto?**
 [[ENTRADAS/CONCEPTOS/conciencia espaciotemporal\|conciencia espaciotemporal]]
 ```
 ¡Soy consciencia espaciotemporal! - desarrollada de manera inmadura- , punto.
-```{ #obrqdn}
+```
+{ #obrqdn}
+
 
 
 ¡Ahí está mejor! Pero... ¡“ _soy energía_ ”? ¡no, por favor! Porque esto es otra vez más entrar en un juego del cual no estoy teniendo las riendas.
