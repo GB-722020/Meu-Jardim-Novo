@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/codigo-solar-nativo/","created":"2026-01-20T14:03:07.471-03:00","updated":"2026-03-02T12:02:02.787-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/codigo-solar-nativo/","created":"2026-01-20T14:03:07.471-03:00","updated":"2026-03-15T16:58:41.652-03:00"}
 ---
 
 
@@ -11,6 +11,10 @@
 
 3. [[ENTRADAS/CONCEPTOS/código solar nativo\|código solar nativo]] conectado con [[ENTRADAS/CONCEPTOS/desdoblamiento primario\|desdoblamiento primario]], crédito a nuevos [[ENTRADAS/CONCEPTOS/hidrógeno\|hidrógeno]]s [[TRANSCRIPCIONES/ACER/Ale en Red 116#^xcdeea\|Ale en Red 116#^xcdeea]]
 
+
+**Ale en Red 117**
+
+Pero sí, poco a poco, paso a paso, se va a hacer notar más el [[ENTRADAS/CONCEPTOS/código solar nativo\|código solar nativo]] que el _aspecto de interferencia a nuestro código solar nativo_ , entonces, eso es que se va a sentir muy familiar el ambiente y la comprensión de la realidad. Por ahora, eso va píxel a píxel. [[TRANSCRIPCIONES/ACER/Ale en Red 117#^dhzcy7\|Ale en Red 117#^dhzcy7]]
 
 
 **Ale en Red 119**

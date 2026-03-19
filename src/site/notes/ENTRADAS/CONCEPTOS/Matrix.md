@@ -1,6 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/matrix/","created":"2026-01-21T11:44:34.153-03:00","updated":"2026-02-06T17:25:32.636-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/matrix/","created":"2026-01-21T11:44:34.153-03:00","updated":"2026-03-18T11:20:50.178-03:00"}
 ---
+
+
+
+**Ale en Red 117**
+
+es un proceso de transparentación de la [[ENTRADAS/CONCEPTOS/Matrix\|Matrix]], o sea, de los [[ENTRADAS/CONCEPTOS/contenedor\|contenedor]]es que nos mantienen vivos como [[ENTRADAS/CONCEPTOS/contenido\|contenido]]. [[TRANSCRIPCIONES/ACER/Ale en Red 117#^9w33ji\|Ale en Red 117#^9w33ji]]
+
 
 
 **Ale en Red 119**

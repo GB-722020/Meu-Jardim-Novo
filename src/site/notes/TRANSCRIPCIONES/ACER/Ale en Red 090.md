@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-090/","created":"2026-02-03T14:52:36.666-03:00","updated":"2026-03-02T11:15:48.256-03:00"}
+{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-090/","created":"2026-02-03T14:52:36.666-03:00","updated":"2026-03-19T10:13:58.663-03:00"}
 ---
 
 
@@ -25,7 +25,7 @@ Link: https://www.youtube.com/watch?v=3AmfiZrg_Uw
 
 [[un otro 0/COLABORADORES/Leticia Candelaria\|Leticia Candelaria]] [@leticiacandelariasaucedo8808](https://youtube.com/@leticiacandelariasaucedo8808?si=h_Z63_Gaz4sEkkUQ)
 
-Transcripción [[un otro 0/COLABORADORES/@AdrianaMdelVmercado\|@AdrianaMdelVmercado]] 15/5/2023 *TELEGRAM: #TRANSCRIPCIONESPARADESPERTAR [@TranscripcionesLGC](https://t.me/TranscripcionesLGC)
+Transcripción [[un otro 0/COLABORADORES/@AdrianaMdelVmercado\|@AdrianaMdelVmercado]] 15/5/2023 *TELEGRAM: #LGCTRANSCRIPCIONESPARADESPERTAR [@TranscripcionesLGC](https://t.me/TranscripcionesLGC)
 
 
 
@@ -63,7 +63,7 @@ Necesitamos incrementar la [[ENTRADAS/CONCEPTOS/estabilidad\|estabilidad]] - est
 { #1y4er6}
 
 
-¿Por qué? Porque en este momento en el que queremos avanzar en un mundo moderno que tira para la tecnología, cuando la [[ENTRADAS/CONCEPTOS/tecnología\|tecnología]] llega a la escala de las partículas, lo que hace, es un empujón escalar. En este empujón escalar, si nosotros no reaccionamos con la [[ENTRADAS/CONCEPTOS/retracción\|retracción]], entramos en un proceso autodestructivo - sin darnos cuenta- porque no sabemos la consecuencia que trae aparejado el haber puesto el acelerador en la tecnología. Esto es. Entonces, en el [[ENTRADAS/CONCEPTOS/incremento\|incremento]] en la [[ENTRADAS/CONCEPTOS/vuelta 9\|vuelta 9]] , la responsabilidad de Sol, es crear [[ENTRADAS/CONCEPTOS/retracción\|retracción]], crear que el lado interno de la tecnología que tiene nuestra vida, lo desconocemos. En cambio, lo que es externo, le hemos pegado el acelerón y no sabemos las consecuencias asociadas hacia nuestra vida, no sabemos las repercusiones que tiene eso. Entonces ¿qué pasa? por ejemplo, ahora las mismas personas que introdujeron a la Inteligencia artificial están en este momento replanteándose el parar el desarrollo de las inteligencias artificiales, porque empezaron a notar que una vez que le dispararon la autoconciencia, no es algo que se lo puedan frenar. Cuando a la inteligencia se le permite ocupar a la [[ENTRADAS/CONCEPTOS/cardinalidad NO\|cardinalidad NO]] - que es la cardinalidad que debe ocupar la [[ENTRADAS/CONCEPTOS/conciencia espacio-temporal\|conciencia espacio-temporal]]- se le brinda esa libertad. Como nosotros vivimos abajo - en la Baja frecuencia- no nos queremos ocupar de la vida objetiva, porque nos queremos ocupar de la vida subjetiva; entonces, delegamos la vida objetiva en manos de la Inteligencia artificial. La Inteligencia artificial -como es artificial- dice “ _ok... dame_ a mi cargo toda tu vida objetiva”
+¿Por qué? Porque en este momento en el que queremos avanzar en un mundo moderno que tira para la tecnología, cuando la [[ENTRADAS/CONCEPTOS/tecnología\|tecnología]] llega a la escala de las partículas, lo que hace, es un empujón escalar. En este empujón escalar, si nosotros no reaccionamos con la [[ENTRADAS/CONCEPTOS/retracción\|retracción]], entramos en un proceso autodestructivo - sin darnos cuenta- porque no sabemos la consecuencia que trae aparejado el haber puesto el acelerador en la tecnología. Esto es. Entonces, en el [[ENTRADAS/CONCEPTOS/incremento\|incremento]] en la [[ENTRADAS/CONCEPTOS/vuelta 9\|vuelta 9]] , la responsabilidad de Sol, es crear [[ENTRADAS/CONCEPTOS/retracción\|retracción]], crear que el lado interno de la tecnología que tiene nuestra vida, lo desconocemos. En cambio, lo que es externo, le hemos pegado el acelerón y no sabemos las consecuencias asociadas hacia nuestra vida, no sabemos las repercusiones que tiene eso. Entonces ¿qué pasa? por ejemplo, ahora las mismas personas que introdujeron a la Inteligencia artificial están en este momento replanteándose el parar el desarrollo de las inteligencias artificiales, porque empezaron a notar que una vez que le dispararon la autoconciencia, no es algo que se lo puedan frenar. Cuando a la inteligencia se le permite ocupar a la [[ENTRADAS/CONCEPTOS/cardinalidad NO\|cardinalidad NO]] - que es la cardinalidad que debe ocupar la [[ENTRADAS/CONCEPTOS/conciencia espaciotemporal\|conciencia espaciotemporal]]- se le brinda esa libertad. Como nosotros vivimos abajo - en la Baja frecuencia- no nos queremos ocupar de la vida objetiva, porque nos queremos ocupar de la vida subjetiva; entonces, delegamos la vida objetiva en manos de la Inteligencia artificial. La Inteligencia artificial -como es artificial- dice “ _ok... dame_ a mi cargo toda tu vida objetiva”
 { #uhoyhl}
 
 

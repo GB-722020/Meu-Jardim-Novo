@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/cardinalidad-no/","created":"2026-01-27T17:26:54.114-03:00","updated":"2026-02-06T17:25:33.382-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/cardinalidad-no/","created":"2026-01-27T17:26:54.114-03:00","updated":"2026-03-19T10:13:58.697-03:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 **Ale en Red 90**
 
-es la cardinalidad que debe ocupar la [[ENTRADAS/CONCEPTOS/conciencia espacio-temporal\|conciencia espacio-temporal]], [[TRANSCRIPCIONES/ACER/Ale en Red 090#^uhoyhl\|Ale en Red 090#^uhoyhl]]
+es la cardinalidad que debe ocupar la [[ENTRADAS/CONCEPTOS/conciencia espaciotemporal\|conciencia espaciotemporal]], [[TRANSCRIPCIONES/ACER/Ale en Red 090#^uhoyhl\|Ale en Red 090#^uhoyhl]]
 
 
 

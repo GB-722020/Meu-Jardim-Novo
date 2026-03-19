@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-106/","created":"2026-02-06T14:38:04.260-03:00","updated":"2026-03-02T11:42:44.436-03:00"}
+{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-106/","created":"2026-02-06T14:38:04.260-03:00","updated":"2026-03-15T16:41:20.487-03:00"}
 ---
 
 
@@ -27,8 +27,7 @@ Link: https://www.youtube.com/watch?v=lEfsdlLuNes
 [[un otro 0/COLABORADORES/Leticia Candelaria\|Leticia Candelaria]] [@leticiacandelariasaucedo8808](https://youtube.com/@leticiacandelariasaucedo8808?si=h_Z63_Gaz4sEkkUQ)
 
 
-Transcripción y edición [[un otro 0/COLABORADORES/@AdrianaMdelVmercado\|@AdrianaMdelVmercado]] -8/07/2024 *TELEGRAM: #TRANSCRIPCIONESPARADESPERTAR [@TranscripcionesLGC](https://t.me/TranscripcionesLGC)
-
+Transcripción y edición [[un otro 0/COLABORADORES/@AdrianaMdelVmercado\|@AdrianaMdelVmercado]] -8/07/2024 *TELEGRAM: #LGCTRANSCRIPCIONESPARADESPERTAR [@TranscripcionesLGC](https://t.me/TranscripcionesLGC)
 
 
 **_LETICIA_** : _Hola ¿cómo están? Encantada de saludarles, hoy 17 de enero 2024. Bienvenidos a nuestra emisión N° 106 de “Alejandra casado EN RED”. Las frecuencias del día +17_- 349 y en el Aparato + 1112 - 349. Nuestro día de cuarentena global da 4112 ¿Cómo estás Ale? ¿qué tal?_

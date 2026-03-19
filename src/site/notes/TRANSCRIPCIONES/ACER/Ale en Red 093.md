@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-093/","created":"2026-02-22T15:03:09.984-03:00","updated":"2026-03-14T18:20:29.824-03:00"}
+{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-093/","created":"2026-02-22T15:03:09.984-03:00","updated":"2026-03-15T16:41:11.540-03:00"}
 ---
 
 
@@ -28,8 +28,7 @@ Link: https://www.youtube.com/watch?reload=9&v=Q1KGjfvlF4k
 
 [[un otro 0/COLABORADORES/Leticia Candelaria\|Leticia Candelaria]] [@leticiacandelariasaucedo8808](https://youtube.com/@leticiacandelariasaucedo8808?si=h_Z63_Gaz4sEkkUQ)
 
-Transcripción [[un otro 0/COLABORADORES/@AdrianaMdelVmercado\|@AdrianaMdelVmercado]] 15/7/2023 *TELEGRAM: #TRANSCRIPCIONESPARADESPERTAR [@TranscripcionesLGC](https://t.me/TranscripcionesLGC)
-
+Transcripción [[un otro 0/COLABORADORES/@AdrianaMdelVmercado\|@AdrianaMdelVmercado]] 15/7/2023 *TELEGRAM: #LGCTRANSCRIPCIONESPARADESPERTAR [@TranscripcionesLGC](https://t.me/TranscripcionesLGC)
 
 
 Hoy: 26 de mayo del 2023 Las frecuencias del día de hoy + 177 y - 188 Aparato: + 907 y **_–_** 554

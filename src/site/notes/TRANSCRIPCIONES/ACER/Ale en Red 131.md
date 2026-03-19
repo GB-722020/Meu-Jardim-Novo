@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-131/","created":"2026-01-27T16:49:06.788-03:00","updated":"2026-03-02T11:17:41.497-03:00"}
+{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-131/","created":"2026-01-27T16:49:06.788-03:00","updated":"2026-03-15T16:42:05.468-03:00"}
 ---
 
 
@@ -28,7 +28,7 @@
 
 [[un otro 0/COLABORADORES/Leticia Candelaria\|Leticia Candelaria]] [@leticiacandelariasaucedo8808](https://youtube.com/@leticiacandelariasaucedo8808?si=h_Z63_Gaz4sEkkUQ)
 
-**Transcripción y edición** [[un otro 0/COLABORADORES/@AdrianaMdelVmercado\|@AdrianaMdelVmercado]] - 1/3/2025 *TELEGRAM: #TRANSCRIPCIONESPARADESPERTAR (https://t.me/TranscripcionesLGC)
+**Transcripción y edición** [[un otro 0/COLABORADORES/@AdrianaMdelVmercado\|@AdrianaMdelVmercado]] - 1/3/2025 *TELEGRAM: #LGCTRANSCRIPCIONESPARADESPERTAR [@TranscripcionesLGC](https://t.me/TranscripcionesLGC)
 
 
 

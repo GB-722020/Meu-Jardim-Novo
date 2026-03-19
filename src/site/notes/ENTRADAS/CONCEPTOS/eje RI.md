@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/eje-ri/","created":"2026-01-20T19:06:28.384-03:00","updated":"2026-03-02T12:06:28.964-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/eje-ri/","created":"2026-01-20T19:06:28.384-03:00","updated":"2026-03-18T12:06:37.292-03:00"}
 ---
 
 
@@ -8,6 +8,10 @@
 
 en una escala soy [[ENTRADAS/CONCEPTOS/contenedor\|contenedor]] y en otra escala soy [[ENTRADAS/CONCEPTOS/contenido\|contenido]] [[TRANSCRIPCIONES/ACER/Ale en Red 116#^6m173i\|Ale en Red 116#^6m173i]]
 
+
+**Ale en Red 117**
+
+- El espacio tiempo se trata del RI -siempre se trató del RI-, pero como no amplifican el RI... - porque no les interesa amplificar el RI-, andan en la corredera del atrás y del de adelante. **El** **_[[ENTRADAS/CONCEPTOS/eje RI\|Eje RI]]_** **es todo [[ENTRADAS/CONCEPTOS/tiempo real\|tiempo real]].** Solamente es el **[[ENTRADAS/CONCEPTOS/procesador\|procesador]]** que enfoca un código y ejecuta un código y se encuentra después a dentro de un tiempo. Ejecuta otra escala del código y se encuentra después en otro tiempo. [[TRANSCRIPCIONES/ACER/Ale en Red 117#^o8tsvt\|Ale en Red 117#^o8tsvt]]
 
 
 **Ale en Red 123**

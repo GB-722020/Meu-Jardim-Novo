@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/entorno/","created":"2026-01-21T17:30:11.512-03:00","updated":"2026-02-14T17:01:27.526-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/entorno/","created":"2026-01-21T17:30:11.512-03:00","updated":"2026-03-18T11:24:30.607-03:00"}
 ---
 
 
@@ -22,6 +22,11 @@ cosas que tienen que ver con nosotros mismos, con nuestro [[ENTRADAS/CONCEPTOS/e
 5. porque no es [[ENTRADAS/CONCEPTOS/propio\|propio]]. Aprender cosas que tienen que ver con el Entorno se nos va a tornar como aburrido, [[TRANSCRIPCIONES/ACER/Ale en Red 087#^8ynal6\|Ale en Red 087#^8ynal6]]
 
 6. como [[ENTRADAS/CONCEPTOS/sujeto\|sujeto]]s, como máximo, somos “los dueños del código” ¡como máximo! El [[ENTRADAS/CONCEPTOS/entorno\|entorno]] es el que hace que ese código se funcionalice, [[TRANSCRIPCIONES/ACER/Ale en Red 087#^e9phqf\|Ale en Red 087#^e9phqf]]
+
+
+**Ale en Red 117**
+
+**Cuando digo** **_vivos,_** **es adentro de un ciclo de vida, que el entorno lee y ejecuta, y yo lo llamo “mi [[ENTRADAS/CONCEPTOS/vida\|vida]]”.** Todo eso es una mecánica que desde la perspectiva del contenido- con _licencia de ignorancia-_ tiene una relación poética con el [[ENTRADAS/CONCEPTOS/entorno\|entorno]], entonces lógicamente no lo lee. [[TRANSCRIPCIONES/ACER/Ale en Red 117#^9w33ji\|Ale en Red 117#^9w33ji]]
 
 
 
