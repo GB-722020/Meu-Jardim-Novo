@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-117/","created":"2026-03-14T18:22:58.279-03:00","updated":"2026-03-19T10:14:11.084-03:00"}
+{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-117/","created":"2026-03-14T18:22:58.279-03:00","updated":"2026-03-19T10:23:55.974-03:00"}
 ---
 
 
@@ -107,30 +107,20 @@ está pasando esto?**
 { #7oivsc}
 
 
+[[ENTRADAS/CONCEPTOS/conciencia espaciotemporal\|conciencia espaciotemporal]]
 ```
-¡Soy [[consciencia espaciotemporal]]! - desarrollada de manera inmadura- , punto.
-```
+¡Soy consciencia espaciotemporal! - desarrollada de manera inmadura- , punto.
+```{ #obrqdn}
+
 ¡Ahí está mejor! Pero... ¡“ _soy energía_ ”? ¡no, por favor! Porque esto es otra vez más entrar en un juego del cual no estoy teniendo las riendas.
 
 (^1) hacer algo sin medida ni orden
 
 
-- Entonces, en **diciembre 2023** me centré en la _Cardinalidad NO del Anillo De_
-    _Fuego._
-- Después, como vimos en el **en el último “Ale EN**
-    **RED** ”, que la coordinación de 3760 años adelante,
-    nos encontramos con el **año judío**^2 **,** que lo vamos a
-    prototipar con **365 días**. O sea, no lunarmente, sino
-    solarmente -ese año- porque si no, no vamos a tomar
-    la actualización solar y vamos a tomar “el evitar la
-    actualización solar”. Eso es todo influencia externa.
-- Entonces, tomando la actualización solar, ese año, 3760
-    días adelante, ahí vimos **5 7 8 4** ¿Se dan cuenta que 5 7
-    8 4 marca la _Cardinalidad_ **_NO_**? - tengan la calculadora en
-    la mente porque si no, no van a estar entendiendo-.
-- Pero, razonemos un poquito: Si está marcando la _Cardi-_
-    _nalidad NO_ ¿Qué es lo que hizo el año anterior? **5 7 8 3.**
-    Entonces ¿qué es lo que marcó? A la punta de ON
+- Entonces, en **diciembre 2023** me centré en la _Cardinalidad NO del Anillo De_ _Fuego._
+- Después, como vimos en el **en el último “Ale EN** **RED** ”, que la coordinación de 3760 años adelante, nos encontramos con el **año judío**^2 **,** que lo vamos a prototipar con **365 días**. O sea, no lunarmente, sino solarmente -ese año- porque si no, no vamos a tomar la actualización solar y vamos a tomar “el evitar la actualización solar”. Eso es todo influencia externa.
+- Entonces, tomando la actualización solar, ese año, 3760 días adelante, ahí vimos **5 7 8 4** ¿Se dan cuenta que 5 7 8 4 marca la _Cardinalidad_ **_NO_**? - tengan la calculadora en la mente porque si no, no van a estar entendiendo-.
+- Pero, razonemos un poquito: Si está marcando la _Cardinalidad NO_ ¿Qué es lo que hizo el año anterior? **5 7 8 3.** Entonces ¿qué es lo que marcó? A la punta de ON
 - - **ON, justamente es la activación de la antena-.**
 
 Bueno, entonces ¿En el 2023 activaste la antena o no activaste la antena? ¿o seguiste atorado leyendo _la Torá?_ ¿me explico?
