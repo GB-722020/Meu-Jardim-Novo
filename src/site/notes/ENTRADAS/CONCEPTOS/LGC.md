@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/lgc/","created":"2026-01-20T11:53:34.255-03:00","updated":"2026-03-14T18:12:12.774-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/lgc/","created":"2026-01-20T11:53:34.255-03:00","updated":"2026-04-17T11:24:31.779-03:00"}
 ---
 
 
@@ -43,6 +43,12 @@ Siempre el aporte de Lógica Global Convergente [[ENTRADAS/CONCEPTOS/LGC\|LGC]],
 **Ale en Red 106**
 
 ¡No, no! es todo al revés, o sea, **[[ENTRADAS/CONCEPTOS/LGC\|LGC]] es la revolución de los [[ENTRADAS/CONCEPTOS/común\|común]]es** , no de los [[ENTRADAS/CONCEPTOS/especial\|especial]]es. (...)LGC trabaja para hacer una muy buena oferta para los [[ENTRADAS/CONCEPTOS/hidrógeno\|hidrógeno]]s que hay en el Cosmos. [[TRANSCRIPCIONES/ACER/Ale en Red 106#^r58r16\|Ale en Red 106#^r58r16]]
+
+
+**Ale en Red 117**
+
+Es **L** ógica **G** ravitatoria / **L** ógica **C** onceptual.
+Aumento mi [[ENTRADAS/CONCEPTOS/concepto\|concepto]]→ aumenta mi gravitación; [[TRANSCRIPCIONES/ACER/Ale en Red 117#^lwfqe4\|Ale en Red 117#^lwfqe4]]
 
 
 **Ale en Red 123**

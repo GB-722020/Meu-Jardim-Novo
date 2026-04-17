@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/concepto/","created":"2026-01-23T17:08:10.805-03:00","updated":"2026-03-13T11:16:36.286-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/concepto/","created":"2026-01-23T17:08:10.805-03:00","updated":"2026-04-17T11:26:28.681-03:00"}
 ---
 
 
@@ -16,6 +16,9 @@ Para poder apropiarme de un [[ENTRADAS/CONCEPTOS/concepto\|concepto]], necesito 
 
 El concepto en su estado mudo me va a operar a mí, en cambio, cuando lo defino, se empieza a dar una situación de mejora continua, porque me la paso definiendo algo que al ser definido me va a impactar diferente. [[TRANSCRIPCIONES/ACER/Ale en Red 093#^syhkjs\|Ale en Red 093#^syhkjs]]
 
+**Ale en Red 117**
+
+**El [[ENTRADAS/CONCEPTOS/concepto\|concepto]] tiene que aumentar a la par que aumenta mi estatus gravitatorio -a la par- porque pertenezco a la expansión del universo**. [[TRANSCRIPCIONES/ACER/Ale en Red 117#^nbni6x\|Ale en Red 117#^nbni6x]]
 
 
 ---

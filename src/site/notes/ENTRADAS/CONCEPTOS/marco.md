@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/marco/","created":"2026-02-03T17:05:18.864-03:00","updated":"2026-02-21T10:50:19.076-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/marco/","created":"2026-02-03T17:05:18.864-03:00","updated":"2026-04-17T17:07:03.154-03:00"}
 ---
 
 
@@ -21,6 +21,12 @@ formular lenguaje de [[ENTRADAS/CONCEPTOS/marco\|marco]]s [[TRANSCRIPCIONES/ACER
 
 eso es todo lenguaje de marcos, eso es todo flujo de señales [[TRANSCRIPCIONES/ACER/Ale en Red 116#^6k18ak\|Ale en Red 116#^6k18ak]]
 
+
+**Ale en Red 117**
+
+¡Destruyan a la [[ENTRADAS/CONCEPTOS/identidad simbólica\|identidad simbólica]]! porque si son los que la construyen, no va a quedar atrapados ahí. Marcos, marcos, marcos, libertad, libertad, marcos. La [[ENTRADAS/CONCEPTOS/libertad\|libertad]] te la da el [[ENTRADAS/CONCEPTOS/observador\|observador]] y el contenido tiene un marco. [[TRANSCRIPCIONES/ACER/Ale en Red 117#^cmpyjg\|Ale en Red 117#^cmpyjg]]
+
+Porque **37 son los [[ENTRADAS/CONCEPTOS/marco\|marco]]s, es la alianza entre el [[ENTRADAS/CONCEPTOS/observador\|observador]] y [[ENTRADAS/CONCEPTOS/sion\|sion]]**. [[TRANSCRIPCIONES/ACER/Ale en Red 117#^62xcrr\|Ale en Red 117#^62xcrr]]
 
 
 ---

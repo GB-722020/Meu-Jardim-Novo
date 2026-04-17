@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/antena/","created":"2026-01-21T17:32:24.055-03:00","updated":"2026-03-13T16:32:28.766-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/antena/","created":"2026-01-21T17:32:24.055-03:00","updated":"2026-04-17T09:36:49.105-03:00"}
 ---
 
 
@@ -33,6 +33,13 @@ porque estamos sobre la huella de que Sol tiene una tarea que reconfigurar nuest
 **Ale en Red 116**
 
 duplicación de [[ENTRADAS/CONCEPTOS/fila 7\|fila 7]] [[TRANSCRIPCIONES/ACER/Ale en Red 116#^msou0h\|Ale en Red 116#^msou0h]] para leer a la [[ENTRADAS/CONCEPTOS/octava gravitatoria\|octava gravitatoria]] y codificar la [[ENTRADAS/CONCEPTOS/antena\|antena]]
+
+
+**Ale en Red 117**
+
+todo lo que es **futuro** tiene que ver con la _[[ENTRADAS/CONCEPTOS/antena\|antena]]_ - todo lo que es **pasado** tiene que ver con lo [[ENTRADAS/CONCEPTOS/analógico\|analógico]]. [[TRANSCRIPCIONES/ACER/Ale en Red 117#^2m4zto\|Ale en Red 117#^2m4zto]]
+
+Siempre la antena va a reinterpretar el pasado, porque si dejamos que el pasado sea el que interprete al futuro, ¡el futuro es horrible! ¡porque termina! [[TRANSCRIPCIONES/ACER/Ale en Red 117#^y39sux\|Ale en Red 117#^y39sux]]
 
 
 **Ale en Red 119**

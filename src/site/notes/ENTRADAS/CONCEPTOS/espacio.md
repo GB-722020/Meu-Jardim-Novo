@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/espacio/","created":"2026-01-26T12:19:34.705-03:00","updated":"2026-03-13T10:24:05.472-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/espacio/","created":"2026-01-26T12:19:34.705-03:00","updated":"2026-04-09T15:59:52.873-03:00"}
 ---
 
 
@@ -17,6 +17,11 @@ El tiempo, respecto del espacio, es una nueva cualidad(...)el [[ENTRADAS/CONCEPT
 **Ale en Red 93**
 
 ¡esto pasa todo el tiempo! porque para el [[ENTRADAS/CONCEPTOS/espacio\|espacio]], el tiempo es quieto, es plano; para nosotros que lo estamos habitando dinámicamente, [[TRANSCRIPCIONES/ACER/Ale en Red 093#^cgybvf\|Ale en Red 093#^cgybvf]]
+
+
+**Ale en Red 117**
+
+Entonces, si vamos a desarrollar **conciencia espacio temporal** ¡no pertenecemos a un tiempo, pertenecemos a un espacio! El espacio está primero y los tiempos le agregan cualidades. [[TRANSCRIPCIONES/ACER/Ale en Red 117#^coddgd\|Ale en Red 117#^coddgd]]
 
 
 **Ale en Red 123**

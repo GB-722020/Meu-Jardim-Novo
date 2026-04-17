@@ -133,7 +133,7 @@ Bueno, esto lo que quería agregar de _construcción de sentido_ y Vuelta 18 ,
 
 Digo, no es raro lo que estoy diciendo ¿no? Está dentro de lo que venimos trabajando. Dentro de este ambiente, está más o menos claro; salimos dos minutos y nadie entendió nada. 
 
-Esta construcción de sentido [[vuelta 18\|vuelta 18]]:
+Esta construcción de sentido [[ENTRADAS/CONCEPTOS/vuelta 18\|vuelta 18]]:
 { #rhcqrs}
 
 

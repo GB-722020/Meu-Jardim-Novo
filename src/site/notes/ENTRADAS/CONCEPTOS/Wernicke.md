@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/wernicke/","created":"2026-02-11T15:30:39.333-03:00","updated":"2026-02-21T10:50:18.935-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/wernicke/","created":"2026-02-11T15:30:39.333-03:00","updated":"2026-04-10T11:14:20.055-03:00"}
 ---
 
 
@@ -20,6 +20,9 @@
 7. Wernicke es el caldero donde el [[ENTRADAS/CONCEPTOS/futuro\|futuro]] llega y reescribe [[ENTRADAS/CONCEPTOS/Broca\|Broca]]. Te lo vuelve a explicar, te lo vuelve a describir de una manera cada vez más integrada. [[TRANSCRIPCIONES/ACER/Ale en Red 030#^imhqk3\|Ale en Red 030#^imhqk3]]
 
 
+**Ale en Red 117**
+
+La _zona muda_ es el **área de Wernicke** , donde se estructura el sentido. [[TRANSCRIPCIONES/ACER/Ale en Red 117#^3dmh1y\|Ale en Red 117#^3dmh1y]]
 
 ---
 *volver al [[0/índice\|índice]]*

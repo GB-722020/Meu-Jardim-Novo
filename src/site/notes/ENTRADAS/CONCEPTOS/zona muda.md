@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/zona-muda/","created":"2026-03-13T15:04:01.584-03:00","updated":"2026-03-13T15:04:39.738-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/zona-muda/","created":"2026-03-13T15:04:01.584-03:00","updated":"2026-04-10T11:16:56.299-03:00"}
 ---
 
 ver [[ENTRADAS/CONCEPTOS/área muda\|área muda]]
@@ -10,6 +10,13 @@ ver [[ENTRADAS/CONCEPTOS/área muda\|área muda]]
 esto es como para educar que [[ENTRADAS/CONCEPTOS/LGC\|LGC]] es como viene a través de una [[ENTRADAS/CONCEPTOS/señal\|señal]], no viene de una documentación histórica, no viene de un aprendizaje, ni mucho menos viene desde la especulación de unos datos, sino que justamente, es una instrucción que se recibe directamente en un [[ENTRADAS/CONCEPTOS/área muda\|área muda]], [[TRANSCRIPCIONES/ACER/Ale en Red 093#^knxev8\|Ale en Red 093#^knxev8]]
 
 No tiene nada que ver con “Yo estudié mucho, me lo aprendí, y se lo estoy repitiendo a _la maestra”_ ¡Ahí no hay no hay [[ENTRADAS/CONCEPTOS/escalabilidad\|escalabilidad]]! Porque no está participando el área de [[ENTRADAS/CONCEPTOS/Wernicke\|Wernicke]]. Solamente va a haber escalabilidad cuando participa Wernicke que es nuestra área muda, y se fractaliza en el área de [[ENTRADAS/CONCEPTOS/Broca\|Broca]]. [[TRANSCRIPCIONES/ACER/Ale en Red 093#^x7ga0s\|Ale en Red 093#^x7ga0s]]
+
+
+**Ale en Red 117**
+
+Estoy extrayendo las cuestiones de la [[ENTRADAS/CONCEPTOS/zona muda\|zona muda]] de manera directa. [[TRANSCRIPCIONES/ACER/Ale en Red 117#^xm68ca\|Ale en Red 117#^xm68ca]]
+
+Entonces, como me baso en zona muda, lo que traigo de ahí **siempre** es una **[[ENTRADAS/CONCEPTOS/actualización\|actualización]];** [[TRANSCRIPCIONES/ACER/Ale en Red 117#^pji9j5\|Ale en Red 117#^pji9j5]]
 
 
 **Ale en Red 151**

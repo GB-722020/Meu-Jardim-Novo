@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/entorno/","created":"2026-01-21T17:30:11.512-03:00","updated":"2026-03-18T11:24:30.607-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/entorno/","created":"2026-01-21T17:30:11.512-03:00","updated":"2026-04-17T16:47:34.761-03:00"}
 ---
 
 
@@ -28,6 +28,7 @@ cosas que tienen que ver con nosotros mismos, con nuestro [[ENTRADAS/CONCEPTOS/e
 
 **Cuando digo** **_vivos,_** **es adentro de un ciclo de vida, que el entorno lee y ejecuta, y yo lo llamo “mi [[ENTRADAS/CONCEPTOS/vida\|vida]]”.** Todo eso es una mecánica que desde la perspectiva del contenido- con _licencia de ignorancia-_ tiene una relación poética con el [[ENTRADAS/CONCEPTOS/entorno\|entorno]], entonces lógicamente no lo lee. [[TRANSCRIPCIONES/ACER/Ale en Red 117#^9w33ji\|Ale en Red 117#^9w33ji]]
 
+Esto es: **¡el [[ENTRADAS/CONCEPTOS/entorno\|entorno]] está primero y la experiencia gravitatoria está después!** ¡No me puedo lanzar así [hace el gesto de ponerse anteojeras] a la experiencia gravitatoria ¡porque después no salgo más! Cuando digo no salgo más, ¡es que **no salgo más!** [[TRANSCRIPCIONES/ACER/Ale en Red 117#^4jm9uw\|Ale en Red 117#^4jm9uw]]
 
 
 ---

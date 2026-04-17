@@ -1,6 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/on/","created":"2026-01-30T11:24:58.308-03:00","updated":"2026-02-06T17:25:33.495-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/on/","created":"2026-01-30T11:24:58.308-03:00","updated":"2026-04-09T10:13:03.129-03:00"}
 ---
+
+
+
+**Ale en Red 117**
+
+ON, justamente es la activación de la [[ENTRADAS/CONCEPTOS/antena\|antena]]. [[TRANSCRIPCIONES/ACER/Ale en Red 117#^lgdawq\|Ale en Red 117#^lgdawq]]
+
 
 
 **Ale en Red 131**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/hidrogeno/","created":"2026-01-21T14:46:34.543-03:00","updated":"2026-03-02T12:11:07.197-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/hidrogeno/","created":"2026-01-21T14:46:34.543-03:00","updated":"2026-04-17T09:40:49.827-03:00"}
 ---
 
 
@@ -15,6 +15,11 @@
 4. pero de ese equilibrio del [[ENTRADAS/CONCEPTOS/hidrógeno\|hidrógeno]] y del [[ENTRADAS/CONCEPTOS/helio\|helio]] depende la vida de cualquier Estrella. [[TRANSCRIPCIONES/ACER/Ale en Red 106#^m99z4s\|Ale en Red 106#^m99z4s]]
 
 5. ¿Cómo podríamos llamar a los **Hidrógenos** “místicamente”? “Almas puras del Universo”, porque no han entrado en ningún paquete gravitatorio. [[TRANSCRIPCIONES/ACER/Ale en Red 106#^pquopd\|Ale en Red 106#^pquopd]]
+
+
+**Ale en Red 117**
+
+Pero el _[[ENTRADAS/CONCEPTOS/desdoblamiento primario\|Desdoblamiento Primario]]_ no es evolutivo - no tiene requisito evolutivo- por esa razón, el [[ENTRADAS/CONCEPTOS/hidrógeno\|Hidrógeno]] es el material más abundante del universo, porque no tiene requisito evolutivo → “yo igual a yo, igual a perfecto”, es el paraíso de cualquiera de nosotros, donde todo lo que imaginemos, es. [[TRANSCRIPCIONES/ACER/Ale en Red 117#^lew7ig\|Ale en Red 117#^lew7ig]]
 
 
 

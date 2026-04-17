@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/desdoblamiento-primario/","created":"2026-01-22T12:24:59.197-03:00","updated":"2026-02-21T10:50:18.983-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/desdoblamiento-primario/","created":"2026-01-22T12:24:59.197-03:00","updated":"2026-04-17T09:53:39.620-03:00"}
 ---
 
 
@@ -13,6 +13,10 @@
 
 4. Todo y Nada nos va a dar amparo como Desdoblamiento Primario para tener las herramientas para hacer nuestro constructo de nuestro _[[ENTRADAS/CONCEPTOS/desdoblamiento secundario\|desdoblamiento secundario]],_ pero no es que nos va a sacar las papas del fuego, [[TRANSCRIPCIONES/ACER/Ale en Red 106#^96p9sa\|Ale en Red 106#^96p9sa]]
 
+
+**Ale en Red 117**
+
+En el ámbito del _Desdoblamiento Primario_ no existe algo como el _pasado_ o algo como el _futuro,_ solamente existe un espacio que tiene la cualidad que yo invoque en mi capacidad de imaginar ¡y se acabó! [[TRANSCRIPCIONES/ACER/Ale en Red 117#^q0wgcj\|Ale en Red 117#^q0wgcj]]
 
 
 ---

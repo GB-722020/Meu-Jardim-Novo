@@ -1,6 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/agenda/","created":"2026-01-22T12:13:12.287-03:00","updated":"2026-02-21T10:50:18.938-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/agenda/","created":"2026-01-22T12:13:12.287-03:00","updated":"2026-04-17T09:26:52.952-03:00"}
 ---
+
+
+
+
+**Ale en Red 117**
+
+Si a nosotros se nos acorta nuestra [[ENTRADAS/CONCEPTOS/agenda\|agenda]] -porque obviamente, por nuestra ignorancia estamos totalmente identificados emocionalmente con nuestro tiempo- por lo tanto, no podemos leer al espacio, ni en su pasado ni en su futuro, que no sea con [[ENTRADAS/CONCEPTOS/carga\|carga]]... [[TRANSCRIPCIONES/ACER/Ale en Red 117#^jqnkm7\|Ale en Red 117#^jqnkm7]]
 
 
 **Ale en Red 131**

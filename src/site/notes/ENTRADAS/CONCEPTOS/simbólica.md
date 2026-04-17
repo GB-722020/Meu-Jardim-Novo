@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/entradas/conceptos/simbolico/","created":"2026-01-26T16:24:20.689-03:00","updated":"2026-04-17T16:44:21.634-03:00"}
+{"dg-publish":true,"permalink":"/entradas/conceptos/simbolica/","created":"2026-04-17T16:43:07.330-03:00","updated":"2026-04-17T16:44:46.987-03:00"}
 ---
 
-==ver también [[ENTRADAS/CONCEPTOS/simbólica\|simbólica]]==
+==ver también [[ENTRADAS/CONCEPTOS/simbólico\|simbólico]]==
+
 
 **Ale en Red 87**
 
@@ -16,6 +17,7 @@
 **Ale en Red 117**
 
 Cuando nosotros nos vamos a hacer cargo de la estructura espacio- temporal - porque estamos madurando espacio temporalmente- no podemos seguir con la cuestión de lo [[ENTRADAS/CONCEPTOS/simbólico\|simbólico]]; lo simbólico es para cuando yo me invoco a mí como [[ENTRADAS/CONCEPTOS/contenido\|contenido]] y tengo una licencia de pelotudeo eterno acerca de lo que me parece de las cosas. [[TRANSCRIPCIONES/ACER/Ale en Red 117#^71c9yn\|Ale en Red 117#^71c9yn]]
+
 
 
 ---
