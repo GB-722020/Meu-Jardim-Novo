@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-117/","created":"2026-03-14T18:22:58.279-03:00","updated":"2026-04-17T17:09:06.413-03:00"}
+{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-117/","created":"2026-03-14T18:22:58.279-03:00","updated":"2026-04-18T17:37:05.744-03:00"}
 ---
 
 
@@ -650,7 +650,7 @@ _Bueno Ale, gracias por todo lo brindado en esta emisión. Nuestra próxima Vuel
 
 **ALEJANDRA** : 11 / 5 , en su trabajo **funcional** para el 11/ 7 y 11/ 8.
 
-**_LETICIA_** _: ¡Sí! ¡me encantó eso! Bien, muy bien. Ok, muchas gracias a ustedes y nos vemos pronto... y a ver y a rever esta emisión ¡por favor! no se pierdan de nada... no pasa nada, lo que vayan comprendiendo, pero si la ven una segunda o incluso una tercera vez se acomodan más cosas. Así que gracias por estar pendientes y pongamos atención al llamado que se hizo este día. Gracias._
+**_LETICIA_** _: ¡Sí! ¡me encantó eso! Bien, muy bien. Ok, muchas gracias a ustedes y nos vemos pronto... y a ver y a rever esta emisión ¡por favor! no se pierdan de nada... no pasa nada, lo que vayan comprendiendo, pero si la ven una segunda o incluso una tercera vez se acomodan más cosas. Así que gracias por estar pendientes y pongamos atención al llamado que se hizo este día. Gracias.
 
 
 
