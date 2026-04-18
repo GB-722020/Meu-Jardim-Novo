@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-117/","created":"2026-03-14T18:22:58.279-03:00","updated":"2026-04-18T17:37:05.744-03:00"}
+{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-117/","created":"2026-03-14T18:22:58.279-03:00","updated":"2026-04-18T18:18:58.266-03:00"}
 ---
 
 
@@ -484,7 +484,7 @@ En este caso, estamos invocando en un año DECIDE, porque esta posición, no ser
 
 Entonces voy a recordar esta relación entre el **[[ENTRADAS/CONCEPTOS/oganesón\|Oganesón]]** y el **[[ENTRADAS/CONCEPTOS/toganesón\|Toganesón]]** y lo que va a articular la antena del intérprete gravitatorio.
 
-Y ahora viene algo maravilloso, porque lo que voy a poner en escena es... Vos sabes que este “Ale EN RED” es el 117; el elemento 117 y el elemento 118 de nuestra tabla, son mérito de la misma persona, que es [[ENTRADAS/ANTENAS/Yuri Oganesián\|Yuri Oganesián]] - es un señor ruso-.
+Y ahora viene algo maravilloso, porque lo que voy a poner en escena es... Vos sabes que este “Ale EN RED” es el 117; el elemento 117 y el elemento 118 de nuestra tabla, son mérito de la misma persona, que es [[ENTRADAS/ANTENAS/Yuri Oganesian\|Yuri Oganesian]] - es un señor ruso-.
 
 Y justamente anoche, durante la cena veo que se prende la señal que transmite el partido de la Copa América y justamente veía: “Colombia 1 - Uruguay 0”. Y yo dije “¡Ahh bueno! ¡ya en- tendí!” → 57 - 54 va a ser la final de la Copa América. Lo que estoy hablando ahora en el futbol, es una fractalización de este fenómeno. Porque va a haber una rotunda actualización en el 57 ¡Por favor! [7 0 5754]
 
