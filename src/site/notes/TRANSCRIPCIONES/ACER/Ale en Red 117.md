@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-117/","created":"2026-03-14T18:22:58.279-03:00","updated":"2026-04-18T18:18:58.266-03:00"}
+{"dg-publish":true,"permalink":"/transcripciones/acer/ale-en-red-117/","created":"2026-03-14T18:22:58.279-03:00","updated":"2026-04-18T18:28:11.621-03:00"}
 ---
 
 
@@ -81,9 +81,8 @@ Entonces, lógicamente hay un montón de viajeros completamente confundidos, mar
 Pero bueno, comprendamos que este es otro nivel de la conciencia espacio temporal y que no está en el foco de la gente en general que se larga a las aventuras. Y les digo “¡aléjense los portales!” pero como ahí veo que hay un montón de gente que no tienen ninguna gana de alejarse! Y va a empezar a haber un desastre o van a empezar a desaparecer gente y aparecer gente a “troche y moche”^1. Entonces, ¡esto es muy enloquecedor! Por eso tengo que dejar un [[ENTRADAS/CONCEPTOS/punto de encuentro\|punto de encuentro]]
 
 
-```
 Este punto de encuentro es el 17 de mayo de 1865. Argumentativamente, es porque es 500 años arriba del año 1365 - donde tendríamos para poder construir un código solar, para cada día del año y luego poder administrarlo -. [17/5/1365- 17/5/1865]
-```{ #v6e6da}
+{ #v6e6da}
 
 
 Esto, estoy hablando en función de algo, _Universo Expresado Civilizado,_ o sea, **desde el** **_Hidrógeno_** **hasta el** **_Oganesón_** **no pierdo el registro de los marcos**.
